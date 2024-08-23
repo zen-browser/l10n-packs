@@ -1,2 +1,2 @@
 zen-panel-ui-current-profile-text = current profile
-unified-extensions-description = Extensions are used to bring more extra functionality into { -brand-short-name }.
+unified-extensions-description = Las extensiones se utilizan para incorporar más funcionalidad adicional a { -brand-short-name }.
