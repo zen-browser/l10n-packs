@@ -1,27 +1,27 @@
 
-zen-panel-ui-current-window-text = Current Window
+zen-panel-ui-current-window-text = Aktuelles Fenster
 
-zen-panel-ui-workspaces-text = Other Workspaces
+zen-panel-ui-workspaces-text = Weitere Arbeitsbereiche
 
-zen-panel-ui-workspaces-create-text = Create Workspace
+zen-panel-ui-workspaces-create-text = Arbeitsbereich erstellen
 
 zen-panel-ui-workspaces-create-save =
-  .label = Create Workspace
+  .label = Arbeitsbereich erstellen
   .accesskey = S
 zen-panel-ui-workspaces-create-cancel =
-  .label = Cancel
+  .label = Abbrechen
   .accesskey = C
 
 zen-workspaces-panel-context-delete = 
-    .label = Delete Workspace
+    .label = Arbeitsbereich löschen
     .accesskey = D
 
 zen-workspaces-panel-context-open = 
-    .label = Open Workspace
+    .label = Arbeitsbereich öffnen
     .accesskey = O
 
 zen-workspaces-panel-context-set-default =
-    .label = Set As Default Workspace
+    .label = Als Standard-Arbeitsbereich einstellen
     .accesskey = S
 
 context-zen-change-workspace-tab = 

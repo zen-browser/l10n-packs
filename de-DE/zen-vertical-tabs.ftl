@@ -6,5 +6,5 @@ zen-toolbar-context-tabs-right =
 sidebar-zen-sidepanel =
   .label = Side Panels
 sidebar-zen-expand =
-  .label = Expand Sidebar
+  .label = Seitenleiste ausklappen
   
