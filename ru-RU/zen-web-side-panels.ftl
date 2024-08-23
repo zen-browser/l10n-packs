@@ -1,31 +1,31 @@
 zen-web-side-panel-context-mute-panel =
-    .label = Mute Web Panel
+    .label = Отключить веб-панель
     .accesskey = M
 zen-web-side-panel-context-unmute-panel =
-    .label = Unmute Web Panel
+    .label = Отключить звук веб-панели
     .accesskey = m
 
 zen-web-side-panel-context-disable-ua =
-    .label = Disable Mobile UserAgent
+    .label = Отключить Mobile UserAgent
     .accesskey = U
 zen-web-side-panel-context-enable-ua =
-    .label = Enable Mobile UserAgent
+    .label = Включить Mobile UserAgent
     .accesskey = M
 
 zen-web-side-panel-context-unload =
-    .label = Unload Web Panel
+    .label = Выгрузить веб-панель
     .accesskey = W
 zen-web-side-panel-context-delete =
-    .label = Delete Web Panel
+    .label = Удаление веб-панели
     .accesskey = D
 zen-web-side-panel-open-in-new-tab =
-    .label = Open in New Tab
+    .label = Открыть в новой вкладке
     .accesskey = N
 
 
 zen-web-side-panel-context-add-to-panel =
-    .label = Add to Web Panels
+    .label = Добавить к веб-панелям
     .accesskey = A
 
-zen-sidebar-introduction-title = Welcome to Zen Sidebar
-zen-sidebar-introduction-description = Zen Sidebar is a new way to browse the web. Click on any of the icons to open a web panel.
+zen-sidebar-introduction-title = Добро пожаловать в боковую панель Zen 
+zen-sidebar-introduction-description = Боковая панель Zen - это новый способ просмотра веб-страниц. Нажмите на любую иконку, чтобы открыть веб-панель.
