@@ -1,29 +1,29 @@
 
-zen-panel-ui-current-window-text = Current Window
+zen-panel-ui-current-window-text = Текущее окно
 
-zen-panel-ui-workspaces-text = Other Workspaces
+zen-panel-ui-workspaces-text = Другие рабочие области
 
-zen-panel-ui-workspaces-create-text = Create Workspace
+zen-panel-ui-workspaces-create-text = Создать рабочую область
 
-zen-panel-ui-workspaces-create-save =
-  .label = Create Workspace
+zen-panel-ui-workspaces-create-save=
+  .label = Создать рабочую область
   .accesskey = S
 zen-panel-ui-workspaces-create-cancel =
-  .label = Cancel
+  .label = Отменить
   .accesskey = C
 
-zen-workspaces-panel-context-delete = 
-    .label = Delete Workspace
+zen-workspaces-panel-context-delete =
+    .label = Удалить рабочую область
     .accesskey = D
 
-zen-workspaces-panel-context-open = 
-    .label = Open Workspace
+zen-workspaces-panel-context-open =
+    .label = Открыть рабочую область
     .accesskey = O
 
 zen-workspaces-panel-context-set-default =
-    .label = Set As Default Workspace
+    .label = Установить рабочую область по умолчанию
     .accesskey = S
 
-context-zen-change-workspace-tab = 
-    .label = Change Tab(s) To Workspace
+context-zen-change-workspace-tab =
+    .label = Изменить вкладку на рабочую область
     .accesskey = C
