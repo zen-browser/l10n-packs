@@ -1,7 +1,7 @@
 zen-toolbar-context-tabs-right = 
-    .label = Pestañas a la derecha
+    .label = Tabs on the right
     .accesskey = R
 sidebar-zen-sidepanel = 
-    .label = Paneles laterales
+    .label = Side Panels
 sidebar-zen-expand = 
-    .label = Expandir barra lateral
+    .label = Expand Sidebar
