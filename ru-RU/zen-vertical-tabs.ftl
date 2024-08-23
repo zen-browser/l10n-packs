@@ -1,10 +1,9 @@
 
 zen-toolbar-context-tabs-right =
-    .label = Tabs on the right
+    .label = Вкладки справа
     .accesskey = R
 
 sidebar-zen-sidepanel =
-  .label = Side Panels
+  .label = Боковые панели
 sidebar-zen-expand =
-  .label = Expand Sidebar
-  
+  .label = Развернуть боковую панель
