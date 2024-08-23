@@ -1,27 +1,27 @@
 files:
-  - source: en-US/zen-general.ftl
-    translation: zen-general.ftl
+  - source: en-US/browser/zen-general.ftl
+    translation: browser/zen-general.ftl
 
-  - source: en-US/zen-split-view.ftl
-    translation: zen-split-view.ftl
+  - source: en-US/browser/zen-split-view.ftl
+    translation: browser/zen-split-view.ftl
     
-  - source: en-US/zen-vertical-tabs.ftl
-    translation: zen-vertical-tabs.ftl
+  - source: en-US/browser/zen-vertical-tabs.ftl
+    translation: browser/zen-vertical-tabs.ftl
 
-  - source: en-US/zen-web-side-panels.ftl
-    translation: zen-web-side-panels.ftl
+  - source: en-US/browser/zen-web-side-panels.ftl
+    translation: browser/zen-web-side-panels.ftl
 
-  - source: en-US/zen-welcome.ftl
-    translation: zen-welcome.ftl
+  - source: en-US/browser/zen-welcome.ftl
+    translation: browser/zen-welcome.ftl
 
-  - source: en-US/zen-workspaces.ftl
-    translation: zen-workspaces.ftl
+  - source: en-US/browser/zen-workspaces.ftl
+    translation: browser/zen-workspaces.ftl
 
-  - source: en-US/zenAppExtensionFields.ftl
-    translation: zenAppExtensionFields.ftl
+  - source: en-US/browser/zenAppExtensionFields.ftl
+    translation: browser/zenAppExtensionFields.ftl
 
-  - source: en-US/zenNewWebPanel.ftl
-    translation: zenNewWebPanel.ftl
+  - source: en-US/browser/zenNewWebPanel.ftl
+    translation: browser/zenNewWebPanel.ftl
 
-  - source: en-US/preferences/zen-preferences.ftl
-    translation: preferences/zen-preferences.ftl
+  - source: en-US/browser/preferences/zen-preferences.ftl
+    translation: browser/preferences/zen-preferences.ftl
