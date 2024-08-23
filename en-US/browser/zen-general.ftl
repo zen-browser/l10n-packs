@@ -1,1 +1,4 @@
-/home/mauro/work/core/src/browser/locales/en-US/browser/zen-general.ftl
+
+zen-panel-ui-current-profile-text = current profile
+
+unified-extensions-description = Extensions are used to bring more extra functionality into { -brand-short-name }. 
