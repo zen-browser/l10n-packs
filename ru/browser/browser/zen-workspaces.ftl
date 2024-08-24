@@ -17,5 +17,5 @@ zen-workspaces-panel-context-set-default =
     .label = Установить рабочей областью по умолчанию
     .accesskey = S
 context-zen-change-workspace-tab = 
-    .label = Изменить вкладки на рабочую область
+    .label = Перенести вкладку(-ки) на рабочую область
     .accesskey = C
