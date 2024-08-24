@@ -1,7 +1,6 @@
 <img src="assets/logo.svg" height="200" align="left"/>
 
 ### `Zen l10n Packs`
-*Zen's source code for localization packs.*
 
 [![Crowdin](https://badges.crowdin.net/zen-browser/localized.svg)](https://crowdin.com/project/zen-browser)
 
