@@ -1,8 +1,8 @@
 tab-zen-split-tabs = 
     .label =
         { $tabCount ->
-            [1] Dela flik (flera valda flikar behövs)
-           *[other] Dela { $tabCount } flikar
+            [1] Split Tab (multiple selected tabs needed)
+           *[other] Split { $tabCount } Tabs
         }
     .accesskey = S
 zen-split-link = 
