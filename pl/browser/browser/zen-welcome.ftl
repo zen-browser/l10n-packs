@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Welcome to { -brand-short-name }
-welcome-dialog-welcome-subtext = Fast. Beautiful. Private.
-welcome-dialog-get-started = Get started
-welcome-dialog-import = 😍 Bring your favourites to { -brand-short-name }
-welcome-dialog-import-subtext = Pick up where you left off in your last browser
-welcome-dialog-import-action = Import your data
-welcome-dialog-theme = Make yourself at home
-welcome-dialog-theme-subtext = Personalize your experience with your favorite look!
-welcome-dialog-theme-header-1 = Choose your perfect color
-welcome-dialog-theme-header-2 = Choose your theme
-welcome-dialog-search = 🔍 Choose a search engine
-welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
-welcome-dialog-thanks = Thank You So Much! ❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
-welcome-dialog-next-action = Next
+welcome-dialog-welcome = 👋 Witamy do { -brand-short-name }
+welcome-dialog-welcome-subtext = Szybki. Piękny. Prywatny.
+welcome-dialog-get-started = Rozpocznij
+welcome-dialog-import = 😍Przenieś swoje ulubione do { -brand-short-name }
+welcome-dialog-import-subtext = Kontynuuj tam, gdzie skończyłeś w swojej ostatniej przeglądarce
+welcome-dialog-import-action = Importuj dane
+welcome-dialog-theme = Czuj się jak w domu
+welcome-dialog-theme-subtext = Spersonalizuj Zen z twoim ulubionym wyglądem!
+welcome-dialog-theme-header-1 = Wybierz swój ulubiony kolor
+welcome-dialog-theme-header-2 = Wybierz swój motyw
+welcome-dialog-search = 🔍 Wybierz wyszukiwarkę
+welcome-dialog-search-subtext = Wybierz preferowaną wyszukiwarkę, aby dostosować swoje wrażenie przeglądania!
+welcome-dialog-thanks = Dziękujemy Bardzo ❤️
+welcome-dialog-thanks-subtext = Twoje uznanie oznacza dla nas świat!
+welcome-dialog-back-action = Wróć
+welcome-dialog-next-action = Dalej
