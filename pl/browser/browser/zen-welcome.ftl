@@ -15,6 +15,6 @@ welcome-dialog-theme-header-2 = Wybierz swój motyw
 welcome-dialog-search = 🔍 Wybierz wyszukiwarkę
 welcome-dialog-search-subtext = Wybierz preferowaną wyszukiwarkę, aby dostosować swoje wrażenie przeglądania!
 welcome-dialog-thanks = Dziękujemy Bardzo ❤️
-welcome-dialog-thanks-subtext = Twoje uznanie oznacza dla nas świat!
+welcome-dialog-thanks-subtext = Twoje uznanie oznacza dla nas Bardzo dużo!
 welcome-dialog-back-action = Wróć
 welcome-dialog-next-action = Dalej
