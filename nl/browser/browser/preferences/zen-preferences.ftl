@@ -1,82 +1,61 @@
-
 pane-zen-looks-title = Look and Feel
-category-zen-looks =
+category-zen-looks = 
     .tooltiptext = { pane-zen-looks-title }
-
 zen-warning-language = Changing the default language could make it easier for Websites to track you.
-
 zen-look-and-feel-colors-header = Pick a theme colour
 zen-look-and-feel-colors-description = Make { -brand-short-name } look and feel the way you like
 zen-look-and-feel-themed-toolbar = 
     .label = Make the toolbar themed with the accent color
-
 pane-zen-side-panels-title = Side Web Panels
 zen-side-panels-header = General settings for web panels
 zen-side-panels-description = Increase productivity by having multiple views at once!
 zen-side-panels-enabled = 
     .label = Enable Web Side Panels
-
 zen-side-panels-close-on-blur = 
     .label = Close the panel when it loses focus if it's not pinned
-
 zen-look-and-feel-compact-view-header = Show in compact view
 zen-look-and-feel-compact-view-description = Only show the toolbars you use!
 zen-look-and-feel-compact-view-enabled = 
     .label = Enable { -brand-short-name }'s compact mode
-
 zen-look-and-feel-compact-view-top-toolbar = 
     .label = Hide the top toolbar as well in compact mode
-
 zen-look-and-feel-buttons-header = Button style
 zen-look-and-feel-buttons-description = Choose the style of buttons you want to see
-
 zen-look-and-feel-pilled-buttons = 
     .label = Pilled Buttons
-
 pane-zen-workspaces-title = Workspaces
-category-zen-workspaces =
+category-zen-workspaces = 
     .tooltiptext = { pane-workspaces-title }
 pane-settings-workspaces-title = Workspaces
-
 pane-zen-workspaces-header = Workspaces
 zen-settings-workspaces-header = General settings for workspaces
 zen-settings-workspaces-description = With workspaces, you can have multiple browsing sessions at once!
 zen-settings-workspaces-enabled = 
     .label = Enable Workspaces (Experimental)
-
 pane-zen-theme-title = Theme Settings
-
 zen-vertical-tabs-title = Sidebar and tabs layout
 zen-vertical-tabs-header = Vertical Tabs
 zen-vertical-tabs-description = Manage your tabs in a vertical layout
 zen-vertical-tabs-show-expand-button = 
     .label = Show Expand Button
-
 zen-vertical-tabs-expand-tabs-by-default = Expand Tabs by Default
 zen-vertical-tabs-dont-expand-tabs-by-default = Don't Expand Tabs by Default
 zen-vertical-tabs-expand-tabs-on-hover = Expand Tabs on Hover (Wont work on compact mode)
-
 zen-vertical-tabs-expand-tabs-header = How to expand tabs
 zen-vertical-tabs-expand-tabs-description = Choose how to expand tabs in the sidebar
-
 zen-theme-marketplace-header = Theme Store
 zen-theme-marketplace-description = Find and install themes from the store.
 zen-theme-marketplace-remove-button = 
     .label = Remove Theme
-
 zen-theme-marketplace-link = Visit Store
-
 pane-zen-CKS-title = Keyboard Shortcuts
-category-zen-CKS =
+category-zen-CKS = 
     .tooltiptext = { pane-zen-CKS-title }
 pane-settings-CKS-title = { -brand-short-name } Keyboard Shortcuts
-
 zen-settings-CKS-header = Customize your keyboard shortcuts
 zen-settings-CKS-description = Change the default keyboard shortcuts to your liking and improve your browsing experience
-
 zen-settings-CKS-disable-firefox = 
     .label = Disable { -brand-short-name }'s default keyboard shortcuts
-
 zen-cks-group-tab-action = Tab Actions
 zen-cks-group-page-action = Page Actions
 zen-cks-group-visible-action = Visible Actions
@@ -90,7 +69,6 @@ zen-cks-group-sidebar-action = Sidebar Actions
 zen-cks-group-compact-mode-action = Compact Mode Actions
 zen-cks-group-split-view-action = Split View Actions
 zen-cks-group-workspace-action = Workspace Actions
-
 open-new-tab = Open New Tab
 close-tab = Close Tab
 open-new-window = Open New Window
