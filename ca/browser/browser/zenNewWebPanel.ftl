@@ -1,6 +1,6 @@
 zen-new-web-panel-url = 
-    .value = Ursprüngliche URL
+    .value = Initial URL
     .accesskey = I
 zen-new-web-panel-user-agent = 
-    .value = Zeige dieses Web Panel im mobilen Modus
+    .value = Display this web panel in mobile mode
     .accesskey = m
