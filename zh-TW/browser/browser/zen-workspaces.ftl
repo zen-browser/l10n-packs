@@ -17,5 +17,5 @@ zen-workspaces-panel-context-set-default =
     .label = 設置為預設工作空間
     .accesskey = S
 context-zen-change-workspace-tab = 
-    .label = Change Tab(s) To Workspace
+    .label = 將分頁轉成工作空間
     .accesskey = C
