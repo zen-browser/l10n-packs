@@ -65,6 +65,7 @@ zen-theme-marketplace-remove-button =
     .label = Remove Theme
 zen-theme-marketplace-check-for-updates-button = 
     .label = Check for Updates
+pane-zen-marketplace-title = Theme Store
 
 zen-theme-marketplace-link = Visit Store
 
