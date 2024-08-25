@@ -49,6 +49,7 @@ zen-theme-marketplace-remove-button =
     .label = Remover tema
 zen-theme-marketplace-check-for-updates-button = 
     .label = Check for Updates
+pane-zen-marketplace-title = Theme Store
 zen-theme-marketplace-link = Visitar Loja
 pane-zen-CKS-title = Atalhos do teclado
 category-zen-CKS = 
