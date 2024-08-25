@@ -1,8 +1,8 @@
 zen-panel-ui-current-window-text = Bieżące Okno
-zen-panel-ui-workspaces-text = Inne Projekty
-zen-panel-ui-workspaces-create-text = Strwóż Projekt
+zen-panel-ui-workspaces-text = Inne przestrzenie robocze
+zen-panel-ui-workspaces-create-text = Stwórz przestrzeń roboczą
 zen-panel-ui-workspaces-create-save = 
-    .label = Strwóż Projekt
+    .label = Stwórz przestrzeń roboczą
     .accesskey = S
 zen-panel-ui-workspaces-create-cancel = 
     .label = Anuluj
