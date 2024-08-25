@@ -51,6 +51,7 @@ zen-theme-marketplace-remove-button =
     .label = Xóa chủ đề
 zen-theme-marketplace-check-for-updates-button = 
     .label = Check for Updates
+pane-zen-marketplace-title = Theme Store
 zen-theme-marketplace-link = Vào cửa hàng
 pane-zen-CKS-title = Phím tắt
 category-zen-CKS = 
