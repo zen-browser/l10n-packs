@@ -12,6 +12,14 @@ zen-panel-ui-workspaces-create-cancel =
   .label = Cancel
   .accesskey = C
 
+zen-panel-ui-workspaces-edit-text = Edit Workspace
+zen-panel-ui-workspaces-edit-save =
+  .label = Save Changes
+  .accesskey = S
+zen-panel-ui-workspaces-edit-cancel =
+  .label = Cancel
+  .accesskey = C
+
 zen-workspaces-panel-context-delete = 
     .label = Delete Workspace
     .accesskey = D
@@ -23,6 +31,10 @@ zen-workspaces-panel-context-open =
 zen-workspaces-panel-context-set-default =
     .label = Set As Default Workspace
     .accesskey = S
+
+zen-workspaces-panel-context-edit =
+    .label = Edit Workspace
+    .accesskey = E
 
 context-zen-change-workspace-tab = 
     .label = Change Tab(s) To Workspace
