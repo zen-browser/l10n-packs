@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Welcome to { -brand-short-name }
-welcome-dialog-welcome-subtext = Fast. Beautiful. Private.
-welcome-dialog-get-started = Get started
-welcome-dialog-import = 😍 Bring your favourites to { -brand-short-name }
-welcome-dialog-import-subtext = Pick up where you left off in your last browser
-welcome-dialog-import-action = Import your data
-welcome-dialog-theme = Make yourself at home
-welcome-dialog-theme-subtext = Personalize your experience with your favorite look!
-welcome-dialog-theme-header-1 = Choose your perfect color
-welcome-dialog-theme-header-2 = Choose your theme
-welcome-dialog-search = 🔍 Choose a search engine
-welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
-welcome-dialog-thanks = Thank You So Much! ❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
-welcome-dialog-next-action = Next
+welcome-dialog-welcome = 👋 Chào mừng đến với { -brand-short-name }
+welcome-dialog-welcome-subtext = Nhanh. Đẹp. Bảo mật.
+welcome-dialog-get-started = Bắt đầu
+welcome-dialog-import = 😍 Đem các mục yêu thích của bạn đến { -brand-short-name }
+welcome-dialog-import-subtext = Tiếp tục lúc bạn dừng lại trong trình duyệt trước
+welcome-dialog-import-action = Nhập dữ liệu của bạn
+welcome-dialog-theme = Đừng khách sáo
+welcome-dialog-theme-subtext = Cá nhân hóa trải nghiệm với giao diện ưa thích!
+welcome-dialog-theme-header-1 = Hãy chọn màu ưa thích
+welcome-dialog-theme-header-2 = Hãy chọn chủ đề
+welcome-dialog-search = 🔍 Chọn công cụ tìm kiếm
+welcome-dialog-search-subtext = Chọn công cụ tìm kiếm ưu thích để điều chỉnh trải nghiệm duyệt web của bạn!
+welcome-dialog-thanks = Cảm ơn bạn rất nhiều! ❤️
+welcome-dialog-thanks-subtext = Sự trân trọng của bạn có ý nghĩa rất lớn với chúng tôi!
+welcome-dialog-back-action = Quay lại
+welcome-dialog-next-action = Tiếp theo

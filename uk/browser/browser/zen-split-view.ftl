@@ -1,10 +1,10 @@
 tab-zen-split-tabs = 
     .label =
-        { $tabCount ->
-            [1] Split Tab (multiple selected tabs needed)
-           *[other] Split { $tabCount } Tabs
+        {$tabCount ->
+            [1] Розділити вкладку (потрібно кілька виділених вкладок)
+           *[other] Розділити {$tabCount} Вкладки
         }
     .accesskey = S
 zen-split-link = 
-    .label = Split link to new tab
+    .label = Розділити посилання на нову вкладку
     .accesskey = S
