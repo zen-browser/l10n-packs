@@ -17,5 +17,5 @@ zen-workspaces-panel-context-set-default =
     .label = 设为默认工作区
     .accesskey = S
 context-zen-change-workspace-tab = 
-    .label = 将标签页(们)切换至工作区
+    .label = 将标签页切换至工作区
     .accesskey = C
