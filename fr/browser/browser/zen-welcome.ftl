@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Welcome to { -brand-short-name }
-welcome-dialog-welcome-subtext = Fast. Beautiful. Private.
-welcome-dialog-get-started = Get started
-welcome-dialog-import = 😍 Bring your favourites to { -brand-short-name }
-welcome-dialog-import-subtext = Pick up where you left off in your last browser
-welcome-dialog-import-action = Import your data
-welcome-dialog-theme = Make yourself at home
-welcome-dialog-theme-subtext = Personalize your experience with your favorite look!
-welcome-dialog-theme-header-1 = Choose your perfect color
-welcome-dialog-theme-header-2 = Choose your theme
-welcome-dialog-search = 🔍 Choose a search engine
-welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
-welcome-dialog-thanks = Thank You So Much! ❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
-welcome-dialog-next-action = Next
+welcome-dialog-welcome = 👋 Bienvenue sur { -brand-short-name }
+welcome-dialog-welcome-subtext = Rapide. Magnifique. Privé.
+welcome-dialog-get-started = Commencez
+welcome-dialog-import = 😍 Importez vos favoris sur { -brand-short-name }
+welcome-dialog-import-subtext = Reprendre où vous vous êtes arrêté dans votre dernier navigateur
+welcome-dialog-import-action = Importer vos données
+welcome-dialog-theme = Faites comme chez vous
+welcome-dialog-theme-subtext = Personnalisez votre expérience avec votre style favori !
+welcome-dialog-theme-header-1 = Choisissez votre couleur parfaite
+welcome-dialog-theme-header-2 = Choisissez votre thème
+welcome-dialog-search = 🔍 Choisissez un moteur de recherche
+welcome-dialog-search-subtext = Sélectionnez votre moteur de recherche préféré pour personnaliser votre expérience de navigation !
+welcome-dialog-thanks = Merci beaucoup ! ❤️
+welcome-dialog-thanks-subtext = Votre appréciation signifie le monde pour nous !
+welcome-dialog-back-action = Revenir en arrière
+welcome-dialog-next-action = Suivant

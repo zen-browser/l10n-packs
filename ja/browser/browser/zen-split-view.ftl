@@ -1,10 +1,10 @@
 tab-zen-split-tabs = 
     .label =
         { $tabCount ->
-            [1] Split Tab (multiple selected tabs needed)
-           *[other] Split { $tabCount } Tabs
+            [1] タブを分割(二個以上のタブを選択してください)
+           *[other] 選択したタブを{ $tabCount } 個に分割
         }
     .accesskey = S
 zen-split-link = 
-    .label = Split link to new tab
+    .label = リンクを新しいタブに分割
     .accesskey = S

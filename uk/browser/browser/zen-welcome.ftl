@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Welcome to { -brand-short-name }
-welcome-dialog-welcome-subtext = Fast. Beautiful. Private.
-welcome-dialog-get-started = Get started
-welcome-dialog-import = 😍 Bring your favourites to { -brand-short-name }
-welcome-dialog-import-subtext = Pick up where you left off in your last browser
-welcome-dialog-import-action = Import your data
-welcome-dialog-theme = Make yourself at home
-welcome-dialog-theme-subtext = Personalize your experience with your favorite look!
-welcome-dialog-theme-header-1 = Choose your perfect color
-welcome-dialog-theme-header-2 = Choose your theme
-welcome-dialog-search = 🔍 Choose a search engine
-welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
-welcome-dialog-thanks = Thank You So Much! ❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
-welcome-dialog-next-action = Next
+welcome-dialog-welcome = 👋 Ласкаво просимо до { -brand-short-name }
+welcome-dialog-welcome-subtext = Швидко. Красиво. Приватно.
+welcome-dialog-get-started = Розпочнемо
+welcome-dialog-import = Додайте закладки на { -brand-short-name }
+welcome-dialog-import-subtext = Продовжуйте з того місця, де ви зупинилися в попередньому браузері
+welcome-dialog-import-action = Імпортувати дані
+welcome-dialog-theme = Почувайтесь як вдома
+welcome-dialog-theme-subtext = Персоналізуйте свій досвід за допомогою улюбленого образу!
+welcome-dialog-theme-header-1 = Оберіть свій ідеальний колір
+welcome-dialog-theme-header-2 = Оберіть тему
+welcome-dialog-search = 🔍Виберіть пошукову систему
+welcome-dialog-search-subtext = Виберіть пошукову систему, яка вам більше до вподоби!
+welcome-dialog-thanks = Щиро дякуємо! ❤️
+welcome-dialog-thanks-subtext = Ваша вдячність дуже важлива для нас!
+welcome-dialog-back-action = Назад
+welcome-dialog-next-action = Далі
