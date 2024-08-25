@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Witamy do { -brand-short-name }
+welcome-dialog-welcome = 👋 Witamy w { -brand-short-name }
 welcome-dialog-welcome-subtext = Szybki. Piękny. Prywatny.
 welcome-dialog-get-started = Rozpocznij
 welcome-dialog-import = 😍Przenieś swoje ulubione do { -brand-short-name }
@@ -14,7 +14,7 @@ welcome-dialog-theme-header-1 = Wybierz swój ulubiony kolor
 welcome-dialog-theme-header-2 = Wybierz swój motyw
 welcome-dialog-search = 🔍 Wybierz wyszukiwarkę
 welcome-dialog-search-subtext = Wybierz preferowaną wyszukiwarkę, aby dostosować swoje wrażenie przeglądania!
-welcome-dialog-thanks = Dziękujemy Bardzo ❤️
-welcome-dialog-thanks-subtext = Twoje uznanie oznacza dla nas Bardzo dużo!
+welcome-dialog-thanks = Dziękujemy bardzo ❤️
+welcome-dialog-thanks-subtext = Twoje uznanie oznacza dla nas bardzo dużo!
 welcome-dialog-back-action = Wróć
 welcome-dialog-next-action = Dalej
