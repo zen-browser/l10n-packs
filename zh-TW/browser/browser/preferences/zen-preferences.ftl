@@ -49,6 +49,7 @@ zen-theme-marketplace-remove-button =
     .label = 移除主題
 zen-theme-marketplace-check-for-updates-button = 
     .label = Check for Updates
+pane-zen-marketplace-title = 主題商店
 zen-theme-marketplace-link = 訪問商店
 pane-zen-CKS-title = 快捷鍵
 category-zen-CKS = 

@@ -49,6 +49,7 @@ zen-theme-marketplace-remove-button =
     .label = Temayı Kaldır
 zen-theme-marketplace-check-for-updates-button = 
     .label = Check for Updates
+pane-zen-marketplace-title = Theme Store
 zen-theme-marketplace-link = Mağazayı Ziyaret Et
 pane-zen-CKS-title = Klavye Kısayolları
 category-zen-CKS = 
