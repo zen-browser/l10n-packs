@@ -1,8 +1,8 @@
 tab-zen-split-tabs = 
     .label =
-        { $tabCount -> 
+        { $tabCount ->
             [1] Chia tab (cần nhiều tab được chọn)
-           *[other] Chia { $tabCount } tab 
+           *[other] Chia { $tabCount } tab
         }
     .accesskey = S
 zen-split-link = 
