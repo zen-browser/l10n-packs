@@ -141,4 +141,4 @@ zen-change-workspace = Parcourir les espaces de travail
 zen-split-view-grid = Vue fractionnée en grille
 zen-split-view-vertical = Vue fractionnée verticale
 zen-split-view-horizontal = Vue fractionnée horizontale
-zen-split-view-close = Fermer la vue fractionnaire
+zen-split-view-close = Fermer la vue fractionnée
