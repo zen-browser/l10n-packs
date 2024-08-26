@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Welcome to { -brand-short-name }
-welcome-dialog-welcome-subtext = Fast. Beautiful. Private.
-welcome-dialog-get-started = Get started
-welcome-dialog-import = 😍 Bring your favourites to { -brand-short-name }
-welcome-dialog-import-subtext = Pick up where you left off in your last browser
-welcome-dialog-import-action = Import your data
-welcome-dialog-theme = Make yourself at home
+welcome-dialog-welcome = 👋 Üdvözöl a { -brand-short-name }
+welcome-dialog-welcome-subtext = Gyors. Gyönyörű. Privát.
+welcome-dialog-get-started = Indulás
+welcome-dialog-import = 😍 Hozd át a kedvenceidet a { -brand-short-name }-be
+welcome-dialog-import-subtext = Folytasd ahol abbahagytad az előző böngésződben
+welcome-dialog-import-action = Adataid importálása
+welcome-dialog-theme = Érezd otthon magad
 welcome-dialog-theme-subtext = Personalize your experience with your favorite look!
-welcome-dialog-theme-header-1 = Choose your perfect color
-welcome-dialog-theme-header-2 = Choose your theme
-welcome-dialog-search = 🔍 Choose a search engine
-welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
-welcome-dialog-thanks = Thank You So Much! ❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
-welcome-dialog-next-action = Next
+welcome-dialog-theme-header-1 = Válaszd ki a legtökéletesebb színt
+welcome-dialog-theme-header-2 = Válassz egy témát
+welcome-dialog-search = 🔍 Válassz egy keresőmotort
+welcome-dialog-search-subtext = Válassz egy keresőmotort, hogy a legjobb legyen a böngészési élményed!
+welcome-dialog-thanks = Nagyon Szépen Köszönjük! ❤️
+welcome-dialog-thanks-subtext = Az elismerésed sokat jelent számunkra!
+welcome-dialog-back-action = Vissza
+welcome-dialog-next-action = Következő
