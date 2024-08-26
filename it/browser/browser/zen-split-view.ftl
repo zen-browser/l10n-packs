@@ -6,5 +6,5 @@ tab-zen-split-tabs =
         }
     .accesskey = S
 zen-split-link = 
-    .label = Dividi Scheda col link
+    .label = Dividi scheda col link
     .accesskey = S
