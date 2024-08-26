@@ -27,5 +27,5 @@ zen-workspaces-panel-context-edit =
     .label = Modifier l'espace de travail
     .accesskey = E
 context-zen-change-workspace-tab = 
-    .label = Changer le(s) onglets en espace de travail
+    .label = Changer le(s) onglet(s) en espace de travail
     .accesskey = C
