@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Welcome to { -brand-short-name }
-welcome-dialog-welcome-subtext = Fast. Beautiful. Private.
-welcome-dialog-get-started = Get started
-welcome-dialog-import = 😍 Bring your favourites to { -brand-short-name }
-welcome-dialog-import-subtext = Pick up where you left off in your last browser
-welcome-dialog-import-action = Import your data
-welcome-dialog-theme = Make yourself at home
-welcome-dialog-theme-subtext = Personalize your experience with your favorite look!
-welcome-dialog-theme-header-1 = Choose your perfect color
-welcome-dialog-theme-header-2 = Choose your theme
-welcome-dialog-search = 🔍 Choose a search engine
-welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
-welcome-dialog-thanks = Thank You So Much! ❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
-welcome-dialog-next-action = Next
+welcome-dialog-welcome = 👋 Benvenuto su { -brand-short-name }
+welcome-dialog-welcome-subtext = Veloce. Bellissimo. Privato.
+welcome-dialog-get-started = Inizia
+welcome-dialog-import = 😍 Porta i tuoi preferiti su { -brand-short-name }
+welcome-dialog-import-subtext = Riprendi da dov'eri rimasto sul tuo vecchio browser
+welcome-dialog-import-action = Importa i tuoi dati
+welcome-dialog-theme = Mettiti comodo
+welcome-dialog-theme-subtext = Personalizza la tua esperienza con il tuo look preferito!
+welcome-dialog-theme-header-1 = Scegli il tuo colore preferito
+welcome-dialog-theme-header-2 = Scegli il tuo tema
+welcome-dialog-search = 🔍 Scegli un motore di ricerca
+welcome-dialog-search-subtext = Seleziona il tuo motore di ricerca preferito per personalizzare la tua esperienza di navigazione!
+welcome-dialog-thanks = Grazie mille! ❤️
+welcome-dialog-thanks-subtext = Il tuo supporto vale tutto per noi!
+welcome-dialog-back-action = Indietro
+welcome-dialog-next-action = Avanti
