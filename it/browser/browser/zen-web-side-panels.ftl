@@ -1,5 +1,5 @@
 zen-web-side-panel-context-mute-panel = 
-    .label = Mute Web Panel
+    .label = Silenzia il Pannello Web
     .accesskey = M
 zen-web-side-panel-context-unmute-panel = 
     .label = Unmute Web Panel
