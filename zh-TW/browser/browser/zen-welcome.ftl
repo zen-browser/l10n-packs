@@ -15,6 +15,6 @@ welcome-dialog-theme-header-2 = 選擇你的主題
 welcome-dialog-search = 🔍 選擇一個搜尋引擎
 welcome-dialog-search-subtext = 用你最喜歡的搜尋引擎來客製化你的瀏覽體驗！
 welcome-dialog-thanks = 非常感謝！❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
+welcome-dialog-thanks-subtext = 您的讚美對我們來說意味著整個世界！
 welcome-dialog-back-action = 返回
 welcome-dialog-next-action = 繼續
