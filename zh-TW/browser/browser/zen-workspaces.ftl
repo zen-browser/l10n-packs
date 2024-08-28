@@ -27,5 +27,5 @@ zen-workspaces-panel-context-edit =
     .label = 編輯工作空間
     .accesskey = E
 context-zen-change-workspace-tab = 
-    .label = 將分頁轉成工作空間
+    .label = 將分頁移至工作空間
     .accesskey = C
