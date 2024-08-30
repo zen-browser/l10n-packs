@@ -1,6 +1,11 @@
-<img src="./zen-alpha-indigo.svg" height="200" align="left"/>
-
-### `Zen l10n Packs`
+<div align="center">
+<picture>
+    <img src="./zen-alpha-indigo.svg" width="128px">
+</picture>
+</div>
+<h1 align="center">
+Zen l10n Packs
+</h1>
 
 [![Crowdin](https://badges.crowdin.net/zen-browser/localized.svg)](https://crowdin.com/project/zen-browser)
 
