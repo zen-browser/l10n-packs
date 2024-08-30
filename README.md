@@ -1,4 +1,4 @@
-<img src="assets/logo.svg" height="200" align="left"/>
+<img src="./assets/logo.svg" height="200" align="left"/>
 
 ### `Zen l10n Packs`
 
