@@ -70,7 +70,7 @@ zen-theme-marketplace-updates-fail = Couldn't find any updates!
 pane-zen-marketplace-title = Theme Store
 
 zen-look-and-feel-legacy-toolbar = 
-    .label = Use legacy toolbar position (Disclaimer: This feature is just for people who are used to the old toolbar position)
+    .label = Use legacy toolbar position. Requires a restart!
 
 zen-theme-marketplace-link = Visit Store
 
