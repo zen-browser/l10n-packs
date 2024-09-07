@@ -27,9 +27,6 @@ zen-look-and-feel-compact-view-enabled =
 zen-look-and-feel-compact-view-top-toolbar = 
     .label = Hide the top toolbar as well in compact mode
 
-zen-look-and-feel-compact-toolbar-flash-popup =
-    .label = Briefly make the toolbar popup when switching or opening new tabs in compact mode
-
 zen-look-and-feel-buttons-header = Button style
 zen-look-and-feel-buttons-description = Choose the style of buttons you want to see
 
