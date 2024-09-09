@@ -148,3 +148,4 @@ zen-split-view-grid = Chia chế độ xem lưới
 zen-split-view-vertical = Chia chế độ xem dọc
 zen-split-view-horizontal = Chia chế độ xem ngang
 zen-split-view-close = Đóng chế độ xem chia đôi
+zen-expand-sidebar = Toggle Sidebar Expand
