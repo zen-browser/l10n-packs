@@ -146,3 +146,4 @@ zen-split-view-grid = 分屏视图网格
 zen-split-view-vertical = 垂直分屏视图
 zen-split-view-horizontal = 水平分屏视图
 zen-split-view-close = 关闭分屏视图
+zen-expand-sidebar = Toggle Sidebar Expand
