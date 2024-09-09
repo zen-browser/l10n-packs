@@ -16,5 +16,5 @@ welcome-dialog-search = 🔍 Choose a search engine
 welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
 welcome-dialog-thanks = Thank You So Much! ❤️
 welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
-welcome-dialog-next-action = Next
+welcome-dialog-back-action = 이전
+welcome-dialog-next-action = 다음
