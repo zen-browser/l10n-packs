@@ -146,3 +146,4 @@ zen-split-view-grid = Griglia vista divisa
 zen-split-view-vertical = Vista divisa verticale
 zen-split-view-horizontal = Vista divisa orizzontale
 zen-split-view-close = Chiudi vista divisa
+zen-expand-sidebar = Toggle Sidebar Expand

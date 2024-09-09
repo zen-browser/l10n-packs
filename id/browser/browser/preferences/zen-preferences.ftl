@@ -146,3 +146,4 @@ zen-split-view-grid = Tampilan Terpisah Kotak
 zen-split-view-vertical = Tampilan Terpisah Vertikal
 zen-split-view-horizontal = Tampilan Terpisah Horizontal
 zen-split-view-close = Tutup Tampilan Terpisah
+zen-expand-sidebar = Toggle Sidebar Expand

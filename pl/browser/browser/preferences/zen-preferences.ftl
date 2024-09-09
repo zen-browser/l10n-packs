@@ -146,3 +146,4 @@ zen-split-view-grid = Podzielony Widok: Siatka
 zen-split-view-vertical = Podzielony Widok: Pionowy
 zen-split-view-horizontal = Podzielony Widok: Poziomy
 zen-split-view-close = Zamknij Widok Podzielony
+zen-expand-sidebar = Toggle Sidebar Expand
