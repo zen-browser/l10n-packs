@@ -146,3 +146,4 @@ zen-split-view-grid = Gesplitste weergave raster
 zen-split-view-vertical = Gesplitste weergave verticaal
 zen-split-view-horizontal = Gesplitste weergave horizontaal
 zen-split-view-close = Gesplitste weergave sluiten
+zen-expand-sidebar = Toggle Sidebar Expand
