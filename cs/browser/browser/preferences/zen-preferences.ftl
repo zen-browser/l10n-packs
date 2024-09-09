@@ -146,3 +146,4 @@ zen-split-view-grid = Mřížka rozděleného zobrazení
 zen-split-view-vertical = Vertikální rozdělené zobrazení
 zen-split-view-horizontal = Horizontální rozdělené zobrazení
 zen-split-view-close = Zavřít rozdělené zobrazení
+zen-expand-sidebar = Toggle Sidebar Expand
