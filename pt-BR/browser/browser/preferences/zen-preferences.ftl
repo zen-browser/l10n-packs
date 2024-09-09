@@ -146,3 +146,4 @@ zen-split-view-grid = Exibição dividida em grade
 zen-split-view-vertical = Exibição dividida vertical
 zen-split-view-horizontal = Divisão Horizontal
 zen-split-view-close = Fechar Visualização Dividida
+zen-expand-sidebar = Toggle Sidebar Expand
