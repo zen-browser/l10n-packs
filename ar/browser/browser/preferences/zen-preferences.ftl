@@ -146,3 +146,4 @@ zen-split-view-grid = Split View Grid
 zen-split-view-vertical = Split View Vertical
 zen-split-view-horizontal = Split View Horizontal
 zen-split-view-close = Close Split View
+zen-expand-sidebar = Toggle Sidebar Expand
