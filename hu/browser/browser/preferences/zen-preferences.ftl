@@ -146,3 +146,4 @@ zen-split-view-grid = Split View Grid
 zen-split-view-vertical = Függőleges Felosztás
 zen-split-view-horizontal = Vízszintes Felosztás
 zen-split-view-close = Osztott Mód Bezárása
+zen-expand-sidebar = Toggle Sidebar Expand
