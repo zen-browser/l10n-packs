@@ -146,3 +146,4 @@ zen-split-view-grid = Izgaralı Bölünmüş Görünüm
 zen-split-view-vertical = Dikey Bölünmüş Görünüm
 zen-split-view-horizontal = Yatay Bölünmüş Görünüm
 zen-split-view-close = Bölünmüş Görünümü Kapat
+zen-expand-sidebar = Toggle Sidebar Expand
