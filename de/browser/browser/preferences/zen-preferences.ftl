@@ -146,3 +146,4 @@ zen-split-view-grid = Rasteransicht
 zen-split-view-vertical = Vertikal geteilte Ansicht
 zen-split-view-horizontal = Horizontal geteilte Ansicht
 zen-split-view-close = Geteilte Ansicht schliessen
+zen-expand-sidebar = Toggle Sidebar Expand
