@@ -146,3 +146,4 @@ zen-split-view-grid = Сітка роздільного перегляду
 zen-split-view-vertical = Розділити вид по вертикалі
 zen-split-view-horizontal = Розділити вид по горизонталі
 zen-split-view-close = Закрити розділений вигляд
+zen-expand-sidebar = Toggle Sidebar Expand
