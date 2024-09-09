@@ -146,3 +146,4 @@ zen-split-view-grid = Separar vista cuadriculada
 zen-split-view-vertical = Separar vista vertical
 zen-split-view-horizontal = Separar vista horizontal
 zen-split-view-close = Cerrar vista separada
+zen-expand-sidebar = Toggle Sidebar Expand
