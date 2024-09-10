@@ -80,12 +80,9 @@ zen-theme-marketplace-link = Visit Store
 zen-dark-theme-styles-header = Dark Theme Styles
 zen-dark-theme-styles-description = Customize the dark theme to your liking
 
-zen-dark-theme-styles-amoled = 
-    .label = Amoled Black
-zen-dark-theme-styles-default = 
-    .label = Default Dark Theme
-zen-dark-theme-styles-colorful = 
-    .label = Colorful Dark Theme
+zen-dark-theme-styles-amoled = Amoled Black
+zen-dark-theme-styles-default = Default Dark Theme
+zen-dark-theme-styles-colorful = Colorful Dark Theme
 
 pane-zen-CKS-title = Keyboard Shortcuts
 category-zen-CKS =
