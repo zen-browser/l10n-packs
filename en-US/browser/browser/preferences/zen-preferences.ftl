@@ -46,6 +46,8 @@ zen-settings-workspaces-header = General settings for workspaces
 zen-settings-workspaces-description = With workspaces, you can have multiple browsing sessions at once!
 zen-settings-workspaces-enabled = 
     .label = Enable Workspaces (Experimental)
+zen-settings-workspaces-hide-default-container-indicator = 
+    .label = Hide the default container indicator in the tab bar
 
 pane-zen-theme-title = Theme Settings
 
