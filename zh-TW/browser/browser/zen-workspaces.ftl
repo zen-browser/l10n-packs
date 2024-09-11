@@ -29,3 +29,6 @@ zen-workspaces-panel-context-edit =
 context-zen-change-workspace-tab = 
     .label = 將分頁移至工作空間
     .accesskey = C
+zen-workspaces-panel-context-open-in-container-tab = 
+    .label = Set Default Container
+    .accesskey = O
