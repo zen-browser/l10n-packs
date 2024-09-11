@@ -29,3 +29,6 @@ zen-workspaces-panel-context-edit =
 context-zen-change-workspace-tab = 
     .label = Changer le(s) onglet(s) en espace de travail
     .accesskey = C
+zen-workspaces-panel-context-open-in-container-tab = 
+    .label = Set Default Container
+    .accesskey = O
