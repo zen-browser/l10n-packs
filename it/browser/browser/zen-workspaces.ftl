@@ -29,3 +29,6 @@ zen-workspaces-panel-context-edit =
 context-zen-change-workspace-tab = 
     .label = Metti scheda/e su uno spazio di lavoro
     .accesskey = C
+zen-workspaces-panel-context-open-in-container-tab = 
+    .label = Set Default Container
+    .accesskey = O
