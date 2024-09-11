@@ -5,7 +5,7 @@
 welcome-dialog-welcome = 👋 Witamy w { -brand-short-name }
 welcome-dialog-welcome-subtext = Szybki. Piękny. Prywatny.
 welcome-dialog-get-started = Rozpocznij
-welcome-dialog-import = 😍Przenieś swoje ulubione do { -brand-short-name }
+welcome-dialog-import = 😍 Przenieś swoje ulubione do { -brand-short-name }
 welcome-dialog-import-subtext = Kontynuuj tam, gdzie skończyłeś w swojej ostatniej przeglądarce
 welcome-dialog-import-action = Importuj dane
 welcome-dialog-theme = Czuj się jak w domu

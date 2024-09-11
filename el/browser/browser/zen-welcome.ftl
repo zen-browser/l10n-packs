@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Welcome to { -brand-short-name }
-welcome-dialog-welcome-subtext = Fast. Beautiful. Private.
-welcome-dialog-get-started = Get started
-welcome-dialog-import = 😍 Bring your favourites to { -brand-short-name }
-welcome-dialog-import-subtext = Pick up where you left off in your last browser
-welcome-dialog-import-action = Import your data
-welcome-dialog-theme = Make yourself at home
-welcome-dialog-theme-subtext = Personalize your experience with your favorite look!
-welcome-dialog-theme-header-1 = Choose your perfect color
-welcome-dialog-theme-header-2 = Choose your theme
-welcome-dialog-search = 🔍 Choose a search engine
-welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
-welcome-dialog-thanks = Thank You So Much! ❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
-welcome-dialog-next-action = Next
+welcome-dialog-welcome = 👋 Καλώς ήρθατε στο { -brand-short-name }
+welcome-dialog-welcome-subtext = Γρήγορο. Όμορφο. Ιδιωτικό.
+welcome-dialog-get-started = Ας ξεκινήσουμε
+welcome-dialog-import = 😍 Φέρτε τα αγαπημένα σας στο { -brand-short-name }
+welcome-dialog-import-subtext = Συνεχίστε από 'κει που τ' αφήσατε στο τελευταίο σας πρόγραμμα περιήγησης
+welcome-dialog-import-action = Εισαγωγή των δεδομένων σας
+welcome-dialog-theme = Νιώστε σαν στο σπίτι σας
+welcome-dialog-theme-subtext = Προσαρμόστε την εμπειρία σας με την αγαπημένη σας εμφάνιση!
+welcome-dialog-theme-header-1 = Διαλέξτε το τέλειο χρώμα
+welcome-dialog-theme-header-2 = Διαλέξτε το θέμα σας
+welcome-dialog-search = 🔍 Επιλέξτε μια μηχανή αναζήτησης
+welcome-dialog-search-subtext = Επιλέξτε την μηχανή αναζήτησης που προτιμάτε για να προσαρμόσετε την εμπειρία περιήγησής σας!
+welcome-dialog-thanks = Σας Ευχαριστούμε Πολύ! ❤️
+welcome-dialog-thanks-subtext = Η εκτίμησή σας σημαίνει τα πάντα για μας!
+welcome-dialog-back-action = Πίσω
+welcome-dialog-next-action = Επόμενο
