@@ -30,5 +30,5 @@ context-zen-change-workspace-tab =
     .label = Αλλαγή Καρτελών Σε Χώρο Εργασίας
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Set Default Container
+    .label = Ορισμός Τρέχοντος Περιέκτη
     .accesskey = O
