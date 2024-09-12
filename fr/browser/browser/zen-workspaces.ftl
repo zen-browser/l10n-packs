@@ -30,5 +30,5 @@ context-zen-change-workspace-tab =
     .label = Changer le(s) onglet(s) en espace de travail
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Set Default Container
+    .label = Sélectionner le conteneur par défaut
     .accesskey = O
