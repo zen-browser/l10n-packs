@@ -30,5 +30,5 @@ context-zen-change-workspace-tab =
     .label = Zmień Kart(ę/y) w Przestrzeń Roboczą
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Set Default Container
+    .label = Ustaw domyślny kontener
     .accesskey = O
