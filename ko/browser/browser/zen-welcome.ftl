@@ -4,7 +4,7 @@
 
 welcome-dialog-welcome = 👋 Welcome to { -brand-short-name }
 welcome-dialog-welcome-subtext = Fast. Beautiful. Private.
-welcome-dialog-get-started = Get started
+welcome-dialog-get-started = 시작
 welcome-dialog-import = 😍 Bring your favourites to { -brand-short-name }
 welcome-dialog-import-subtext = Pick up where you left off in your last browser
 welcome-dialog-import-action = Import your data
