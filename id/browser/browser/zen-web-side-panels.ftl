@@ -1,5 +1,5 @@
 zen-web-side-panel-context-mute-panel = 
-    .label = Membisukan Panel Web
+    .label = Bisukan Panel Web
     .accesskey = M
 zen-web-side-panel-context-unmute-panel = 
     .label = Menyalakan Suara Panel Web
