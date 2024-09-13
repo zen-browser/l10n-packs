@@ -15,6 +15,6 @@ welcome-dialog-theme-header-2 = Pilih tema kamu
 welcome-dialog-search = 🔍 Pilih mesin pencarian
 welcome-dialog-search-subtext = Pilih mesin pencarian yang kamu inginkan untuk meningkatkan pengalaman pencarianmu!
 welcome-dialog-thanks = Terima Kasih Banyak! ❤️
-welcome-dialog-thanks-subtext = Penghargaanmu sangat berarti bagi kami!
+welcome-dialog-thanks-subtext = Apresiasimu sangat berarti bagi kami!
 welcome-dialog-back-action = Kembali
 welcome-dialog-next-action = Lanjut
