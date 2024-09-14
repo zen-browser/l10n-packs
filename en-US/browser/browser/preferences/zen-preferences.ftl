@@ -49,7 +49,7 @@ zen-settings-workspaces-enabled =
 zen-settings-workspaces-hide-default-container-indicator = 
     .label = Hide the default container indicator in the tab bar
 zen-settings-workspaces-allow-pinned-tabs-for-different-workspaces = 
-    .label = Allow workspaces have theyr own pinned tabs
+    .label = Allow workspaces have their own pinned tabs
 
 
 pane-zen-theme-title = Theme Settings
