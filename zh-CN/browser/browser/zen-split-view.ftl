@@ -6,5 +6,5 @@ tab-zen-split-tabs =
         }
     .accesskey = S
 zen-split-link = 
-    .label = 在新标签页里分屏显示链接
+    .label = 拆分链接到新标签页
     .accesskey = S
