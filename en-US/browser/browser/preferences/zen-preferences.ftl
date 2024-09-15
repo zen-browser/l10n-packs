@@ -67,7 +67,7 @@ zen-vertical-tabs-expand-tabs-on-hover = Expand Tabs on Hover (Wont work on comp
 zen-vertical-tabs-expand-tabs-header = How to expand tabs
 zen-vertical-tabs-expand-tabs-description = Choose how to expand tabs in the sidebar
 
-zen-theme-marketplace-header = Theme Store
+zen-theme-marketplace-header = Zen Mods
 zen-theme-marketplace-description = Find and install themes from the store.
 zen-theme-marketplace-remove-button = 
     .label = Remove Theme
@@ -75,7 +75,7 @@ zen-theme-marketplace-check-for-updates-button =
     .label = Check for Updates
 zen-theme-marketplace-updates-success = Theme updated successfully
 zen-theme-marketplace-updates-fail = Couldn't find any updates!
-pane-zen-marketplace-title = Theme Store
+pane-zen-marketplace-title = Zen Mods
 
 zen-look-and-feel-legacy-toolbar = 
     .label = Use legacy toolbar position. Requires a restart!
