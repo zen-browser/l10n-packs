@@ -30,5 +30,5 @@ context-zen-change-workspace-tab =
     .label = Змінити вкладку(и) на робочу область
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Set Default Container
+    .label = Встановити типовий контейнер
     .accesskey = O
