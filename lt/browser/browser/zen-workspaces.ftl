@@ -1,8 +1,8 @@
-zen-panel-ui-current-window-text = Current Window
-zen-panel-ui-workspaces-text = Other Workspaces
-zen-panel-ui-workspaces-create-text = Create Workspace
+zen-panel-ui-current-window-text = Dabartinis langas
+zen-panel-ui-workspaces-text = Kitos darbo srities
+zen-panel-ui-workspaces-create-text = Kurti darbo sritį
 zen-panel-ui-workspaces-create-save = 
-    .label = Create Workspace
+    .label = Kurti darbo sritį
     .accesskey = S
 zen-panel-ui-workspaces-create-cancel = 
     .label = Cancel
