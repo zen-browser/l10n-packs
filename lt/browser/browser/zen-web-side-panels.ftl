@@ -22,5 +22,5 @@ zen-web-side-panel-open-in-new-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Add to Web Panels
     .accesskey = A
-zen-sidebar-introduction-title = Welcome to Zen Sidebar
-zen-sidebar-introduction-description = Zen Sidebar is a new way to browse the web. Click on any of the icons to open a web panel.
+zen-sidebar-introduction-title = Sveiki atvykę į „Zen Sidebar“
+zen-sidebar-introduction-description = „Zen Sidebar“ – tai naujas naršymo internete būdas. Spustelėkite bet kurią piktogramą, kad atidarytumėte saityno skydelį.
