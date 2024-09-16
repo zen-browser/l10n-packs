@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Welcome to { -brand-short-name }
-welcome-dialog-welcome-subtext = Fast. Beautiful. Private.
-welcome-dialog-get-started = Get started
-welcome-dialog-import = 😍 Bring your favourites to { -brand-short-name }
-welcome-dialog-import-subtext = Pick up where you left off in your last browser
-welcome-dialog-import-action = Import your data
-welcome-dialog-theme = Make yourself at home
-welcome-dialog-theme-subtext = Personalize your experience with your favorite look!
-welcome-dialog-theme-header-1 = Choose your perfect color
-welcome-dialog-theme-header-2 = Choose your theme
-welcome-dialog-search = 🔍 Choose a search engine
-welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
-welcome-dialog-thanks = Thank You So Much! ❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
+welcome-dialog-welcome = 👋 Tervetuloa { -brand-short-name }
+welcome-dialog-welcome-subtext = Nopea. Kaunis. Yksityinen.
+welcome-dialog-get-started = Aloita
+welcome-dialog-import = 😍 Tuo sinun lempi { -brand-short-name }
+welcome-dialog-import-subtext = Jatka siitä mihin jäit edellisessä selaimessasi
+welcome-dialog-import-action = Tietojen tuonti
+welcome-dialog-theme = Ole kuin kotonasi
+welcome-dialog-theme-subtext = Personoi kokemuksesi suosikkilookillasi!
+welcome-dialog-theme-header-1 = Valitse sinun värisi
+welcome-dialog-theme-header-2 = Valitse teemasi
+welcome-dialog-search = 🔍 Valitse hakukoneesi
+welcome-dialog-search-subtext = Valitse haluamasi hakukone selailukokemustasi varten!
+welcome-dialog-thanks = Kiitos todella paljon! ❤️
+welcome-dialog-thanks-subtext = Arvostuksenne merkitsee meille paljon!
+welcome-dialog-back-action = Takaisin
 welcome-dialog-next-action = Seuraava
