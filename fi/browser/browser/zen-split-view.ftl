@@ -1,10 +1,10 @@
 tab-zen-split-tabs = 
     .label =
         { $tabCount ->
-            [1] Split Tab (multiple selected tabs needed)
-           *[other] Split { $tabCount } Tabs
+            [1] Jaettu Välilehti (monta välilehteä valittuna tarvittu)
+           *[muut] Jaettu { $tabCount } Välilehdet
         }
     .accesskey = S
 zen-split-link = 
-    .label = Split link to new tab
+    .label = Jaa linkki uuteen välilehteen
     .accesskey = S
