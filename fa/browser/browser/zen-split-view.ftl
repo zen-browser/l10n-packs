@@ -6,5 +6,5 @@ tab-zen-split-tabs =
         }
     .accesskey = S
 zen-split-link = 
-    .label = Split link to new tab
+    .label = بازکردن پیوند در نمای چندپاره‌ای
     .accesskey = S
