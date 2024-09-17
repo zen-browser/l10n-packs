@@ -5,7 +5,7 @@
 welcome-dialog-welcome = 👋 Tervetuloa { -brand-short-name }
 welcome-dialog-welcome-subtext = Nopea. Kaunis. Yksityinen.
 welcome-dialog-get-started = Aloita
-welcome-dialog-import = 😍 Tuo sinun lempi { -brand-short-name }
+welcome-dialog-import = 😍 Tuo sinun lempparisi { -brand-short-name }iin
 welcome-dialog-import-subtext = Jatka siitä mihin jäit edellisessä selaimessasi
 welcome-dialog-import-action = Tietojen tuonti
 welcome-dialog-theme = Ole kuin kotonasi
@@ -13,7 +13,7 @@ welcome-dialog-theme-subtext = Personoi kokemuksesi suosikkilookillasi!
 welcome-dialog-theme-header-1 = Valitse sinun värisi
 welcome-dialog-theme-header-2 = Valitse teemasi
 welcome-dialog-search = 🔍 Valitse hakukoneesi
-welcome-dialog-search-subtext = Valitse haluamasi hakukone selailukokemustasi varten!
+welcome-dialog-search-subtext = Valitse haluamasi hakukone selailuasi varten!
 welcome-dialog-thanks = Kiitos todella paljon! ❤️
 welcome-dialog-thanks-subtext = Arvostuksenne merkitsee meille paljon!
 welcome-dialog-back-action = Takaisin
