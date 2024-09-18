@@ -77,8 +77,6 @@ zen-theme-marketplace-updates-success = Theme updated successfully
 zen-theme-marketplace-updates-fail = Couldn't find any updates!
 pane-zen-marketplace-title = Zen Mods
 
-zen-look-and-feel-legacy-toolbar = 
-    .label = Use legacy toolbar position. Requires a restart!
 
 zen-theme-marketplace-link = Visit Store
 
