@@ -50,7 +50,8 @@ zen-settings-workspaces-hide-default-container-indicator =
     .label = Hide the default container indicator in the tab bar
 zen-settings-workspaces-allow-pinned-tabs-for-different-workspaces = 
     .label = Allow workspaces have their own pinned tabs
-
+zen-settings-workspaces-show-quick-switch =
+.label = Enable workspace quick switch component
 
 pane-zen-theme-title = Theme Settings
 
