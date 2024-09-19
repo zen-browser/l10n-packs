@@ -7,24 +7,24 @@ zen-warning-language = Changing the default language could make it easier for We
 
 zen-look-and-feel-colors-header = Pick a theme colour
 zen-look-and-feel-colors-description = Make { -brand-short-name } look and feel the way you like
-zen-look-and-feel-themed-toolbar = 
+zen-look-and-feel-themed-toolbar =
     .label = Make the toolbar themed with the accent color
 
 pane-zen-side-panels-title = Side Web Panels
 zen-side-panels-header = General settings for web panels
 zen-side-panels-description = Increase productivity by having multiple views at once!
-zen-side-panels-enabled = 
+zen-side-panels-enabled =
     .label = Enable Web Side Panels
 
-zen-side-panels-close-on-blur = 
+zen-side-panels-close-on-blur =
     .label = Close the panel when it loses focus if it's not pinned
 
 zen-look-and-feel-compact-view-header = Show in compact view
 zen-look-and-feel-compact-view-description = Only show the toolbars you use!
-zen-look-and-feel-compact-view-enabled = 
+zen-look-and-feel-compact-view-enabled =
     .label = Enable { -brand-short-name }'s compact mode
 
-zen-look-and-feel-compact-view-top-toolbar = 
+zen-look-and-feel-compact-view-top-toolbar =
     .label = Hide the top toolbar as well in compact mode
 
 zen-look-and-feel-compact-toolbar-flash-popup =
@@ -33,7 +33,7 @@ zen-look-and-feel-compact-toolbar-flash-popup =
 zen-look-and-feel-buttons-header = Button style
 zen-look-and-feel-buttons-description = Choose the style of buttons you want to see
 
-zen-look-and-feel-pilled-buttons = 
+zen-look-and-feel-pilled-buttons =
     .label = Pilled Buttons
 
 pane-zen-workspaces-title = Workspaces
@@ -44,11 +44,11 @@ pane-settings-workspaces-title = Workspaces
 pane-zen-workspaces-header = Workspaces
 zen-settings-workspaces-header = General settings for workspaces
 zen-settings-workspaces-description = With workspaces, you can have multiple browsing sessions at once!
-zen-settings-workspaces-enabled = 
+zen-settings-workspaces-enabled =
     .label = Enable Workspaces (Experimental)
-zen-settings-workspaces-hide-default-container-indicator = 
+zen-settings-workspaces-hide-default-container-indicator =
     .label = Hide the default container indicator in the tab bar
-zen-settings-workspaces-allow-pinned-tabs-for-different-workspaces = 
+zen-settings-workspaces-allow-pinned-tabs-for-different-workspaces =
     .label = Allow workspaces have their own pinned tabs
 
 
@@ -57,7 +57,7 @@ pane-zen-theme-title = Theme Settings
 zen-vertical-tabs-title = Sidebar and tabs layout
 zen-vertical-tabs-header = Vertical Tabs
 zen-vertical-tabs-description = Manage your tabs in a vertical layout
-zen-vertical-tabs-show-expand-button = 
+zen-vertical-tabs-show-expand-button =
     .label = Show Expand Button
 
 zen-vertical-tabs-expand-tabs-by-default = Expand Tabs by Default
@@ -69,12 +69,20 @@ zen-vertical-tabs-expand-tabs-description = Choose how to expand tabs in the sid
 
 zen-theme-marketplace-header = Zen Mods
 zen-theme-marketplace-description = Find and install themes from the store.
-zen-theme-marketplace-remove-button = 
+zen-theme-marketplace-remove-button =
     .label = Remove Theme
-zen-theme-marketplace-check-for-updates-button = 
+zen-theme-marketplace-check-for-updates-button =
     .label = Check for Updates
 zen-theme-marketplace-updates-success = Theme updated successfully
 zen-theme-marketplace-updates-fail = Couldn't find any updates!
+zen-theme-marketplace-toggle-enabled-button =
+    .title = Disable Theme
+zen-theme-marketplace-toggle-disabled-button =
+    .title = Enable Theme
+zen-theme-marketplace-remove-confirmation = Are you sure you want to remove this theme?
+zen-theme-marketplace-close-modal = Close
+zen-theme-marketplace-theme-header-title =
+    .title = CSS Selector: { $name }
 pane-zen-marketplace-title = Zen Mods
 
 
@@ -95,7 +103,7 @@ pane-settings-CKS-title = { -brand-short-name } Keyboard Shortcuts
 zen-settings-CKS-header = Customize your keyboard shortcuts
 zen-settings-CKS-description = Change the default keyboard shortcuts to your liking and improve your browsing experience
 
-zen-settings-CKS-disable-firefox = 
+zen-settings-CKS-disable-firefox =
     .label = Disable { -brand-short-name }'s default keyboard shortcuts
 
 zen-cks-group-tab-action = Tab Actions
