@@ -8,3 +8,5 @@ sidebar-zen-sidepanel =
 sidebar-zen-expand =
   .label = Expand Sidebar
   
+tabs-toolbar-new-tab-clear-all =
+  .label = Release to clear
