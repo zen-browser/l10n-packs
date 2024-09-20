@@ -83,6 +83,10 @@ zen-theme-marketplace-remove-confirmation = Are you sure you want to remove this
 zen-theme-marketplace-close-modal = Close
 zen-theme-marketplace-theme-header-title =
     .title = CSS Selector: { $name }
+zen-theme-marketplace-dropdown-default-label =
+    .label = None
+zen-theme-marketplace-input-default-placeholder =
+    .placeholder = Type something...
 pane-zen-marketplace-title = Zen Mods
 
 zen-settings-workspaces-display-as-icon-strip = 
