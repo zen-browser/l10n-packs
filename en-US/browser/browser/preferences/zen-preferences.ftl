@@ -77,6 +77,8 @@ zen-theme-marketplace-updates-success = Theme updated successfully
 zen-theme-marketplace-updates-fail = Couldn't find any updates!
 pane-zen-marketplace-title = Zen Mods
 
+zen-settings-workspaces-display-as-icon-strip = 
+    .label = Display workspaces as an icon strip
 
 zen-theme-marketplace-link = Visit Store
 
