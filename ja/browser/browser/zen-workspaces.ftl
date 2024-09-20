@@ -30,5 +30,5 @@ context-zen-change-workspace-tab =
     .label = タブをワークスペースに移動
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Set Default Container
+    .label = デフォルトのコンテナを設定
     .accesskey = O
