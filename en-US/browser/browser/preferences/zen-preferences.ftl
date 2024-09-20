@@ -85,6 +85,8 @@ zen-theme-marketplace-theme-header-title =
     .title = CSS Selector: { $name }
 pane-zen-marketplace-title = Zen Mods
 
+zen-settings-workspaces-display-as-icon-strip = 
+    .label = Display workspaces as an icon strip
 
 zen-theme-marketplace-link = Visit Store
 
