@@ -1,6 +1,6 @@
 zen-new-web-panel-url = 
-    .value = Pradinis URL
+    .value = Alkuperäinen URL
     .accesskey = I
 zen-new-web-panel-user-agent = 
-    .value = Rodyti šį saityno skydelį mobiliuoju režimu
+    .value = Näytä tämä verkkopaneeli mobiilitilassa
     .accesskey = m

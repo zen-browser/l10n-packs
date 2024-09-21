@@ -22,5 +22,5 @@ zen-web-side-panel-open-in-new-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Додати на вебпанель
     .accesskey = A
-zen-sidebar-introduction-title = Ласкаво просимо на Zen Sidebar
-zen-sidebar-introduction-description = Zen Sidebar - це новий спосіб перегляду вебсторінок. Натисніть на будь-яку іконку, щоб відкрити вебпанель.
+zen-sidebar-introduction-title = Ласкаво просимо на бічну панель Zen
+zen-sidebar-introduction-description = Бічна панель Zen – це новий спосіб перегляду вебсторінок. Натисніть на будь-який значок, щоб відкрити вебпанель.
