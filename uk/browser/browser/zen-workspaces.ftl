@@ -1,5 +1,5 @@
 zen-panel-ui-current-window-text = Поточне вікно
-zen-panel-ui-workspaces-text = Інші робочі простори
+zen-panel-ui-workspaces-text = Інші робочі області
 zen-panel-ui-workspaces-create-text = Створити робочу область
 zen-panel-ui-workspaces-create-save = 
     .label = Створити робочу область
