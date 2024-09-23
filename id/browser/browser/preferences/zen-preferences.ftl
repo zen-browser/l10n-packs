@@ -171,4 +171,4 @@ zen-sidebar-shortcut-toggle = Toggle Sidebar's Width
 zen-split-view-shortcut-grid = Toggle Split View Grid
 zen-split-view-shortcut-vertical = Toggle Split View Vertical
 zen-split-view-shortcut-horizontal = Toggle Split View Horizontal
-zen-split-view-shortcut-unsplit = Close Split View
+zen-split-view-shortcut-unsplit = Tutup Tampilan Belah
