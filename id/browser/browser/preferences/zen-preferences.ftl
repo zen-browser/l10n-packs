@@ -109,6 +109,7 @@ zen-window-new-shortcut = Jendela Baru
 zen-tab-new-shortcut = Tab Baru
 zen-location-open-shortcut = Open Location
 zen-location-open-shortcut-alt = Open Location (Alt)
+zen-key-undo-close-window = Undo Close Window
 zen-text-action-undo-shortcut = Undo
 zen-text-action-redo-shortcut = Redo
 zen-text-action-cut-shortcut = Cut
