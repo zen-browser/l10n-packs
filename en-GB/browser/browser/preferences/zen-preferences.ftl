@@ -109,6 +109,7 @@ zen-window-new-shortcut = New Window
 zen-tab-new-shortcut = New Tab
 zen-location-open-shortcut = Open Location
 zen-location-open-shortcut-alt = Open Location (Alt)
+zen-key-undo-close-window = Undo Close Window
 zen-text-action-undo-shortcut = Undo
 zen-text-action-redo-shortcut = Redo
 zen-text-action-cut-shortcut = Cut
