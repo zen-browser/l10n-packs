@@ -119,6 +119,9 @@ zen-settings-CKS-disable-firefox =
 zen-settings-CKS-duplicate-shortcut =
     .label = Duplicate Shortcut
 
+zen-settings-CKS-reset-shortcuts =
+    .label = Reset to Default
+
 zenCKSOption-group-other = Other
 zenCKSOption-group-windowAndTabManagement = Window & Tab Management
 zenCKSOption-group-navigation = Navigation
