@@ -17,4 +17,4 @@ zen-toolbar-context-compact-mode-hide-both =
 sidebar-zen-sidepanel = 
     .label = Panneau latéraux
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Étendre la barre latérale
