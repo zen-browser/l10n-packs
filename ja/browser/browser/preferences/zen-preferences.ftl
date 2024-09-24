@@ -109,6 +109,7 @@ zen-window-new-shortcut = 新しいウィンドウ
 zen-tab-new-shortcut = 新しいタブ
 zen-location-open-shortcut = 場所を開く
 zen-location-open-shortcut-alt = 場所を開く (Alt)
+zen-key-undo-close-window = Undo Close Window
 zen-text-action-undo-shortcut = Undo
 zen-text-action-redo-shortcut = Redo
 zen-text-action-cut-shortcut = Cut
