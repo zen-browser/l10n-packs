@@ -109,6 +109,7 @@ zen-window-new-shortcut = Nova janela
 zen-tab-new-shortcut = Nova aba
 zen-location-open-shortcut = Abrir local
 zen-location-open-shortcut-alt = Abrir local (alt)
+zen-key-undo-close-window = Undo Close Window
 zen-text-action-undo-shortcut = Desfazer
 zen-text-action-redo-shortcut = Refazer
 zen-text-action-cut-shortcut = Cortar
