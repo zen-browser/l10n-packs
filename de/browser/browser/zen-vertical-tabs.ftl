@@ -1,5 +1,5 @@
 zen-toolbar-context-tabs-right = 
-    .label = Tabs on the right
+    .label = Tabs auf der rechten Seite
     .accesskey = R
 zen-toolbar-context-compact-mode = 
     .label = Compact mode
