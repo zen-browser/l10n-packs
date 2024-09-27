@@ -1,2 +1,14 @@
 zen-panel-ui-current-profile-text = perfil atual
 unified-extensions-description = As extensões são usadas para trazer mais funcionalidades extras para o { -brand-short-name }.
+tab-zen-unload = 
+    .label = Aba não carregada
+    .accesskey = U
+zen-tabs-unloader-tab-actions = 
+    .label = Ações de não carregador de abas
+    .accesskey = T
+tab-zen-prevent-unload = 
+    .label = Prevenir abas de não carregar
+    .accesskey = P
+tab-zen-ignore-unload = 
+    .label = Ignorar abas não carregando
+    .accesskey = I
