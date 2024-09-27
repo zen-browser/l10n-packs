@@ -1,2 +1,14 @@
 zen-panel-ui-current-profile-text = profil actuel
 unified-extensions-description = Les extensions sont utilisées pour ajouter plus de fonctionnalités à { -brand-short-name }.
+tab-zen-unload = 
+    .label = Unload Tab
+    .accesskey = U
+zen-tabs-unloader-tab-actions = 
+    .label = Tabs Unloader Actions
+    .accesskey = T
+tab-zen-prevent-unload = 
+    .label = Prevent Tab Unload
+    .accesskey = P
+tab-zen-ignore-unload = 
+    .label = Ignore Tab Unload
+    .accesskey = I
