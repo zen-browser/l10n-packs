@@ -1,2 +1,14 @@
 zen-panel-ui-current-profile-text = 使用中のプロファイル
 unified-extensions-description = 拡張機能を使うことで、より多くの機能を{ -brand-short-name } に追加することができます。
+tab-zen-unload = 
+    .label = Unload Tab
+    .accesskey = U
+zen-tabs-unloader-tab-actions = 
+    .label = Tabs Unloader Actions
+    .accesskey = T
+tab-zen-prevent-unload = 
+    .label = Prevent Tab Unload
+    .accesskey = P
+tab-zen-ignore-unload = 
+    .label = Ignore Tab Unload
+    .accesskey = I
