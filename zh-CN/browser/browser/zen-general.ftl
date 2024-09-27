@@ -1,2 +1,14 @@
 zen-panel-ui-current-profile-text = 当前配置
 unified-extensions-description = 扩展用于为 { -brand-short-name } 带来更多额外功能。
+tab-zen-unload = 
+    .label = Unload Tab
+    .accesskey = U
+zen-tabs-unloader-tab-actions = 
+    .label = Tabs Unloader Actions
+    .accesskey = T
+tab-zen-prevent-unload = 
+    .label = Prevent Tab Unload
+    .accesskey = P
+tab-zen-ignore-unload = 
+    .label = Ignore Tab Unload
+    .accesskey = I
