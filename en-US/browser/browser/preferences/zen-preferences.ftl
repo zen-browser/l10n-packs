@@ -36,10 +36,20 @@ zen-look-and-feel-buttons-description = Choose the style of buttons you want to 
 zen-look-and-feel-pilled-buttons =
     .label = Pilled Buttons
 
-pane-zen-workspaces-title = Workspaces
+pane-zen-tabs-title = Tab Management
 category-zen-workspaces =
-    .tooltiptext = { pane-workspaces-title }
+    .tooltiptext = { pane-zen-tabs-title }
 pane-settings-workspaces-title = Workspaces
+
+pane-zen-tabs-unloader-title = Tab Unloader
+zen-tabs-unloader-header = General settings for tab unloader
+zen-tabs-unloader-description = Automatically unload unused tabs to save memory
+
+zen-tabs-unloader-enabled =
+    .label = Enable Tab Unloader
+zen-tabs-unloader-unload-delay =
+    .label = Unload tabs after
+zen-tabs-unloader-unload-delay-description = The time in minutes after which tabs will be unloaded
 
 pane-zen-workspaces-header = Workspaces
 zen-settings-workspaces-header = General settings for workspaces
