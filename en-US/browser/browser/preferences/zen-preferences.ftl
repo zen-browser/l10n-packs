@@ -118,7 +118,7 @@ zen-split-view-header = Split View Functionality
 zen-split-view-description = Split your browser into multiple views, enabling you to browse multiple websites at once
 zen-split-view-change-on-hover =
     .label = Change tabs on hover
-    
+
 zen-compact-mode-styles-left = Hide Tab bar
 zen-compact-mode-styles-top = Hide Top bar
 zen-compact-mode-styles-both = Hide Both
@@ -155,6 +155,8 @@ zenCKSOption-group-zen-split-view = Split View
 zen-key-quick-restart = Quick Restart
 zen-window-new-shortcut = New Window
 zen-tab-new-shortcut = New Tab
+zen-key-redo = Redo
+zen-restore-last-closed-tab-shortcut = Restore Last Closed Tab
 zen-location-open-shortcut = Open Location
 zen-location-open-shortcut-alt = Open Location (Alt)
 zen-key-undo-close-window = Undo Close Window
