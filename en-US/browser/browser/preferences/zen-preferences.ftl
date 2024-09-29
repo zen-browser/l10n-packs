@@ -61,6 +61,8 @@ zen-settings-workspaces-hide-default-container-indicator =
 zen-settings-workspaces-allow-pinned-tabs-for-different-workspaces =
     .label = Allow workspaces have their own pinned tabs
 
+zen-key-unsafed = Unsafed shortcut! Please safe it by clicking the "Escape" key after retyping it.
+zen-key-conflict = Conflict with another shortcut
 
 pane-zen-theme-title = Theme Settings
 
@@ -111,6 +113,12 @@ zen-dark-theme-styles-amoled = Night Theme
 zen-dark-theme-styles-default = Default Dark Theme
 zen-dark-theme-styles-colorful = Colorful Dark Theme
 
+zen-split-view-title = Split View
+zen-split-view-header = Split View Functionality
+zen-split-view-description = Split your browser into multiple views, enabling you to browse multiple websites at once
+zen-split-view-change-on-hover =
+    .label = Change tabs on hover
+    
 zen-compact-mode-styles-left = Hide Tab bar
 zen-compact-mode-styles-top = Hide Top bar
 zen-compact-mode-styles-both = Hide Both
