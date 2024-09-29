@@ -30,5 +30,5 @@ context-zen-change-workspace-tab =
     .label = Změnit pracovní plochu karty (karet)
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Set Default Container
+    .label = Nastavit výchozí kóji
     .accesskey = O

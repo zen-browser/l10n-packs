@@ -5,7 +5,7 @@
 welcome-dialog-welcome = 欢迎使用 { -brand-short-name }
 welcome-dialog-welcome-subtext = 快速。美观。私密。
 welcome-dialog-get-started = 开始使用
-welcome-dialog-import = 😍 将您的喜爱带到 { -brand-short-name }
+welcome-dialog-import = 😍 将您的喜好带到 { -brand-short-name }
 welcome-dialog-import-subtext = 继续上次浏览器会话
 welcome-dialog-import-action = 导入您的数据
 welcome-dialog-theme = 让您感到宾至如归

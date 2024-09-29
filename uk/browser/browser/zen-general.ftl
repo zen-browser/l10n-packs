@@ -1,2 +1,14 @@
 zen-panel-ui-current-profile-text = поточний профіль
 unified-extensions-description = Розширення використовуються для того, щоб додати більше додаткової функціональності в { -brand-short-name }.
+tab-zen-unload = 
+    .label = Вивантажити вкладку
+    .accesskey = U
+zen-tabs-unloader-tab-actions = 
+    .label = Дії вивантажувача вкладок
+    .accesskey = T
+tab-zen-prevent-unload = 
+    .label = Запобігти вивантаженню вкладок
+    .accesskey = P
+tab-zen-ignore-unload = 
+    .label = Ігнорувати вивантаження вкладки
+    .accesskey = I

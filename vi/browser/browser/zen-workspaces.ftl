@@ -30,5 +30,5 @@ context-zen-change-workspace-tab =
     .label = Di chuyển (nhiều) Tab đến không gian làm việc
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Set Default Container
+    .label = Đặt vùng chứa mặc định
     .accesskey = O

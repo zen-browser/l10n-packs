@@ -6,5 +6,5 @@ tab-zen-split-tabs =
         }
     .accesskey = S
 zen-split-link = 
-    .label = Separar link a nueva pestaña
+    .label = Separar enlace a nueva pestaña
     .accesskey = S

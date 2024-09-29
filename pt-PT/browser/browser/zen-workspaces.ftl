@@ -30,5 +30,5 @@ context-zen-change-workspace-tab =
     .label = Mudar Aba(s) Para Espaço de Trabalho
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Set Default Container
+    .label = Definir container padrão
     .accesskey = O

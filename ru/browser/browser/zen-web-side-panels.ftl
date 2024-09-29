@@ -23,4 +23,4 @@ zen-web-side-panel-context-add-to-panel =
     .label = Добавить в веб-панель
     .accesskey = A
 zen-sidebar-introduction-title = Добро пожаловать в боковую панель Zen
-zen-sidebar-introduction-description = Боковая панель Zen - новый способ использования интернета. Нажмите на любую иконку, чтобы открыть веб-панель.
+zen-sidebar-introduction-description = Боковая панель Zen - новый способ просмотра веб-страниц. Нажмите на любую иконку, чтобы открыть веб-панель.

@@ -1,2 +1,14 @@
 zen-panel-ui-current-profile-text = aktualny profil
 unified-extensions-description = Rozszerzenia są używane, aby dodać więcej funkcji w { -brand-short-name }.
+tab-zen-unload = 
+    .label = Usuń z pamięci
+    .accesskey = U
+zen-tabs-unloader-tab-actions = 
+    .label = Akcje rozładowywania kart
+    .accesskey = T
+tab-zen-prevent-unload = 
+    .label = Zapobiegaj rozładowaniu karty
+    .accesskey = P
+tab-zen-ignore-unload = 
+    .label = Ignoruj rozładowanie karty
+    .accesskey = I

@@ -1,2 +1,14 @@
 zen-panel-ui-current-profile-text = dabartinis profilis
 unified-extensions-description = Plėtiniai naudojami norint į „{ -brand-short-name }“ įtraukti daugiau papildomų funkcijų.
+tab-zen-unload = 
+    .label = Iškelti kortelę
+    .accesskey = U
+zen-tabs-unloader-tab-actions = 
+    .label = Kortelių iškelėtojo veiksmai
+    .accesskey = T
+tab-zen-prevent-unload = 
+    .label = Neleisti iškelti kortelės
+    .accesskey = P
+tab-zen-ignore-unload = 
+    .label = Ignoruoti kortelės iškėlimą
+    .accesskey = I
