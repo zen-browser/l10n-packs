@@ -61,6 +61,8 @@ zen-settings-workspaces-hide-default-container-indicator =
 zen-settings-workspaces-allow-pinned-tabs-for-different-workspaces =
     .label = Allow workspaces have their own pinned tabs
 
+zen-key-unsafed = Unsafed shortcut! Please safe it by clicking the "Escape" key after retyping it.
+zen-key-conflict = Conflict with another shortcut
 
 pane-zen-theme-title = Theme Settings
 
