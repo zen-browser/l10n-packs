@@ -1,8 +1,10 @@
 
 zen-panel-ui-current-profile-text = current profile
 
-unified-extensions-description = Extensions are used to bring more extra functionality into { -brand-short-name }. 
-
+unified-extensions-description = Extensions are used to bring more extra functionality into { -brand-short-name }.
+tab-context-zen-reset-pinned-tab =
+    .label = Reset pinned tab
+    .accesskey = R
 tab-zen-unload =
     .label = Unload Tab
     .accesskey = U
