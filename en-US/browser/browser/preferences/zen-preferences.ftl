@@ -54,7 +54,7 @@ zen-tabs-unloader-unload-delay =
     .label = Unload tabs after
 zen-tabs-unloader-unload-delay-description = The time in minutes after which tabs will be unloaded
 zen-tabs-pinned-reset-close-shortcut-enabled =
-.label = Reset pinned tab to the original pinned tab URL when the close tab shortcut is pressed
+.label = Reset pinned tab to its originally pinned URL when the close tab shortcut is pressed
 
 pane-zen-workspaces-header = Workspaces
 zen-settings-workspaces-header = General settings for workspaces
