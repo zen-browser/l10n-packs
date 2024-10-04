@@ -15,6 +15,8 @@ zen-side-panels-close-on-blur =
     .label =
         Đóng bảng điều khiển khi mất tiêu điểm nếu
          không được ghim
+zen-vertical-tabs-show-bottom-border = 
+    .label = Show border for the bottom icons
 zen-look-and-feel-compact-view-header = Hiển thị ở chế độ thu gọn
 zen-look-and-feel-compact-view-description = Chỉ hiển thị các thanh công cụ mà bạn sử dụng!
 zen-look-and-feel-compact-view-enabled = 
