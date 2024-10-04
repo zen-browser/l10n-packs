@@ -19,6 +19,9 @@ zen-side-panels-enabled =
 zen-side-panels-close-on-blur =
     .label = Close the panel when it loses focus if it's not pinned
 
+zen-vertical-tabs-show-bottom-border =
+    .label = Show border for the bottom icons
+
 zen-look-and-feel-compact-view-header = Show in compact view
 zen-look-and-feel-compact-view-description = Only show the toolbars you use!
 zen-look-and-feel-compact-view-enabled =
