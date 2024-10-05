@@ -1,4 +1,4 @@
-pane-zen-looks-title = Görünüm ve His
+pane-zen-looks-title = Görünüm ve Hissiyat
 category-zen-looks = 
     .tooltiptext = { pane-zen-looks-title }
 zen-warning-language = Varsayılan dili değiştirmek, websitelerin sizi izlemesini kolaylaştırabilir.
@@ -14,7 +14,7 @@ zen-side-panels-enabled =
 zen-side-panels-close-on-blur = 
     .label = Eğer panel sabitlenmemişse ve odağı kaybetmişse paneli kapat
 zen-vertical-tabs-show-bottom-border = 
-    .label = Show border for the bottom icons
+    .label = Alttaki ikonlar için köşeleri göster
 zen-look-and-feel-compact-view-header = Kompakt görünümde göster
 zen-look-and-feel-compact-view-description = Sadece kullandığın araç çubuklarını göster!
 zen-look-and-feel-compact-view-enabled = 
