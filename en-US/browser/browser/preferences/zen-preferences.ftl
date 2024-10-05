@@ -22,6 +22,12 @@ zen-side-panels-close-on-blur =
 zen-vertical-tabs-show-bottom-border =
     .label = Show border for the bottom icons
 
+sync-currently-syncing-workspaces = Workspaces
+sync-engine-workspaces =
+    .label = Workspaces
+    .tooltiptext = Sync your workspaces across devices
+    .accesskey = W
+
 zen-look-and-feel-compact-view-header = Show in compact view
 zen-look-and-feel-compact-view-description = Only show the toolbars you use!
 zen-look-and-feel-compact-view-enabled =
