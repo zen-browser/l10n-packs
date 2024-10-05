@@ -17,6 +17,11 @@ zen-side-panels-close-on-blur =
          không được ghim
 zen-vertical-tabs-show-bottom-border = 
     .label = Show border for the bottom icons
+sync-currently-syncing-workspaces = Workspaces
+sync-engine-workspaces = 
+    .label = Workspaces
+    .tooltiptext = Sync your workspaces across devices
+    .accesskey = W
 zen-look-and-feel-compact-view-header = Hiển thị ở chế độ thu gọn
 zen-look-and-feel-compact-view-description = Chỉ hiển thị các thanh công cụ mà bạn sử dụng!
 zen-look-and-feel-compact-view-enabled = 
