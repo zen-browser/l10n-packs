@@ -1,11 +1,11 @@
 zen-web-side-panel-context-mute-panel = 
-    .label = Mute Web Panel
+    .label = Tystna Webbpanel
     .accesskey = M
 zen-web-side-panel-context-unmute-panel = 
-    .label = Unmute Web Panel
+    .label = Avaktivera Tystnad för Webbpanel
     .accesskey = m
 zen-web-side-panel-context-disable-ua = 
-    .label = Disable Mobile UserAgent
+    .label = Avaktivera Mobil
     .accesskey = U
 zen-web-side-panel-context-enable-ua = 
     .label = Enable Mobile UserAgent

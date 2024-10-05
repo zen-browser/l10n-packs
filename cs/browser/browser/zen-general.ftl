@@ -1,7 +1,7 @@
 zen-panel-ui-current-profile-text = aktuální profil
 unified-extensions-description = { -brand-short-name } podporuje rozšíření pro přidání extra funkcí.
 tab-zen-unload = 
-    .label = Unload Tab
+    .label = Uspat kartu
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
     .label = Tabs Unloader Actions
