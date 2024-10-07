@@ -65,6 +65,8 @@ zen-pinned-tab-manager-header = General settings for pinned tabs
 zen-pinned-tab-manager-description = Manage additional behavior of pinned tabs
 zen-pinned-tab-manager-reset-close-shortcut-enabled =
     .label = Reset pinned tab to its originally pinned URL when the close tab shortcut is pressed
+zen-pinned-tab-manager-restore-pinned-tabs-to-pinned-url =
+    .label = Restore pinned tabs to their originally pinned URL
 
 pane-zen-workspaces-header = Workspaces
 zen-settings-workspaces-header = General settings for workspaces
