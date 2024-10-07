@@ -1,4 +1,4 @@
-zen-panel-ui-current-profile-text = Nuvarande profil
+zen-panel-ui-current-profile-text = nuvarande profil
 unified-extensions-description = Tillägg används för att lägga till extra funktionalitet i { -brand-short-name }.
 tab-zen-unload = 
     .label = Avlasta Flik
