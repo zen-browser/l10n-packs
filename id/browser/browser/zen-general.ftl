@@ -1,7 +1,7 @@
 zen-panel-ui-current-profile-text = profil saat ini
 unified-extensions-description = Ekstensi digunakan untuk menambahkan lebih banyak fungsi ekstra ke { -brand-short-name }.
 tab-zen-unload = 
-    .label = Unload Tab
+    .label = Bongkar Tab
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
     .label = Tabs Unloader Actions
