@@ -1,5 +1,11 @@
 zen-panel-ui-current-profile-text = ppróifíl reatha
 unified-extensions-description = Extensions are used to bring more extra functionality into { -brand-short-name }.
+tab-context-zen-reset-pinned-tab = 
+    .label = Reset Pinned Tab
+    .accesskey = R
+tab-context-zen-replace-pinned-url-with-current = 
+    .label = Replace Pinned URL with Current
+    .accesskey = C
 tab-zen-unload = 
     .label = Díluchtaigh Cluaisín
     .accesskey = U
