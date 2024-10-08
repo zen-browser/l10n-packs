@@ -1,13 +1,13 @@
 zen-panel-ui-current-profile-text = Aktuelles Profil
 unified-extensions-description = Erweiterungen fügen { -brand-short-name } zusätzliche Funktionen hinzu.
 tab-context-zen-reset-pinned-tab = 
-    .label = Reset Pinned Tab
+    .label = Angehefteten Tab zurücksetzen
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Replace Pinned URL with Current
+    .label = Angeheftete URL durch aktuelle ersetzen
     .accesskey = C
 tab-zen-unload = 
-    .label = Unload Tab
+    .label = Tab entladen
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
     .label = Tabs Unloader Actions
