@@ -1,5 +1,11 @@
 zen-panel-ui-current-profile-text = τρέχον προφίλ
 unified-extensions-description = Οι επεκτάσεις χρησιμοποιούνται για να φέρουν περισσότερη επιπλέον λειτουργικότητα στο { -brand-short-name }.
+tab-context-zen-reset-pinned-tab = 
+    .label = Reset Pinned Tab
+    .accesskey = R
+tab-context-zen-replace-pinned-url-with-current = 
+    .label = Replace Pinned URL with Current
+    .accesskey = C
 tab-zen-unload = 
     .label = Εκφόρτωση Καρτέλας
     .accesskey = U
