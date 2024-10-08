@@ -1,5 +1,11 @@
 zen-panel-ui-current-profile-text = 使用中のプロファイル
 unified-extensions-description = 拡張機能を使うことで、より多くの機能を{ -brand-short-name } に追加することができます。
+tab-context-zen-reset-pinned-tab = 
+    .label = Reset Pinned Tab
+    .accesskey = R
+tab-context-zen-replace-pinned-url-with-current = 
+    .label = Replace Pinned URL with Current
+    .accesskey = C
 tab-zen-unload = 
     .label = Unload Tab
     .accesskey = U
