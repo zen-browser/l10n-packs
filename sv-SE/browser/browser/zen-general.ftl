@@ -1,5 +1,11 @@
 zen-panel-ui-current-profile-text = nuvarande profil
 unified-extensions-description = Tillägg används för att lägga till extra funktionalitet i { -brand-short-name }.
+tab-context-zen-reset-pinned-tab = 
+    .label = Reset Pinned Tab
+    .accesskey = R
+tab-context-zen-replace-pinned-url-with-current = 
+    .label = Replace Pinned URL with Current
+    .accesskey = C
 tab-zen-unload = 
     .label = Avlasta Flik
     .accesskey = U
