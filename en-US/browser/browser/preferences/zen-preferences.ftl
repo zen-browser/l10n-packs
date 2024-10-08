@@ -259,6 +259,7 @@ zen-workspace-shortcut-forward = Forward Workspace
 zen-workspace-shortcut-backward = Backward Workspace
 zen-web-panel-shortcut-toggle = Toggle Web Panel
 zen-sidebar-shortcut-toggle = Toggle Sidebar's Width
+zen-pinned-tab-shortcut-reset = Reset Pinned Tab to Pinned URL
 zen-split-view-shortcut-grid = Toggle Split View Grid
 zen-split-view-shortcut-vertical = Toggle Split View Vertical
 zen-split-view-shortcut-horizontal = Toggle Split View Horizontal
