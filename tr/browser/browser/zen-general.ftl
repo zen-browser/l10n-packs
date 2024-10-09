@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Sekmenin Uyku Moduna Alınmasını Engelle
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Sekmelerin Uyku Moduna Alınmasını Görmezden Gel
+    .label = Prevent Tab Unload
     .accesskey = I
