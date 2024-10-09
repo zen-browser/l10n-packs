@@ -1,7 +1,13 @@
 zen-panel-ui-current-profile-text = profil saat ini
 unified-extensions-description = Ekstensi digunakan untuk menambahkan lebih banyak fungsi ekstra ke { -brand-short-name }.
+tab-context-zen-reset-pinned-tab = 
+    .label = Reset Pinned Tab
+    .accesskey = R
+tab-context-zen-replace-pinned-url-with-current = 
+    .label = Replace Pinned URL with Current
+    .accesskey = C
 tab-zen-unload = 
-    .label = Unload Tab
+    .label = Bongkar Tab
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
     .label = Tabs Unloader Actions

@@ -1,5 +1,11 @@
 zen-panel-ui-current-profile-text = aktuální profil
 unified-extensions-description = { -brand-short-name } podporuje rozšíření pro přidání extra funkcí.
+tab-context-zen-reset-pinned-tab = 
+    .label = Reset Pinned Tab
+    .accesskey = R
+tab-context-zen-replace-pinned-url-with-current = 
+    .label = Replace Pinned URL with Current
+    .accesskey = C
 tab-zen-unload = 
     .label = Uspat kartu
     .accesskey = U
