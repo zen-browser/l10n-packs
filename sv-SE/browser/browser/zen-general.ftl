@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Förhindra avlastning av flik
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Ignorera avlastning av flik
+    .label = Prevent Tab Unload
     .accesskey = I
