@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Neleisti iškelti kortelės
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Ignoruoti kortelės iškėlimą
+    .label = Prevent Tab Unload
     .accesskey = I
