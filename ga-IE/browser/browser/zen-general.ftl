@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Cosc a chur ar dhíluchtú cluaisíní
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Déan neamhaird de dhíluchtú na gcluaisíní
+    .label = Prevent Tab Unload
     .accesskey = I
