@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Zapobiegaj rozładowaniu karty
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Ignoruj rozładowanie karty
+    .label = Prevent Tab Unload
     .accesskey = I
