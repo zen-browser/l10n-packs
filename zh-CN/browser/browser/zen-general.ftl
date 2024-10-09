@@ -1,10 +1,10 @@
 zen-panel-ui-current-profile-text = 当前配置
 unified-extensions-description = 扩展用于为 { -brand-short-name } 带来更多额外功能。
 tab-context-zen-reset-pinned-tab = 
-    .label = Reset Pinned Tab
+    .label = 重置固定标签页
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Replace Pinned URL with Current
+    .label = 将固定的 URL 替换为当前页面 URL
     .accesskey = C
 tab-zen-unload = 
     .label = 卸载标签页
