@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = 탭 언로드 방지
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = 탭 언로드 방지
+    .label = Allow Tab Unload
     .accesskey = I
