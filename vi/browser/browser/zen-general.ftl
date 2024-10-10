@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Tránh Tab bị giải phóng
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Prevent Tab Unload
+    .label = Allow Tab Unload
     .accesskey = I
