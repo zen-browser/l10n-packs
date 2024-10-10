@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Prevenir Hibernación de Pestaña
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Prevenir Hibernación de Pestaña
+    .label = Allow Tab Unload
     .accesskey = I
