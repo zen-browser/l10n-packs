@@ -1,10 +1,10 @@
 zen-panel-ui-current-profile-text = perfil actual
 unified-extensions-description = Las extensiones se utilizan para agregar más funcionalidades a { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Reset Pinned Tab
+    .label = Restablecer Pestaña Anclada
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Replace Pinned URL with Current
+    .label = Reemplazar URL Anclada con la URL Actual
     .accesskey = C
 tab-zen-unload = 
     .label = Hibernar Pestaña
