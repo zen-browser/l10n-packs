@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Запобігти вивантаженню вкладок
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Запобігти вивантаженню вкладок
+    .label = Allow Tab Unload
     .accesskey = I
