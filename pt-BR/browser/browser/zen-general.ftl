@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Prevenir abas de descarregar
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Prevenir descarregamento de abas
+    .label = Allow Tab Unload
     .accesskey = I
