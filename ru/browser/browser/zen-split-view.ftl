@@ -1,16 +1,16 @@
-tab-zen-split-tabs = 
+tab-zen-split-tabs =
     .label =
         { $tabCount ->
             [1] Разделить вкладку (выберите несколько вкладок)
-           *[other] Разделить { $tabCount } Вкладки
+           *[other] Разделить { $tabCount } вкладки
         }
     .accesskey = S
-zen-split-link = 
+zen-split-link =
     .label = Раздельный вид в новой вкладке
     .accesskey = S
-zen-split-view-modifier-header = Split View
-zen-split-view-modifier-activate-reallocation = 
-    .label = Activate reallocation
-zen-split-view-modifier-enabled-toast = Split view rearrange is ON.
-zen-split-view-modifier-enabled-toast-description = Drag and drop the view to rearrange. Press Esc to exit.
-zen-split-view-modifier-disabled-toast = Split view rearrange is OFF.
+zen-split-view-modifier-header = Раздельный вид
+zen-split-view-modifier-activate-reallocation =
+    .label = Активировать перераспределение
+zen-split-view-modifier-enabled-toast = Перестановка разделенного вида включена
+zen-split-view-modifier-enabled-toast-description = Перетащите вид для изменения порядка. Нажмите Esc для выхода
+zen-split-view-modifier-disabled-toast = Перестановка разделенного вида выключена
