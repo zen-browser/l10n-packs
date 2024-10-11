@@ -17,6 +17,6 @@ zen-tabs-unloader-tab-actions =
 tab-zen-prevent-unload =
     .label = Prevent Tab Unload
     .accesskey = P
-tab-zen-allow-unload =
+tab-zen-ignore-unload =
     .label = Allow Tab Unload
     .accesskey = I
