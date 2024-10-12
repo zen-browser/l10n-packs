@@ -30,5 +30,5 @@ context-zen-change-workspace-tab =
     .label = Lap(ok) Mozgatása Munkakörnyezetbe
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Set Default Container
+    .label = Alapértelmezett Container beállítása
     .accesskey = O
