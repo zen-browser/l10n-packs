@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Prevent Tab Unload
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Allow Tab Unload
+    .label = Permetti di scaricare le schede
     .accesskey = I
