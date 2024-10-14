@@ -1,4 +1,4 @@
-zen-panel-ui-current-profile-text = profil actuel
+zen-panel-ui-current-profile-text = Profil actuel
 unified-extensions-description = Les extensions sont utilisées pour ajouter plus de fonctionnalités à { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
     .label = Réinitialiser l'onglet épinglé
@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Empêcher le déchargement de l'onglet
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Allow Tab Unload
+    .label = Permettre le déchargement de l'onglet
     .accesskey = I
