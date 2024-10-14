@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Voorkom Ontladen van Tabblad
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Voorkom ontladen van tabblad
+    .label = Allow Tab Unload
     .accesskey = I
