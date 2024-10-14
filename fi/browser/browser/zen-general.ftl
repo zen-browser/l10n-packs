@@ -1,10 +1,10 @@
 zen-panel-ui-current-profile-text = nykyinen profiili
 unified-extensions-description = Laajennuksia käytetään tuomaan lisää lisätoimintoja { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Reset Pinned Tab
+    .label = Resetoi kinnittetty välilehti
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Replace Pinned URL with Current
+    .label = Korvaa kiinnitetty URL nykyisellä osoitteella
     .accesskey = C
 tab-zen-unload = 
     .label = Välehden purku

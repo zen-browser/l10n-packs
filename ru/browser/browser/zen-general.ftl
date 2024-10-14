@@ -1,10 +1,10 @@
 zen-panel-ui-current-profile-text = текущий профиль
 unified-extensions-description = Расширения используются для расширения функциональности { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Reset Pinned Tab
+    .label = Сбросить закрепленную вкладку
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Replace Pinned URL with Current
+    .label = Заменить URL закрепленной вкладки текущим
     .accesskey = C
 tab-zen-unload = 
     .label = Выгрузить вкладки

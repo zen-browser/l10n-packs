@@ -1,4 +1,4 @@
-zen-panel-ui-current-profile-text = پروفایل کنونی
+zen-panel-ui-current-profile-text = نمایهٔ کنونی
 unified-extensions-description = افزونه‌های در حال استفاده عملکردهای بیشتری به { -brand-short-name } می‌دهند.
 tab-context-zen-reset-pinned-tab = 
     .label = Reset Pinned Tab

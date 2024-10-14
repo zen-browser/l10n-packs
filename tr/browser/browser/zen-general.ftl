@@ -1,10 +1,10 @@
 zen-panel-ui-current-profile-text = mevcut profil
 unified-extensions-description = Uzantılar { -brand-short-name } daha fazla işlevsellik kazandırmak için kullanılır.
 tab-context-zen-reset-pinned-tab = 
-    .label = Reset Pinned Tab
+    .label = Sabitlenen Sekmeyi Sıfırla
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Replace Pinned URL with Current
+    .label = Sabitlenen URL'yi Mevcut ile Değiştir
     .accesskey = C
 tab-zen-unload = 
     .label = Sekmeyi Uyku Moduna Al
