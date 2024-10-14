@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Empêcher le déchargement de l'onglet
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Allow Tab Unload
+    .label = Permettre le déchargement de l'onglet
     .accesskey = I
