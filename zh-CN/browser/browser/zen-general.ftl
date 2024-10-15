@@ -18,3 +18,4 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = 允许标签页卸载
     .accesskey = I
+zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
