@@ -1,9 +1,9 @@
-pane-zen-looks-title = Look and Feel
+pane-zen-looks-title = Aparência
 category-zen-looks = 
     .tooltiptext = { pane-zen-looks-title }
-zen-warning-language = Changing the default language could make it easier for Websites to track you.
-zen-look-and-feel-colors-header = Pick a theme colour
-zen-look-and-feel-colors-description = Make { -brand-short-name } look and feel the way you like
+zen-warning-language = Ao alterar o idioma padrão está-se a tormar mais rastreável.
+zen-look-and-feel-colors-header = Escolha a cor do tema
+zen-look-and-feel-colors-description = Faz com que o { -brand-short-name } tenha a aparência que prefere
 zen-look-and-feel-themed-toolbar = 
     .label = Make the toolbar themed with the accent color
 pane-zen-side-panels-title = Side Web Panels
