@@ -18,3 +18,4 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Permitir descarregamento de abas
     .accesskey = I
+zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
