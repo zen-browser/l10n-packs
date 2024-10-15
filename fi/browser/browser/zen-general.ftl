@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = Estä välilehden purkaminen
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Allow Tab Unload
+    .label = Salli välilehden purkaminen
     .accesskey = I
