@@ -16,5 +16,5 @@ tab-zen-prevent-unload =
     .label = 防止标签页卸载
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Allow Tab Unload
+    .label = 允许标签页卸载
     .accesskey = I
