@@ -16,5 +16,6 @@ tab-zen-prevent-unload =
     .label = Estä välilehden purkaminen
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Allow Tab Unload
+    .label = Salli välilehden purkaminen
     .accesskey = I
+zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.

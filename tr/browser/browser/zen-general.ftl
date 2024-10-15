@@ -16,5 +16,6 @@ tab-zen-prevent-unload =
     .label = Sekmenin Uyku Moduna Alınmasını Engelle
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Allow Tab Unload
+    .label = Sekmenin Uyku Moduna Geçmesine İzin Ver
     .accesskey = I
+zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
