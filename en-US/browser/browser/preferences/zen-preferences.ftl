@@ -102,7 +102,7 @@ zen-vertical-tabs-show-expand-button =
 
 zen-vertical-tabs-expand-tabs-by-default = Expand Tabs by Default
 zen-vertical-tabs-dont-expand-tabs-by-default = Don't Expand Tabs by Default
-zen-vertical-tabs-expand-tabs-on-hover = Expand Tabs on Hover (Wont work on compact mode)
+zen-vertical-tabs-expand-tabs-on-hover = Expand Tabs on Hover (Won't work on compact mode)
 
 zen-vertical-tabs-expand-tabs-header = How to expand tabs
 zen-vertical-tabs-expand-tabs-description = Choose how to expand tabs in the sidebar
