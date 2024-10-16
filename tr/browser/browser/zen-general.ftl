@@ -18,4 +18,4 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Sekmenin Uyku Moduna Geçmesine İzin Ver
     .accesskey = I
-zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
+zen-themes-corrupted = { -brand-short-name } adlı modun dosyaları hatalı. Varsayılan temaya sıfırlandılar.
