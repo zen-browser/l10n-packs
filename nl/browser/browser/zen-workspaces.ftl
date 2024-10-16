@@ -30,5 +30,5 @@ context-zen-change-workspace-tab =
     .label = Tab(s) Verplaatsen Naar Werkruimte
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Set Default Container
+    .label = Stel Standaardcontainer in
     .accesskey = O

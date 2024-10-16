@@ -1,4 +1,4 @@
-zen-panel-ui-current-profile-text = پروفایل کنونی
+zen-panel-ui-current-profile-text = نمایهٔ کنونی
 unified-extensions-description = افزونه‌های در حال استفاده عملکردهای بیشتری به { -brand-short-name } می‌دهند.
 tab-context-zen-reset-pinned-tab = 
     .label = Reset Pinned Tab
@@ -18,3 +18,4 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Allow Tab Unload
     .accesskey = I
+zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.

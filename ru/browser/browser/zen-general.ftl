@@ -1,10 +1,10 @@
 zen-panel-ui-current-profile-text = текущий профиль
 unified-extensions-description = Расширения используются для расширения функциональности { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Reset Pinned Tab
+    .label = Сбросить закрепленную вкладку
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Replace Pinned URL with Current
+    .label = Заменить URL закрепленной вкладки текущим
     .accesskey = C
 tab-zen-unload = 
     .label = Выгрузить вкладки
@@ -18,3 +18,4 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Allow Tab Unload
     .accesskey = I
+zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.

@@ -16,5 +16,6 @@ tab-zen-prevent-unload =
     .label = Prevenir abas de descarregar
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Allow Tab Unload
+    .label = Permitir descarregamento de abas
     .accesskey = I
+zen-themes-corrupted = Seu arquivo de modificações { -brand-short-name } está corrompido. Eles foram redefinidos para o tem padrão.
