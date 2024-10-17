@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = Workspaces
+zen-panel-ui-workspaces-text = Munkakörnyezetek
 zen-panel-ui-workspaces-create-text = Munkakörnyezet Létrehozása
 zen-panel-ui-workspaces-create-save = 
     .label = Munkakörnyezet Létrehozása
