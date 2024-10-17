@@ -1,5 +1,4 @@
-zen-panel-ui-current-window-text = Finestra corrente
-zen-panel-ui-workspaces-text = Altri spazi di lavoro
+zen-panel-ui-workspaces-text = Workspaces
 zen-panel-ui-workspaces-create-text = Crea uno spazio di lavoro
 zen-panel-ui-workspaces-create-save = 
     .label = Crea uno spazio di lavoro
