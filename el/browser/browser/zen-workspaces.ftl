@@ -1,5 +1,4 @@
-zen-panel-ui-current-window-text = Τρέχον Παράθυρο
-zen-panel-ui-workspaces-text = Άλλοι Χώροι Εργασίας
+zen-panel-ui-workspaces-text = Workspaces
 zen-panel-ui-workspaces-create-text = Δημιουργία Χώρου Εργασίας
 zen-panel-ui-workspaces-create-save = 
     .label = Δημιουργία Χώρου Εργασίας
