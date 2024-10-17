@@ -1,5 +1,4 @@
-zen-panel-ui-current-window-text = Текущее окно
-zen-panel-ui-workspaces-text = Другие рабочие области
+zen-panel-ui-workspaces-text = Workspaces
 zen-panel-ui-workspaces-create-text = Создать рабочую область
 zen-panel-ui-workspaces-create-save = 
     .label = Создать рабочую область
