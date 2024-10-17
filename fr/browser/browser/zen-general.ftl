@@ -18,4 +18,4 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Permettre le déchargement de l'onglet
     .accesskey = I
-zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
+zen-themes-corrupted = Votre fichier de modification { -brand-short-name } a été corrompu. Ils ont été réinitialisés au thème par défaut.
