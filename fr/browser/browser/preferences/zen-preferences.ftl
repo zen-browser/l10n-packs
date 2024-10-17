@@ -1,4 +1,4 @@
-pane-zen-looks-title = Aspect et convivialité
+pane-zen-looks-title = Langue et apparence
 category-zen-looks = 
     .tooltiptext = { pane-zen-looks-title }
 zen-warning-language = Changer la langue par défaut pourrait faciliter les sites web à vous traquer.
@@ -108,9 +108,9 @@ pane-zen-marketplace-title = Mods de Zen
 zen-settings-workspaces-display-as-icon-strip = 
     .label = Afficher l'espace de travail sous forme d'une bande d'icônes
 zen-settings-workspaces-force-container-tabs-to-workspace = 
-    .label = Switch to workspace where container is set as default when opening container tabs
+    .label = Basculer vers l'espace de travail où le conteneur est défini par défaut lors de l'ouverture des onglets de conteneurs
 zen-settings-workspaces-hide-deactivated-workspaces = 
-    .label = Hide deactivated workspaces
+    .label = Cacher les espaces de travail désactivés
 zen-theme-marketplace-link = Visitez la boutique
 zen-dark-theme-styles-header = Styles de thème sombre
 zen-dark-theme-styles-description = Personnaliser le thème sombre selon vos goûts
