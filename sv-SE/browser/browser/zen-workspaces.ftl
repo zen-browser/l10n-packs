@@ -1,5 +1,4 @@
-zen-panel-ui-current-window-text = Aktuellt Fönster
-zen-panel-ui-workspaces-text = Andra Arbetsytor
+zen-panel-ui-workspaces-text = Workspaces
 zen-panel-ui-workspaces-create-text = Skapa Arbetsyta
 zen-panel-ui-workspaces-create-save = 
     .label = Skapa arbetsyta
