@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = Workspaces
+zen-panel-ui-workspaces-text = Espaços de trabalho
 zen-panel-ui-workspaces-create-text = Criar Espaço de Trabalho
 zen-panel-ui-workspaces-create-save = 
     .label = Criar Espaço de Trabalho
