@@ -1,4 +1,3 @@
-zen-panel-ui-current-window-text = پنجره کنونی
 zen-panel-ui-workspaces-text = دیگر فضاهای کاری
 zen-panel-ui-workspaces-create-text = ساخت فضای کاری
 zen-panel-ui-workspaces-create-save = 

@@ -1,4 +1,3 @@
-zen-panel-ui-current-window-text = Aktuelles Fenster
 zen-panel-ui-workspaces-text = Andere Arbeitsbereiche
 zen-panel-ui-workspaces-create-text = Arbeitsbereich Erstellen
 zen-panel-ui-workspaces-create-save = 

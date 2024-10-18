@@ -1,4 +1,3 @@
-zen-panel-ui-current-window-text = Mevcut Pencere
 zen-panel-ui-workspaces-text = Diğer Çalışma Alanları
 zen-panel-ui-workspaces-create-text = Çalışma Alanı Oluştur
 zen-panel-ui-workspaces-create-save = 

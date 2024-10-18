@@ -1,4 +1,3 @@
-zen-panel-ui-current-window-text = Huidig Venster
 zen-panel-ui-workspaces-text = Andere Werkruimtes
 zen-panel-ui-workspaces-create-text = Werkruimte Maken
 zen-panel-ui-workspaces-create-save = 

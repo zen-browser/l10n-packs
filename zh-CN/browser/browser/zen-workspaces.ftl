@@ -1,4 +1,3 @@
-zen-panel-ui-current-window-text = 当前窗口
 zen-panel-ui-workspaces-text = 其它工作空间
 zen-panel-ui-workspaces-create-text = 创建工作空间
 zen-panel-ui-workspaces-create-save = 

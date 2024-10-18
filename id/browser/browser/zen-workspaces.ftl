@@ -1,4 +1,3 @@
-zen-panel-ui-current-window-text = Jendela Saat Ini
 zen-panel-ui-workspaces-text = Ruang Kerja Lainnya
 zen-panel-ui-workspaces-create-text = Buat Ruang Kerja
 zen-panel-ui-workspaces-create-save = 

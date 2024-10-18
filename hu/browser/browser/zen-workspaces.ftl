@@ -1,4 +1,3 @@
-zen-panel-ui-current-window-text = Jelenlegi Ablak
 zen-panel-ui-workspaces-text = Más Munkakörnyezetek
 zen-panel-ui-workspaces-create-text = Munkakörnyezet Létrehozása
 zen-panel-ui-workspaces-create-save = 

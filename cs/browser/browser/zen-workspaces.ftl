@@ -1,4 +1,3 @@
-zen-panel-ui-current-window-text = Aktuální okno
 zen-panel-ui-workspaces-text = Ostatní pracoviště
 zen-panel-ui-workspaces-create-text = Vytvořit pracoviště
 zen-panel-ui-workspaces-create-save = 
