@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = Workspaces
+zen-panel-ui-workspaces-text = Spásanna Oibre Eile
 zen-panel-ui-workspaces-create-text = Cruthaigh Spás Oibre
 zen-panel-ui-workspaces-create-save = 
     .label = Create Workspace
