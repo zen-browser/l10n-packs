@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = Workspaces
+zen-panel-ui-workspaces-text = دیگر فضاهای کاری
 zen-panel-ui-workspaces-create-text = ساخت فضای کاری
 zen-panel-ui-workspaces-create-save = 
     .label = ساخت فضای کاری
