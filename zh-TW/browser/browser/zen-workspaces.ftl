@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = 工作區
+zen-panel-ui-workspaces-text = 其他工作區
 zen-panel-ui-workspaces-create-text = 建立工作區
 zen-panel-ui-workspaces-create-save = 
     .label = 建立工作區
