@@ -18,4 +18,4 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Permitir Hibernación de Pestaña
     .accesskey = I
-zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
+zen-themes-corrupted = Su archivo de mods de { -brand-short-name } está corrupto. Se ha restablecido el tema por defecto.

@@ -1,5 +1,4 @@
-zen-panel-ui-current-window-text = Nykyinen ikkuna
-zen-panel-ui-workspaces-text = Muut työtilat
+zen-panel-ui-workspaces-text = Workspaces
 zen-panel-ui-workspaces-create-text = Luo työtila
 zen-panel-ui-workspaces-create-save = 
     .label = Luo työtila

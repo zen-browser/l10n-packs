@@ -18,4 +18,4 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Salli välilehden purkaminen
     .accesskey = I
-zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
+zen-themes-corrupted = Sinun { -brand-short-name } modit tiedosto on korruptoitunut. Ne on palautettu oletusteemaan.
