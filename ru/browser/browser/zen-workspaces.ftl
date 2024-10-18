@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = Рабочие области
+zen-panel-ui-workspaces-text = Другие рабочие области
 zen-panel-ui-workspaces-create-text = Создать рабочую область
 zen-panel-ui-workspaces-create-save = 
     .label = Создать рабочую область
