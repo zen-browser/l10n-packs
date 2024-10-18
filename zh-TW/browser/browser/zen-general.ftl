@@ -18,7 +18,4 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = 允許卸載分頁
     .accesskey = I
-zen-themes-corrupted =
-    你的 { -brand-short-name } 模組文件已損壞，它們已重置為預設佈景主題
-    
-    zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme
+zen-themes-corrupted = 你的 { -brand-short-name } 模組文件已損壞，它們已重置為預設佈景主題
