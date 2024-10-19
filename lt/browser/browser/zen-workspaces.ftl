@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = Kitos darbo sritys
+zen-panel-ui-workspaces-text = Darbo sritys
 zen-panel-ui-workspaces-create-text = Kurti darbo sritį
 zen-panel-ui-workspaces-create-save = 
     .label = Kurti darbo sritį

@@ -1,7 +1,7 @@
 zen-panel-ui-current-profile-text = dabartinis profilis
 unified-extensions-description = Plėtiniai naudojami norint į „{ -brand-short-name }“ įtraukti daugiau papildomų funkcijų.
 tab-context-zen-reset-pinned-tab = 
-    .label = Iš naujo nustatyti prisegtą kortelę
+    .label = Atkurti prisegtą kortelę
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Pakeisti prisegtą URL adresą dabartiniu
@@ -16,6 +16,6 @@ tab-zen-prevent-unload =
     .label = Neleisti iškelti kortelės
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Allow Tab Unload
+    .label = Leisti kortelės iškėlimą
     .accesskey = I
-zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
+zen-themes-corrupted = Jūsų „{ -brand-short-name }“ modifikacijų failas sugadintas. Jie buvo atkurti į numatytąją temą.
