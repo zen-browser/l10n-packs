@@ -18,4 +18,4 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Zezwalaj na uśpienie kart
     .accesskey = I
-zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
+zen-themes-corrupted = Twój plik modów { -brand-short-name } jest uszkodzony. Zostały one zresetowane do domyślnego stanu.
