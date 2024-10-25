@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = 允许标签页卸载
     .accesskey = I
 zen-themes-corrupted = 您的 { -brand-short-name } 模组文件已损坏。它们已重置为默认主题。
+zen-panel-ui-gradient-generator-opacity-text = Contrast
