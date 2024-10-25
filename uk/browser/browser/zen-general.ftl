@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = Дозволити вивантаження вкладок
     .accesskey = I
 zen-themes-corrupted = Ваш файл модів { -brand-short-name } пошкоджено. Їх було скинуто до типової теми.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
