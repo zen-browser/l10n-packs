@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = Izinkan Pelepasan Tab
     .accesskey = I
 zen-themes-corrupted = Tidak dapat memuat file mod { -brand-short-name } Anda karena rusakan. File tersebut telah diatur ulang ke tema default.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
