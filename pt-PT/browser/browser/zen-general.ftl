@@ -1,10 +1,10 @@
 zen-panel-ui-current-profile-text = perfil atual
 unified-extensions-description = As extensões são usadas para trazer funcionalidades adicionais para o { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Repor Separador Fixado
+    .label = Repor o Separador Afixado
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Atualizar a URL Fixada para a Atual
+    .label = Substituir o URL Afixado pelo URL Atual
     .accesskey = C
 tab-zen-unload = 
     .label = Hibernar Separador
