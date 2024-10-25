@@ -31,3 +31,6 @@ context-zen-change-workspace-tab =
 zen-workspaces-panel-context-open-in-container-tab = 
     .label = Ustaw domyślny kontener
     .accesskey = O
+zen-workspaces-change-gradient = 
+    .label = Zmień kolory motywu
+    .accesskey = C
