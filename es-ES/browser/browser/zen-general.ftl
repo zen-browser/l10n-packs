@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = Permitir Hibernación de Pestaña
     .accesskey = I
 zen-themes-corrupted = Su archivo de mods de { -brand-short-name } está corrupto. Se ha restablecido el tema por defecto.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
