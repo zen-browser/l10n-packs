@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = Permitir descarregamento de abas
     .accesskey = I
 zen-themes-corrupted = Seu arquivo de modificações { -brand-short-name } está corrompido. Eles foram redefinidos para o tem padrão.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
