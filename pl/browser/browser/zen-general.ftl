@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = Zezwalaj na uśpienie kart
     .accesskey = I
 zen-themes-corrupted = Twój plik modów { -brand-short-name } jest uszkodzony. Zostały one zresetowane do domyślnego stanu.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
