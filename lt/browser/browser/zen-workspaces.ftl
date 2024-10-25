@@ -32,5 +32,5 @@ zen-workspaces-panel-context-open-in-container-tab =
     .label = Nustatyti numatytąją konteinerį
     .accesskey = O
 zen-workspaces-change-gradient = 
-    .label = Change Theme Colors
+    .label = Keisti temos spalvas
     .accesskey = C
