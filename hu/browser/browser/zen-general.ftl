@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = Lap űrítésének engedélyezése
     .accesskey = I
 zen-themes-corrupted = A te { -brand-short-name } mod fájljaid károsodtak. Vissza lettek állítva az eredeti témára.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
