@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = Sekmenin Uyku Moduna Geçmesine İzin Ver
     .accesskey = I
 zen-themes-corrupted = { -brand-short-name } adlı modun dosyaları hatalı. Varsayılan temaya sıfırlandılar.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
