@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = Entladen des Tabs erlauben
     .accesskey = I
 zen-themes-corrupted = Deine { -brand-short-name } Mod Datei ist korrumpiert. Sie wurden auf das Standard-Design zurückgesetzt.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
