@@ -36,3 +36,4 @@ tab-zen-ignore-unload =
         .accesskey = I
     .accesskey = I
 zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
