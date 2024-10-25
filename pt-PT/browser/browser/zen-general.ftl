@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = Permitir a Hibernação do Separador
     .accesskey = I
 zen-themes-corrupted = O seu ficheiro de modificações do { -brand-short-name } está corrompido. Elas foram redefinidas como iguais às do tema padrão.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
