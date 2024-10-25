@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = Outros Espaços de Trabalho
+zen-panel-ui-workspaces-text = Espaços de trabalho
 zen-panel-ui-workspaces-create-text = Criar Espaço de Trabalho
 zen-panel-ui-workspaces-create-save = 
     .label = Criar Espaço de Trabalho
@@ -32,5 +32,5 @@ zen-workspaces-panel-context-open-in-container-tab =
     .label = Definir Contêiner Padrão
     .accesskey = O
 zen-workspaces-change-gradient = 
-    .label = Change Theme Colors
+    .label = Alterar cores do tema
     .accesskey = C
