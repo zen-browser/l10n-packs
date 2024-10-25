@@ -19,3 +19,4 @@ tab-zen-ignore-unload =
     .label = Leisti kortelės iškėlimą
     .accesskey = I
 zen-themes-corrupted = Jūsų „{ -brand-short-name }“ modifikacijų failas sugadintas. Jie buvo atkurti į numatytąją temą.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
