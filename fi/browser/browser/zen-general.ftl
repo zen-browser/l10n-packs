@@ -19,3 +19,6 @@ tab-zen-ignore-unload =
     .label = Salli välilehden purkaminen
     .accesskey = I
 zen-themes-corrupted = Sinun { -brand-short-name } modit tiedosto on korruptoitunut. Ne on palautettu oletusteemaan.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
+zen-panel-ui-gradient-generator-texture-text = Texture
+zen-panel-ui-gradient-generator-custom-color = Custom Color

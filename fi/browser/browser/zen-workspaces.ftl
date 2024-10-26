@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = Muut työtilat
+zen-panel-ui-workspaces-text = Työtilat
 zen-panel-ui-workspaces-create-text = Luo työtila
 zen-panel-ui-workspaces-create-save = 
     .label = Luo työtila
@@ -31,3 +31,6 @@ context-zen-change-workspace-tab =
 zen-workspaces-panel-context-open-in-container-tab = 
     .label = Aseta oletussäiliö
     .accesskey = O
+zen-workspaces-change-gradient = 
+    .label = Change Theme Colors
+    .accesskey = C

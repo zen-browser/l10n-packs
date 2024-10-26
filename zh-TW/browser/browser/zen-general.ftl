@@ -19,3 +19,6 @@ tab-zen-ignore-unload =
     .label = 允許卸載分頁
     .accesskey = I
 zen-themes-corrupted = 你的 { -brand-short-name } 模組文件已損壞，它們已重置為預設佈景主題
+zen-panel-ui-gradient-generator-opacity-text = Contrast
+zen-panel-ui-gradient-generator-texture-text = Texture
+zen-panel-ui-gradient-generator-custom-color = Custom Color

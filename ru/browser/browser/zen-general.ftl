@@ -19,3 +19,6 @@ tab-zen-ignore-unload =
     .label = Игнорировать выгрузку вкладок
     .accesskey = I
 zen-themes-corrupted = Ваш файл модов { -brand-short-name } повреждён. Он был сброшен к стандартной теме.
+zen-panel-ui-gradient-generator-opacity-text = Contrast
+zen-panel-ui-gradient-generator-texture-text = Texture
+zen-panel-ui-gradient-generator-custom-color = Custom Color
