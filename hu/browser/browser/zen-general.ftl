@@ -20,3 +20,5 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = A te { -brand-short-name } mod fájljaid károsodtak. Vissza lettek állítva az eredeti témára.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
+zen-panel-ui-gradient-generator-texture-text = Texture
+zen-panel-ui-gradient-generator-custom-color = Custom Color
