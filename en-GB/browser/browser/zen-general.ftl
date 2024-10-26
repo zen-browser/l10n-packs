@@ -4,36 +4,19 @@ tab-context-zen-reset-pinned-tab =
     .label = Reset Pinned Tab
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label =
-        tab-context-zen-replace-pinned-url-with-current-tab =__5___
-        .label = Replace Pinned Url with Current
-        .accesskey = C
+    .label = Replace Pinned Url with Current
     .accesskey = C
 tab-zen-unload = 
-    .label =
-        tab-zen-unload =__8___
-        .label = Unload tab
-        .accesskey = U
+    .label = Unload tab
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
-    .label =
-        zen-tabs-unloader-tab-actions =__11___
-        .label = Tabs Unloader Actions
-        .accesskey = T
-        
+    .label = zen-tabs-unloader-tab-actions =__11___
     .accesskey = T
 tab-zen-prevent-unload = 
-    .label =
-        tab-zen-prevent-unload =__14___
-        .label = Prevent Tab Unload
-        .accesskey = P
-        
+    .label = tab-zen-prevent-unload =__14___
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label =
-        tab-zen-ignore-unload = __17___
-        .label = Allow Tab Unload
-        .accesskey = I
+    .label = tab-zen-ignore-unload = __17___
     .accesskey = I
 zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
