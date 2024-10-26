@@ -20,3 +20,5 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = Votre fichier de modification { -brand-short-name } a été corrompu. Ils ont été réinitialisés au thème par défaut.
 zen-panel-ui-gradient-generator-opacity-text = Contraste
+zen-panel-ui-gradient-generator-texture-text = Texture
+zen-panel-ui-gradient-generator-custom-color = Custom Color
