@@ -20,3 +20,5 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = Su archivo de mods de { -brand-short-name } está corrupto. Se ha restablecido el tema por defecto.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
+zen-panel-ui-gradient-generator-texture-text = Texture
+zen-panel-ui-gradient-generator-custom-color = Custom Color
