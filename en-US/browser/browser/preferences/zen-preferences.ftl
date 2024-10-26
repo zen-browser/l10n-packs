@@ -99,6 +99,8 @@ zen-vertical-tabs-header = Vertical Tabs
 zen-vertical-tabs-description = Manage your tabs in a vertical layout
 zen-vertical-tabs-show-expand-button =
     .label = Show Expand Button
+zen-vertical-tabs-newtab-under-last-tab =
+    .label = Show new tab button under the last tab
 
 zen-vertical-tabs-expand-tabs-by-default = Expand Tabs by Default
 zen-vertical-tabs-dont-expand-tabs-by-default = Don't Expand Tabs by Default
