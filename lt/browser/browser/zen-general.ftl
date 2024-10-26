@@ -20,3 +20,5 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = Jūsų „{ -brand-short-name }“ modifikacijų failas sugadintas. Jie buvo atkurti į numatytąją temą.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
+zen-panel-ui-gradient-generator-texture-text = Texture
+zen-panel-ui-gradient-generator-custom-color = Custom Color
