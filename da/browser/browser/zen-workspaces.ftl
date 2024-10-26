@@ -32,5 +32,5 @@ zen-workspaces-panel-context-open-in-container-tab =
     .label = Angiv standardbeholder
     .accesskey = O
 zen-workspaces-change-gradient = 
-    .label = Change Theme Colors
+    .label = Skift Temafarver
     .accesskey = C
