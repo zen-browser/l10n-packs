@@ -19,4 +19,4 @@ tab-zen-ignore-unload =
     .label = Tillad fjernelse af fane
     .accesskey = I
 zen-themes-corrupted = Din { -brand-short-name } mods-fil er beskadiget. De er blevet nulstillet til standardtemaet.
-zen-panel-ui-gradient-generator-opacity-text = Contrast
+zen-panel-ui-gradient-generator-opacity-text = Kontrast
