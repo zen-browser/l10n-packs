@@ -1,10 +1,10 @@
 zen-panel-ui-current-profile-text = perfil atual
 unified-extensions-description = As extensões são usadas para trazer funcionalidades adicionais para o { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Repor o Separador Fixado
+    .label = Repor o Separador Afixado
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Substituir o URL Fixado pelo URL Atual
+    .label = Substituir o URL Afixado pelo URL Atual
     .accesskey = C
 tab-zen-unload = 
     .label = Hibernar Separador
@@ -22,3 +22,4 @@ zen-themes-corrupted = O seu ficheiro de modificações do { -brand-short-name }
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Cor personalizada
+zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
