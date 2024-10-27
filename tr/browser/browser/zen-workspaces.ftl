@@ -32,5 +32,5 @@ zen-workspaces-panel-context-open-in-container-tab =
     .label = Varsayılan Konteyner Olarak Seç
     .accesskey = O
 zen-workspaces-change-gradient = 
-    .label = Change Theme Colors
+    .label = Tema Renklerini Değiştir
     .accesskey = C
