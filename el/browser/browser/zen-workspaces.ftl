@@ -32,5 +32,5 @@ zen-workspaces-panel-context-open-in-container-tab =
     .label = Ορισμός Τρέχοντος Περιέκτη
     .accesskey = O
 zen-workspaces-change-gradient = 
-    .label = Change Theme Colors
+    .label = Αλλαγή Χρωμάτων Θέματος
     .accesskey = C

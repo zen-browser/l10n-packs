@@ -22,3 +22,4 @@ zen-themes-corrupted = A te { -brand-short-name } mod fájljaid károsodtak. Vis
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Custom Color
+zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!

@@ -1,4 +1,4 @@
-zen-panel-ui-current-profile-text = Profil actuel
+zen-panel-ui-current-profile-text = profil actuel
 unified-extensions-description = Les extensions sont utilisées pour ajouter plus de fonctionnalités à { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
     .label = Réinitialiser l'onglet épinglé
@@ -22,3 +22,4 @@ zen-themes-corrupted = Votre fichier de modification { -brand-short-name } a ét
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Custom Color
+zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
