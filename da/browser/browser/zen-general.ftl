@@ -21,4 +21,5 @@ tab-zen-ignore-unload =
 zen-themes-corrupted = Din { -brand-short-name } mods-fil er beskadiget. De er blevet nulstillet til standardtemaet.
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Texture
-zen-panel-ui-gradient-generator-custom-color = Custom Color
+zen-panel-ui-gradient-generator-custom-color = Brugerdefineret farve
+zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
