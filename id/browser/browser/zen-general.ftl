@@ -22,3 +22,4 @@ zen-themes-corrupted = Tidak dapat memuat file mod { -brand-short-name } Anda ka
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Custom Color
+zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
