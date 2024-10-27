@@ -22,3 +22,4 @@ zen-themes-corrupted = Twój plik modów { -brand-short-name } jest uszkodzony. 
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Tekstura
 zen-panel-ui-gradient-generator-custom-color = Niestandardowy kolor
+zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
