@@ -1,7 +1,7 @@
-zen-panel-ui-workspaces-text = Other Workspaces
-zen-panel-ui-workspaces-create-text = Create Workspace
+zen-panel-ui-workspaces-text = 他のワークスペース
+zen-panel-ui-workspaces-create-text = ワークスペースを作成
 zen-panel-ui-workspaces-create-save = 
-    .label = Create Workspace
+    .label = ワークスペースを作成
     .accesskey = S
 zen-panel-ui-workspaces-create-cancel = 
     .label = Cancel
@@ -32,5 +32,5 @@ zen-workspaces-panel-context-open-in-container-tab =
     .label = デフォルトのコンテナを設定
     .accesskey = O
 zen-workspaces-change-gradient = 
-    .label = Change Theme Colors
+    .label = テーマカラーを変更
     .accesskey = C
