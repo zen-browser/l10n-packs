@@ -22,4 +22,4 @@ zen-themes-corrupted = Ваш файл модів { -brand-short-name } пошк
 zen-panel-ui-gradient-generator-opacity-text = Контрастність
 zen-panel-ui-gradient-generator-texture-text = Текстура
 zen-panel-ui-gradient-generator-custom-color = Власний колір
-zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
+zen-panel-ui-gradient-generator-saved-message = Градієнт успішно збережено!
