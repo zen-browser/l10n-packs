@@ -22,4 +22,4 @@ zen-themes-corrupted = { -brand-short-name } adlı modun dosyaları hatalı. Var
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Doku
 zen-panel-ui-gradient-generator-custom-color = Özel Renk
-zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
+zen-panel-ui-gradient-generator-saved-message = Renkler başarıyla kaydedildi!
