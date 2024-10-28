@@ -22,4 +22,4 @@ zen-themes-corrupted = Jūsų „{ -brand-short-name }“ modifikacijų failas s
 zen-panel-ui-gradient-generator-opacity-text = Kontrastas
 zen-panel-ui-gradient-generator-texture-text = Tekstūra
 zen-panel-ui-gradient-generator-custom-color = Pasirinktinė spalva
-zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
+zen-panel-ui-gradient-generator-saved-message = Gradientas sėkmingai išsaugotas.
