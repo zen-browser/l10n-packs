@@ -24,6 +24,7 @@ zen-glance-title = Glance
 zen-glance-header = 一般的な設定
 zen-glance-description = 新しいタブで開かずにリンクの簡単な概要を取得します
 zen-glance-trigger-label = トリガーメソッド
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
