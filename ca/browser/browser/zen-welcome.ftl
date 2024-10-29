@@ -16,5 +16,5 @@ welcome-dialog-search = 🔍 Trieu un motor de cerca
 welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
 welcome-dialog-thanks = Moltes gràcies! ❤️
 welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
+welcome-dialog-back-action = Enrere
 welcome-dialog-next-action = Next
