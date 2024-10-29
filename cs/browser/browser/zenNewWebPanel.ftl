@@ -1,5 +1,5 @@
 zen-new-web-panel-url = 
-    .value = Původní URL
+    .value = Počáteční URL
     .accesskey = I
 zen-new-web-panel-user-agent = 
     .value = Zobrazit tento webový panel v mobilním režimu

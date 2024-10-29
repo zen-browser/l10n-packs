@@ -1,6 +1,6 @@
 zen-new-web-panel-url = 
-    .value = Initieel URL
-    .accesskey = I
+    .value = Initiële URL
+    .accesskey = IK
 zen-new-web-panel-user-agent = 
-    .value = Dit webpaneel weergeven in mobiele modus
-    .accesskey = m
+    .value = Dit webpaneel in mobiele modus weergeven
+    .accesskey = min

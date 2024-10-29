@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 welcome-dialog-welcome = 👋 { -brand-short-name } へようこそ
-welcome-dialog-welcome-subtext = 速く、美しく、プライベートに。
-welcome-dialog-get-started = 始めに
+welcome-dialog-welcome-subtext = 速くて美しい私的です
+welcome-dialog-get-started = 始めよう
 welcome-dialog-import = 😍 お気に入りを { -brand-short-name } へ。
-welcome-dialog-import-subtext = 前のブラウザーで中断した場所から始めましょう
+welcome-dialog-import-subtext = 最後のブラウザーで中断した場所を選択する
 welcome-dialog-import-action = データをインポート
-welcome-dialog-theme = Make yourself at home
-welcome-dialog-theme-subtext = Personalize your experience with your favorite look!
-welcome-dialog-theme-header-1 = Choose your perfect color
-welcome-dialog-theme-header-2 = Choose your theme
-welcome-dialog-search = 🔍 Choose a search engine
-welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
-welcome-dialog-thanks = Thank You So Much! ❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
-welcome-dialog-next-action = Next
+welcome-dialog-theme = ご自宅でどうぞ
+welcome-dialog-theme-subtext = あなたのお気に入りの外観であなたの経験をパーソナライズします!
+welcome-dialog-theme-header-1 = 完璧な色を選択してください
+welcome-dialog-theme-header-2 = テーマを選択してください
+welcome-dialog-search = 🔍 検索エンジンを選択
+welcome-dialog-search-subtext = お好みの検索エンジンを選択して、ブラウジング体験を調整しましょう！
+welcome-dialog-thanks = ミュートありがとうございます! ❤️
+welcome-dialog-thanks-subtext = あなたの感謝は私たちにとって世界を意味します!
+welcome-dialog-back-action = 戻る
+welcome-dialog-next-action = 次へ

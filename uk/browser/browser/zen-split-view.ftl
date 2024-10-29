@@ -4,13 +4,13 @@ tab-zen-split-tabs =
             [1] Розділити вкладку (потрібно кілька виділених вкладок)
            *[other] Розділити {$tabCount} Вкладки
         }
-    .accesskey = S
+    .accesskey = Пд
 zen-split-link = 
     .label = Розділити посилання на нову вкладку
-    .accesskey = S
-zen-split-view-modifier-header = Розділений перегляд
+    .accesskey = Пд
+zen-split-view-modifier-header = Розділений вигляд
 zen-split-view-modifier-activate-reallocation = 
-    .label = Увімкнути перерозподіл
-zen-split-view-modifier-enabled-toast = Перегрупування роздільного перегляду ВВІМКНЕНО.
-zen-split-view-modifier-enabled-toast-description = Перетягніть перегляд, щоб змінити його порядок. Натисніть «Esc», щоб вийти.
-zen-split-view-modifier-disabled-toast = Перегрупування роздільного перегляду ВИМКНЕНО.
+    .label = Активувати веб-розташування
+zen-split-view-modifier-enabled-toast = Розділити перегляд перестановка включена .
+zen-split-view-modifier-enabled-toast-description = Перетягніть вид для перевпорядкування. Натисніть Esc для виходу.
+zen-split-view-modifier-disabled-toast = Розділити перегляд перестановка вимкнена.

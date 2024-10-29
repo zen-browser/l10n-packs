@@ -1,16 +1,16 @@
 tab-zen-split-tabs = 
     .label =
-        {$tabCount ->
-            [1] Podziel kartę (potrzeba kilka wybranych kart)
-           *[other] Podziel { $tabCount} kart
+        { $tabCount ->
+            [1] Podziel zakładkę (potrzeba wielu wybranych kart)
+           *[other] Podziel { $tabCount } Zakładki
         }
-    .accesskey = S
+    .accesskey = Pr
 zen-split-link = 
-    .label = Wydziel link do nowej karty
-    .accesskey = S
-zen-split-view-modifier-header = Podzielony widok
+    .label = Podziel link na nową kartę
+    .accesskey = Pr
+zen-split-view-modifier-header = Podziel widok
 zen-split-view-modifier-activate-reallocation = 
-    .label = Aktywuj relokacje
+    .label = Aktywuj realokację
 zen-split-view-modifier-enabled-toast = Podziel kolejność widoku jest włączona.
 zen-split-view-modifier-enabled-toast-description = Przeciągnij i upuść widok aby zmienić kolejność. Naciśnij Esc, aby wyjść.
-zen-split-view-modifier-disabled-toast = Podziel przekierowanie widoku jest wyłączone.
+zen-split-view-modifier-disabled-toast = Rozdziel zmianę kolejności widoku jest WYŁĄCZONa.

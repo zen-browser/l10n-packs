@@ -2,19 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Welcome to { -brand-short-name }
-welcome-dialog-welcome-subtext = Fast. Beautiful. Private.
-welcome-dialog-get-started = Get started
-welcome-dialog-import = 😍 Bring your favourites to { -brand-short-name }
-welcome-dialog-import-subtext = Pick up where you left off in your last browser
-welcome-dialog-import-action = Import your data
-welcome-dialog-theme = Make yourself at home
-welcome-dialog-theme-subtext = Personalize your experience with your favorite look!
-welcome-dialog-theme-header-1 = Choose your perfect color
-welcome-dialog-theme-header-2 = Choose your theme
-welcome-dialog-search = 🔍 Choose a search engine
-welcome-dialog-search-subtext = Select your preferred search engine to tailor your browsing experience!
-welcome-dialog-thanks = Thank You So Much! ❤️
-welcome-dialog-thanks-subtext = Your appreciation means the world to us!
-welcome-dialog-back-action = Back
-welcome-dialog-next-action = Next
+welcome-dialog-welcome = 👋 مرحبا بكم في { -brand-short-name }
+welcome-dialog-welcome-subtext = سريع. جميل. خاص.
+welcome-dialog-get-started = بدء التشغيل
+welcome-dialog-import = 😍 أحضر مفضلاتك إلى { -brand-short-name }
+welcome-dialog-import-subtext = التقط حيث توقفت في آخر متصفح لك
+welcome-dialog-import-action = استيراد بياناتك
+welcome-dialog-theme = صنع نفسك في المنزل
+welcome-dialog-theme-subtext = تخصيص تجربتك مع نظرتك المفضلة!
+welcome-dialog-theme-header-1 = اختر لونك المثالي
+welcome-dialog-theme-header-2 = اختر الموضوع الخاص بك
+welcome-dialog-search = 🔍 اختر محرك بحث
+welcome-dialog-search-subtext = حدد محرك البحث المفضل الخاص بك لتصميم تجربة التصفح!
+welcome-dialog-thanks = شكراً جزيلاً لك! ❤️
+welcome-dialog-thanks-subtext = إن تقديرك يعني العالم لنا!
+welcome-dialog-back-action = الرجوع
+welcome-dialog-next-action = التالي

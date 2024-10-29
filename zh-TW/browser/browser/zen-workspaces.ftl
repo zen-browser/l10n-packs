@@ -32,5 +32,5 @@ zen-workspaces-panel-context-open-in-container-tab =
     .label = 設定預設容器
     .accesskey = O
 zen-workspaces-change-gradient = 
-    .label = Change Theme Colors
+    .label = 更改佈景主題顏色
     .accesskey = C
