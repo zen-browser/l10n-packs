@@ -24,6 +24,7 @@ zen-glance-title = لمحة
 zen-glance-header = الإعدادات العامة للنظرة
 zen-glance-description = احصل على نظرة عامة سريعة للروابط الخاصة بك دون فتحها في علامة تبويب جديدة
 zen-glance-trigger-label = طريقة المشغل
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
