@@ -24,6 +24,7 @@ zen-glance-title = Blik
 zen-glance-header = Generelle indstillinger for blik
 zen-glance-description = Få et hurtigt overblik over dine links uden at åbne dem i en ny fane
 zen-glance-trigger-label = Udløsningsmetode
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
