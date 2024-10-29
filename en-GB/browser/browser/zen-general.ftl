@@ -10,13 +10,13 @@ tab-zen-unload =
     .label = Unload tab
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
-    .label = zen-tabs-unloader-tab-actions =__11___
+    .label = Tabs Unloader Actions
     .accesskey = T
 tab-zen-prevent-unload = 
-    .label = tab-zen-prevent-unload =__14___
+    .label = Prevent Tab Unload
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = tab-zen-ignore-unload = __17___
+    .label = Allow Tab Unload
     .accesskey = I
 zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
