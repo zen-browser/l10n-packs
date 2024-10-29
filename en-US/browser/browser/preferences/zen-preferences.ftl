@@ -7,8 +7,8 @@ zen-warning-language = Changing the default language could make it easier for We
 
 zen-look-and-feel-colors-header = Pick a theme colour
 zen-look-and-feel-colors-description = Make { -brand-short-name } look and feel the way you like
-zen-look-and-feel-themed-toolbar =
-    .label = Make the toolbar themed with the accent color
+zen-look-and-feel-use-workspace-colors =
+    .label = Use workspace colors as primary color
 
 pane-zen-side-panels-title = Side Web Panels
 zen-side-panels-header = General settings for web panels
