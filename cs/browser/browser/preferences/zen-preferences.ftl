@@ -24,6 +24,7 @@ zen-glance-title = Pohlídka
 zen-glance-header = Obecná nastavení pro zobrazení
 zen-glance-description = Získejte rychlý přehled o vašich odkazech, aniž byste je otevřeli v nové kartě
 zen-glance-trigger-label = Spouštěcí metoda
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
