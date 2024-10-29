@@ -1,16 +1,16 @@
 tab-zen-split-tabs = 
     .label =
         { $tabCount ->
-            [1] Split Tab (multiple selected tabs needed)
-           *[other] Split { $tabCount } Tabs
+            [1] تبويب تقسيم (عدة علامات تبويب محددة مطلوبة)
+           *[other] تقسيم { $tabCount } علامات التبويب
         }
-    .accesskey = S
+    .accesskey = س
 zen-split-link = 
-    .label = Split link to new tab
-    .accesskey = S
-zen-split-view-modifier-header = Split View
+    .label = تقسيم الرابط إلى علامة تبويب جديدة
+    .accesskey = س
+zen-split-view-modifier-header = تقسيم العرض
 zen-split-view-modifier-activate-reallocation = 
-    .label = Activate reallocation
-zen-split-view-modifier-enabled-toast = Split view rearrange is ON.
-zen-split-view-modifier-enabled-toast-description = Drag and drop the view to rearrange. Press Esc to exit.
-zen-split-view-modifier-disabled-toast = Split view rearrange is OFF.
+    .label = تنشيط إعادة التخصيص
+zen-split-view-modifier-enabled-toast = إعادة ترتيب عرض التقسيم مشغل.
+zen-split-view-modifier-enabled-toast-description = قم بسحب وإسقاط العرض لإعادة الترتيب. اضغط Esc للخروج.
+zen-split-view-modifier-disabled-toast = إعادة ترتيب عرض التقسيم متوقف.
