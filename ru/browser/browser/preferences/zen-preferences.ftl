@@ -24,6 +24,7 @@ zen-glance-title = Влияние
 zen-glance-header = Общие настройки для взгляда
 zen-glance-description = Быстрый обзор ваших ссылок не открывая их в новой вкладке
 zen-glance-trigger-label = Метод триггера
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
