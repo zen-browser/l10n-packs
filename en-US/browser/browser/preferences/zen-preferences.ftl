@@ -39,6 +39,8 @@ zen-glance-trigger-alt-click =
     .label = Alt + Click
 zen-glance-trigger-shift-click =
     .label = Shift + Click
+zen-glance-trigger-meta-click =
+    .label = Meta (Command) + Click
 zen-glance-trigger-mantain-click =
     .label = Mantain Click
 
