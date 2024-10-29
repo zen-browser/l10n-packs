@@ -24,6 +24,7 @@ zen-glance-title = Ślaniec
 zen-glance-header = Ogólne ustawienia dla widoku
 zen-glance-description = Uzyskaj szybki przegląd swoich linków bez otwierania ich w nowej karcie
 zen-glance-trigger-label = Metoda wyzwalania
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
