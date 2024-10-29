@@ -24,6 +24,7 @@ zen-glance-title = Bblick
 zen-glance-header = Allmänna inställningar för blick
 zen-glance-description = Få en snabb överblick över dina länkar utan att öppna dem i en ny flik
 zen-glance-trigger-label = Utlösare metod
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
