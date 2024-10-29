@@ -24,6 +24,7 @@ zen-glance-title = 眼镜
 zen-glance-header = 用于眼镜的常规设置
 zen-glance-description = 不在新标签中打开链接，快速查看您的链接
 zen-glance-trigger-label = 触发方式
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
