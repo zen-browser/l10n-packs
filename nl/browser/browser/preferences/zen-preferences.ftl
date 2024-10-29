@@ -24,6 +24,7 @@ zen-glance-title = Oogopslag
 zen-glance-header = Algemene instellingen voor een oogopslag
 zen-glance-description = Krijg een snel overzicht van uw links zonder ze te openen in een nieuw tabblad
 zen-glance-trigger-label = Trigger methode
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
