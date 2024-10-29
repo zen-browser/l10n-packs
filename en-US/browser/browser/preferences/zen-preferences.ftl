@@ -317,3 +317,5 @@ zen-bookmark-show-sidebar-shortcut = Show Bookmarks Sidebar
 zen-bookmark-show-toolbar-shortcut = Show Bookmarks Toolbar
 zen-shortcut-previous-tab = Previous Tab
 zen-shortcut-next-tab = Next Tab
+zen-shortcut-open-settings = Open Settings
+zen-shortcut-cks-settings = Open Keyboard Shortcut Settings
