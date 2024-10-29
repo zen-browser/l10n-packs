@@ -24,6 +24,7 @@ zen-glance-title = Blick
 zen-glance-header = Allgemeine Einstellungen für den Blick
 zen-glance-description = Erhalten Sie einen schnellen Überblick über Ihre Links, ohne sie in einem neuen Tab zu öffnen
 zen-glance-trigger-label = Auslösemethode
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
