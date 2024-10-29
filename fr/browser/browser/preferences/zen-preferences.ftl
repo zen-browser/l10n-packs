@@ -24,6 +24,7 @@ zen-glance-title = Coup d'œil
 zen-glance-header = Réglages généraux pour un coup d'œil
 zen-glance-description = Obtenez un aperçu rapide de vos liens sans les ouvrir dans un nouvel onglet
 zen-glance-trigger-label = Méthode de déclenchement
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
