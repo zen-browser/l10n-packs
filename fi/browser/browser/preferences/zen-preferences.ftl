@@ -24,6 +24,7 @@ zen-glance-title = Vilkaisu
 zen-glance-header = Yleiset asetukset silmäykselle
 zen-glance-description = Hanki nopea yleiskatsaus linkeistäsi avaamatta niitä uudessa välilehdessä
 zen-glance-trigger-label = Käynnistimen menetelmä
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
