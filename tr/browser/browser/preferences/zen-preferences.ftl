@@ -24,6 +24,7 @@ zen-glance-title = Göz Atma
 zen-glance-header = Göz atma genel ayarları
 zen-glance-description = Bağlantıları yeni bir sekmede açmadan hızlı bir şekilde gözden geçir
 zen-glance-trigger-label = Tetikleme yöntemi
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Tıklama
 zen-glance-trigger-alt-click = 
