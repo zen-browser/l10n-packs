@@ -315,3 +315,5 @@ zen-key-goto-history = Go to history
 zen-key-go-home = Go Home
 zen-bookmark-show-sidebar-shortcut = Show Bookmarks Sidebar
 zen-bookmark-show-toolbar-shortcut = Show Bookmarks Toolbar
+zen-shortcut-previous-tab = Previous Tab
+zen-shortcut-next-tab = Next Tab
