@@ -24,6 +24,7 @@ zen-glance-title = Mirar
 zen-glance-header = Configuración general de la mirada
 zen-glance-description = Obtén un resumen rápido de tus enlaces sin abrirlos en una nueva pestaña
 zen-glance-trigger-label = Método de activación
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
