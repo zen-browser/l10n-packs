@@ -17,7 +17,7 @@ zen-side-panels-close-on-blur =
          không được ghim
 zen-vertical-tabs-show-bottom-border = 
     .label = Show border for the bottom icons
-sync-currently-syncing-workspaces = Workspaces
+sync-currently-syncing-workspaces = Không gian làm việc khác
 sync-engine-workspaces = 
     .label = Không gian làm việc
     .tooltiptext = Đồng bộ hóa không gian làm việc giữa các thiết bị
@@ -32,6 +32,8 @@ zen-glance-trigger-alt-click =
     .label = Alt + Click
 zen-glance-trigger-shift-click = 
     .label = Shift + Click
+zen-glance-trigger-meta-click = 
+    .label = Meta (Command) + Click
 zen-glance-trigger-mantain-click = 
     .label = Mantain Click
 zen-look-and-feel-compact-view-header = Hiển thị ở chế độ thu gọn
