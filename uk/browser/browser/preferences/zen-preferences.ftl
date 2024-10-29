@@ -24,6 +24,7 @@ zen-glance-title = Гленс
 zen-glance-header = Загальні налаштування glance
 zen-glance-description = Отримайте короткий огляд ваших посилань без відкриття їх у новій вкладці
 zen-glance-trigger-label = Метод виклику
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
