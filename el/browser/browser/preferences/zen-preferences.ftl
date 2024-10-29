@@ -24,6 +24,7 @@ zen-glance-title = Ματιά
 zen-glance-header = Γενικές ρυθμίσεις για ματιά
 zen-glance-description = Λάβετε μια γρήγορη επισκόπηση των συνδέσμων σας χωρίς να τους ανοίξετε σε μια νέα καρτέλα
 zen-glance-trigger-label = Μέθοδος ενεργοποίησης
+zen-glance-enabled = Enable Glance
 zen-glance-trigger-ctrl-click = 
     .label = Ctrl + Click
 zen-glance-trigger-alt-click = 
