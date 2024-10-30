@@ -32,7 +32,8 @@ zen-glance-title = Glance
 zen-glance-header = General settings for glance
 zen-glance-description = Get a quick overview of your links without opening them in a new tab
 zen-glance-trigger-label = Trigger method
-zen-glance-enabled = Enable Glance
+zen-glance-enabled =
+    .label = Enable Glance
 
 zen-glance-trigger-ctrl-click =
     .label = Ctrl + Click
@@ -43,7 +44,7 @@ zen-glance-trigger-shift-click =
 zen-glance-trigger-meta-click =
     .label = Meta (Command) + Click
 zen-glance-trigger-mantain-click =
-    .label = Mantain Click
+    .label = Hold Click (Coming Soon!)
 
 zen-look-and-feel-compact-view-header = Show in compact view
 zen-look-and-feel-compact-view-description = Only show the toolbars you use!
