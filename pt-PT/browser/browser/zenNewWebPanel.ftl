@@ -1,6 +1,6 @@
 zen-new-web-panel-url = 
     .value = URL inicial
-    .accesskey = Eu
+    .accesskey = I
 zen-new-web-panel-user-agent = 
-    .value = Exibir este painel da web no modo móvel
-    .accesskey = min
+    .value = Mostrar este painel web em modo de dispositivo móvel
+    .accesskey = m
