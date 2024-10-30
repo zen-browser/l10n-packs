@@ -44,7 +44,7 @@ zen-glance-trigger-shift-click =
 zen-glance-trigger-meta-click =
     .label = Meta (Command) + Click
 zen-glance-trigger-mantain-click =
-    .label = Mantain Click
+    .label = Hold Click (Coming Soon!)
 
 zen-look-and-feel-compact-view-header = Show in compact view
 zen-look-and-feel-compact-view-description = Only show the toolbars you use!
