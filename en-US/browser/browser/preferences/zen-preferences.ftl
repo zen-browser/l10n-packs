@@ -77,6 +77,11 @@ zen-tabs-unloader-unload-delay =
     .label = Unload tabs after
 zen-tabs-unloader-unload-delay-description = The time in minutes after which tabs will be unloaded
 
+zen-look-and-feel-compact-toolbar-themed =
+    .label = Use themed background for compact toolbar
+zen-look-and-feel-compact-sidebar-themed =
+    .label = Use themed background for compact sidebar
+
 pane-zen-pinned-tab-manager-title = Pinned Tabs
 zen-pinned-tab-manager-header = General settings for pinned tabs
 zen-pinned-tab-manager-description = Manage additional behavior of pinned tabs
