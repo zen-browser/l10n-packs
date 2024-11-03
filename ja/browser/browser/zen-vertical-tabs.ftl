@@ -1,5 +1,5 @@
 zen-toolbar-context-tabs-right = 
-    .label = 右側のタブ
+    .label = タブバーを右側に表示
     .accesskey = R
 zen-toolbar-context-compact-mode = 
     .label = コンパクトモード
