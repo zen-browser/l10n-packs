@@ -1,4 +1,4 @@
-pane-zen-looks-title = Wygląd i Działanie
+pane-zen-looks-title = Wygląd i działanie
 category-zen-looks = 
     .tooltiptext = { pane-zen-looks-title }
 zen-warning-language = Zmiana domyślnego języka może ułatwić śledzenie stron internetowych.
@@ -6,7 +6,7 @@ zen-look-and-feel-colors-header = Wybierz kolor motywu
 zen-look-and-feel-colors-description = Spraw, aby { -brand-short-name } wyglądał i odczuł jak lubisz
 zen-look-and-feel-use-workspace-colors = 
     .label = Użyj kolorów obszaru roboczego jako głównego koloru
-pane-zen-side-panels-title = Panele Boczne
+pane-zen-side-panels-title = Boczne panele internetowe
 zen-side-panels-header = Ustawienia ogólne dla paneli internetowych
 zen-side-panels-description = Zwiększ wydajność poprzez jednoczesne wielokrotne wyświetlenie!
 zen-side-panels-enabled = 
