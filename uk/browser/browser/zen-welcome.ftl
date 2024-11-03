@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 welcome-dialog-welcome = 👋 Ласкаво просимо до { -brand-short-name }
-welcome-dialog-welcome-subtext = Швидко. Чудово. Приватно.
+welcome-dialog-welcome-subtext = Швидко. Гарно. Приватно.
 welcome-dialog-get-started = Початок роботи
 welcome-dialog-import = Додайте закладки на { -brand-short-name }
 welcome-dialog-import-subtext = Підберіть місце, де ви зупинилися в останньому браузері
