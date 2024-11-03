@@ -1,5 +1,5 @@
-zen-panel-ui-current-profile-text = aaktualny profil
-unified-extensions-description = Rozszerzenia są używane do zapewnienia większej ilości dodatkowych funkcji w { -brand-short-name }.
+zen-panel-ui-current-profile-text = obecny profil
+unified-extensions-description = Rozszerzenia są używane do zapewnienia większej liczby dodatkowych funkcji w { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
     .label = Resetuj przypiętą kartę
     .accesskey = R
