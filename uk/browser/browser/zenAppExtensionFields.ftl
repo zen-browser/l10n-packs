@@ -1,4 +1,4 @@
 extension-firefox-compact-galaxy-name = Zen Galaxy
-extension-firefox-compact-galaxy-description = Тема з темною кольоровою схемою та чудовим таванням галактики!
-extension-firefox-compact-dream-name = Дзен мрія
-extension-firefox-compact-dream-description = Тема з світлою кольором і чудовим дотиком до мрії!
+extension-firefox-compact-galaxy-description = Тема з темною колірною гамою та приємним відтінком галактики!
+extension-firefox-compact-dream-name = Zen Dream
+extension-firefox-compact-dream-description = Тема зі світлою колірною гамою та приємною мрійливою ноткою!
