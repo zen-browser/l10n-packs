@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 welcome-dialog-welcome = 👋 { -brand-short-name } へようこそ
-welcome-dialog-welcome-subtext = 速くて美しい私的です
+welcome-dialog-welcome-subtext = 速く、美しく、プライベートに。
 welcome-dialog-get-started = 始めよう
 welcome-dialog-import = 😍 お気に入りを { -brand-short-name } へ。
 welcome-dialog-import-subtext = 最後のブラウザーで中断した場所を選択する
 welcome-dialog-import-action = データをインポート
 welcome-dialog-theme = ご自宅でどうぞ
-welcome-dialog-theme-subtext = あなたのお気に入りの外観であなたの経験をパーソナライズします!
-welcome-dialog-theme-header-1 = 完璧な色を選択してください
+welcome-dialog-theme-subtext = お気に入りの見た目で体験をパーソナライズしましょう
+welcome-dialog-theme-header-1 = ぴったりな色を選んでください
 welcome-dialog-theme-header-2 = テーマを選択してください
 welcome-dialog-search = 🔍 検索エンジンを選択
-welcome-dialog-search-subtext = お好みの検索エンジンを選択して、ブラウジング体験を調整しましょう！
-welcome-dialog-thanks = ミュートありがとうございます! ❤️
-welcome-dialog-thanks-subtext = あなたの感謝は私たちにとって世界を意味します!
+welcome-dialog-search-subtext = お好みの検索エンジンを選んで、ブラウジング体験をカスタマイズしましょう
+welcome-dialog-thanks = ありがとうございます! ❤️
+welcome-dialog-thanks-subtext = あなたの評価が、私たちにとって何よりの励みです！
 welcome-dialog-back-action = 戻る
 welcome-dialog-next-action = 次へ
