@@ -18,3 +18,9 @@ sidebar-zen-sidepanel =
     .label = Yan Panaller
 sidebar-zen-expand = 
     .label = Kenar Çubuğunu Genişlet
+tabbrowser-reset-tabs-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset tab to pinned URL
+           *[other] Reset { $tabCount } tabs to pinned URLs
+        }
