@@ -18,3 +18,9 @@ sidebar-zen-sidepanel =
     .label = Panneaux latéraux
 sidebar-zen-expand = 
     .label = Expand Sidebar
+tabbrowser-reset-tabs-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset tab to pinned URL
+           *[other] Reset { $tabCount } tabs to pinned URLs
+        }
