@@ -1,6 +1,6 @@
 zen-toolbar-context-tabs-right = 
     .label = Tabs on the right
-    .accesskey = R
+    .accesskey = p
 zen-toolbar-context-compact-mode = 
     .label = Compact mode
     .accesskey = C
