@@ -1,6 +1,6 @@
 zen-web-side-panel-context-mute-panel = 
     .label = Vaigista veebipaneeli heli
-    .accesskey = v
+    .accesskey = V
 zen-web-side-panel-context-unmute-panel = 
     .label = Lõpeta veebipaneeli heli vaigistamine
     .accesskey = v
