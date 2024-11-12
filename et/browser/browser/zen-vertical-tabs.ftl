@@ -1,5 +1,5 @@
 zen-toolbar-context-tabs-right = 
-    .label = Tabs on the right
+    .label = Kaardid paremal
     .accesskey = p
 zen-toolbar-context-compact-mode = 
     .label = Kompaktne režiim
@@ -15,9 +15,9 @@ zen-toolbar-context-compact-mode-hide-both =
     .label = Peida mõlemad
     .accesskey = P
 sidebar-zen-sidepanel = 
-    .label = Side Panels
+    .label = Külgpaneelid
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Laienda külgriba
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
