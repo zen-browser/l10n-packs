@@ -1,7 +1,7 @@
 zen-panel-ui-current-profile-text = aktuální profil
-unified-extensions-description = Rozšíření slouží k vložení dalších funkcí do prohlížeče { -brand-short-name }.
+unified-extensions-description = Rozšíření slouží k přidání dalších funkcí do prohlížeče { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Resetovat připnuté záložky
+    .label = Resetovat připnuté karty
     .accesskey = R
 tab-context-zen-add-essential = 
     .label = Přidat do Essentials
