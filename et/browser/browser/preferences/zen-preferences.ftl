@@ -1,4 +1,4 @@
-pane-zen-looks-title = Look and Feel
+pane-zen-looks-title = Ilme
 category-zen-looks = 
     .tooltiptext = { pane-zen-looks-title }
 zen-warning-language = Changing the default language could make it easier for Websites to track you.
