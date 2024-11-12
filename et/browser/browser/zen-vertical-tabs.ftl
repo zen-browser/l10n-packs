@@ -2,18 +2,18 @@ zen-toolbar-context-tabs-right =
     .label = Tabs on the right
     .accesskey = p
 zen-toolbar-context-compact-mode = 
-    .label = Compact mode
-    .accesskey = C
+    .label = Kompaktne režiim
+    .accesskey = K
 zen-toolbar-context-compact-mode-enable = 
-    .label = Enable compact mode
-    .accesskey = D
+    .label = Luba kompaktne režiim
+    .accesskey = r
 zen-toolbar-context-compact-mode-just-tabs = 
-    .label = Hide sidebar
+    .label = Peida külgriba
 zen-toolbar-context-compact-mode-just-toolbar = 
-    .label = Hide toolbar
+    .label = Peida tööriistariba
 zen-toolbar-context-compact-mode-hide-both = 
-    .label = Hide both
-    .accesskey = H
+    .label = Peida mõlemad
+    .accesskey = P
 sidebar-zen-sidepanel = 
     .label = Side Panels
 sidebar-zen-expand = 
@@ -21,6 +21,6 @@ sidebar-zen-expand =
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset tab to pinned URL
-           *[other] Reset { $tabCount } tabs to pinned URLs
+            [one] Lähtesta püsikaart algsele URL-ile
+           *[other] Lähtesta { $tabCount } püsikaarti algsele URL-ile
         }
