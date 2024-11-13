@@ -15,12 +15,12 @@ zen-toolbar-context-compact-mode-hide-both =
     .label = Beide verbergen
     .accesskey = U
 sidebar-zen-sidepanel = 
-    .label = Zijkant Panelen
+    .label = Zijkant panelen
 sidebar-zen-expand = 
     .label = Zijbalk uitvouwen
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset tabblad naar vastgezette URL
-           *[other] Reset { $tabCount } tabs naar vastgezette URL's
+            [1] Reset tabblad naar vastgezette URL
+           *[anderen] Reset { $tabCount } tabbladen naar vastgezette URL's
         }
