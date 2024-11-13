@@ -4,8 +4,8 @@
 
 welcome-dialog-welcome = 👋 Ласкаво просимо до { -brand-short-name }
 welcome-dialog-welcome-subtext = Швидко. Гарно. Приватно.
-welcome-dialog-get-started = Початок роботи
-welcome-dialog-import = Додайте закладки на { -brand-short-name }
+welcome-dialog-get-started = Розпочнемо
+welcome-dialog-import = Додайте закладки до { -brand-short-name }
 welcome-dialog-import-subtext = Підберіть місце, де ви зупинилися в останньому браузері
 welcome-dialog-import-action = Імпорт ваших даних
 welcome-dialog-theme = Влаштовуйтеся вдома
