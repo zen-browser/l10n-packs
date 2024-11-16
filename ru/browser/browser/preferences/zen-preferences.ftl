@@ -8,7 +8,7 @@ zen-warning-language = Изменение языка по умолчанию м�
 zen-look-and-feel-colors-header = Выберите цвет темы
 zen-look-and-feel-colors-description = Измените внешний вид { -brand-short-name } так, как вам нравится
 zen-look-and-feel-use-workspace-colors = 
-    .label = Использовать цвета текущего пространства как основной цвет
+    .label = Использовать цвета текущего Пространства как основной цвет
 
 pane-zen-side-panels-title = Боковые веб-панели
 zen-side-panels-header = Общие настройки веб-панелей
@@ -17,7 +17,7 @@ zen-side-panels-enabled =
     .label = Включить веб-панели
 
 zen-side-panels-close-on-blur = 
-    .label = Закрыть панель при потере фокуса, если она не закреплена
+    .label = Закрывать панель при потере фокуса, если она не закреплена
 
 zen-vertical-tabs-show-bottom-border = 
     .label = Показывать границу нижних значков
@@ -25,12 +25,12 @@ zen-vertical-tabs-show-bottom-border =
 sync-currently-syncing-workspaces = Пространства
 sync-engine-workspaces = 
     .label = Пространства
-    .tooltiptext = Синхронизация пространств между устройствами
+    .tooltiptext = Синхронизация Пространств между устройствами
     .accesskey = В
 
 zen-glance-title = Предпросмотр
-zen-glance-header = Общие настройки предпросмотра
-zen-glance-description = Получайте быстрый предпросмотр ссылок, не открывая их в новой вкладке
+zen-glance-header = Общие настройки Предпросмотра
+zen-glance-description = Получайте быстрый Предпросмотр ссылок, не открывая их в новой вкладке
 zen-glance-trigger-label = Метод активации
 zen-glance-enabled = 
     .label = Включить Предпросмотр
@@ -44,7 +44,7 @@ zen-glance-trigger-shift-click =
 zen-glance-trigger-meta-click = 
     .label = Meta (Command) + Клик
 zen-glance-trigger-mantain-click = 
-    .label = Затяжной клик (Скоро!)
+    .label = Долгое нажатие (Скоро!)
 
 zen-look-and-feel-compact-view-header = Показать в компактном виде
 zen-look-and-feel-compact-view-description = Отображать только те панели, которые вы используете!
@@ -52,13 +52,13 @@ zen-look-and-feel-compact-view-enabled =
     .label = Включить компактный режим { -brand-short-name }
 
 zen-look-and-feel-compact-view-top-toolbar = 
-    .label = Скрыть верхнюю панель инструментов и в компактном режиме
+    .label = Скрывать в компактном режиме также и верхнюю панель
 
 zen-look-and-feel-compact-toolbar-flash-popup = 
     .label = Показать на короткое время всплывающее окно панели инструментов при переключении или открытии новых вкладок в компактном режиме
 
-zen-look-and-feel-buttons-header = Стиль кнопки
-zen-look-and-feel-buttons-description = Выберите стиль кнопок, которые вы хотите увидеть
+zen-look-and-feel-buttons-header = Стиль кнопок
+zen-look-and-feel-buttons-description = Выберите предпочтительный стиль кнопок
 
 zen-look-and-feel-pilled-buttons = 
     .label = Закругленные кнопки
@@ -69,25 +69,25 @@ category-zen-workspaces =
 pane-settings-workspaces-title = Пространства
 
 pane-zen-tabs-unloader-title = Выгрузка вкладок
-zen-tabs-unloader-header = Общие настройки выгрузчика вкладок
-zen-tabs-unloader-description = Автоматически выгружать неиспользуемые вкладки для сохранения памяти
+zen-tabs-unloader-header = Общие настройки выгрузки вкладок
+zen-tabs-unloader-description = Автоматически выгружать неиспользуемые вкладки для экономии оперативной памяти
 
 zen-tabs-unloader-enabled = 
     .label = Включить выгрузку вкладок
 zen-tabs-unloader-unload-delay = 
-    .label = Выгрузить вкладки через
-zen-tabs-unloader-unload-delay-description = Время в минутах после которого вкладки будут выгружены
+    .label = Выгружать вкладки через
+zen-tabs-unloader-unload-delay-description = Время в минутах, после которого вкладки будут выгружены
 
 zen-look-and-feel-compact-toolbar-themed = 
-    .label = Использовать тему фона для компактной панели инструментов
+    .label = Использовать фон темы для компактной панели инструментов
 zen-look-and-feel-compact-sidebar-themed = 
-    .label = Использовать тему фона для компактной боковой панели
+    .label = Использовать фон темы для компактной боковой панели
 
 pane-zen-pinned-tab-manager-title = Закрепленные вкладки
 zen-pinned-tab-manager-header = Общие настройки для закрепленных вкладок
 zen-pinned-tab-manager-description = Управление дополнительным поведением закрепленных вкладок
 zen-pinned-tab-manager-restore-pinned-tabs-to-pinned-url = 
-    .label = Восстановить закрепленные вкладки на их первоначальный закрепленный URL при запуске
+    .label = Сбрасывать URL в закрепленных вкладках при перезапуске браузера
 zen-pinned-tab-manager-close-shortcut-behavior-label = Поведение сочетания клавиш закрытия вкладки
 zen-pinned-tab-manager-reset-unload-switch-close-shortcut-option = 
     .label = Сбросить URL, выгрузить и переключиться на следующую вкладку
@@ -98,19 +98,19 @@ zen-pinned-tab-manager-reset-switch-close-shortcut-option =
 zen-pinned-tab-manager-switch-close-shortcut-option = 
     .label = Перейти на следующую вкладку
 zen-pinned-tab-manager-reset-close-shortcut-option = 
-    .label = Reset URL
+    .label = Сбросить URL
 zen-pinned-tab-manager-close-close-shortcut-option = 
     .label = Закрыть вкладку
 
 pane-zen-workspaces-header = Пространства
-zen-settings-workspaces-header = Общие настройки для пространств
-zen-settings-workspaces-description = С пространствами вы можете использовать несколько сеансов просмотра одновременно!
+zen-settings-workspaces-header = Общие настройки для Пространств
+zen-settings-workspaces-description = С Пространствами вы можете использовать несколько сеансов с вкладками одновременно!
 zen-settings-workspaces-enabled = 
-    .label = Включить пространства (экспериментально)
+    .label = Включить Пространства (экспериментально)
 zen-settings-workspaces-hide-default-container-indicator = 
-    .label = Скрыть индикатор контейнера по умолчанию на панели вкладок
+    .label = Скрыть индикатор Контейнера по умолчанию на панели вкладок
 zen-settings-workspaces-allow-pinned-tabs-for-different-workspaces = 
-    .label = Разрешить пространству иметь собственные закрепленные вкладки
+    .label = Разрешить Пространству иметь собственные закрепленные вкладки
 
 zen-key-unsafed = Ярлык не сохранен! Пожалуйста, сохраните его, нажав на клавишу "Escape" после повторного ввода.
 zen-key-conflict = Конфликт с другим ярлыком
@@ -119,59 +119,59 @@ pane-zen-theme-title = Настройки темы
 
 zen-vertical-tabs-title = Расположение боковой панели и вкладок
 zen-vertical-tabs-header = Вертикальные вкладки
-zen-vertical-tabs-description = Управляйте своими вкладками в вертикальном расположении
+zen-vertical-tabs-description = Управляйте вкладками в вертикальном представлении
 zen-vertical-tabs-show-expand-button = 
     .label = Показать кнопку расширения
 zen-vertical-tabs-newtab-on-tab-list = 
     .label = Показывать кнопку "Новая вкладка" в списке вкладок
 zen-vertical-tabs-newtab-top-button-border = 
-    .label = Показывать разделительную линию, когда она находится внизу
+    .label = Показывать линию-разделитель, когда кнокпа "Новая вкладка" находится внизу
 zen-vertical-tabs-newtab-top-button-up = 
     .label = Переместить кнопку "Новая вкладка" вверх
 
-zen-vertical-tabs-expand-tabs-by-default = Расширять вкладки по умолчанию
-zen-vertical-tabs-dont-expand-tabs-by-default = Не расширять вкладки по умолчанию
-zen-vertical-tabs-expand-tabs-on-hover = Расширять вкладки при наведении (не работает в компактном режиме)
+zen-vertical-tabs-expand-tabs-by-default = Широкая панель вкладок по умолчанию
+zen-vertical-tabs-dont-expand-tabs-by-default = Узкая панель вкладок по умолчанию
+zen-vertical-tabs-expand-tabs-on-hover = Широкая панель вкладок при наведении (не работает в компактном режиме)
 
-zen-vertical-tabs-expand-tabs-header = Расширение вкладок
-zen-vertical-tabs-expand-tabs-description = Выберите способ расширения вкладок в боковой панели
+zen-vertical-tabs-expand-tabs-header = Боковая панель вкладок
+zen-vertical-tabs-expand-tabs-description = Выберите поведение боковой панели вкладок
 
-zen-theme-marketplace-header = Zen моды
+zen-theme-marketplace-header = Модификации Zen
 zen-theme-disable-all-enabled = 
-    .title = Отключить все темы
+    .title = Отключить все модификации
 zen-theme-disable-all-disabled = 
-    .title = Включить все темы
-zen-theme-marketplace-description = Найдите и установите темы из магазина.
+    .title = Включить все модификации
+zen-theme-marketplace-description = Найдите и установите модификации из магазина.
 zen-theme-marketplace-remove-button = 
-    .label = Удалить тему
+    .label = Удалить модификацию
 zen-theme-marketplace-check-for-updates-button = 
     .label = Проверить обновления
-zen-theme-marketplace-updates-success = Тема успешно обновлена
+zen-theme-marketplace-updates-success = Модификация успешно обновлена
 zen-theme-marketplace-updates-fail = Не удалось найти обновления!
 zen-theme-marketplace-toggle-enabled-button = 
-    .title = Отключить тему
+    .title = Отключить модификацию
 zen-theme-marketplace-toggle-disabled-button = 
-    .title = Включить тему
+    .title = Включить модификацию
 zen-theme-marketplace-remove-confirmation = Вы уверены, что хотите удалить этот мод?
 zen-theme-marketplace-close-modal = Закрыть
 zen-theme-marketplace-theme-header-title = 
-    .title = CSS селектор: { $name }
+    .title = Селектор CSS: { $name }
 zen-theme-marketplace-dropdown-default-label = 
     .label = Нет
 zen-theme-marketplace-input-default-placeholder = 
-    .placeholder = Введите что-нибудь...
-pane-zen-marketplace-title = Zen моды
+    .placeholder = Найдите что-нибудь...
+pane-zen-marketplace-title = Модификации Zen
 
 zen-settings-workspaces-display-as-icon-strip = 
-    .label = Показать пространства как полоску иконок
+    .label = Показать Пространства как полосу иконок
 zen-settings-workspaces-force-container-tabs-to-workspace = 
-    .label = Переключиться в пространство, где контейнер установлен по умолчанию, при открытии вкладок контейнера
+    .label = Переключиться в Пространство, где Контейнер установлен по умолчанию, при открытии вкладок в Контейнере
 zen-settings-workspaces-hide-deactivated-workspaces = 
-    .label = Скрыть деактивированные пространства
+    .label = Скрыть деактивированные Пространства
 
 zen-theme-marketplace-link = Посетить магазин
 
-zen-dark-theme-styles-header = Стили тёмной темы
+zen-dark-theme-styles-header = Стили темной темы
 zen-dark-theme-styles-description = Настроить темную тему по своему вкусу
 
 zen-dark-theme-styles-amoled = Ночная тема
@@ -179,8 +179,8 @@ zen-dark-theme-styles-default = Темная тема по умолчанию
 zen-dark-theme-styles-colorful = Красочная темная тема
 
 zen-split-view-title = Разделенный вид
-zen-split-view-header = Разделить функциональность
-zen-split-view-description = Разместите ваш браузер на несколько просмотров, позволяя вам просматривать несколько сайтов сразу
+zen-split-view-header = Поведение раздельного вида
+zen-split-view-description = Разделите рабочую область браузера на несколько частей, чтобы просматривать сразу несколько веб-страниц
 zen-split-view-change-on-hover = 
     .label = Сменить вкладки при наведении курсора
 
@@ -194,22 +194,22 @@ category-zen-CKS =
 pane-settings-CKS-title = Горячие клавиши { -brand-short-name }
 
 zen-settings-CKS-header = Настроить сочетания клавиш
-zen-settings-CKS-description = Измените комбинации клавиш по умолчанию по своему вкусу и улучшите качество работы в браузере.
+zen-settings-CKS-description = Измените комбинации клавиш по умолчанию по своему вкусу и улучшите качество работы в браузере
 
 zen-settings-CKS-disable-firefox = 
     .label = Отключить стандартные сочетания клавиш { -brand-short-name }
 
 zen-settings-CKS-duplicate-shortcut = 
-    .label = Duplicate Shortcut
+    .label = Существующая горячая клавиша
 
 zen-settings-CKS-reset-shortcuts = 
     .label = Сброс по умолчанию
 
-zenCKSOption-group-other = Прочие вопросы
+zenCKSOption-group-other = Прочее
 zenCKSOption-group-windowAndTabManagement = Управление окном и вкладками
 zenCKSOption-group-navigation = Навигация
 zenCKSOption-group-searchAndFind = Поиск и поиск
-zenCKSOption-group-pageOperations = Операции страницы
+zenCKSOption-group-pageOperations = Работа со страницей
 zenCKSOption-group-historyAndBookmarks = История и закладки
 zenCKSOption-group-mediaAndDisplay = Медиа и дисплей
 zenCKSOption-group-zen-compact-mode = Компактный вид
@@ -240,7 +240,7 @@ zen-picture-in-picture-toggle-shortcut-mac = Переключить режим "
 zen-picture-in-picture-toggle-shortcut-mac-alt = Переключить режим "картинка в картинке" (Mac Alt)
 zen-page-source-shortcut-safari = Просмотр исходного кода страницы (Safari)
 zen-nav-stop-shortcut = Остановить загрузку
-zen-history-sidebar-shortcut = Show History Sidebar
+zen-history-sidebar-shortcut = Показать историю
 zen-window-minimize-shortcut = Свернуть окно
 zen-help-shortcut = Открыть справку
 zen-preferences-shortcut = Открыть настройки
@@ -278,7 +278,7 @@ zen-bookmark-show-library-shortcut = Показать библиотеку за�
 zen-key-stop = Остановить загрузку
 zen-full-zoom-reduce-shortcut = Уменьшить
 zen-full-zoom-enlarge-shortcut = Увеличить
-zen-full-zoom-reset-shortcut = Сбросить увеличение
+zen-full-zoom-reset-shortcut = Сбросить масштабирование
 zen-bidi-switch-direction-shortcut = Переключить направление текста
 zen-private-browsing-shortcut = Приватный просмотр
 zen-screenshot-shortcut = Сделать скриншот
@@ -287,24 +287,24 @@ zen-quit-app-shortcut = Выйти из приложения
 zen-key-wr-capture-cmd = Команда захвата WR
 zen-key-wr-toggle-capture-sequence-cmd = Переключить последовательность захвата WR
 zen-nav-reload-shortcut = Обновить страницу
-zen-nav-reload-shortcut-skip-cache = Обновить страницу (Без кэша)
+zen-nav-reload-shortcut-skip-cache = Обновить страницу (с очисткой кэша)
 zen-close-shortcut = Закрыть окно
 zen-close-tab-shortcut = Закрыть вкладку
 zen-compact-mode-shortcut-show-sidebar = Вкл/выкл боковую панель
 zen-compact-mode-shortcut-show-toolbar = Инструменты плавающей панели
 zen-compact-mode-shortcut-toggle = Компактный режим
-zen-workspace-shortcut-switch-1 = Переключиться в пространство 1
-zen-workspace-shortcut-switch-2 = Переключиться в пространство 2
-zen-workspace-shortcut-switch-3 = Переключиться в пространство 3
-zen-workspace-shortcut-switch-4 = Переключиться в пространство 4
-zen-workspace-shortcut-switch-5 = Переключиться в пространство 5
-zen-workspace-shortcut-switch-6 = Переключиться в пространство 6
-zen-workspace-shortcut-switch-7 = Переключиться в пространство 7
-zen-workspace-shortcut-switch-8 = Переключиться в пространство 8
-zen-workspace-shortcut-switch-9 = Переключиться в пространство 9
-zen-workspace-shortcut-switch-10 = Переключиться в пространство 10
-zen-workspace-shortcut-forward = Следующее пространство
-zen-workspace-shortcut-backward = Предыдущее пространство
+zen-workspace-shortcut-switch-1 = Переключиться в Пространство 1
+zen-workspace-shortcut-switch-2 = Переключиться в Пространство 2
+zen-workspace-shortcut-switch-3 = Переключиться в Пространство 3
+zen-workspace-shortcut-switch-4 = Переключиться в Пространство 4
+zen-workspace-shortcut-switch-5 = Переключиться в Пространство 5
+zen-workspace-shortcut-switch-6 = Переключиться в Пространство 6
+zen-workspace-shortcut-switch-7 = Переключиться в Пространство 7
+zen-workspace-shortcut-switch-8 = Переключиться в Пространство 8
+zen-workspace-shortcut-switch-9 = Переключиться в Пространство 9
+zen-workspace-shortcut-switch-10 = Переключиться в Пространство 10
+zen-workspace-shortcut-forward = Следующее Пространство
+zen-workspace-shortcut-backward = Предыдущее Пространство
 zen-web-panel-shortcut-toggle = Переключить веб-панель
 zen-sidebar-shortcut-toggle = Переключить ширину боковой панели
 zen-pinned-tab-shortcut-reset = Сбросить прикрепленную вкладку до изначального URL
