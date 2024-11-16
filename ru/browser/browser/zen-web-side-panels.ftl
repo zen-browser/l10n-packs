@@ -6,10 +6,10 @@ zen-web-side-panel-context-unmute-panel =
     .accesskey = м
 
 zen-web-side-panel-context-disable-ua = 
-    .label = Отключить режим мобильного
+    .label = Отключить мобильный режим
     .accesskey = У
 zen-web-side-panel-context-enable-ua = 
-    .label = Включить режим мобильного
+    .label = Включить мобильный режим
     .accesskey = М
 
 zen-web-side-panel-context-unload = 
@@ -22,7 +22,7 @@ zen-web-side-panel-open-in-new-tab =
     .label = Открыть в новой вкладке
     .accesskey = Н
 zen-web-side-panel-context-open-in-container-tab = 
-    .label = Открыть в вкладке Контейнере
+    .label = Открыть во вкладке в Контейнере
     .accesskey = С
 
 zen-web-side-panel-context-add-to-panel = 

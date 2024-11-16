@@ -61,7 +61,7 @@ zen-look-and-feel-buttons-header = Стиль кнопки
 zen-look-and-feel-buttons-description = Выберите стиль кнопок, которые вы хотите увидеть
 
 zen-look-and-feel-pilled-buttons = 
-    .label = Закругленные Кнопки
+    .label = Закругленные кнопки
 
 pane-zen-tabs-title = Управление вкладками
 category-zen-workspaces = 

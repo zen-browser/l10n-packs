@@ -26,7 +26,7 @@ zen-workspaces-panel-context-open =
     .accesskey = О
 
 zen-workspaces-panel-context-set-default = 
-    .label = Сделать Пространством По Умолчанию
+    .label = Сделать Пространством по умолчанию
     .accesskey = С
 
 zen-workspaces-panel-context-edit = 
@@ -34,13 +34,13 @@ zen-workspaces-panel-context-edit =
     .accesskey = В
 
 context-zen-change-workspace-tab = 
-    .label = Перенести Вкладку(-ки) В Пространство
+    .label = Перенести вкладку(-ки) В Пространство
     .accesskey = С
 
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Установить Контейнер По Умолчанию
+    .label = Установить Контейнер по умолчанию
     .accesskey = О
 
 zen-workspaces-change-gradient = 
-    .label = Изменить Цветовую Схему
+    .label = Изменить цветовую схему
     .accesskey = С
