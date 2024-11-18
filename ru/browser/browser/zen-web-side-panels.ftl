@@ -1,5 +1,5 @@
 zen-web-side-panel-context-mute-panel = 
-    .label = Заглушить веб-панель
+    .label = Отключить звук веб-панели
     .accesskey = М
 zen-web-side-panel-context-unmute-panel = 
     .label = Включить звук веб-панели
@@ -29,5 +29,5 @@ zen-web-side-panel-context-add-to-panel =
     .label = Добавить в веб-панели
     .accesskey = А
 
-zen-sidebar-introduction-title = Добро пожаловать в боковую панель Zen
+zen-sidebar-introduction-title = Добро пожаловать в Zen Sidebar
 zen-sidebar-introduction-description = Zen Sidebar - это новый способ просматривать Интернет. Нажмите на любую из иконок, чтобы открыть веб-панель.

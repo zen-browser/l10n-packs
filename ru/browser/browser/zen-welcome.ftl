@@ -11,7 +11,7 @@ welcome-dialog-import-subtext = Начните с того места, где о
 welcome-dialog-import-action = Импортируйте данные
 
 welcome-dialog-theme = Чувствуйте себя как дома
-welcome-dialog-theme-subtext = Настройте облик браузера, как вам нравится!
+welcome-dialog-theme-subtext = Сделайте { -brand-short-name } по-настоящему вашим!
 
 welcome-dialog-theme-header-1 = Выберите идеальный цвет
 welcome-dialog-theme-header-2 = Выберите вашу тему
