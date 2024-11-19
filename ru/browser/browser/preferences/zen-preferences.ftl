@@ -55,7 +55,7 @@ zen-look-and-feel-compact-view-top-toolbar =
     .label = Скрывать в компактном режиме также и верхнюю панель
 
 zen-look-and-feel-compact-toolbar-flash-popup = 
-    .label = Показать на короткое время всплывающее окно панели инструментов при переключении или открытии новых вкладок в компактном режиме
+    .label = Кратковременно показывать панель инструментов при действиях с вкладками
 
 zen-look-and-feel-buttons-header = Стиль кнопок
 zen-look-and-feel-buttons-description = Выберите предпочитаемый стиль кнопок

@@ -17,7 +17,7 @@ welcome-dialog-theme-header-1 = Выберите идеальный цвет
 welcome-dialog-theme-header-2 = Выберите вашу тему
 
 welcome-dialog-search = Выберите поисковую систему
-welcome-dialog-search-subtext = Выберите предпочитаемую поисковую систему!!
+welcome-dialog-search-subtext = Выберите предпочитаемую поисковую систему!
 
 welcome-dialog-thanks = Большое спасибо! ❤️
 welcome-dialog-thanks-subtext = Ваша признательность очень много значит для нас!

@@ -13,4 +13,4 @@ zen-split-view-modifier-activate-reallocation =
     .label = Активировать перераспределение
 zen-split-view-modifier-enabled-toast = Перераспределение разделенного вида ВКЛЮЧЕНО.
 zen-split-view-modifier-enabled-toast-description = Перетащите вид для перемещения. Нажмите Esc для выхода.
-zen-split-view-modifier-disabled-toast = Перераспределение разделенного вида выключено.
+zen-split-view-modifier-disabled-toast = Перераспределение разделенного вида ОТКЛЮЧЕНО.
