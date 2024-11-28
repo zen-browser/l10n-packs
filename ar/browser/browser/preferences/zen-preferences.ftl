@@ -69,6 +69,8 @@ zen-pinned-tab-manager-header = الإعدادات العامة لعلامات �
 zen-pinned-tab-manager-description = إدارة سلوك إضافي من علامات التبويب المثبتة
 zen-pinned-tab-manager-restore-pinned-tabs-to-pinned-url = 
     .label = استعادة علامات التبويب المثبتة إلى عنوان URL المثبت أصلاً عند بدء التشغيل
+zen-pinned-tab-manager-container-specific-essentials-enabled = 
+    .label = Enable container-specific essentials
 zen-pinned-tab-manager-close-shortcut-behavior-label = إغلاق علامة التبويب سلوك الاختصار
 zen-pinned-tab-manager-reset-unload-switch-close-shortcut-option = 
     .label = إعادة تعيين URL، إلغاء التحميل والتبديل إلى التبويب التالي
