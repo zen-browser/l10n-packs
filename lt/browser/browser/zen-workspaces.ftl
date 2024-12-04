@@ -35,5 +35,5 @@ zen-workspaces-change-gradient =
     .label = Keisti temos spalvas
     .accesskey = C
 zen-bookmark-edit-panel-workspace-selector = 
-    .value = Workspaces
+    .value = Darbo sritys
     .accesskey = W
