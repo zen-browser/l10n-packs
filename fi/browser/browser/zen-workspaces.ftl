@@ -35,5 +35,5 @@ zen-workspaces-change-gradient =
     .label = Vaihda Teeman Värit
     .accesskey = C
 zen-bookmark-edit-panel-workspace-selector = 
-    .value = Workspaces
+    .value = Työtilat
     .accesskey = W
