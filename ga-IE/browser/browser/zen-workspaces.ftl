@@ -34,3 +34,6 @@ zen-workspaces-panel-context-open-in-container-tab =
 zen-workspaces-change-gradient = 
     .label = Change Theme Colors
     .accesskey = D’Athraigh Chluaisíní(s) go Spás Oibre
+zen-bookmark-edit-panel-workspace-selector = 
+    .value = Workspaces
+    .accesskey = W
