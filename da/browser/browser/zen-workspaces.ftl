@@ -35,5 +35,5 @@ zen-workspaces-change-gradient =
     .label = Skift Tema Farver
     .accesskey = C
 zen-bookmark-edit-panel-workspace-selector = 
-    .value = Workspaces
+    .value = Arbejdsområder
     .accesskey = W
