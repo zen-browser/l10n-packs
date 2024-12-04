@@ -34,3 +34,6 @@ zen-workspaces-panel-context-open-in-container-tab =
 zen-workspaces-change-gradient = 
     .label = Vaihda Teeman Värit
     .accesskey = C
+zen-bookmark-edit-panel-workspace-selector = 
+    .value = Workspaces
+    .accesskey = W
