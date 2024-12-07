@@ -17,6 +17,11 @@ zen-side-panels-close-on-blur =
          không được ghim
 zen-vertical-tabs-show-bottom-border = 
     .label = Show border for the bottom icons
+zen-vertical-tabs-layout-header = Browser Layout
+zen-vertical-tabs-layout-description = Choose the layout that suits you best
+zen-layout-single-toolbar = Single toolbar
+zen-layout-multiple-toolbar = Multiple toolbars
+zen-layout-collapsed-toolbar = Collapsed toolbar
 sync-currently-syncing-workspaces = Không gian làm việc khác
 sync-engine-workspaces = 
     .label = Không gian làm việc
