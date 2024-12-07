@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 { -brand-short-name } 에 오신 것을 환영합니다
-welcome-dialog-welcome-subtext = 신속. 아름다움. 개인적.
+welcome-dialog-welcome-title-part-1 = Welcome to
+welcome-dialog-welcome-title-part-2 = the calmer Internet
 welcome-dialog-get-started = 시작하기
 welcome-dialog-import = 😍 즐겨찾기를 { -brand-short-name }로 가져오세요
 welcome-dialog-import-subtext = 이전 브라우저에서 떠났던 부분부터 다시 시작하세요
