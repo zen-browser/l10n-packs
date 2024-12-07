@@ -17,10 +17,10 @@ zen-toolbar-context-compact-mode-hide-both =
 sidebar-zen-sidepanel = 
     .label = Боковые панели
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Развернуть боковую панель
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset tab to pinned URL
-           *[other] Reset { $tabCount } tabs to pinned URLs
+            [one] Сбросить вкладку к закреплённой ссылке
+           *[other] Сбросить { $tabCount } вкладки(-ок) к закреплённым ссылкам
         }
