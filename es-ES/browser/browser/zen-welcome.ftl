@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Bienvenido a { -brand-short-name }
-welcome-dialog-welcome-subtext = Rápido. Hermoso. Privado.
+welcome-dialog-welcome-title-part-1 = Welcome to
+welcome-dialog-welcome-title-part-2 = the calmer Internet
 welcome-dialog-get-started = Empezar
 welcome-dialog-import = 😍 Importe sus favoritos a { -brand-short-name }
 welcome-dialog-import-subtext = Recoge donde lo dejaste en tu último navegador
