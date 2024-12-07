@@ -22,6 +22,16 @@ zen-side-panels-close-on-blur =
 zen-vertical-tabs-show-bottom-border =
     .label = Show border for the bottom icons
 
+zen-vertical-tabs-layout-header = Browser Layout
+zen-vertical-tabs-layout-description = Choose the layout that suits you best
+
+zen-layout-single-toolbar =
+    .label = Single toolbar
+zen-layout-multiple-toolbar =
+    .label = Multiple toolbars
+zen-layout-collapsed-toolbar =
+    .label = Collapsed toolbar
+
 sync-currently-syncing-workspaces = Workspaces
 sync-engine-workspaces =
     .label = Workspaces
