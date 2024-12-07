@@ -25,12 +25,9 @@ zen-vertical-tabs-show-bottom-border =
 zen-vertical-tabs-layout-header = Browser Layout
 zen-vertical-tabs-layout-description = Choose the layout that suits you best
 
-zen-layout-single-toolbar =
-    .label = Single toolbar
-zen-layout-multiple-toolbar =
-    .label = Multiple toolbars
-zen-layout-collapsed-toolbar =
-    .label = Collapsed toolbar
+zen-layout-single-toolbar = Single toolbar
+zen-layout-multiple-toolbar = Multiple toolbars
+zen-layout-collapsed-toolbar = Collapsed toolbar
 
 sync-currently-syncing-workspaces = Workspaces
 sync-engine-workspaces =
