@@ -18,3 +18,9 @@ sidebar-zen-sidepanel =
     .label = Yan Panaller
 sidebar-zen-expand = 
     .label = Kenar Çubuğunu Genişlet
+tabbrowser-reset-tabs-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Sekmeyi sabitlenen URL'ye sıfırla
+           *[other] { $tabCount } sekmeyi sabitlenen URL'ye sıfırla
+        }

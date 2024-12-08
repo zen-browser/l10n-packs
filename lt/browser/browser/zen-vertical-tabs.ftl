@@ -18,3 +18,9 @@ sidebar-zen-sidepanel =
     .label = Šoniniai skydeliai
 sidebar-zen-expand = 
     .label = Išskleisti šoninę juostą
+tabbrowser-reset-tabs-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Atkurti kortelę į prisegtą URL adresą
+           *[other] Atkurti { $tabCount } kortelių prisegtus URL adresus
+        }

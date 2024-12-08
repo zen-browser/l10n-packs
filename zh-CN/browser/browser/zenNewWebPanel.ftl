@@ -1,6 +1,6 @@
 zen-new-web-panel-url = 
     .value = 初始化网址
-    .accesskey = 一
+    .accesskey = I
 zen-new-web-panel-user-agent = 
-    .value = 在移动模式中显示此版面
-    .accesskey = 米
+    .value = 使用移动端模式显示此网页
+    .accesskey = m
