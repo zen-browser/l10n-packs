@@ -10,9 +10,10 @@ zen-panel-ui-workspaces-create-cancel =
     .accesskey = С
 
 zen-panel-ui-workspaces-edit-text = Редактировать Пространство
+
 zen-panel-ui-workspaces-edit-save = 
     .label = Сохранить изменения
-    .accesskey = С
+    .accesskey = S
 zen-panel-ui-workspaces-edit-cancel = 
     .label = Отмена
     .accesskey = С

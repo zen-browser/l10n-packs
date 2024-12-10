@@ -34,3 +34,6 @@ zen-workspaces-panel-context-open-in-container-tab =
 zen-workspaces-change-gradient = 
     .label = Tema Renklerini Değiştir
     .accesskey = C
+zen-bookmark-edit-panel-workspace-selector = 
+    .value = Çalışma Alanları
+    .accesskey = W

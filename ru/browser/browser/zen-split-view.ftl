@@ -4,11 +4,12 @@ tab-zen-split-tabs =
             [1] Разделить вкладку (требуется несколько выделенных вкладок)
            *[other] Разделить { $tabCount } вкладок
         }
-    .accesskey = С
+    .accesskey = S
 zen-split-link = 
     .label = Открыть ссылку в разделенной вкладке
     .accesskey = С
 zen-split-view-modifier-header = Разделенный вид
+
 zen-split-view-modifier-activate-reallocation = 
     .label = Активировать перераспределение
 zen-split-view-modifier-enabled-toast = Перераспределение разделенного вида ВКЛЮЧЕНО.

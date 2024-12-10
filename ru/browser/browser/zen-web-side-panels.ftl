@@ -14,13 +14,13 @@ zen-web-side-panel-context-enable-ua =
 
 zen-web-side-panel-context-unload = 
     .label = Выгрузить веб-панель
-    .accesskey = В
+    .accesskey = W
 zen-web-side-panel-context-delete = 
     .label = Удалить веб-панель
-    .accesskey = Д
+    .accesskey = D
 zen-web-side-panel-open-in-new-tab = 
     .label = Открыть в новой вкладке
-    .accesskey = Н
+    .accesskey = N
 zen-web-side-panel-context-open-in-container-tab = 
     .label = Открыть во вкладке в Контейнере
     .accesskey = С

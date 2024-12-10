@@ -18,3 +18,9 @@ sidebar-zen-sidepanel =
     .label = Panele boczne
 sidebar-zen-expand = 
     .label = Expand Sidebar
+tabbrowser-reset-tabs-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Zresetuj kartę do przypiętego adresu
+           *[other] Zresetuj { $tabCount } kart(y) do przypiętych adresów
+        }

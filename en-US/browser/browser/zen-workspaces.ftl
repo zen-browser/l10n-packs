@@ -18,11 +18,11 @@ zen-panel-ui-workspaces-edit-cancel =
   .label = Cancel
   .accesskey = C
 
-zen-workspaces-panel-context-delete = 
+zen-workspaces-panel-context-delete =
     .label = Delete Workspace
     .accesskey = D
 
-zen-workspaces-panel-context-open = 
+zen-workspaces-panel-context-open =
     .label = Open Workspace
     .accesskey = O
 
@@ -34,14 +34,18 @@ zen-workspaces-panel-context-edit =
     .label = Edit Workspace
     .accesskey = E
 
-context-zen-change-workspace-tab = 
+context-zen-change-workspace-tab =
     .label = Change Tab(s) To Workspace
     .accesskey = C
 
-zen-workspaces-panel-context-open-in-container-tab = 
+zen-workspaces-panel-context-open-in-container-tab =
     .label = Set Default Container
     .accesskey = O
 
-zen-workspaces-change-gradient = 
+zen-workspaces-change-gradient =
     .label = Change Theme Colors
     .accesskey = C
+
+zen-bookmark-edit-panel-workspace-selector =
+    .value = Workspaces
+    .accesskey = W

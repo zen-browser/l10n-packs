@@ -3,6 +3,7 @@ pane-zen-looks-title = Внешний вид
 category-zen-looks = 
     .tooltiptext = { pane-zen-looks-title }
 
+
 zen-warning-language = Изменение языка по умолчанию может облегчить отслеживание веб-сайтами.
 
 zen-look-and-feel-colors-header = Выберите цвет темы
@@ -11,8 +12,8 @@ zen-look-and-feel-use-workspace-colors =
     .label = Использовать цвета текущего Пространства как основные
 
 pane-zen-side-panels-title = Боковые веб-панели
-zen-side-panels-header = Общие настройки веб-панелей
-zen-side-panels-description = Повысьте производительность, имея несколько просмотров сразу!
+zen-side-panels-header = Общие настройки боковых веб-панелей
+zen-side-panels-description = Повышайте продуктивность, просматривая несколько окон одновременно!
 zen-side-panels-enabled = 
     .label = Включить веб-панели
 
@@ -36,13 +37,13 @@ zen-glance-enabled =
     .label = Включить Предпросмотр
 
 zen-glance-trigger-ctrl-click = 
-    .label = Ctrl + Click
+    .label = Ctrl + ЛКМ
 zen-glance-trigger-alt-click = 
-    .label = Alt + клик
+    .label = Alt + ЛКМ
 zen-glance-trigger-shift-click = 
-    .label = Shift + клик
+    .label = Shift + ЛКМ
 zen-glance-trigger-meta-click = 
-    .label = Meta (Command) + Клик
+    .label = Meta (Command) + ЛКМ
 zen-glance-trigger-mantain-click = 
     .label = Долгое нажатие (Скоро!)
 
@@ -72,10 +73,12 @@ pane-zen-tabs-unloader-title = Выгрузка вкладок
 zen-tabs-unloader-header = Общие настройки выгрузки вкладок
 zen-tabs-unloader-description = Автоматически выгружать неиспользуемые вкладки для экономии оперативной памяти
 
+
 zen-tabs-unloader-enabled = 
-    .label = Включить выгрузку вкладок
+    .label = Включить выгрузчик вкладок
 zen-tabs-unloader-unload-delay = 
     .label = Выгружать вкладки через
+
 zen-tabs-unloader-unload-delay-description = Время в минутах, после которого вкладки будут выгружены
 
 zen-look-and-feel-compact-toolbar-themed = 
@@ -90,14 +93,15 @@ zen-pinned-tab-manager-restore-pinned-tabs-to-pinned-url =
     .label = Сбрасывать URL в закрепленных вкладках при перезапуске браузера
 zen-pinned-tab-manager-close-shortcut-behavior-label = Поведение сочетания клавиш закрытия вкладки
 zen-pinned-tab-manager-reset-unload-switch-close-shortcut-option = 
-    .label = Сбросить URL, выгрузить и переключиться на следующую вкладку
+    .label = Сбросить ссылку, выгрузить и переключиться на следующую вкладку
 zen-pinned-tab-manager-unload-switch-close-shortcut-option = 
     .label = Выгрузить и переключиться на следующую вкладку
 zen-pinned-tab-manager-reset-switch-close-shortcut-option = 
-    .label = Сбросить URL и переключиться на следующую вкладку
+    .label = Сбросить ссылку и переключиться на следующую вкладку
 zen-pinned-tab-manager-switch-close-shortcut-option = 
-    .label = Перейти на следующую вкладку
+    .label = Переключиться на следующую вкладку
 zen-pinned-tab-manager-reset-close-shortcut-option = 
+
     .label = Сбросить URL
 zen-pinned-tab-manager-close-close-shortcut-option = 
     .label = Закрыть вкладку
@@ -120,8 +124,9 @@ pane-zen-theme-title = Настройки темы
 zen-vertical-tabs-title = Расположение боковой панели и вкладок
 zen-vertical-tabs-header = Вертикальные вкладки
 zen-vertical-tabs-description = Управляйте вкладками в вертикальном представлении
+
 zen-vertical-tabs-show-expand-button = 
-    .label = Показать кнопку расширения
+    .label = Показать кнопку разворачивания
 zen-vertical-tabs-newtab-on-tab-list = 
     .label = Показывать кнопку "Новая вкладка" в списке вкладок
 zen-vertical-tabs-newtab-top-button-border = 
@@ -152,6 +157,7 @@ zen-theme-marketplace-toggle-enabled-button =
     .title = Отключить модификацию
 zen-theme-marketplace-toggle-disabled-button = 
     .title = Включить модификацию
+
 zen-theme-marketplace-remove-confirmation = Вы уверены, что хотите удалить этот мод?
 zen-theme-marketplace-close-modal = Закрыть
 zen-theme-marketplace-theme-header-title = 
@@ -219,7 +225,9 @@ zenCKSOption-group-zen-split-view = Разделенный вид
 
 zen-key-quick-restart = Быстрый перезапуск
 zen-window-new-shortcut = Новое окно
+
 zen-tab-new-shortcut = Новая вкладка
+
 zen-key-redo = Повторить
 zen-restore-last-closed-tab-shortcut = Восстановить последнюю закрытую вкладку
 zen-location-open-shortcut = Открыть местоположение
@@ -261,7 +269,7 @@ zen-key-go-forward = Вперед
 zen-nav-back-shortcut-alt = Назад (Alt)
 zen-nav-fwd-shortcut-alt = Переход вперед (Alt)
 zen-history-show-all-shortcut = Показать полную историю
-zen-key-enter-full-screen = Полноэкранный режим
+zen-key-enter-full-screen = Перейти в полноэкранный режим
 zen-key-exit-full-screen = Выйти из полноэкранного режима
 zen-reader-mode-toggle-shortcut-other = Переключить режим чтения
 zen-picture-in-picture-toggle-shortcut = Переключить режим "картинка в картинке"
@@ -312,6 +320,7 @@ zen-split-view-shortcut-grid = Переключить разделение се�
 zen-split-view-shortcut-vertical = Вертикальное разделение
 zen-split-view-shortcut-horizontal = Горизонтальное разделение
 zen-split-view-shortcut-unsplit = Закрыть разделенный вид
+
 zen-key-select-tab-1 = Выбрать вкладку #1
 zen-key-select-tab-2 = Выбрать вкладку #2
 zen-key-select-tab-3 = Выбрать вкладку #3
@@ -323,6 +332,6 @@ zen-key-select-tab-8 = Выбрать вкладку #8
 zen-key-select-tab-last = Выбрать последнюю вкладку
 zen-key-show-all-tabs = Показать все вкладки
 zen-key-goto-history = Перейти к истории
-zen-key-go-home = Домой
+zen-key-go-home = На главную
 zen-bookmark-show-sidebar-shortcut = Показать боковую панель закладок
 zen-bookmark-show-toolbar-shortcut = Показать панель закладок

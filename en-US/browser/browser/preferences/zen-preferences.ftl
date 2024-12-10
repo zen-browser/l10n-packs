@@ -22,6 +22,13 @@ zen-side-panels-close-on-blur =
 zen-vertical-tabs-show-bottom-border =
     .label = Show border for the bottom icons
 
+zen-vertical-tabs-layout-header = Browser Layout
+zen-vertical-tabs-layout-description = Choose the layout that suits you best
+
+zen-layout-single-toolbar = Single toolbar
+zen-layout-multiple-toolbar = Multiple toolbars
+zen-layout-collapsed-toolbar = Collapsed toolbar
+
 sync-currently-syncing-workspaces = Workspaces
 sync-engine-workspaces =
     .label = Workspaces
@@ -88,6 +95,8 @@ zen-pinned-tab-manager-header = General settings for pinned tabs
 zen-pinned-tab-manager-description = Manage additional behavior of pinned tabs
 zen-pinned-tab-manager-restore-pinned-tabs-to-pinned-url =
     .label = Restore pinned tabs to their originally pinned URL on startup
+zen-pinned-tab-manager-container-specific-essentials-enabled =
+    .label = Enable container-specific essentials
 zen-pinned-tab-manager-close-shortcut-behavior-label = Close Tab Shortcut Behavior
 zen-pinned-tab-manager-reset-unload-switch-close-shortcut-option =
     .label = Reset URL, unload and switch to next tab
