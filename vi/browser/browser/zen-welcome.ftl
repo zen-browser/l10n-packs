@@ -2,8 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome = 👋 Chào mừng đến với { -brand-short-name }
-welcome-dialog-welcome-subtext = Nhanh. Đẹp. Bảo mật.
+welcome-dialog-welcome-title-part-1 = Welcome to
+welcome-dialog-welcome-title-part-2 = the calmer Internet
 welcome-dialog-get-started = Bắt đầu
 welcome-dialog-import = 😍 Đem các mục yêu thích của bạn đến { -brand-short-name }
 welcome-dialog-import-subtext = Tiếp tục lúc bạn dừng lại trong trình duyệt trước
@@ -14,7 +14,12 @@ welcome-dialog-theme-header-1 = Hãy chọn màu ưa thích
 welcome-dialog-theme-header-2 = Hãy chọn chủ đề
 welcome-dialog-search = 🔍 Chọn công cụ tìm kiếm
 welcome-dialog-search-subtext = Chọn công cụ tìm kiếm ưu thích để điều chỉnh trải nghiệm duyệt web của bạn!
-welcome-dialog-thanks = Cảm ơn bạn rất nhiều! ❤️
-welcome-dialog-thanks-subtext = Sự trân trọng của bạn có ý nghĩa rất lớn với chúng tôi!
+welcome-dialog-layout = Choose your layout
+welcome-dialog-layout-subtext = Pick the layout that suits you best!
+welcome-dialog-layout-single-toolbar = Single toolbar
+welcome-dialog-layout-multiple-toolbar = Multiple toolbars
+welcome-dialog-layout-collapsed-toolbar = Collapsed toolbar
+welcome-dialog-thanks-title-part-1 = Thanks for
+welcome-dialog-thanks-title-part-2 = choosing { -brand-short-name }!
 welcome-dialog-back-action = Quay lại
 welcome-dialog-next-action = Tiếp theo

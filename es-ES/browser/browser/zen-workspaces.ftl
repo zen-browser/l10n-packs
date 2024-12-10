@@ -34,3 +34,6 @@ zen-workspaces-panel-context-open-in-container-tab =
 zen-workspaces-change-gradient = 
     .label = Cambiar colores del tema
     .accesskey = C
+zen-bookmark-edit-panel-workspace-selector = 
+    .value = Espacios de trabajo
+    .accesskey = W

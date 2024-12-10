@@ -18,3 +18,9 @@ sidebar-zen-sidepanel =
     .label = Бічні панелі
 sidebar-zen-expand = 
     .label = Expand Sidebar
+tabbrowser-reset-tabs-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Скинути вкладку, щоб закріпити URL-адресу
+           *[other] Скинути { $tabCount } вкладок, щоб закріпити URL-адреси
+        }
