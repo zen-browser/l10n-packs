@@ -18,3 +18,9 @@ sidebar-zen-sidepanel =
     .label = Sivupaneelit
 sidebar-zen-expand = 
     .label = Expand Sidebar
+tabbrowser-reset-tabs-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Resetoi välilehti kiinnitettyyn URL osoitteeseen
+           *[other] Resetoi { $tabCount } välilehteä kiinnitettyyn URL osoitteeseen
+        }

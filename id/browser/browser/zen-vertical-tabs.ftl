@@ -18,3 +18,9 @@ sidebar-zen-sidepanel =
     .label = Panel Samping
 sidebar-zen-expand = 
     .label = Perluas Bilah Sisi
+tabbrowser-reset-tabs-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset tab to pinned URL
+           *[other] Reset { $tabCount } tabs to pinned URLs
+        }
