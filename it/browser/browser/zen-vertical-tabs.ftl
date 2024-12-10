@@ -8,7 +8,7 @@ zen-toolbar-context-compact-mode-enable =
     .label = Abilita modalità compatta
     .accesskey = D
 zen-toolbar-context-compact-mode-just-tabs = 
-    .label = Hide sidebar
+    .label = Nascondi barra laterale
 zen-toolbar-context-compact-mode-just-toolbar = 
     .label = Nascondi barra strumenti
 zen-toolbar-context-compact-mode-hide-both = 
@@ -17,7 +17,7 @@ zen-toolbar-context-compact-mode-hide-both =
 sidebar-zen-sidepanel = 
     .label = Pannelli Laterali
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Espandi barra laterale
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
