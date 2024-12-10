@@ -5,14 +5,14 @@
 welcome-dialog-welcome-title-part-1 = Vítejte v
 welcome-dialog-welcome-title-part-2 = klidnějším internetu
 welcome-dialog-get-started = Začít
-welcome-dialog-import = Bring your favourites to { -brand-short-name }
+welcome-dialog-import = 😍 Přeneste své oblíbené položky do prohlížeče { -brand-short-name }
 welcome-dialog-import-subtext = Pokračujte, kde jste skončili ve Vašem posledním prohlížeči
 welcome-dialog-import-action = Importovat vaše data
 welcome-dialog-theme = Udělejte si pohodlí jako doma
 welcome-dialog-theme-subtext = Přizpůsobte si zážitek se svým oblíbeným vzhledem!
 welcome-dialog-theme-header-1 = Vyberte si perfektní barvu
 welcome-dialog-theme-header-2 = Vyberte si motiv
-welcome-dialog-search = Vyberte si vyhledávač
+welcome-dialog-search = 🔍 Zvolte vyhledávač
 welcome-dialog-search-subtext = Vyberte si preferovaný vyhledávač a přizpůsobte si prohlížení na míru!
 welcome-dialog-layout = Choose your layout
 welcome-dialog-layout-subtext = Pick the layout that suits you best!
