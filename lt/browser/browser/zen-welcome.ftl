@@ -5,14 +5,14 @@
 welcome-dialog-welcome-title-part-1 = Welcome to
 welcome-dialog-welcome-title-part-2 = the calmer Internet
 welcome-dialog-get-started = Pradėkite
-welcome-dialog-import = Bring your favourites to { -brand-short-name }
+welcome-dialog-import = 😍 Atsineškite savo parankinius (dar vadinama kaip žymes, adresynas) į „{ -brand-short-name }“
 welcome-dialog-import-subtext = Tęskite nuo ten, kur baigėte paskutinėje naršyklėje
 welcome-dialog-import-action = Importuokite duomenis
 welcome-dialog-theme = Pasijuskite kaip namie
 welcome-dialog-theme-subtext = Suasmeninkite savo potyrį su savo mėgstama išvaizda!
 welcome-dialog-theme-header-1 = Pasirinkite tobulą spalvą
 welcome-dialog-theme-header-2 = Pasirinkite temą
-welcome-dialog-search = Choose a search engine
+welcome-dialog-search = 🔍 Pasirinkite paieškos variklį
 welcome-dialog-search-subtext = Pasirinkite pageidaujamą paieškos variklį, kad pritaikytumėte naršymo potyrį!
 welcome-dialog-layout = Choose your layout
 welcome-dialog-layout-subtext = Pick the layout that suits you best!
