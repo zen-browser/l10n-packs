@@ -5,14 +5,14 @@
 welcome-dialog-welcome-title-part-1 = Welcome to
 welcome-dialog-welcome-title-part-2 = the calmer Internet
 welcome-dialog-get-started = Zacznij
-welcome-dialog-import = Bring your favourites to { -brand-short-name }
+welcome-dialog-import = 😍 Przynieś swoje ulubione do { -brand-short-name }
 welcome-dialog-import-subtext = Odbierz miejsce, w którym opuściłeś swoją ostatnią przeglądarkę
 welcome-dialog-import-action = Importuj swoje dane
 welcome-dialog-theme = Zrób siebie w domu
 welcome-dialog-theme-subtext = Spersonalizuj swoje doświadczenie swoim ulubionym wyglądem!
 welcome-dialog-theme-header-1 = Wybierz idealny kolor
 welcome-dialog-theme-header-2 = Wybierz swój motyw
-welcome-dialog-search = Choose a search engine
+welcome-dialog-search = 🔍 Wybierz wyszukiwarkę
 welcome-dialog-search-subtext = Wybierz preferowaną wyszukiwarkę, aby dostosować swoje doświadczenie przeglądania!
 welcome-dialog-layout = Choose your layout
 welcome-dialog-layout-subtext = Pick the layout that suits you best!
