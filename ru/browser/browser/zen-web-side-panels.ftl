@@ -1,15 +1,17 @@
 zen-web-side-panel-context-mute-panel = 
-    .label = Отключить веб-панель
-    .accesskey = M
+    .label = Отключить звук веб-панели
+    .accesskey = М
 zen-web-side-panel-context-unmute-panel = 
-    .label = Включить веб-панель
-    .accesskey = m
+    .label = Включить звук веб-панели
+    .accesskey = м
+
 zen-web-side-panel-context-disable-ua = 
-    .label = Отключить мобильный user agent
-    .accesskey = U
+    .label = Отключить мобильный режим
+    .accesskey = У
 zen-web-side-panel-context-enable-ua = 
-    .label = Включить мобильный user agent
-    .accesskey = M
+    .label = Включить мобильный режим
+    .accesskey = М
+
 zen-web-side-panel-context-unload = 
     .label = Выгрузить веб-панель
     .accesskey = W
@@ -20,10 +22,12 @@ zen-web-side-panel-open-in-new-tab =
     .label = Открыть в новой вкладке
     .accesskey = N
 zen-web-side-panel-context-open-in-container-tab = 
-    .label = Открыть во вкладке контейнера
-    .accesskey = C
+    .label = Открыть во вкладке в Контейнере
+    .accesskey = С
+
 zen-web-side-panel-context-add-to-panel = 
     .label = Добавить в веб-панели
-    .accesskey = A
-zen-sidebar-introduction-title = Добро пожаловать в боковую панель Zen
-zen-sidebar-introduction-description = Боковая панель Zen — это новый способ сёрфить интернет. Нажмите на любой из значков, чтобы открыть веб-панель.
+    .accesskey = А
+
+zen-sidebar-introduction-title = Добро пожаловать в Zen Sidebar
+zen-sidebar-introduction-description = Zen Sidebar - это новый способ просматривать Интернет. Нажмите на любую из иконок, чтобы открыть веб-панель.
