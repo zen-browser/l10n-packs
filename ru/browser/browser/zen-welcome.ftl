@@ -5,7 +5,7 @@
 welcome-dialog-welcome-title-part-1 = Добро пожаловать в
 welcome-dialog-welcome-title-part-2 = более спокойный интернет
 welcome-dialog-get-started = Начнём
-welcome-dialog-import = 😍 Добавьте избранное { -brand-short-name }
+welcome-dialog-import = Перенесите свои избранные в { -brand-short-name }
 welcome-dialog-import-subtext = Продолжайте с того места, где вы остановились в прошлом браузере
 welcome-dialog-import-action = Импортировать данные
 welcome-dialog-theme = Чувствуйте себя как дома
@@ -15,7 +15,7 @@ welcome-dialog-theme-header-2 = Выберите тему оформления
 welcome-dialog-search = Выберите поисковую систему
 welcome-dialog-search-subtext = Подберите поисковик под свои потребности для комфортного сёрфинга!
 welcome-dialog-layout = Выберите макет
-welcome-dialog-layout-subtext = Выберите макет, который понравится вам больше всего!
+welcome-dialog-layout-subtext = Выберите макет, который нравится вам больше всего!
 welcome-dialog-layout-single-toolbar = Одна панель инструментов
 welcome-dialog-layout-multiple-toolbar = Несколько панелей инструментов
 welcome-dialog-layout-collapsed-toolbar = Свёрнутая панель инструментов
