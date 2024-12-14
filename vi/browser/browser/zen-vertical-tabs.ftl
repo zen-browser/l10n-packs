@@ -18,3 +18,9 @@ sidebar-zen-sidepanel =
     .label = Bẳng điều khiển bên cạnh
 sidebar-zen-expand = 
     .label = Mở rộng thanh bên
+tabbrowser-reset-tabs-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset tab to pinned URL
+           *[other] Reset { $tabCount } tabs to pinned URLs
+        }

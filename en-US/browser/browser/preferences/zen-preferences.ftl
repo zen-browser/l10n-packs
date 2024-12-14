@@ -19,6 +19,13 @@ zen-side-panels-enabled =
 zen-side-panels-close-on-blur =
     .label = Close the panel when it loses focus if it's not pinned
 
+zen-vertical-tabs-layout-header = Browser Layout
+zen-vertical-tabs-layout-description = Choose the layout that suits you best
+
+zen-layout-single-toolbar = Single toolbar
+zen-layout-multiple-toolbar = Multiple toolbars
+zen-layout-collapsed-toolbar = Collapsed toolbar
+
 sync-currently-syncing-workspaces = Workspaces
 sync-engine-workspaces =
     .label = Workspaces
@@ -190,6 +197,18 @@ zen-split-view-change-on-hover =
 zen-compact-mode-styles-left = Hide Tab bar
 zen-compact-mode-styles-top = Hide Top bar
 zen-compact-mode-styles-both = Hide Both
+
+zen-urlbar-title = Zen URL Bar
+zen-urlbar-header = General settings for the URL bar
+zen-urlbar-description = Customize the URL bar to your liking
+
+zen-urlbar-behavior-label = Behavior
+zen-urlbar-behavior-normal =
+    .label = Normal
+zen-urlbar-behavior-floating-on-type =
+    .label = Floating only when typing
+zen-urlbar-behavior-float =
+    .label = Always floating
 
 pane-zen-CKS-title = Keyboard Shortcuts
 category-zen-CKS =
