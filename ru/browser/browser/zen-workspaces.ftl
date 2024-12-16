@@ -1,39 +1,47 @@
-zen-panel-ui-workspaces-text = Рабочие пространства
-zen-panel-ui-workspaces-create-text = Создать рабочее пространство
+zen-panel-ui-workspaces-text = Пространства
+
+zen-panel-ui-workspaces-create-text = Создать Пространство
+
 zen-panel-ui-workspaces-create-save = 
-    .label = Создать рабочее пространство
-    .accesskey = S
+    .label = Создать Пространство
+    .accesskey = С
 zen-panel-ui-workspaces-create-cancel = 
-    .label = Отменить
-    .accesskey = C
-zen-panel-ui-workspaces-edit-text = Редактировать рабочее пространство
+    .label = Отмена
+    .accesskey = С
+
+zen-panel-ui-workspaces-edit-text = Редактировать Пространство
+
 zen-panel-ui-workspaces-edit-save = 
     .label = Сохранить изменения
     .accesskey = S
 zen-panel-ui-workspaces-edit-cancel = 
     .label = Отмена
-    .accesskey = C
+    .accesskey = С
+
 zen-workspaces-panel-context-delete = 
-    .label = Удалить рабочее пространство
-    .accesskey = D
+    .label = Удалить Пространство
+    .accesskey = Д
+
 zen-workspaces-panel-context-open = 
-    .label = Открыть рабочее пространство
-    .accesskey = O
+    .label = Открыть Пространство
+    .accesskey = О
+
 zen-workspaces-panel-context-set-default = 
-    .label = Установить как проект по умолчанию
-    .accesskey = S
+    .label = Сделать Пространством по умолчанию
+    .accesskey = С
+
 zen-workspaces-panel-context-edit = 
-    .label = Редактировать проект
-    .accesskey = E
+    .label = Редактировать Пространство
+    .accesskey = В
+
 context-zen-change-workspace-tab = 
-    .label = Перенести вкладку(-ки) на рабочую область
-    .accesskey = C
+    .label = Перенести вкладку(-ки) В Пространство
+    .accesskey = С
+
 zen-workspaces-panel-context-open-in-container-tab = 
-    .label = Установить контейнер по умолчанию
-    .accesskey = O
+    .label = Установить Контейнер по умолчанию
+    .accesskey = О
+
 zen-workspaces-change-gradient = 
-    .label = Изменить цвета темы
-    .accesskey = C
-zen-bookmark-edit-panel-workspace-selector = 
-    .value = Рабочие пространства
-    .accesskey = W
+    .label = Изменить цветовую схему
+    .accesskey = С

@@ -1,20 +1,22 @@
 zen-panel-ui-current-profile-text = текущий профиль
+
 unified-extensions-description = Расширения добавляют дополнительный функционал в { -brand-short-name }.
+
 tab-context-zen-reset-pinned-tab = 
     .label = Сбросить закреплённую вкладку
     .accesskey = R
 tab-context-zen-add-essential = 
-    .label = Добавить в важное
+    .label = Добавить в Необходимое
     .accesskey = E
 tab-context-zen-remove-essential = 
-    .label = Удалить из важного
+    .label = Удалить из Необходимого
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Заменить закреплённую ссылку текущей
     .accesskey = C
 tab-zen-unload = 
-    .label = Выгрузить вкладки
-    .accesskey = U
+    .label = Выгрузить вкладку
+    .accesskey = У
 zen-tabs-unloader-tab-actions = 
     .label = Действия выгрузчика вкладок
     .accesskey = Т
@@ -23,9 +25,12 @@ tab-zen-prevent-unload =
     .accesskey = P
 tab-zen-ignore-unload = 
     .label = Разрешить выгрузку вкладок
-    .accesskey = I
-zen-themes-corrupted = Файл модов { -brand-short-name } повреждён. Возвращена тема по умолчанию.
+    .accesskey = В
+
+zen-themes-corrupted = Ваш файл модов { -brand-short-name } повреждён. Он был сброшен к шаблону по умолчанию.
+
 zen-panel-ui-gradient-generator-opacity-text = Контрастность
+
 zen-panel-ui-gradient-generator-texture-text = Текстура
 zen-panel-ui-gradient-generator-custom-color = Пользовательский цвет
 zen-panel-ui-gradient-generator-saved-message = Градиент успешно сохранён!
