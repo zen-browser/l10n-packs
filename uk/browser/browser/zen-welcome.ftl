@@ -20,6 +20,6 @@ welcome-dialog-layout-single-toolbar = Одна панель інструмен�
 welcome-dialog-layout-multiple-toolbar = Кілька панелей інструментів
 welcome-dialog-layout-collapsed-toolbar = Згорнута панель інструментів
 welcome-dialog-thanks-title-part-1 = Дякуємо,
-welcome-dialog-thanks-title-part-2 =  що вибрали { -brand-short-name }!
+welcome-dialog-thanks-title-part-2 = що вибрали { -brand-short-name }!
 welcome-dialog-back-action = Відмінити
 welcome-dialog-next-action = Уперед
