@@ -250,6 +250,7 @@ zen-text-action-undo-shortcut = Undo
 zen-text-action-redo-shortcut = Redo
 zen-text-action-cut-shortcut = Cut
 zen-text-action-copy-shortcut = Copy
+zen-text-action-copy-url-shortcut = Copy current URL
 zen-text-action-paste-shortcut = Paste
 zen-text-action-select-all-shortcut = Select All
 zen-text-action-delete-shortcut = Delete
