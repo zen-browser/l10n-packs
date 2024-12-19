@@ -29,3 +29,4 @@ zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Tekstuur
 zen-panel-ui-gradient-generator-custom-color = Kohandatud värv
 zen-panel-ui-gradient-generator-saved-message = Värviüleminek on edukalt salvestatud!
+zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
