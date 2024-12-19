@@ -29,4 +29,4 @@ zen-panel-ui-gradient-generator-opacity-text = Kontrastas
 zen-panel-ui-gradient-generator-texture-text = Tekstūra
 zen-panel-ui-gradient-generator-custom-color = Pasirinktinė spalva
 zen-panel-ui-gradient-generator-saved-message = Gradientas sėkmingai išsaugotas.
-zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
+zen-copy-current-url-confirmation = URL buvo nukopijuotas į iškarpinę.

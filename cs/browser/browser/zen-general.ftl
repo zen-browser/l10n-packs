@@ -29,4 +29,4 @@ zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Vlastní barva
 zen-panel-ui-gradient-generator-saved-message = Gradient byl úspěšně uložen!
-zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
+zen-copy-current-url-confirmation = URL adresa byla zkopírována do schránky.
