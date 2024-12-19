@@ -29,3 +29,4 @@ zen-panel-ui-gradient-generator-opacity-text = コントラスト
 zen-panel-ui-gradient-generator-texture-text = テクスチャ
 zen-panel-ui-gradient-generator-custom-color = カスタムカラー
 zen-panel-ui-gradient-generator-saved-message = グラデーションを正常に保存しました！
+zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
