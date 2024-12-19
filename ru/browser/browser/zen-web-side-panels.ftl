@@ -1,8 +1,8 @@
 zen-web-side-panel-context-mute-panel = 
-    .label = Отключить веб-панель
+    .label = Отключить звук
     .accesskey = M
 zen-web-side-panel-context-unmute-panel = 
-    .label = Включить веб-панель
+    .label = Включить звук
     .accesskey = m
 zen-web-side-panel-context-disable-ua = 
     .label = Отключить мобильный user agent

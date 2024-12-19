@@ -29,3 +29,4 @@ zen-panel-ui-gradient-generator-opacity-text = 對比度
 zen-panel-ui-gradient-generator-texture-text = 材質
 zen-panel-ui-gradient-generator-custom-color = 自訂顏色
 zen-panel-ui-gradient-generator-saved-message = 漸層儲存成功！
+zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
