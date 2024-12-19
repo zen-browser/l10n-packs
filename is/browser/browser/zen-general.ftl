@@ -29,3 +29,4 @@ zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Áferð
 zen-panel-ui-gradient-generator-custom-color = Sérsniðinn litur
 zen-panel-ui-gradient-generator-saved-message = Vistað hallann!
+zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
