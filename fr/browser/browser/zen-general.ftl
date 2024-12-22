@@ -29,4 +29,4 @@ zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Couleur personnalisée
 zen-panel-ui-gradient-generator-saved-message = Le dégradé a été enregistré avec succès !
-zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
+zen-copy-current-url-confirmation = L'URL a été copiée dans le presse-papier.
