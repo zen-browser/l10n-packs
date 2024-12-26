@@ -50,3 +50,5 @@ zen-rice-share-include-preferences =
 zen-rice-share-include-workspace-themes = 
     .label = Inclure les thèmes avec dégradés de l'espace de travail
 zen-rice-share-include = Options d'exportation
+appmenu-zen-share-rice = 
+    .label = Share Zen Rice
