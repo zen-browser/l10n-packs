@@ -50,3 +50,5 @@ zen-rice-share-include-preferences =
 zen-rice-share-include-workspace-themes = 
     .label = Включити теми градієнта робочого простору
 zen-rice-share-include = Налаштування експорту
+appmenu-zen-share-rice = 
+    .label = Share Zen Rice
