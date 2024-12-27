@@ -51,6 +51,13 @@ zen-rice-share-include-workspace-themes =
     .label = Incluir temas gradientes no espaço de trabalho
 zen-rice-share-success = Successfully created a Rice!
 zen-rice-share-success-link = Rice Share Link
+zen-rice-share-accept = Accept
+zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-notice-details =
+    A Rice is a collection of customizations that can be shared with others.
+    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.
+    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
+zen-learn-more-text = Learn More
 zen-rice-share-include = Opções de Exportação
 appmenu-zen-share-rice = 
     .label = Compartilhar Zen Rice
