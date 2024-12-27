@@ -58,7 +58,11 @@ zen-rice-share-include-preferences =
     .label = Include layout state
 zen-rice-share-include-workspace-themes =
     .label = Include workspace gradient themes
+zen-rice-share-success = Successfully created a Rice!
+zen-rice-share-success-link = Rice Share Link
 
 zen-rice-share-include = Export Options
 appmenu-zen-share-rice =
     .label = Share Zen Rice
+
+zen-close-label = Close
