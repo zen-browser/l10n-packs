@@ -22,6 +22,13 @@ zen-side-panels-close-on-blur =
 zen-vertical-tabs-show-bottom-border =
     .label = Show border for the bottom icons
 
+zen-vertical-tabs-layout-header = Browser Layout
+zen-vertical-tabs-layout-description = Choose the layout that suits you best
+
+zen-layout-single-toolbar = Single toolbar
+zen-layout-multiple-toolbar = Multiple toolbars
+zen-layout-collapsed-toolbar = Collapsed toolbar
+
 sync-currently-syncing-workspaces = Workspaces
 sync-engine-workspaces =
     .label = Workspaces
@@ -108,7 +115,7 @@ pane-zen-workspaces-header = Workspaces
 zen-settings-workspaces-header = General settings for workspaces
 zen-settings-workspaces-description = With workspaces, you can have multiple browsing sessions at once!
 zen-settings-workspaces-enabled =
-    .label = Enable Workspaces (Experimental)
+    .label = Enable Workspaces
 zen-settings-workspaces-hide-default-container-indicator =
     .label = Hide the default container indicator in the tab bar
 zen-settings-workspaces-allow-pinned-tabs-for-different-workspaces =
@@ -190,6 +197,18 @@ zen-compact-mode-styles-left = Hide Tab bar
 zen-compact-mode-styles-top = Hide Top bar
 zen-compact-mode-styles-both = Hide Both
 
+zen-urlbar-title = Zen URL Bar
+zen-urlbar-header = General settings for the URL bar
+zen-urlbar-description = Customize the URL bar to your liking
+
+zen-urlbar-behavior-label = Behavior
+zen-urlbar-behavior-normal =
+    .label = Normal
+zen-urlbar-behavior-floating-on-type =
+    .label = Floating only when typing
+zen-urlbar-behavior-float =
+    .label = Always floating
+
 pane-zen-CKS-title = Keyboard Shortcuts
 category-zen-CKS =
     .tooltiptext = { pane-zen-CKS-title }
@@ -231,6 +250,7 @@ zen-text-action-undo-shortcut = Undo
 zen-text-action-redo-shortcut = Redo
 zen-text-action-cut-shortcut = Cut
 zen-text-action-copy-shortcut = Copy
+zen-text-action-copy-url-shortcut = Copy current URL
 zen-text-action-paste-shortcut = Paste
 zen-text-action-select-all-shortcut = Select All
 zen-text-action-delete-shortcut = Delete

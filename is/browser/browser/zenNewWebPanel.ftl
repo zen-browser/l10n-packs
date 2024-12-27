@@ -1,6 +1,6 @@
 zen-new-web-panel-url = 
-    .value = Initial URL
+    .value = Upphaflegur URL
     .accesskey = I
 zen-new-web-panel-user-agent = 
-    .value = Display this web panel in mobile mode
+    .value = Birta þetta vefspjald í síma ham
     .accesskey = m

@@ -29,3 +29,4 @@ zen-panel-ui-gradient-generator-opacity-text = 대비
 zen-panel-ui-gradient-generator-texture-text = 질감
 zen-panel-ui-gradient-generator-custom-color = 커스텀 색상
 zen-panel-ui-gradient-generator-saved-message = 성공적으로 그라데이션을 저장했습니다!
+zen-copy-current-url-confirmation = The URL has been copied to the clipboard.

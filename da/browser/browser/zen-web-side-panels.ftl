@@ -1,8 +1,8 @@
 zen-web-side-panel-context-mute-panel = 
-    .label = Lydløs Webpanel
-    .accesskey = Læ
+    .label = Slå lyden fra i webpanel
+    .accesskey = M
 zen-web-side-panel-context-unmute-panel = 
-    .label = Fjern Webpanel
+    .label = Slå lyden til i webpanel
     .accesskey = m
 zen-web-side-panel-context-disable-ua = 
     .label = Deaktiver Mobil UserAgent
