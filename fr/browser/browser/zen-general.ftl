@@ -38,26 +38,26 @@ zen-rice-share-author-input =
 zen-rice-share-cancel = Annuler
 zen-rice-share-save = Partager
 zen-rice-share-include-userchrome = 
-    .label = Include zen window styles (userChrome.css)
+    .label = Inclure les styles de fenêtre de Zen (userChrome.css)
 zen-rice-share-include-usercontent = 
-    .label = Include website styles (userContent.css)
+    .label = Inclure les styles du site (userContent.css)
 zen-rice-share-include-mods = 
     .label = Inclure les mods activés
 zen-rice-share-include-mod-prefs = 
     .label = Inclure les préférences des mods
 zen-rice-share-include-preferences = 
-    .label = Include layout preferences
+    .label = Inclure les préférences de la disposition
 zen-rice-share-include-workspace-themes = 
     .label = Inclure les thèmes avec dégradés de l'espace de travail
 zen-rice-share-success = Un Rice a été créé avec succès !
 zen-rice-share-success-link = Lien de partage Rice
-zen-rice-share-accept = Accept
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-accept = Accepter
+zen-rice-share-notice = Avant de partager, veuillez comprendre ce qu'est un Rice
 zen-rice-share-notice-details =
-    A Rice is a collection of customizations that can be shared with others.
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
+    Un Rice est un ensemble de personnalisations qui peuvent être partagées avec les autres.
+    Il s'agit notamment des styles de fenêtre, des styles de site web, des mods activés, des préférences de mods, des préférences de mise en page et des thèmes de dégradés de l'espace de travail.
+    En partageant un Rice, vous partagez toutes ces personnalisations avec d'autres personnes. Veuillez faire attention à ce que vous partagez.
+zen-learn-more-text = En savoir plus
 zen-rice-share-include = Options d'exportation
 appmenu-zen-share-rice = 
     .label = Partager le Zen Rice
