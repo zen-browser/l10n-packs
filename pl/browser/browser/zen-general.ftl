@@ -53,10 +53,11 @@ zen-rice-share-success = Pomyślnie utworzono Rice!
 zen-rice-share-success-link = Link do udostępnienia Rice
 zen-rice-share-accept = Zaakceptuj
 zen-rice-share-notice = Zanim udostępnisz, zrozum proszę czym jest Rice
-zen-rice-share-notice-details =
-    Rice to kolekcja spersonalizowanych ustawień, które mogą być udostępnione innym.
-    Uwzględnia to Twoje style okien i stron internetowych, włączone modyfikacje i ich ustawienia, właściwości układu przeglądarki, jak również gradienty z wyglądu przestrzeni roboczych.
-    Udostępniając Rice, dzielisz się wszystkimi tymi wyborami z innymi. Bierz pod uwagę, co udostępniasz innym.
+# note: Do not translate the "<br/>" tags in the following string
+zen-rice-share-notice-description =
+    A Rice is a collection of customizations that can be shared with others.<br/>
+    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
+    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
 zen-learn-more-text = Dowiedz się więcej
 zen-rice-share-include = Opcje udostępniania
 appmenu-zen-share-rice = 
