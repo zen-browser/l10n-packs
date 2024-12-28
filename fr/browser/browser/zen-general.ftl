@@ -53,10 +53,11 @@ zen-rice-share-success = Un Rice a été créé avec succès !
 zen-rice-share-success-link = Lien de partage Rice
 zen-rice-share-accept = Accepter
 zen-rice-share-notice = Avant de partager, veuillez comprendre ce qu'est un Rice
-zen-rice-share-notice-details =
-    Un Rice est un ensemble de personnalisations qui peuvent être partagées avec les autres.
-    Il s'agit notamment des styles de fenêtre, des styles de site web, des mods activés, des préférences de mods, des préférences de mise en page et des thèmes de dégradés de l'espace de travail.
-    En partageant un Rice, vous partagez toutes ces personnalisations avec d'autres personnes. Veuillez faire attention à ce que vous partagez.
+# note: Do not translate the "<br/>" tags in the following string
+zen-rice-share-notice-description =
+    A Rice is a collection of customizations that can be shared with others.<br/>
+    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
+    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
 zen-learn-more-text = En savoir plus
 zen-rice-share-include = Options d'exportation
 appmenu-zen-share-rice = 
