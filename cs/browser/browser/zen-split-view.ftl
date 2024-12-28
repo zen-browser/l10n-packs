@@ -16,4 +16,4 @@ zen-split-view-modifier-activate-reallocation =
     .label = Aktivovat přerozdělení
 zen-split-view-modifier-enabled-toast = Přechod rozdělení pohledu je zapnutý.
 zen-split-view-modifier-enabled-toast-description = Přetáhněte a přetáhněte zobrazení pro uspořádání. Stiskněte Esc pro ukončení.
-zen-split-view-modifier-disabled-toast = Změna rozdělení pohledu je VYPNUTÁ.
+zen-split-view-modifier-disabled-toast = Změna uspořádání je VYPNUTÁ.
