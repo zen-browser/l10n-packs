@@ -51,13 +51,13 @@ zen-rice-share-include-workspace-themes =
     .label = Zahrnout gradient pracovního prostoru
 zen-rice-share-success = Rice byl úspěšně vytvořen!
 zen-rice-share-success-link = Odkaz na sdílení Rice
-zen-rice-share-accept = Accept
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-accept = Přijmout
+zen-rice-share-notice = Před sdílením si prosím přečtěte co Rice znamená
 zen-rice-share-notice-details =
-    A Rice is a collection of customizations that can be shared with others.
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
+    Rice jsou sbírky úprav, které mohou být sdíleny s ostatními.
+    Rice zahrnují styly Zenu, styly webových stránek, povolené módy, předvolby modů, předvolby rozvržení a vzhledy pracovišť.
+    Sdílením Rice sdílíte všechny tyto úpravy s ostatními. Mějte prosím na paměti, co sdílíte.
+zen-learn-more-text = Zjistit více
 zen-rice-share-include = Exportovat nastavení
 appmenu-zen-share-rice = 
     .label = Sdílet Zen Rice
