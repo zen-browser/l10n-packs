@@ -32,32 +32,32 @@ zen-panel-ui-gradient-generator-saved-message = Värviüleminek on edukalt salve
 zen-copy-current-url-confirmation = URL kopeeriti lõikelauale.
 zen-rice-share-name = 
     .placeholder = Muganduse Nimi
-zen-rice-share-author = -
+zen-rice-share-author = Autor
 zen-rice-share-author-input = 
     .placeholder = Sinu Nimi
 zen-rice-share-cancel = Tühista
 zen-rice-share-save = Jaga
 zen-rice-share-include-userchrome = 
-    .label = Include zen window styles (userChrome.css)
+    .label = Kaasa Zen-i akna stiilid (userChrome.css)
 zen-rice-share-include-usercontent = 
-    .label = Include website styles (userContent.css)
+    .label = Kaasa veebilehtede stiilid (userContent.css)
 zen-rice-share-include-mods = 
     .label = Kaasa lubatud muudatused
 zen-rice-share-include-mod-prefs = 
     .label = Kaasa muudatuste eelistused
 zen-rice-share-include-preferences = 
-    .label = Include layout preferences
+    .label = Kaasa paigutuse eelistused
 zen-rice-share-include-workspace-themes = 
     .label = Kaasa tööruumi värviüleminekute teemad
 zen-rice-share-success = Mugandus on loodud!
 zen-rice-share-success-link = Jagamise link
-zen-rice-share-accept = Accept
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-accept = Nõustu
+zen-rice-share-notice = Enne jagamist, palun mõistke mida mugandus tähendab
 zen-rice-share-notice-details =
-    A Rice is a collection of customizations that can be shared with others.
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
+    Mugandus on kogum kohandusi, mida saab jagada teistega.
+    See sisaldab sinu akna stiile, veebilehtede stiile, modifikatsioone, modifikatsioonide eelistusi, paigutuse eelistusi ja tööruumide värviüleminekute teemasid.
+    Muganduse jagamisel, jagad sa kõiki neid kohandusi teistega. Palun olge tähelepanelik selle osas, mida teistega jagate.
+zen-learn-more-text = Rohkem teavet
 zen-rice-share-include = Eksportimise valikud
 appmenu-zen-share-rice = 
     .label = Jaga Zen-i mugandust
