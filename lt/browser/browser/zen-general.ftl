@@ -51,14 +51,14 @@ zen-rice-share-include-workspace-themes =
     .label = Įtraukti darbo srities gradiento temas
 zen-rice-share-success = Sėkmingai sukurtas „Rice“.
 zen-rice-share-success-link = „Rice“ bendrinimo nuoroda
-zen-rice-share-accept = Accept
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-accept = Sutikti
+zen-rice-share-notice = Prieš bendrindami supraskite, kas yra „Rice“.
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
+    „Rice“ – tai tinkinimų kolekcija, kuria galima bendrinti su kitais.<br/>
+    Tai apima jūsų langų stilius, svetainės stilius, įjungtas modifikacijas, modifikacijos nuostatas, išdėstymo nuostatas ir darbo srities gradiento temas.<br/>
+    Bendrindami „Rice“ bendrinate visus šiuos tinkinimus su kitais. Būkite atidūs tam, kuo bendrinate.
+zen-learn-more-text = Sužinoti daugiau
 zen-rice-share-include = Eksporto parinktys
 appmenu-zen-share-rice = 
     .label = Bendrinti „Zen Rice“
