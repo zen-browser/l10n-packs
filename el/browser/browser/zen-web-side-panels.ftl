@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Προσθήκη στους Πίνακες Ιστού
     .accesskey = A
-zen-sidebar-introduction-title = Καλώς ήλθατε στο Zen Sidebar
-zen-sidebar-introduction-description = Zen Sidebar είναι ένας νέος τρόπος για να περιηγηθείτε στο διαδίκτυο. Κάντε κλικ σε οποιοδήποτε από τα εικονίδια για να ανοίξετε έναν πίνακα ιστού.
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.
