@@ -64,7 +64,7 @@ zen-rice-share-accept = Accept
 zen-rice-share-notice = Before sharing, please understand what a Rice is
 
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-details = A Rice is a collection of customizations that can be shared with others.<br/>
+zen-rice-share-notice-description = A Rice is a collection of customizations that can be shared with others.<br/>
     This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
     By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
 
