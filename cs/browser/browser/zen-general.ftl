@@ -55,9 +55,9 @@ zen-rice-share-accept = Přijmout
 zen-rice-share-notice = Před sdílením si prosím přečtěte co Rice znamená
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
+    Rice jsou sbírky úprav, které mohou být sdíleny s ostatními. <br/>
+    Rice zahrnují styly Zenu, styly webových stránek, povolené módy, předvolby modů, předvolby rozvržení a vzhledy pracovišť. <br/>
+    Sdílením Rice sdílíte všechny tyto úpravy s ostatními. Mějte prosím na paměti, co sdílíte.
 zen-learn-more-text = Zjistit více
 zen-rice-share-include = Exportovat nastavení
 appmenu-zen-share-rice = 
