@@ -38,26 +38,26 @@ zen-rice-share-author-input =
 zen-rice-share-cancel = Anuluj
 zen-rice-share-save = Udostępnij
 zen-rice-share-include-userchrome = 
-    .label = Include zen window styles (userChrome.css)
+    .label = Uwzględnij style okien Zen (userChrome.css)
 zen-rice-share-include-usercontent = 
-    .label = Include website styles (userContent.css)
+    .label = Uwzględnij style stron internetowych (userContent.css)
 zen-rice-share-include-mods = 
-    .label = Dołącz aktywne modyfikacje
+    .label = Uwzględnij aktywne modyfikacje
 zen-rice-share-include-mod-prefs = 
-    .label = Dołącz właściwości modyfikacji
+    .label = Uwzględnij właściwości modyfikacji
 zen-rice-share-include-preferences = 
-    .label = Include layout preferences
+    .label = Uwzględnij preferencje układu
 zen-rice-share-include-workspace-themes = 
-    .label = Dołącz gradienty z wyglądu przestrzeni roboczych
+    .label = Uwzględnij gradienty z wyglądu przestrzeni roboczych
 zen-rice-share-success = Pomyślnie utworzono Rice!
 zen-rice-share-success-link = Link do udostępnienia Rice
-zen-rice-share-accept = Accept
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-accept = Zaakceptuj
+zen-rice-share-notice = Zanim udostępnisz, zrozum proszę czym jest Rice
 zen-rice-share-notice-details =
-    A Rice is a collection of customizations that can be shared with others.
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
+    Rice to kolekcja spersonalizowanych ustawień, które mogą być udostępnione innym.
+    Uwzględnia to Twoje style okien i stron internetowych, włączone modyfikacje i ich ustawienia, właściwości układu przeglądarki, jak również gradienty z wyglądu przestrzeni roboczych.
+    Udostępniając Rice, dzielisz się wszystkimi tymi wyborami z innymi. Bierz pod uwagę, co udostępniasz innym.
+zen-learn-more-text = Dowiedz się więcej
 zen-rice-share-include = Opcje udostępniania
 appmenu-zen-share-rice = 
     .label = Udostępnij Zen Rice
