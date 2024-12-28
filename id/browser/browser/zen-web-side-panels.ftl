@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Tambahkan ke Panel Web
     .accesskey = A
-zen-sidebar-introduction-title = Selamat Datang di Zen Sidebar
-zen-sidebar-introduction-description = Zen Sidebar adalah cara baru untuk menjelajahi web. Klik salah satu ikon untuk membuka panel web.
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.
