@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Přidat do webových panelů
     .accesskey = A
-zen-sidebar-introduction-title = Vítejte v Zen Sidebar
-zen-sidebar-introduction-description = Zen Sidebar je nový způsob, jak prohlížet web. Pro otevření webového panelu klikněte na kteroukoli z ikon.
+zen-webpanel-introduction-title = Vítejte v Zen Webovém panelu
+zen-webpanel-introduction-description = Webové panely jsou způsob, jak mít vaše oblíbené webové stránky na dosah prstů.
