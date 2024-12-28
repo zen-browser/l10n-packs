@@ -55,9 +55,9 @@ zen-rice-share-accept = Nõustu
 zen-rice-share-notice = Enne jagamist, palun mõistke mida mugandus tähendab
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
+    Mugandus on kogum kohandusi, mida saab jagada teistega.<br/>
+    See sisaldab sinu akna stiile, veebilehtede stiile, modifikatsioone, modifikatsioonide eelistusi, paigutuse eelistusi ja tööruumide värviüleminekute teemasid.<br/>
+    Muganduse jagamisel, jagad sa kõiki neid kohandusi teistega. Palun olge tähelepanelik selle osas, mida teistega jagate.
 zen-learn-more-text = Rohkem teavet
 zen-rice-share-include = Eksportimise valikud
 appmenu-zen-share-rice = 
