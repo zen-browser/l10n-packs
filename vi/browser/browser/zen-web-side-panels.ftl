@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Thêm vào bảng điều khiển web
     .accesskey = A
-zen-sidebar-introduction-title = Chào mừng đến với Zen Sidebar
-zen-sidebar-introduction-description = Zen Sidebar là một cách mới để duyệt web. Nhấp vào bất kỳ biểu tượng nào để mở bảng điều khiển web.
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.
