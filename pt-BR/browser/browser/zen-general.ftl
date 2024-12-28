@@ -31,34 +31,34 @@ zen-panel-ui-gradient-generator-custom-color = Cor personalizada
 zen-panel-ui-gradient-generator-saved-message = Gradiente salvo com sucesso!
 zen-copy-current-url-confirmation = A URL foi copiada para a área de transferência.
 zen-rice-share-name = 
-    .placeholder = Rice Name
+    .placeholder = Nome do Rice
 zen-rice-share-author = Por
 zen-rice-share-author-input = 
     .placeholder = Seu Nome
 zen-rice-share-cancel = Cancelar
 zen-rice-share-save = Compartilhar
 zen-rice-share-include-userchrome = 
-    .label = Include zen window styles (userChrome.css)
+    .label = Incluir os estilos de janela Zen (userChrome.css)
 zen-rice-share-include-usercontent = 
-    .label = Include website styles (userContent.css)
+    .label = Incluir estilos do site (userContent.css)
 zen-rice-share-include-mods = 
     .label = Incluir mods habilitados
 zen-rice-share-include-mod-prefs = 
     .label = Incluir preferências do mod
 zen-rice-share-include-preferences = 
-    .label = Include layout preferences
+    .label = Incluir preferências de layout
 zen-rice-share-include-workspace-themes = 
     .label = Incluir temas gradientes no espaço de trabalho
-zen-rice-share-success = Successfully created a Rice!
-zen-rice-share-success-link = Rice Share Link
-zen-rice-share-accept = Accept
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-success = Rice criado com sucesso!
+zen-rice-share-success-link = Link de Compartilhamento do Rice
+zen-rice-share-accept = Aceitar
+zen-rice-share-notice = Antes de compartilhar, por favor entenda o que é um Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
+    Um Rice é uma coleção de personalizações que podem ser compartilhadas com outras pessoas.<br/>
+    Isso inclui os estilos da sua janela, estilos de sites, mods habilitados, preferências de mods, preferências de layout e temas gradientes do espaço de trabalho.<br/>
+    Ao compartilhar um Rice, você está compartilhando todas essas personalizações com outras pessoas. Por favor, tenha cuidado com o que você compartilha.
+zen-learn-more-text = Saiba Mais
 zen-rice-share-include = Opções de Exportação
 appmenu-zen-share-rice = 
     .label = Compartilhar Zen Rice
