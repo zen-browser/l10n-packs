@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Lisa veebipaneelide hulka
     .accesskey = L
-zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-title = Tere tulemast Zen-i veebipaneelidesse
 zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.
