@@ -1,14 +1,14 @@
 zen-toolbar-context-tabs-right = 
     .label = Καρτέλες στα δεξιά
-    .accesskey = R
+    .accesskey = Ρ
 zen-toolbar-context-compact-mode = 
     .label = Συμπαγής λειτουργία
-    .accesskey = C
+    .accesskey = Ψ
 zen-toolbar-context-compact-mode-enable = 
     .label = Ενεργοποίηση συμπαγούς λειτουργίας
-    .accesskey = D
+    .accesskey = Δ
 zen-toolbar-context-compact-mode-just-tabs = 
-    .label = Hide sidebar
+    .label = Απόκρυψη Πλευρικής γραμμής
 zen-toolbar-context-compact-mode-just-toolbar = 
     .label = Απόκρυψη γραμμής εργαλείων
 zen-toolbar-context-compact-mode-hide-both = 
@@ -17,10 +17,10 @@ zen-toolbar-context-compact-mode-hide-both =
 sidebar-zen-sidepanel = 
     .label = Πλευρικοί Πάνελ
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Επέκταση Πλευρικής γραμμής
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset tab to pinned URL
-           *[other] Reset { $tabCount } tabs to pinned URLs
+            [one] Επαναφορά καρτέλας στο καρφιτσωμένο URL
+           *[other] Επαναφορά { $tabCount } καρτελών στα καρφιτσωμένα URLs
         }
