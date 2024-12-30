@@ -51,14 +51,14 @@ zen-rice-share-include-workspace-themes =
     .label = Включити теми градієнта робочого простору
 zen-rice-share-success = Rice успішно створено!
 zen-rice-share-success-link = Поділитися посиланням Rice
-zen-rice-share-accept = Accept
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-accept = Прийняти
+zen-rice-share-notice = Перш ніж ділитися, зрозумійте, що таке Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
+    Rice — це колекція налаштувань, якими можна ділитися з іншими.<br/>
+    Сюди входять стилі вікон, стилі вебсайтів, увімкнені модифікації, налаштування модифікацій, налаштування макетів і теми градієнта робочого простору.<br/>
+    Ділячись Rice, ви ділитеся всіма цими налаштуваннями з іншими користувачами. Пам'ятайте про те, чим ви ділитеся.
+zen-learn-more-text = Дізнатися більше
 zen-rice-share-include = Налаштування експорту
 appmenu-zen-share-rice = 
     .label = Поділитися Zen Rice
