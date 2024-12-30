@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Додати на вебпанель
     .accesskey = A
-zen-webpanel-introduction-title = Welcome to Zen Web Panels
-zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.
+zen-webpanel-introduction-title = Вітаємо у вебпанелях Zen
+zen-webpanel-introduction-description = Вебпанелі — це спосіб тримати улюблені вебсайти під рукою.
