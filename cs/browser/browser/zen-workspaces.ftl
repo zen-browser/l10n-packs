@@ -35,5 +35,5 @@ zen-workspaces-change-gradient =
     .label = Změnit barvy motivu
     .accesskey = C
 zen-bookmark-edit-panel-workspace-selector = 
-    .value = Pracoviště
+    .value = Pracovní prostory
     .accesskey = W
