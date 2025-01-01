@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = Sekmenin Uyku Moduna Geçmesine İzin Ver
     .accesskey = I
 zen-themes-corrupted = { -brand-short-name } adlı modun dosyaları hatalı. Varsayılan temaya sıfırlandılar.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Doku
 zen-panel-ui-gradient-generator-custom-color = Özel Renk
