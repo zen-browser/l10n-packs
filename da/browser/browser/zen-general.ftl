@@ -52,7 +52,7 @@ zen-rice-share-include-workspace-themes =
     .label = Include workspace gradient themes
 zen-rice-share-success = Successfully created a Rice!
 zen-rice-share-success-link = Rice Share Link
-zen-rice-share-accept = Accept
+zen-rice-share-accept = Accepter
 zen-rice-share-notice = Before sharing, please understand what a Rice is
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
