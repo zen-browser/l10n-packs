@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = Leisti kortelės iškėlimą
     .accesskey = I
 zen-themes-corrupted = Jūsų „{ -brand-short-name }“ modifikacijos failas sugadintas. Jie buvo atkurti į numatytąją temą.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Kontrastas
 zen-panel-ui-gradient-generator-texture-text = Tekstūra
 zen-panel-ui-gradient-generator-custom-color = Pasirinktinė spalva
