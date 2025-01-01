@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = 允许标签页卸载
     .accesskey = I
 zen-themes-corrupted = 您的 { -brand-short-name } 模组文件已损坏。它们已重置为默认主题。
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = 对比度
 zen-panel-ui-gradient-generator-texture-text = 纹理
 zen-panel-ui-gradient-generator-custom-color = 自定义颜色
