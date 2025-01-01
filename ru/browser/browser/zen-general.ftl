@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = Разрешить выгрузку вкладок
     .accesskey = I
 zen-themes-corrupted = Файл модов { -brand-short-name } повреждён. Возвращена тема по умолчанию.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Контрастность
 zen-panel-ui-gradient-generator-texture-text = Текстура
 zen-panel-ui-gradient-generator-custom-color = Пользовательский цвет
