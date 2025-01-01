@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = Salli Välilehtien Purku
     .accesskey = I
 zen-themes-corrupted = { -brand-short-name } modejasi tiedosto on vioittunut. Ne on palautettu oletusteemaan.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Tekstuuri
 zen-panel-ui-gradient-generator-custom-color = Muokattu Väri
