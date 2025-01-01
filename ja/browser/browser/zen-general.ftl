@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = タブのアンロードを許可
     .accesskey = I
 zen-themes-corrupted = { -brand-short-name } Modファイルが破損しています。既定のテーマにリセットされました。
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = コントラスト
 zen-panel-ui-gradient-generator-texture-text = テクスチャ
 zen-panel-ui-gradient-generator-custom-color = カスタムカラー
