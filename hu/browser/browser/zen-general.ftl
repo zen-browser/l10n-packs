@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = Lap űrítésének engedélyezése
     .accesskey = I
 zen-themes-corrupted = A te { -brand-short-name } mod fájljaid károsodtak. Vissza lettek állítva az eredeti témára.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Kontraszt
 zen-panel-ui-gradient-generator-texture-text = Textúra
 zen-panel-ui-gradient-generator-custom-color = Egyedi szín
