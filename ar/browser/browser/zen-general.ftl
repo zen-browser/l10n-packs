@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = السماح بإلغاء تحميل علامة التبويب
     .accesskey = I
 zen-themes-corrupted = ملف التعديل { -brand-short-name } الخاص بك تالف. تم إعادة تعيينه إلى السمة الافتراضية.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = نسيج
 zen-panel-ui-gradient-generator-custom-color = لون مخصص
