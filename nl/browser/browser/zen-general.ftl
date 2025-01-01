@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = Tabblad ontladen toestaan
     .accesskey = I
 zen-themes-corrupted = Uw { -brand-short-name } mods bestand is beschadigd. Ze zijn gereset naar het standaardthema.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Textuur
 zen-panel-ui-gradient-generator-custom-color = Aangepaste kleur
