@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = 탭 언로드 허용
     .accesskey = I
 zen-themes-corrupted = { -brand-short-name } 모드 파일이 손상되었습니다. 기본 테마로 재설정되었습니다.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = 대비
 zen-panel-ui-gradient-generator-texture-text = 질감
 zen-panel-ui-gradient-generator-custom-color = 커스텀 색상
