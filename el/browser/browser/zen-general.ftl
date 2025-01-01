@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = Επιτρέψτε Την Αφαίρεση Καρτέλας
     .accesskey = I
 zen-themes-corrupted = Το αρχείο { -brand-short-name } mods είναι κατεστραμμένο. Έχουν γίνει επαναφορά στο προεπιλεγμένο θέμα.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Υφή
 zen-panel-ui-gradient-generator-custom-color = Προσαρμοσμένο Χρώμα
