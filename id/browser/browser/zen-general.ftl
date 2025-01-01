@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = Izinkan Pelepasan Tab
     .accesskey = I
 zen-themes-corrupted = Tidak dapat memuat file mod { -brand-short-name } Anda karena rusakan. File tersebut telah diatur ulang ke tema default.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Custom Color
