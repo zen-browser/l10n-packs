@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = Zezwalaj na usypianie kart
     .accesskey = I
 zen-themes-corrupted = Twój plik modów { -brand-short-name } jest uszkodzony. Zostały one zresetowane do domyślnego stanu.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Tekstura
 zen-panel-ui-gradient-generator-custom-color = Niestandardowy kolor
