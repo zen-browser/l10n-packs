@@ -25,6 +25,7 @@ tab-zen-ignore-unload =
     .label = Tillad fjernelse af fane
     .accesskey = I
 zen-themes-corrupted = Din { -brand-short-name } mods-fil er beskadiget. De er blevet nulstillet til standardtemaet.
+zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Tekstur
 zen-panel-ui-gradient-generator-custom-color = Brugerdefineret Farve
