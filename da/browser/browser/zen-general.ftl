@@ -59,8 +59,8 @@ zen-rice-share-notice-description =
     A Rice is a collection of customizations that can be shared with others.<br/>
     This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
     By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
+zen-learn-more-text = Lær mere
 zen-rice-share-include = Eksportindstillinger
 appmenu-zen-share-rice = 
     .label = Share Zen Rice
-zen-close-label = Close
+zen-close-label = Luk
