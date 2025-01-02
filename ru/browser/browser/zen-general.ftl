@@ -43,17 +43,17 @@ zen-rice-share-include-userchrome =
 zen-rice-share-include-usercontent = 
     .label = Включить стили сайтов (userContent.css)
 zen-rice-share-include-mods = 
-    .label = Включить включённые моды
+    .label = Включить активированные моды
 zen-rice-share-include-mod-prefs = 
     .label = Включить настройки модов
 zen-rice-share-include-preferences = 
-    .label = Include layout preferences
+    .label = Включить предпочтения по расположению элементов
 zen-rice-share-include-workspace-themes = 
-    .label = Include workspace gradient themes
-zen-rice-share-success = Рис создан!
+    .label = Включить градиентные темы рабочего пространства
+zen-rice-share-success = Рис успешно создан!
 zen-rice-share-success-link = Ссылка на рис
 zen-rice-share-accept = Принять
-zen-rice-share-notice = Перед тем, как поделиться, пожалуйста, убедитесь в том, что вы знаете, что такое рис
+zen-rice-share-notice = Перед тем, как поделиться, пожалуйста, убедитесь в том, что вы понимаете, что из себя представляет рис
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Рис — это коллекция настроек персонализации, которыми можно поделиться с другими пользователями.<br/>
