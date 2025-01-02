@@ -32,35 +32,35 @@ zen-panel-ui-gradient-generator-custom-color = Пользовательский 
 zen-panel-ui-gradient-generator-saved-message = Градиент успешно сохранён!
 zen-copy-current-url-confirmation = Ссылка скопирована в буфер обмена.
 zen-rice-share-name = 
-    .placeholder = Rice Name
-zen-rice-share-author = By
+    .placeholder = Название риса
+zen-rice-share-author = Автор:
 zen-rice-share-author-input = 
-    .placeholder = Your Name
-zen-rice-share-cancel = Cancel
-zen-rice-share-save = Share
+    .placeholder = Ваше имя
+zen-rice-share-cancel = Отменить
+zen-rice-share-save = Поделиться
 zen-rice-share-include-userchrome = 
-    .label = Include zen window styles (userChrome.css)
+    .label = Включить стили окон Zen (userChrome.css)
 zen-rice-share-include-usercontent = 
-    .label = Include website styles (userContent.css)
+    .label = Включить стили сайтов (userContent.css)
 zen-rice-share-include-mods = 
-    .label = Include enabled mods
+    .label = Включить включённые моды
 zen-rice-share-include-mod-prefs = 
-    .label = Include mod preferences
+    .label = Включить настройки модов
 zen-rice-share-include-preferences = 
     .label = Include layout preferences
 zen-rice-share-include-workspace-themes = 
     .label = Include workspace gradient themes
-zen-rice-share-success = Successfully created a Rice!
-zen-rice-share-success-link = Rice Share Link
-zen-rice-share-accept = Accept
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-success = Рис создан!
+zen-rice-share-success-link = Ссылка на рис
+zen-rice-share-accept = Принять
+zen-rice-share-notice = Перед тем, как поделиться, пожалуйста, убедитесь в том, что вы знаете, что такое рис
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
+    Рис — это коллекция настроек персонализации, которыми можно поделиться с другими пользователями.<br/>
+    Это включает в себя ваши стили окон, стили сайтов, активированные моды, настройки модов, предпочтения в расположении элементов и градиентные темы рабочего пространства.<br/>
+    Делясь своим рисом, вы передаёте все эти настройки другим людям. Пожалуйста, внимательно относитесь к тому, что вы публикуете и с кем делитесь.
+zen-learn-more-text = Узнать больше
 zen-rice-share-include = Export Options
 appmenu-zen-share-rice = 
-    .label = Share Zen Rice
-zen-close-label = Close
+    .label = Поделиться рисом Zen
+zen-close-label = Закрыть
