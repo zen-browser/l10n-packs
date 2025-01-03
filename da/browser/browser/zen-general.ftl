@@ -1,13 +1,13 @@
 zen-panel-ui-current-profile-text = nuværende profil
 unified-extensions-description = Udvidelser bruges til at bringe ekstra funktionalitet ind i { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Nulstil Fastgjort Fane
+    .label = Nulstil fastgjort fane
     .accesskey = R
 tab-context-zen-add-essential = 
-    .label = Føj til Vigtige
+    .label = Føj til Essentielle
     .accesskey = E
 tab-context-zen-remove-essential = 
-    .label = Fjern fra Vigtige
+    .label = Fjern fra Essentielle
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Erstat fastgjort URL med nuværende
