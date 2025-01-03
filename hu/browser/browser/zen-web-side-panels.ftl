@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Hozzáadás a Web Panelek Közé
     .accesskey = A
-zen-sidebar-introduction-title = Üdv a Zen Sidebar-ban
-zen-sidebar-introduction-description = A Zen Sidebar egy új mondja az Interneten való böngészésnek. Kattints valamelyik ikonra, hogy megnyiss egy web panelt.
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.

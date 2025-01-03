@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Lisa veebipaneelide hulka
     .accesskey = L
-zen-sidebar-introduction-title = Tere tulemast Zeni külgribale
-zen-sidebar-introduction-description = Zeni külgriba on uus viis kuidas veebi sirivda. Klõpsa ikoonidel, et avada veebipaneel.
+zen-webpanel-introduction-title = Tere tulemast Zen-i veebipaneelidesse
+zen-webpanel-introduction-description = Veebipaneelid on viis kuidas hoida lemmikud veebilehed enda käeulatuses.

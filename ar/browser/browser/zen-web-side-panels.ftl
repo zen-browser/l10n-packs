@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = إضافة إلى لوحات الويب
     .accesskey = أ
-zen-sidebar-introduction-title = مرحبا بكم في زين سيديبار
-zen-sidebar-introduction-description = Zen Sidebar طريقة جديدة لتصفح الويب. انقر على أي من الرموز لفتح لوحة ويب.
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.

@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Lägg till i webbpaneler
     .accesskey = A
-zen-sidebar-introduction-title = Välkommen till Zen Sidofält
-zen-sidebar-introduction-description = Zen Sidopanel är ett nytt sätt att surfa på webben. Klicka på någon av ikonerna för att öppna en webbpanel.
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.

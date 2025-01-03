@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Toevoegen aan webpanelen
     .accesskey = A
-zen-sidebar-introduction-title = Welkom bij Zen zijbalk
-zen-sidebar-introduction-description = Zen zijbalk is een nieuwe manier om internetpagina's te bekijken. Klik op een van de iconen om een webpaneel te openen.
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.

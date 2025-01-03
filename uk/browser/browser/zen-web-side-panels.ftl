@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Додати на вебпанель
     .accesskey = A
-zen-sidebar-introduction-title = Ласкаво просимо до бічної панелі Zen
-zen-sidebar-introduction-description = Бічна панель Zen – це новий спосіб перегляду вебсторінок. Натисніть на будь-який значок, щоб відкрити вебпанель.
+zen-webpanel-introduction-title = Вітаємо у вебпанелях Zen
+zen-webpanel-introduction-description = Вебпанелі — це спосіб тримати улюблені вебсайти під рукою.
