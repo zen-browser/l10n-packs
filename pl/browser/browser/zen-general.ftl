@@ -25,7 +25,7 @@ tab-zen-ignore-unload =
     .label = Zezwalaj na usypianie kart
     .accesskey = I
 zen-themes-corrupted = Twój plik modów { -brand-short-name } jest uszkodzony. Zostały one zresetowane do domyślnego stanu.
-zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
+zen-shortcuts-corrupted = Twój plik skrótów { -brand-short-name } jest popsuty. Skróty zostały zresetowane do domyślnych.
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Tekstura
 zen-panel-ui-gradient-generator-custom-color = Niestandardowy kolor
@@ -56,9 +56,9 @@ zen-rice-share-accept = Zaakceptuj
 zen-rice-share-notice = Zanim udostępnisz, zrozum proszę czym jest Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
+    Rice to kolekcja modyfikacji, którą można udostępnić innym.<br/>
+    Uwzględnia to style okien i stron, uruchomione modyfikacje i ich ustawienia, preferencje wyglądu, oraz gradienty z wyglądu przestrzeni roboczych.<br/>
+    Udostępniając Rice, przekazujesz zmiany innym. Bądź ostrożny, co dokładnie udostępniasz.
 zen-learn-more-text = Dowiedz się więcej
 zen-rice-share-include = Opcje udostępniania
 appmenu-zen-share-rice = 
