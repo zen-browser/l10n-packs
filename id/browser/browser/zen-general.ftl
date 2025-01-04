@@ -32,35 +32,35 @@ zen-panel-ui-gradient-generator-custom-color = Warna Kustom
 zen-panel-ui-gradient-generator-saved-message = Berhasil menyimpan gradien!
 zen-copy-current-url-confirmation = URL telah disalin ke clipboard.
 zen-rice-share-name = 
-    .placeholder = Rice Name
+    .placeholder = Nama Rice
 zen-rice-share-author = Oleh
 zen-rice-share-author-input = 
-    .placeholder = Namamu
-zen-rice-share-cancel = Batalkan
+    .placeholder = Nama Anda
+zen-rice-share-cancel = Batal
 zen-rice-share-save = Bagikan
 zen-rice-share-include-userchrome = 
-    .label = Include zen window styles (userChrome.css)
+    .label = Sertakan gaya jendela zen (userChrome.css)
 zen-rice-share-include-usercontent = 
-    .label = Include website styles (userContent.css)
+    .label = Sertakan gaya situs web (userContent.css)
 zen-rice-share-include-mods = 
-    .label = Include enabled mods
+    .label = Sertakan mod yang diaktifkan
 zen-rice-share-include-mod-prefs = 
-    .label = Include mod preferences
+    .label = Sertakan preferensi mod
 zen-rice-share-include-preferences = 
-    .label = Include layout preferences
+    .label = Sertakan preferensi tata letak
 zen-rice-share-include-workspace-themes = 
-    .label = Include workspace gradient themes
-zen-rice-share-success = Successfully created a Rice!
-zen-rice-share-success-link = Rice Share Link
+    .label = Sertakan tema gradasi workspace
+zen-rice-share-success = Berhasil membuat Rice!
+zen-rice-share-success-link = Tautan berbagi Rice
 zen-rice-share-accept = Terima
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-notice = Sebelum berbagi, harap pahami apa itu Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
+    Rice adalah kumpulan kustomisasi yang dapat dibagikan dengan orang lain.<br/>
+    Ini mencakup gaya jendela Anda, gaya situs web, mod yang diaktifkan, preferensi mod, preferensi tata letak, dan tema gradasi workspace.<br/>
+    Dengan membagikan sebuah Rice, Anda membagikan semua kustomisasi ini dengan orang lain. Harap berhati-hati dengan apa yang Anda bagikan. Selamat memasak!
 zen-learn-more-text = Pelajari Lebih Lanjut
 zen-rice-share-include = Opsi Ekspor
 appmenu-zen-share-rice = 
-    .label = Share Zen Rice
+    .label = Bagikan Zen Rice
 zen-close-label = Tutup
