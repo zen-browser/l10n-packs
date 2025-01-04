@@ -1,7 +1,7 @@
 zen-panel-ui-current-profile-text = profil saat ini
 unified-extensions-description = Ekstensi digunakan untuk menambahkan lebih banyak fungsi ekstra ke { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Reset URL Tab Ini Ke Default
+    .label = Setel Ulang Tab yang Disematkan
     .accesskey = R
 tab-context-zen-add-essential = 
     .label = Add to Essentials
@@ -10,7 +10,7 @@ tab-context-zen-remove-essential =
     .label = Remove from Essentials
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Atur URL Default Tab Ini ke Laman Ini
+    .label = Ganti URL yang Disematkan dengan yang Saat Ini
     .accesskey = C
 tab-zen-unload = 
     .label = Lepaskan Tab
