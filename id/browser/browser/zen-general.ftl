@@ -49,7 +49,7 @@ zen-rice-share-include-mod-prefs =
 zen-rice-share-include-preferences = 
     .label = Sertakan preferensi tata letak
 zen-rice-share-include-workspace-themes = 
-    .label = Sertakan tema gradasi workspace
+    .label = Sertakan tema gradasi ruang kerja
 zen-rice-share-success = Berhasil membuat Rice!
 zen-rice-share-success-link = Tautan berbagi Rice
 zen-rice-share-accept = Terima
@@ -57,7 +57,7 @@ zen-rice-share-notice = Sebelum berbagi, harap pahami apa itu Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Rice adalah kumpulan kustomisasi yang dapat dibagikan dengan orang lain.<br/>
-    Ini mencakup gaya jendela Anda, gaya situs web, mod yang diaktifkan, preferensi mod, preferensi tata letak, dan tema gradasi workspace.<br/>
+    Ini mencakup gaya jendela Anda, gaya situs web, mod yang diaktifkan, preferensi mod, preferensi tata letak, dan tema gradasi ruang kerja.<br/>
     Dengan membagikan sebuah Rice, Anda membagikan semua kustomisasi ini dengan orang lain. Harap berhati-hati dengan apa yang Anda bagikan. Selamat memasak!
 zen-learn-more-text = Pelajari Lebih Lanjut
 zen-rice-share-include = Opsi Ekspor
