@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Pridėti prie saityno skydelių
     .accesskey = A
-zen-sidebar-introduction-title = Sveiki atvykę į „Zen Sidebar“
-zen-sidebar-introduction-description = „Zen Sidebar“ – tai naujas naršymo internete būdas. Spustelėkite bet kurią piktogramą, kad atidarytumėte saityno skydelį.
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.

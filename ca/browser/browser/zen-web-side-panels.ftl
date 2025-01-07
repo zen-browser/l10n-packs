@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Add to Web Panels
     .accesskey = A
-zen-sidebar-introduction-title = Us donem la benvinguda a la Barra lateral de Zen
-zen-sidebar-introduction-description = La Barra lateral de Zen és una nova manera de navegar per internet. Feu clic en qualsevol de les icones per a obrir un panell.
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.

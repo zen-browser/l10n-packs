@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Добавить в веб-панели
     .accesskey = A
-zen-sidebar-introduction-title = Добро пожаловать в боковую панель Zen
-zen-sidebar-introduction-description = Боковая панель Zen — это новый способ сёрфить интернет. Нажмите на любой из значков, чтобы открыть веб-панель.
+zen-webpanel-introduction-title = Добро пожаловать в веб-панели Zen
+zen-webpanel-introduction-description = Веб-панели — это способ держать любимые сайты под рукой.

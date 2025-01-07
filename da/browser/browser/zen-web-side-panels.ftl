@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Tilføj til webpaneler
     .accesskey = A
-zen-sidebar-introduction-title = Velkommen til Zen Sidebar
-zen-sidebar-introduction-description = Zen Sidebar er en ny måde at surfe på nettet. Klik på et af ikonerne for at åbne et webpanel.
+zen-webpanel-introduction-title = Velkommen til Zen Webpaneler
+zen-webpanel-introduction-description = Webpaneler er en måde at have dine yndlingssider lige ved hånden.

@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Adicionar aos painéis web
     .accesskey = A
-zen-sidebar-introduction-title = Seja bem-vindo(a) ao Zen Sidebar
-zen-sidebar-introduction-description = O Zen Sidebar é uma nova maneira de navegar na internet. Clique em qualquer um dos ícones para abrir um painel web.
+zen-webpanel-introduction-title = Bem-vindo(a) aos Painéis Web do Zen
+zen-webpanel-introduction-description = Painéis Web são uma maneira de manter seus sites favoritos ao seu alcance.

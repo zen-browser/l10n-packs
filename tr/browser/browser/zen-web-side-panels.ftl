@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Web Paneline Ekle
     .accesskey = A
-zen-sidebar-introduction-title = Zen Kenar Çubuğuna Hoşgeldin
-zen-sidebar-introduction-description = Zen Kenar Çubuğu, internette gezinmenin yeni bir yoludur. Bir web panelini açmak için simgelerden herhangi birine tıkla.
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.

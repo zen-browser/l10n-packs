@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = 加到至網頁側版
     .accesskey = A
-zen-sidebar-introduction-title = 歡迎使用 Zen 側邊欄
-zen-sidebar-introduction-description = Zen 側邊欄是流覽網頁的新方法，按下任何圖示打開網頁。
+zen-webpanel-introduction-title = Welcome to Zen Web Panels
+zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.
