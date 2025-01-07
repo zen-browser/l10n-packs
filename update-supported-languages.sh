@@ -1,11 +1,10 @@
-
 LANGS_FILE="./supported-languages"
 
 # Clean up the file
 echo -n > $LANGS_FILE
 
 # Iterate the directories in the current path
-for d in */ ; do
+for d in */; do
   # ignore assets and .github directories
   if [ "$d" != "assets/" ] && [ "$d" != ".github/" ] && [ "$d" != "en-US/" ] && [ -d "$d" ]; then
     # Get the directory name
@@ -17,5 +16,4 @@ for d in */ ; do
       echo >> $LANGS_FILE
     fi
   fi
-done 
-
+done
