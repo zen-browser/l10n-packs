@@ -60,7 +60,7 @@ zen-rice-share-notice-description =
     Rice zahrnují styly Zenu, styly webových stránek, povolené módy, předvolby modů, předvolby rozvržení a vzhledy pracovišť. <br/>
     Sdílením Rice sdílíte všechny tyto úpravy s ostatními. Mějte prosím na paměti, co sdílíte.
 zen-learn-more-text = Zjistit více
-zen-rice-share-include = Exportovat nastavení
+zen-rice-share-include = Nastavení exportování
 appmenu-zen-share-rice = 
     .label = Sdílet Zen Rice
 zen-close-label = Zavřít
