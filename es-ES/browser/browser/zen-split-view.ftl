@@ -6,7 +6,7 @@ tab-zen-split-tabs =
         }
     .accesskey = S
 zen-split-link = 
-    .label = Separar link a nueva pestaña
+    .label = Separar enlace a una nueva pestaña
     .accesskey = S
 zen-split-view-modifier-header = Vista dividida
 zen-split-view-modifier-activate-reallocation = 
