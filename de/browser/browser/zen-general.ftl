@@ -1,43 +1,43 @@
 zen-panel-ui-current-profile-text = Aktuelles Profil
 unified-extensions-description = Erweiterungen fügen { -brand-short-name } zusätzliche Funktionen hinzu.
 tab-context-zen-reset-pinned-tab = 
-    .label = Pinned Tab zurücksetzen
+    .label = Angepinnten Tab zurücksetzen
     .accesskey = L
 tab-context-zen-add-essential = 
-    .label = Add to Essentials
+    .label = Zu Essentials hinzufügen
     .accesskey = E
 tab-context-zen-remove-essential = 
-    .label = Remove from Essentials
+    .label = Von Essentials entfernen
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Pinned URL durch aktuelle ersetzen
+    .label = Angepinnte URL durch aktuelle ersetzen
     .accesskey = C
 tab-zen-unload = 
-    .label = Unload Tab
+    .label = Tab-Speicher freigeben
     .accesskey = H
 zen-tabs-unloader-tab-actions = 
     .label = Tabs Entlader Aktionen
     .accesskey = T
 tab-zen-prevent-unload = 
-    .label = Tab-Entladen verhindern
+    .label = Tab-Speicherfreigabe verhindern
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Tab-Entladen erlauben
+    .label = Tab-Speicherfreigabe erlauben
     .accesskey = I
 zen-themes-corrupted = Ihre { -brand-short-name } Mods Datei ist beschädigt. Sie wurden auf das Standard-Template zurückgesetzt.
-zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
+zen-shortcuts-corrupted = Deine { -brand-short-name }-Verknüpfungsdatei ist beschädigt. Sie wurde auf die Standard-Verknüpfungen zurückgesetzt.
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Textur
 zen-panel-ui-gradient-generator-custom-color = Eigene Farbe
 zen-panel-ui-gradient-generator-saved-message = Verlauf erfolgreich gespeichert!
-zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
+zen-copy-current-url-confirmation = Die URL wurde in der Zwischenablage gespeichert.
 zen-rice-share-name = 
     .placeholder = Rice Name
-zen-rice-share-author = By
+zen-rice-share-author = Von
 zen-rice-share-author-input = 
-    .placeholder = Your Name
-zen-rice-share-cancel = Cancel
-zen-rice-share-save = Share
+    .placeholder = Dein Name
+zen-rice-share-cancel = Abbrechen
+zen-rice-share-save = Teilen
 zen-rice-share-include-userchrome = 
     .label = Include zen window styles (userChrome.css)
 zen-rice-share-include-usercontent = 
@@ -50,17 +50,17 @@ zen-rice-share-include-preferences =
     .label = Include layout preferences
 zen-rice-share-include-workspace-themes = 
     .label = Include workspace gradient themes
-zen-rice-share-success = Successfully created a Rice!
-zen-rice-share-success-link = Rice Share Link
-zen-rice-share-accept = Accept
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-success = Rice erfolgreich erstellt!
+zen-rice-share-success-link = Link zum Teilen von Rice
+zen-rice-share-accept = Akzeptieren
+zen-rice-share-notice = Bevor du teilst, bitte verstehe, was eine Rice ist
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
-zen-rice-share-include = Export Options
+    Eine Rice ist eine Sammlung von Anpassungen, die mit anderen geteilt werden kann.
+    Dazu gehören deine Fensterstile, Website-Stile, aktivierte Mods, Mod-Einstellungen, Layout-Präferenzen und Arbeitsbereichs-Verlaufsthemen.
+    Indem du eine Rice teilst, teilst du all diese Anpassungen mit anderen. Bitte sei achtsam, was du teilst.
+zen-learn-more-text = Mehr erfahren
+zen-rice-share-include = Exportoptionen
 appmenu-zen-share-rice = 
-    .label = Share Zen Rice
-zen-close-label = Close
+    .label = Zen Rice Teilen
+zen-close-label = Schließen
