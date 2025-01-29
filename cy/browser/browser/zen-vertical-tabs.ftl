@@ -1,26 +1,26 @@
 zen-toolbar-context-tabs-right = 
-    .label = Lapok a jobb oldalon
+    .label = Tabs on the right
     .accesskey = R
 zen-toolbar-context-compact-mode = 
-    .label = Kompakt mód
+    .label = Compact mode
     .accesskey = C
 zen-toolbar-context-compact-mode-enable = 
-    .label = Kompakt mód engedélyezése
+    .label = Enable compact mode
     .accesskey = D
 zen-toolbar-context-compact-mode-just-tabs = 
-    .label = Oldalsáv elrejtése
+    .label = Hide sidebar
 zen-toolbar-context-compact-mode-just-toolbar = 
-    .label = Eszköztár elrejtése
+    .label = Hide toolbar
 zen-toolbar-context-compact-mode-hide-both = 
-    .label = Mindkettő elrejtése
+    .label = Hide both
     .accesskey = H
 sidebar-zen-sidepanel = 
-    .label = Oldalsó panelek
+    .label = Side Panels
 sidebar-zen-expand = 
-    .label = Oldalsáv kibontása
+    .label = Expand Sidebar
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Lap visszaállítása a kitűzött URL-re
-           *[other] { $tabCount } lap visszaállítása a kitűzött URL-ekre
+            [one] Reset tab to pinned URL
+           *[other] Reset { $tabCount } tabs to pinned URLs
         }

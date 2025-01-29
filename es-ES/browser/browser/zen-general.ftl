@@ -1,30 +1,30 @@
 zen-panel-ui-current-profile-text = perfil actual
-unified-extensions-description = Las extensiones se utilizan para aportar más funcionalidad extra a { -brand-short-name }.
+unified-extensions-description = Las extensiones se utilizan para agregar más funcionalidades a { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Reiniciar pestaña fijada
+    .label = Restablecer pestaña anclada
     .accesskey = R
 tab-context-zen-add-essential = 
     .label = Agregar a esenciales
     .accesskey = E
 tab-context-zen-remove-essential = 
-    .label = Remover de esenciales
+    .label = Quitar de esenciales
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Reemplazar URL Fijada con la actual
+    .label = Reemplazar la URL fijada con la actual
     .accesskey = C
 tab-zen-unload = 
-    .label = Hibernar Pestaña
+    .label = Suspender pestaña
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
-    .label = Acciones de la Hibernación de Pestañas
+    .label = Acciones de la suspensión de pestañas
     .accesskey = T
 tab-zen-prevent-unload = 
-    .label = Prevenir Hibernación de Pestaña
+    .label = Prevenir que la pestaña se suspenda
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Permitir Hibernación de Pestaña
+    .label = Permitir que la pestaña se suspenda
     .accesskey = I
-zen-themes-corrupted = Su archivo de mods de { -brand-short-name } está corrupto. Se ha restablecido el tema por defecto.
+zen-themes-corrupted = Tu archivo de mods de { -brand-short-name } está corrupto. Se ha restablecido el tema por defecto.
 zen-shortcuts-corrupted = Tu archivo de atajos de { -brand-short-name } está corrupto. Se han restablecido los atajos por defecto.
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-texture-text = Textura
@@ -49,15 +49,15 @@ zen-rice-share-include-mod-prefs =
 zen-rice-share-include-preferences = 
     .label = Incluir preferencias de diseño
 zen-rice-share-include-workspace-themes = 
-    .label = Incluir temas de degradado del espacio de trabajo
-zen-rice-share-success = ¡Se ha creado con éxito un Rice!
+    .label = Incluir temas de gradiente del área de trabajo
+zen-rice-share-success = ¡Rice creado con éxito!
 zen-rice-share-success-link = Enlace para compartir el Rice
 zen-rice-share-accept = Aceptar
 zen-rice-share-notice = Antes de compartirlo, entiende qué es un Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Un Rice es una colección de personalizaciones que se pueden compartir con otros.<br/>
-    Esto incluye tus estilos de ventana, estilos de sitio web, mods habilitados, preferencias de mods, preferencias de diseño y temas de gradiente del espacio de trabajo.<br/>
+    Esto incluye tus estilos de ventana, estilos de sitio web, mods habilitados, preferencias de mods, preferencias de diseño y temas de gradiente del área de trabajo.<br/>
     Al compartir un Rice, estás compartiendo todas estas personalizaciones con los demás. Por favor, sé consciente de lo que compartes.
 zen-learn-more-text = Más información
 zen-rice-share-include = Exportar opciones

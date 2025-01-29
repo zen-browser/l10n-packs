@@ -2,18 +2,18 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = Bienvenido a
-welcome-dialog-welcome-title-part-2 = el Internet más calmado
-welcome-dialog-get-started = Empezar
-welcome-dialog-import = 😍 Importe sus favoritos a { -brand-short-name }
-welcome-dialog-import-subtext = Recoge donde lo dejaste en tu último navegador
-welcome-dialog-import-action = Importar sus datos
-welcome-dialog-theme = Regístrate en casa
-welcome-dialog-theme-subtext = ¡Personaliza tu experiencia con tu aspecto favorito!
-welcome-dialog-theme-header-1 = Elige tu color perfecto
-welcome-dialog-theme-header-2 = Elige tu tema
-welcome-dialog-search = 🔍 Elija un motor de búsqueda
-welcome-dialog-search-subtext = ¡Seleccione su motor de búsqueda preferido para adaptar su experiencia de navegación!
+welcome-dialog-welcome-title-part-1 = Bienvenido al
+welcome-dialog-welcome-title-part-2 = Internet más apacible
+welcome-dialog-get-started = Comenzar
+welcome-dialog-import = 😍 Importa tus favoritos a { -brand-short-name }
+welcome-dialog-import-subtext = Retoma desde donde lo dejaste en tu último navegador
+welcome-dialog-import-action = Importa tus datos
+welcome-dialog-theme = Siéntete como en casa
+welcome-dialog-theme-subtext = ¡Personaliza tu experiencia con tu look favorito!
+welcome-dialog-theme-header-1 = Selecciona tu color preferido
+welcome-dialog-theme-header-2 = Selecciona un tema
+welcome-dialog-search = 🔍 Elige un motor de búsqueda
+welcome-dialog-search-subtext = ¡Selecciona tu motor de búsqueda preferido para personalizar tu experiencia de navegación!
 welcome-dialog-layout = Escoge tu diseño
 welcome-dialog-layout-subtext = ¡Elige el diseño que más te convenga!
 welcome-dialog-layout-single-toolbar = Barra de herramientas única

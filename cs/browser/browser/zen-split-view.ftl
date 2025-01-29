@@ -2,9 +2,9 @@ tab-zen-split-tabs =
     .label =
         { $tabCount ->
             [1] Rozdělit kartu (je třeba více vybraných karet)
-        [2] Rozdělit { $tabCount } karty
-        [3] Rozdělit { $tabCount } karty
-        [4] Rozdělit { $tabCount } karty
+            [2] Rozdělit { $tabCount } karty
+            [3] Rozdělit { $tabCount } karty
+            [4] Rozdělit { $tabCount } karty
            *[other] Rozdělit { $tabCount } karet
         }
     .accesskey = S
