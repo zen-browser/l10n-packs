@@ -49,7 +49,7 @@ zen-rice-share-include-mod-prefs =
 zen-rice-share-include-preferences = 
     .label = Incluir preferencias de diseño
 zen-rice-share-include-workspace-themes = 
-    .label = Incluir temas de gradiente del área de trabajo
+    .label = Incluir temas de gradiente del espacio de trabajo
 zen-rice-share-success = ¡Rice creado con éxito!
 zen-rice-share-success-link = Enlace para compartir el Rice
 zen-rice-share-accept = Aceptar
@@ -57,7 +57,7 @@ zen-rice-share-notice = Antes de compartirlo, entiende qué es un Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Un Rice es una colección de personalizaciones que se pueden compartir con otros.<br/>
-    Esto incluye tus estilos de ventana, estilos de sitio web, mods habilitados, preferencias de mods, preferencias de diseño y temas de gradiente del área de trabajo.<br/>
+    Esto incluye tus estilos de ventana, estilos de sitio web, mods habilitados, preferencias de mods, preferencias de diseño y temas de gradiente del espacio de trabajo.<br/>
     Al compartir un Rice, estás compartiendo todas estas personalizaciones con los demás. Por favor, sé consciente de lo que compartes.
 zen-learn-more-text = Más información
 zen-rice-share-include = Exportar opciones
