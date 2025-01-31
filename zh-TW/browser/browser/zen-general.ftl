@@ -30,14 +30,14 @@ zen-panel-ui-gradient-generator-opacity-text = 對比度
 zen-panel-ui-gradient-generator-texture-text = 材質
 zen-panel-ui-gradient-generator-custom-color = 自訂顏色
 zen-panel-ui-gradient-generator-saved-message = 漸層儲存成功！
-zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
+zen-copy-current-url-confirmation = 網址已複製到剪貼簿。
 zen-rice-share-name = 
     .placeholder = Rice Name
 zen-rice-share-author = By
 zen-rice-share-author-input = 
     .placeholder = Your Name
-zen-rice-share-cancel = Cancel
-zen-rice-share-save = Share
+zen-rice-share-cancel = 取消
+zen-rice-share-save = 分享
 zen-rice-share-include-userchrome = 
     .label = Include zen window styles (userChrome.css)
 zen-rice-share-include-usercontent = 
@@ -52,15 +52,15 @@ zen-rice-share-include-workspace-themes =
     .label = Include workspace gradient themes
 zen-rice-share-success = Successfully created a Rice!
 zen-rice-share-success-link = Rice Share Link
-zen-rice-share-accept = Accept
+zen-rice-share-accept = 同意
 zen-rice-share-notice = Before sharing, please understand what a Rice is
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     A Rice is a collection of customizations that can be shared with others.<br/>
     This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
     By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
-zen-rice-share-include = Export Options
+zen-learn-more-text = 瞭解更多
+zen-rice-share-include = 匯出選項
 appmenu-zen-share-rice = 
     .label = Share Zen Rice
-zen-close-label = Close
+zen-close-label = 關閉
