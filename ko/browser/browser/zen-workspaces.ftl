@@ -35,5 +35,5 @@ zen-workspaces-change-gradient =
     .label = 테마 색상 변경
     .accesskey = C
 zen-bookmark-edit-panel-workspace-selector = 
-    .value = Workspaces
+    .value = 워크스페이스
     .accesskey = W
