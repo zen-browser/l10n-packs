@@ -21,6 +21,6 @@ sidebar-zen-expand =
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset tab to pinned URL
-           *[other] Reset { $tabCount } tabs to pinned URLs
+            [one] Đặt lại tab về URL đã ghim
+           *[other] Đặt lại { $tabCount } tab về các URL đã ghim
         }
