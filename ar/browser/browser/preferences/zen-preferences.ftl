@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = إعادة
 zen-text-action-cut-shortcut = قطع
 zen-text-action-copy-shortcut = نسخ
 zen-text-action-copy-url-shortcut = Copy current URL
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = لصق
 zen-text-action-select-all-shortcut = حدد الكل
 zen-text-action-delete-shortcut = حذف
