@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = Grąžinti
 zen-text-action-cut-shortcut = Kirpti
 zen-text-action-copy-shortcut = Kopijuoti
 zen-text-action-copy-url-shortcut = Kopijuoti dabartinį URL
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = Įklijuoti
 zen-text-action-select-all-shortcut = Pasirinkti viską
 zen-text-action-delete-shortcut = Ištrinti
