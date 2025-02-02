@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = Ulangi
 zen-text-action-cut-shortcut = Potong
 zen-text-action-copy-shortcut = Salin
 zen-text-action-copy-url-shortcut = Salin URL saat ini
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = Tempel
 zen-text-action-select-all-shortcut = Pilih Semua
 zen-text-action-delete-shortcut = Hapus
