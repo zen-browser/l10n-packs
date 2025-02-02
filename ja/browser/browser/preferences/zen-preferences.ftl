@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = Redo
 zen-text-action-cut-shortcut = 切り取り
 zen-text-action-copy-shortcut = コピー
 zen-text-action-copy-url-shortcut = Copy current URL
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = 貼り付け
 zen-text-action-select-all-shortcut = すべて選択
 zen-text-action-delete-shortcut = 削除
