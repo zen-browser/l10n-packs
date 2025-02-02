@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = Rehacer
 zen-text-action-cut-shortcut = Cortar
 zen-text-action-copy-shortcut = Copiar
 zen-text-action-copy-url-shortcut = Copiar URL actual
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = Pegar
 zen-text-action-select-all-shortcut = Seleccionar todo
 zen-text-action-delete-shortcut = Eliminar
