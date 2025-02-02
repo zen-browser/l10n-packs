@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = Επανάληψη
 zen-text-action-cut-shortcut = Αποκοπή
 zen-text-action-copy-shortcut = Αντιγραφή
 zen-text-action-copy-url-shortcut = Αντιγραφή τρέχοντος URL
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = Επικόλληση
 zen-text-action-select-all-shortcut = Επιλογή Όλων
 zen-text-action-delete-shortcut = Διαγραφή
