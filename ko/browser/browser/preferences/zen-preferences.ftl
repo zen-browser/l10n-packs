@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = 되돌리기 취소
 zen-text-action-cut-shortcut = 자르기
 zen-text-action-copy-shortcut = 복사
 zen-text-action-copy-url-shortcut = 현재 URL 복사
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = 붙여넣기
 zen-text-action-select-all-shortcut = 모두 선택
 zen-text-action-delete-shortcut = 삭제
