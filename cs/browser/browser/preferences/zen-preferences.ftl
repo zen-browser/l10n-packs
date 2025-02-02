@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = Vrátit
 zen-text-action-cut-shortcut = Vyjmout
 zen-text-action-copy-shortcut = Kopírovat
 zen-text-action-copy-url-shortcut = Kopírovat aktuální URL adresu
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = Vložit
 zen-text-action-select-all-shortcut = Vybrat vše
 zen-text-action-delete-shortcut = Vymazat
