@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = Újra
 zen-text-action-cut-shortcut = Kivágás
 zen-text-action-copy-shortcut = Másolás
 zen-text-action-copy-url-shortcut = Jelenlegi URL másolása
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = Beillesztés
 zen-text-action-select-all-shortcut = Összes kijelölése
 zen-text-action-delete-shortcut = Törlés
