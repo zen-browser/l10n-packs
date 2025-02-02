@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = 取消「復原」
 zen-text-action-cut-shortcut = 剪下
 zen-text-action-copy-shortcut = 複製
 zen-text-action-copy-url-shortcut = 複製目前網址
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = 貼上
 zen-text-action-select-all-shortcut = 全選
 zen-text-action-delete-shortcut = 刪除
