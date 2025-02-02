@@ -211,6 +211,7 @@ zen-text-action-redo-shortcut = Làm lại
 zen-text-action-cut-shortcut = Cắt
 zen-text-action-copy-shortcut = Sao chép
 zen-text-action-copy-url-shortcut = Sao chép URL hiện tại
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = Dán
 zen-text-action-select-all-shortcut = Chọn tất cả
 zen-text-action-delete-shortcut = Xóa
