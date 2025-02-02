@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = 重做
 zen-text-action-cut-shortcut = 剪切
 zen-text-action-copy-shortcut = 复制
 zen-text-action-copy-url-shortcut = 复制当前网址
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = 粘贴
 zen-text-action-select-all-shortcut = 选择所有
 zen-text-action-delete-shortcut = 删除
