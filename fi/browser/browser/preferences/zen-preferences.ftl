@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = Toista
 zen-text-action-cut-shortcut = Leikkaa
 zen-text-action-copy-shortcut = Kopioi
 zen-text-action-copy-url-shortcut = Copy current URL
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = Liitä
 zen-text-action-select-all-shortcut = Valitse Kaikki
 zen-text-action-delete-shortcut = Poista

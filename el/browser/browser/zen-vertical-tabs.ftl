@@ -8,19 +8,19 @@ zen-toolbar-context-compact-mode-enable =
     .label = Ενεργοποίηση συμπαγούς λειτουργίας
     .accesskey = D
 zen-toolbar-context-compact-mode-just-tabs = 
-    .label = Hide sidebar
+    .label = Απόκρυψη πλαϊνής γραμμής
 zen-toolbar-context-compact-mode-just-toolbar = 
     .label = Απόκρυψη γραμμής εργαλείων
 zen-toolbar-context-compact-mode-hide-both = 
     .label = Απόκρυψη όλων
     .accesskey = H
 sidebar-zen-sidepanel = 
-    .label = Πλευρικοί Πάνελ
+    .label = Πλαϊνοί Πίνακες
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Επέκταση Πλαϊνής στήλης
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset tab to pinned URL
-           *[other] Reset { $tabCount } tabs to pinned URLs
+            [one] Επαναφορά καρτέλας σε καρφιτσωμένο URL
+           *[other] Επαναφορά { $tabCount } καρτελών σε καρφιτσωμένα URLs
         }

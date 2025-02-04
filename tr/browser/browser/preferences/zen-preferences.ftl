@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = Geri Al
 zen-text-action-cut-shortcut = Kes
 zen-text-action-copy-shortcut = Kopyala
 zen-text-action-copy-url-shortcut = Copy current URL
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = Yapıştır
 zen-text-action-select-all-shortcut = Tümü Seç
 zen-text-action-delete-shortcut = Sil

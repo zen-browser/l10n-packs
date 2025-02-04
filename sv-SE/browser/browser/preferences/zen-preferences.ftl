@@ -209,6 +209,7 @@ zen-text-action-redo-shortcut = Gör om
 zen-text-action-cut-shortcut = Klipp
 zen-text-action-copy-shortcut = Kopiera
 zen-text-action-copy-url-shortcut = Copy current URL
+zen-text-action-copy-url-markdown-shortcut = Copy current URL as Markdown
 zen-text-action-paste-shortcut = Klistra in
 zen-text-action-select-all-shortcut = Markera alla
 zen-text-action-delete-shortcut = Radera

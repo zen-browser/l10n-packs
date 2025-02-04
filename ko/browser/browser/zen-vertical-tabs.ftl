@@ -1,5 +1,5 @@
 zen-toolbar-context-tabs-right = 
-    .label = 우측 탭
+    .label = 탭을 우측으로 놓기
     .accesskey = R
 zen-toolbar-context-compact-mode = 
     .label = 컴팩트 모드
@@ -21,6 +21,6 @@ sidebar-zen-expand =
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset tab to pinned URL
-           *[other] Reset { $tabCount } tabs to pinned URLs
+            [one] 고정된 URL로 되돌리기
+           *[other] { $tabCount }개의 탭을 고정된 URL로 되돌리기
         }
