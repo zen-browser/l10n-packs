@@ -32,35 +32,35 @@ zen-panel-ui-gradient-generator-custom-color = Özel Renk
 zen-panel-ui-gradient-generator-saved-message = Renkler başarıyla kaydedildi!
 zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
 zen-rice-share-name = 
-    .placeholder = Rice Name
+    .placeholder = Rice Adı
 zen-rice-share-author = By
 zen-rice-share-author-input = 
-    .placeholder = Your Name
-zen-rice-share-cancel = Cancel
-zen-rice-share-save = Share
+    .placeholder = Adınız
+zen-rice-share-cancel = İptal Et
+zen-rice-share-save = Paylaş
 zen-rice-share-include-userchrome = 
-    .label = Include zen window styles (userChrome.css)
+    .label = Zen pencere stillerini dahil et (userChrome.css)
 zen-rice-share-include-usercontent = 
-    .label = Include website styles (userContent.css)
+    .label = Website stillerini dahil et (userContent.css)
 zen-rice-share-include-mods = 
-    .label = Include enabled mods
+    .label = Aktif modları dahil et
 zen-rice-share-include-mod-prefs = 
-    .label = Include mod preferences
+    .label = Mod ayarlarını dahil et
 zen-rice-share-include-preferences = 
-    .label = Include layout preferences
+    .label = Düzen tercihlerini dahil et
 zen-rice-share-include-workspace-themes = 
-    .label = Include workspace gradient themes
-zen-rice-share-success = Successfully created a Rice!
-zen-rice-share-success-link = Rice Share Link
-zen-rice-share-accept = Accept
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+    .label = Çalışma alanı degrade temalarını dahil et
+zen-rice-share-success = Rice başarıyla oluşturuldu.
+zen-rice-share-success-link = Rice Paylaşma Linki
+zen-rice-share-accept = Kabul et
+zen-rice-share-notice = Paylaşmadan önce, lütfen bir Rice'ın ne olduğunu iyi anlayın
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
-zen-rice-share-include = Export Options
+    Bir Rice, başkalarıyla paylaşılabilen bir özelleştirme koleksiyonudur.<br/>
+    Buna pencere stilleriniz, web sitesi stilleriniz, etkin modlarınız, mod tercihlerinizi, düzen tercihlerinizi ve çalışma alanı gradyan temalarınız dahildir.<br/>
+    Bir Rice paylaştığınızda, tüm bu özelleştirmeleri başkalarıyla paylaşmış olursunuz. Lütfen ne paylaştığınıza dikkat edin.
+zen-learn-more-text = Daha Fazla Bilgi
+zen-rice-share-include = Dışa Aktarma Seçenekleri
 appmenu-zen-share-rice = 
-    .label = Share Zen Rice
-zen-close-label = Close
+    .label = Zen Rice'ını Paylaş
+zen-close-label = Kapat
