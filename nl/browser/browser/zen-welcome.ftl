@@ -21,5 +21,5 @@ welcome-dialog-layout-multiple-toolbar = Meerdere werkbalken
 welcome-dialog-layout-collapsed-toolbar = Ingevouwen werkbalk
 welcome-dialog-thanks-title-part-1 = Bedankt om te
 welcome-dialog-thanks-title-part-2 = Kiezen voor { -brand-short-name }!
-welcome-dialog-back-action = Achterzijde
+welcome-dialog-back-action = Terug
 welcome-dialog-next-action = Volgende
