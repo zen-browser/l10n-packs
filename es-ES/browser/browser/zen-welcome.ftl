@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 welcome-dialog-welcome-title-part-1 = Bienvenido a
-welcome-dialog-welcome-title-part-2 = el Internet más apacible
+welcome-dialog-welcome-title-part-2 = el Internet más tranquilo
 welcome-dialog-get-started = Empezar
 welcome-dialog-import = 😍 Importe sus favoritos a { -brand-short-name }
 welcome-dialog-import-subtext = Retome desde donde lo dejó en su último navegador
