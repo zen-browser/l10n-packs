@@ -25,5 +25,5 @@ zen-web-side-panel-context-open-in-container-tab =
 zen-web-side-panel-context-add-to-panel = 
     .label = Web Paneline Ekle
     .accesskey = A
-zen-webpanel-introduction-title = Welcome to Zen Web Panels
-zen-webpanel-introduction-description = Web Panels are a way to keep your favorite websites at your fingertips.
+zen-webpanel-introduction-title = Zen Web Paneline hoş geldiniz.
+zen-webpanel-introduction-description = Web Paneli, favori web sitelerinizi elinizin altında tutmanın bir yoludur.
