@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = Espacios de trabajo
+zen-panel-ui-workspaces-text = Áreas de trabajo
 zen-panel-ui-workspaces-create-text = Crear espacio de trabajo
 zen-panel-ui-workspaces-create-save = 
     .label = Crear espacio de trabajo
@@ -35,5 +35,5 @@ zen-workspaces-change-gradient =
     .label = Cambiar colores del tema
     .accesskey = C
 zen-bookmark-edit-panel-workspace-selector = 
-    .value = Espacios de trabajo
+    .value = Áreas de trabajo
     .accesskey = W
