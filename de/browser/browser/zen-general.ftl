@@ -26,6 +26,11 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = Ihre { -brand-short-name } Mods Datei ist beschädigt. Sie wurden auf das Standard-Template zurückgesetzt.
 zen-shortcuts-corrupted = Deine { -brand-short-name }-Verknüpfungsdatei ist beschädigt. Sie wurde auf die Standard-Verknüpfungen zurückgesetzt.
+# note: Do not translate the "<br/>" tags in the following string
+zen-new-urlbar-notification =
+    Die neue URL-Leiste wurde aktiviert, sodass neue Tab-Seiten nicht mehr erforderlich sind.<br/><br/>
+    Versuche, einen neuen Tab zu öffnen, um die neue URL-Leiste in Aktion zu sehen!
+zen-disable = Deaktivieren
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Textur
 zen-panel-ui-gradient-generator-custom-color = Benutzerdefinierte Farbe
