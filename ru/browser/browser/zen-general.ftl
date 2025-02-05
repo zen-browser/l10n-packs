@@ -28,9 +28,9 @@ zen-themes-corrupted = Файл модов { -brand-short-name } поврежд�
 zen-shortcuts-corrupted = Файл комбинаций клавиш { -brand-short-name } повреждён. Возвращены комбинации клавиш по умолчанию.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Новое поле адреса было включено, что убирает необходимость в страницах для новых вкладок.<br/><br/> 
+    Попробуйте открыть новую вкладку, чтобы увидеть новое поле адреса в действии!
+zen-disable = Отключить
 zen-panel-ui-gradient-generator-opacity-text = Контрастность
 zen-panel-ui-gradient-generator-texture-text = Текстура
 zen-panel-ui-gradient-generator-custom-color = Пользовательский цвет
