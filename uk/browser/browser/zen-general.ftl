@@ -26,6 +26,11 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = Ваш файл модифікацій { -brand-short-name } пошкоджено. Вони були скинуті до типової теми.
 zen-shortcuts-corrupted = Ваш файл { -brand-short-name } комбінацій пошкоджено. Їх було скинуто до типових комбінацій.
+# note: Do not translate the "<br/>" tags in the following string
+zen-new-urlbar-notification =
+    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
+    Try opening a new tab to see the new URL bar in action!
+zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Контрастність
 zen-panel-ui-gradient-generator-texture-text = Текстура
 zen-panel-ui-gradient-generator-custom-color = Власний колір
