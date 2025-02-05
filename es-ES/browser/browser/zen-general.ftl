@@ -26,6 +26,11 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = Su archivo de mods de { -brand-short-name } está dañado. Se ha restablecido el tema por defecto.
 zen-shortcuts-corrupted = Su archivo de atajos de { -brand-short-name } está dañado. Se han restablecido los atajos por defecto.
+# note: Do not translate the "<br/>" tags in the following string
+zen-new-urlbar-notification =
+    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
+    Try opening a new tab to see the new URL bar in action!
+zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Color personalizado
