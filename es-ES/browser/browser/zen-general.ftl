@@ -58,7 +58,7 @@ zen-rice-share-include-workspace-themes =
 zen-rice-share-success = ¡Rice creado con éxito!
 zen-rice-share-success-link = Enlace para compartir el Rice
 zen-rice-share-accept = Aceptar
-zen-rice-share-notice = Antes de compartirlo, entiende qué es un Rice
+zen-rice-share-notice = Antes de compartirlo, entienda qué es un Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Un Rice es una colección de personalizaciones que se pueden compartir con otros.<br/>
