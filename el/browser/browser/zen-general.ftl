@@ -26,6 +26,11 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = Το αρχείο { -brand-short-name } mods είναι κατεστραμμένο. Έχει γίνει επαναφορά στο προεπιλεγμένο θέμα.
 zen-shortcuts-corrupted = Το αρχείο συντομεύσεων σας { -brand-short-name } είναι κατεστραμμένο. Έχει γίνει επαναφορά στις προεπιλεγμένες συντομεύσεις.
+# note: Do not translate the "<br/>" tags in the following string
+zen-new-urlbar-notification =
+    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
+    Try opening a new tab to see the new URL bar in action!
+zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Αντίθεση
 zen-panel-ui-gradient-generator-texture-text = Υφή
 zen-panel-ui-gradient-generator-custom-color = Προσαρμοσμένο Χρώμα

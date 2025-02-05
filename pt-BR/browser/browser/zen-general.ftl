@@ -26,6 +26,11 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = Seu arquivo de modificações { -brand-short-name } está corrompido. Eles foram redefinidos para o tem padrão.
 zen-shortcuts-corrupted = Seu arquivo de atalhos { -brand-short-name } está corrompido. Eles foram redefinidos para os atalhos padrão.
+# note: Do not translate the "<br/>" tags in the following string
+zen-new-urlbar-notification =
+    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
+    Try opening a new tab to see the new URL bar in action!
+zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Cor personalizada

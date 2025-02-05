@@ -26,6 +26,11 @@ tab-zen-ignore-unload =
     .accesskey = Jag
 zen-themes-corrupted = Din { -brand-short-name } modds-fil är skadad. De har återställts till standardtemat.
 zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
+# note: Do not translate the "<br/>" tags in the following string
+zen-new-urlbar-notification =
+    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
+    Try opening a new tab to see the new URL bar in action!
+zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Textur
 zen-panel-ui-gradient-generator-custom-color = Anpassad färg

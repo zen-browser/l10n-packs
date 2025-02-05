@@ -26,6 +26,11 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = Je { -brand-short-name } mods bestand is beschadigd. Ze zijn gereset naar het standaard thema.
 zen-shortcuts-corrupted = Je { -brand-short-name } snelkoppelingsbestand is beschadigd. Ze zijn gereset naar de standaard snelkoppelingen.
+# note: Do not translate the "<br/>" tags in the following string
+zen-new-urlbar-notification =
+    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
+    Try opening a new tab to see the new URL bar in action!
+zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Textuur
 zen-panel-ui-gradient-generator-custom-color = Aangepaste kleur

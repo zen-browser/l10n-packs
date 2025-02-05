@@ -26,6 +26,11 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = 你的 { -brand-short-name } 模組文件已損壞，它們已重置為預設佈景主題
 zen-shortcuts-corrupted = 你的 { -brand-short-name } 快捷文件已損壞。它們已被重設為預設值。
+# note: Do not translate the "<br/>" tags in the following string
+zen-new-urlbar-notification =
+    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
+    Try opening a new tab to see the new URL bar in action!
+zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = 對比度
 zen-panel-ui-gradient-generator-texture-text = 材質
 zen-panel-ui-gradient-generator-custom-color = 自訂顏色
