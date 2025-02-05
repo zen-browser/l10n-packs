@@ -26,6 +26,11 @@ tab-zen-ignore-unload =
     .accesskey = I
 zen-themes-corrupted = Jūsų „{ -brand-short-name }“ modifikacijos failas sugadintas. Jie buvo atkurti į numatytąją temą.
 zen-shortcuts-corrupted = Jūsų „{ -brand-short-name }“ sparčiųjų klavišų failas sugadintas. Jie buvo atkurti į numatytuosius sparčiuosius klavišus.
+# note: Do not translate the "<br/>" tags in the following string
+zen-new-urlbar-notification =
+    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
+    Try opening a new tab to see the new URL bar in action!
+zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Kontrastas
 zen-panel-ui-gradient-generator-texture-text = Tekstūra
 zen-panel-ui-gradient-generator-custom-color = Pasirinktinė spalva
