@@ -24,8 +24,8 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Permitir que la pestaña se suspenda
     .accesskey = I
-zen-themes-corrupted = Tu archivo de mods de { -brand-short-name } está corrupto. Se ha restablecido el tema por defecto.
-zen-shortcuts-corrupted = Tu archivo de atajos de { -brand-short-name } está corrupto. Se han restablecido los atajos por defecto.
+zen-themes-corrupted = Su archivo de mods de { -brand-short-name } está dañado. Se ha restablecido el tema por defecto.
+zen-shortcuts-corrupted = Su archivo de atajos de { -brand-short-name } está dañado. Se han restablecido los atajos por defecto.
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Color personalizado
@@ -49,7 +49,7 @@ zen-rice-share-include-mod-prefs =
 zen-rice-share-include-preferences = 
     .label = Incluir preferencias de diseño
 zen-rice-share-include-workspace-themes = 
-    .label = Incluir temas de gradiente del área de trabajo
+    .label = Incluir temas de gradiente del espacio de trabajo
 zen-rice-share-success = ¡Rice creado con éxito!
 zen-rice-share-success-link = Enlace para compartir el Rice
 zen-rice-share-accept = Aceptar
@@ -57,8 +57,8 @@ zen-rice-share-notice = Antes de compartirlo, entiende qué es un Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Un Rice es una colección de personalizaciones que se pueden compartir con otros.<br/>
-    Esto incluye tus estilos de ventana, estilos de sitio web, mods habilitados, preferencias de mods, preferencias de diseño y temas de gradiente del área de trabajo.<br/>
-    Al compartir un Rice, estás compartiendo todas estas personalizaciones con los demás. Por favor, sé consciente de lo que compartes.
+    Esto incluye sus estilos de ventana, estilos de sitio web, mods habilitados, preferencias de mods, preferencias de diseño y temas de gradiente del espacio de trabajo.<br/>
+    Al compartir un Rice, está compartiendo todas estas personalizaciones con los demás. Por favor, sea consciente de lo que comparte.
 zen-learn-more-text = Más información
 zen-rice-share-include = Exportar opciones
 appmenu-zen-share-rice = 
