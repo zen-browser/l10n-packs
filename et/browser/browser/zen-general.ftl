@@ -26,6 +26,11 @@ tab-zen-ignore-unload =
     .accesskey = L
 zen-themes-corrupted = Sinu { -brand-short-name } muudatuste fail on vigane. See on nüüd lähtestatud vaikimisi teemaks.
 zen-shortcuts-corrupted = Sinu { -brand-short-name } otseteede fail on vigane. See on nüüd lähtestatud vaikimisi otseteedeks.
+# note: Do not translate the "<br/>" tags in the following string
+zen-new-urlbar-notification =
+    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
+    Try opening a new tab to see the new URL bar in action!
+zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Tekstuur
 zen-panel-ui-gradient-generator-custom-color = Kohandatud värv
