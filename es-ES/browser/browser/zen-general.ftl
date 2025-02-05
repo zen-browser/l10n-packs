@@ -28,9 +28,9 @@ zen-themes-corrupted = Su archivo de mods de { -brand-short-name } está dañado
 zen-shortcuts-corrupted = Su archivo de atajos de { -brand-short-name } está dañado. Se han restablecido los atajos por defecto.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Se ha habilitado la nueva barra de direcciones, eliminando la necesidad de la página de nueva pestaña.<br/><br/>
+    ¡Pruebe a abrir una nueva pestaña para ver la nueva barra de direcciones en acción!
+zen-disable = Deshabilitar
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Color personalizado
