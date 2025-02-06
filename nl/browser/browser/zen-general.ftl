@@ -28,9 +28,9 @@ zen-themes-corrupted = Je { -brand-short-name } mods bestand is beschadigd. Ze z
 zen-shortcuts-corrupted = Je { -brand-short-name } snelkoppelingsbestand is beschadigd. Ze zijn gereset naar de standaard snelkoppelingen.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    De nieuwe URL-balk is ingeschakeld, waardoor nieuwe tabbladen niet meer nodig zijn.<br/><br/>
+    Probeer een nieuw tabblad te openen om de nieuwe URL-balk in actie te zien!
+zen-disable = Deactiveer
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Textuur
 zen-panel-ui-gradient-generator-custom-color = Aangepaste kleur
