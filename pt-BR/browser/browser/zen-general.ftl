@@ -34,7 +34,7 @@ zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Cor personalizada
-zen-panel-ui-gradient-generator-saved-message = Gradiente salvo com sucesso!
+zen-panel-ui-gradient-generator-saved-message = Degradê salvo com sucesso!
 zen-copy-current-url-confirmation = A URL foi copiada para a área de transferência.
 zen-rice-share-name = 
     .placeholder = Nome do Rice
@@ -54,7 +54,7 @@ zen-rice-share-include-mod-prefs =
 zen-rice-share-include-preferences = 
     .label = Incluir preferências de layout
 zen-rice-share-include-workspace-themes = 
-    .label = Incluir temas gradientes no espaço de trabalho
+    .label = Incluir temas degradês no espaço de trabalho
 zen-rice-share-success = Rice criado com sucesso!
 zen-rice-share-success-link = Link de Compartilhamento do Rice
 zen-rice-share-accept = Aceitar
@@ -62,7 +62,7 @@ zen-rice-share-notice = Antes de compartilhar, por favor entenda o que é um Ric
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Um Rice é uma coleção de personalizações que podem ser compartilhadas com outras pessoas.<br/>
-    Isso inclui os estilos da sua janela, estilos de sites, mods habilitados, preferências de mods, preferências de layout e temas gradientes do espaço de trabalho.<br/>
+    Isso inclui os estilos da sua janela, estilos de sites, mods habilitados, preferências de mods, preferências de layout e temas degradês do espaço de trabalho.<br/>
     Ao compartilhar um Rice, você está compartilhando todas essas personalizações com outras pessoas. Por favor, tenha cuidado com o que você compartilha.
 zen-learn-more-text = Saiba Mais
 zen-rice-share-include = Opções de Exportação
