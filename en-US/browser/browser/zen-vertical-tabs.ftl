@@ -26,6 +26,6 @@ sidebar-zen-expand =
 tabbrowser-unload-tab-button =
 .tooltiptext =
     { $tabCount ->
-        [one] Reset tab to pinned URL
-        *[other] Reset { $tabCount } tabs to pinned URLs
+        [one] Unload and switch to tab
+        *[other] Unload { $tabCount } tabs and switch to the first
     }
