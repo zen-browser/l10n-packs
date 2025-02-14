@@ -4,3 +4,9 @@
 
 zen-welcome-title-line1 = Welcome to
 zen-welcome-title-line2 = a calmer internet
+
+zen-welcome-import-title = Import your bookmarks
+zen-welcome-import-description = Bring your bookmarks, history, and passwords from another browser.
+zen-welcome-import-button = Import now
+
+zen-welcome-skip-button = Skip
