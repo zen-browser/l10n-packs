@@ -10,6 +10,7 @@ zen-welcome-import-description-1 = Your bookmarks, history, and passwords are li
 zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
 zen-welcome-import-button = Import now
 
-zen-welcome-import-default-browser = Set { -brand-short-name } as your default browser
+zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
+zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
 
 zen-welcome-skip-button = Skip
