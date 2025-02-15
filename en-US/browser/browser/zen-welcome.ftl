@@ -13,4 +13,9 @@ zen-welcome-import-button = Import now
 zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
 zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
 
+zen-welcome-start-browsing-title = All set?<br/>
+    Let’s get rolling!
+zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
+zen-welcome-start-browsing = Dive in!
+
 zen-welcome-skip-button = Skip
