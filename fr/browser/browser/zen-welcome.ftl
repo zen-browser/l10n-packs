@@ -22,3 +22,4 @@ zen-welcome-start-browsing-description-1 = Vous êtes prêt à naviguer. Cliquez
 zen-welcome-start-browsing = C'est parti !
 zen-welcome-skip-button = Ignorer
 zen-welcome-next-action = Suivant
+zen-welcome-finished = Votre navigateur a été configuré correctement !
