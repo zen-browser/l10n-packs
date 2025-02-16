@@ -28,9 +28,9 @@ zen-themes-corrupted = Váš { -brand-short-name } mods soubor je poškozen. Byl
 zen-shortcuts-corrupted = Soubor se zkratky prohlížeče { -brand-short-name } je poškozen. Zkratky byly resetovány na výchozí nastavení.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Nový adresní řádek je nyní zapnutý, takže už není potřeba otevírat nové karty.<br/><br/>
+    Zkuste otevřít novou kartu a podívejte se, jak funguje!
+zen-disable = Zavřít
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Vlastní barva
