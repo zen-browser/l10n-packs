@@ -27,10 +27,8 @@ tab-zen-ignore-unload =
 zen-themes-corrupted = Il tuo file { -brand-short-name } mods è danneggiato. Sono stati reimpostati al tema predefinito.
 zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 # note: Do not translate the "<br/>" tags in the following string
-zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+zen-new-urlbar-notification = La nuova barra degli indirizzi è stata abilitata, eliminando la necessità della pagina di una nuova scheda.<br/><br/>Prova ad aprire una nuova scheda per vedere la nuova barra degli indirizzi in azione!
+zen-disable = Disabilita
 zen-panel-ui-gradient-generator-opacity-text = Contrasto
 zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Colore Personalizzato
