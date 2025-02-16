@@ -2,23 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-zen-welcome-title-line1 = Welcome to
-zen-welcome-title-line2 = a calmer internet
-zen-welcome-import-title = A Fresh Start, Same Bookmarks
-zen-welcome-import-description-1 = Your bookmarks, history, and passwords are like a trail of breadcrumbs through the internet—don’t leave them behind!
-zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
-zen-welcome-import-button = Import now
-zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
-zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
-zen-welcome-initial-essentials-title = Your Key Tabs, Always Within Reach
-zen-welcome-initial-essentials-description-1 = Keep your most important tabs easily accessible and always at hand, no matter how many you open.
-zen-welcome-initial-essentials-description-2 = Essential tabs are always visible, no matter what workspace you are in.
-zen-welcome-workspace-colors-title = Your Workspaces, Your Colors
-zen-welcome-workspace-colors-description = Personalize your browser by giving each workspace its own unique color identity.
+zen-welcome-title-line1 = 欢迎来到
+zen-welcome-title-line2 = 沉浸式的互联网
+zen-welcome-import-title = 重新出发，收藏未改
+zen-welcome-import-description-1 = 收藏足迹贴心伴，迁移升级别落下！
+zen-welcome-import-description-2 = 一键迁移数据，无缝续览网络。
+zen-welcome-import-button = 立即导入
+zen-welcome-set-default-browser = 将 { -brand-short-name } 设为默认浏览器
+zen-welcome-dont-set-default-browser = 不要将 { -brand-short-name } 设为默认浏览器
+zen-welcome-initial-essentials-title = 关键页面，一触即达
+zen-welcome-initial-essentials-description-1 = 无论开启多少标签页，常驻页面始终置顶。
+zen-welcome-initial-essentials-description-2 = 无论身处哪个工作区，常驻页面始终可见。
+zen-welcome-workspace-colors-title = 空间由你，色彩随心
+zen-welcome-workspace-colors-description = 您可以给每个工作区定制化颜色。
 zen-welcome-start-browsing-title =
-    All set?<br/>
-    Let’s get rolling!
-zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
-zen-welcome-start-browsing = Dive in!
-zen-welcome-skip-button = Skip
-zen-welcome-next-action = Next
+    都准备好了吗？<br/>
+    开始冲浪吧！
+zen-welcome-start-browsing-description-1 = 一切准备妥当。点击下方按钮开始用 { -brand-short-name } 浏览互联网。
+zen-welcome-start-browsing = 立刻开始！
+zen-welcome-skip-button = 跳过
+zen-welcome-next-action = 下一步
+zen-welcome-finished = 您的 Zen 已正确设置！
