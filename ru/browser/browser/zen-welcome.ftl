@@ -22,3 +22,4 @@ zen-welcome-start-browsing-description-1 = Всё настроено и гото
 zen-welcome-start-browsing = Погрузиться
 zen-welcome-skip-button = Пропустить
 zen-welcome-next-action = Продолжить
+zen-welcome-finished = Your Zen has been set up correctly!
