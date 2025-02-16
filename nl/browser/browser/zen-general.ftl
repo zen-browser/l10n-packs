@@ -30,7 +30,7 @@ zen-shortcuts-corrupted = Je { -brand-short-name } snelkoppelingsbestand is besc
 zen-new-urlbar-notification =
     De nieuwe URL-balk is ingeschakeld, waardoor nieuwe tabbladen niet meer nodig zijn.<br/><br/>
     Probeer een nieuw tabblad te openen om de nieuwe URL-balk in actie te zien!
-zen-disable = Deactiveer
+zen-disable = Uitschakelen
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-texture-text = Textuur
 zen-panel-ui-gradient-generator-custom-color = Aangepaste kleur
