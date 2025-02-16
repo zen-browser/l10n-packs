@@ -30,7 +30,7 @@ zen-shortcuts-corrupted = Votre fichier de raccourcis { -brand-short-name } est 
 zen-new-urlbar-notification =
     La nouvelle barre URL a été activée, supprimant la nécessité de nouvelles pages d'onglets.<br/><br/>
     Essayez d'ouvrir un nouvel onglet pour voir la nouvelle barre d'onglets en action !
-zen-disable = Désactivé
+zen-disable = Désactiver
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Couleur personnalisée
