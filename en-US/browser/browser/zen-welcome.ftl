@@ -27,3 +27,5 @@ zen-welcome-start-browsing = Dive in!
 
 zen-welcome-skip-button = Skip
 zen-welcome-next-action = Next
+
+zen-welcome-finished = Your Zen has been set up correctly!
