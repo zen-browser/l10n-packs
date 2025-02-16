@@ -2,11 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-zen-welcome-title-line1 = Bienvenido al
-zen-welcome-title-line2 = Internet más apacible
+zen-welcome-title-line1 = Bienvenido a
+zen-welcome-title-line2 = un Internet más tranquilo
 zen-welcome-import-title = Un nuevo comienzo, los mismos marcadores
 zen-welcome-import-description-1 = Sus marcadores, historial, y contraseñas son como un rastro de migas de pan a través de Internet—¡no las deje atrás!
-zen-welcome-import-description-2 = Tráigalos fácilmente desde otro navegador y continúe justo donde lo dejó.
+zen-welcome-import-description-2 = Tráelos fácilmente desde otro navegador y continúa justo donde lo dejaste.
 zen-welcome-import-button = Importar ahora
 zen-welcome-set-default-browser = Establecer { -brand-short-name } como su navegador predeterminado
 zen-welcome-dont-set-default-browser = NO establecer { -brand-short-name } como su navegador predeterminado
@@ -22,3 +22,4 @@ zen-welcome-start-browsing-description-1 = Está listo y preparado para continua
 zen-welcome-start-browsing = ¡Comencemos!
 zen-welcome-skip-button = Omitir
 zen-welcome-next-action = Siguiente
+zen-welcome-finished = Your Zen has been set up correctly!
