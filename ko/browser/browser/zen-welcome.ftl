@@ -2,24 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = 환영합니다
-welcome-dialog-welcome-title-part-2 = 더 차분해진 인터넷
-welcome-dialog-get-started = 시작하기
-welcome-dialog-import = 😍 즐겨찾기를 { -brand-short-name }로 가져오세요
-welcome-dialog-import-subtext = 이전 브라우저에서 떠났던 부분부터 다시 시작하세요
-welcome-dialog-import-action = 데이터 불러오기
-welcome-dialog-theme = 내 집처럼 편안하게
-welcome-dialog-theme-subtext = 마음에 드는 모습으로 나만의 경험을 만들어보세요!
-welcome-dialog-theme-header-1 = 나만의 완벽한 색 선택
-welcome-dialog-theme-header-2 = 나만의 테마 선택
-welcome-dialog-search = 🔍 검색 엔진 선택
-welcome-dialog-search-subtext = 선호하는 검색 엔진을 선택하여 맞춤형 검색 환경을 만들어 보세요!
-welcome-dialog-layout = 당신의 레이아웃을 선택하세요
-welcome-dialog-layout-subtext = 가장 잘 맞는 레이아웃을 고르세요!
-welcome-dialog-layout-single-toolbar = 단일 툴바
-welcome-dialog-layout-multiple-toolbar = 다중 툴바
-welcome-dialog-layout-collapsed-toolbar = 축소된 툴바
-welcome-dialog-thanks-title-part-1 = 감사합니다
-welcome-dialog-thanks-title-part-2 = { -brand-short-name }을 선택해 주셔서요!
-welcome-dialog-back-action = 이전
-welcome-dialog-next-action = 다음
+zen-welcome-title-line1 = Welcome to
+zen-welcome-title-line2 = a calmer internet
+zen-welcome-import-title = A Fresh Start, Same Bookmarks
+zen-welcome-import-description-1 = Your bookmarks, history, and passwords are like a trail of breadcrumbs through the internet—don’t leave them behind!
+zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
+zen-welcome-import-button = Import now
+zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
+zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
+zen-welcome-initial-essentials-title = Your Key Tabs, Always Within Reach
+zen-welcome-initial-essentials-description-1 = Keep your most important tabs easily accessible and always at hand, no matter how many you open.
+zen-welcome-initial-essentials-description-2 = Essential tabs are always visible, no matter what workspace you are in.
+zen-welcome-workspace-colors-title = Your Workspaces, Your Colors
+zen-welcome-workspace-colors-description = Personalize your browser by giving each workspace its own unique color identity.
+zen-welcome-start-browsing-title =
+    All set?<br/>
+    Let’s get rolling!
+zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
+zen-welcome-start-browsing = Dive in!
+zen-welcome-skip-button = Skip
+zen-welcome-next-action = Next

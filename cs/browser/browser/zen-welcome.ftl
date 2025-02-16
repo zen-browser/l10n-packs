@@ -2,24 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = Přivítejte
-welcome-dialog-welcome-title-part-2 = klidnější internet
-welcome-dialog-get-started = Začít
-welcome-dialog-import = 😍 Přeneste své oblíbené záložky do prohlížeče { -brand-short-name }
-welcome-dialog-import-subtext = Začněte tam, kde jste skončili v minulém prohlížeči
-welcome-dialog-import-action = Importovat vaše data
-welcome-dialog-theme = Udělejte si pohodlí
-welcome-dialog-theme-subtext = Přizpůsobte si zážitek podle svého oblíbeného vzhledu!
-welcome-dialog-theme-header-1 = Vyberte si dokonalou barvu
-welcome-dialog-theme-header-2 = Vyberte si motiv
-welcome-dialog-search = 🔍 Zvolte vyhledávač
-welcome-dialog-search-subtext = Vyberte si vyhledávač a přizpůsobte si prohlížení na míru!
-welcome-dialog-layout = Vyberte si rozložení
-welcome-dialog-layout-subtext = Vyberte si rozložení, které vám vyhovuje nejlépe!
-welcome-dialog-layout-single-toolbar = Jeden panel nástrojů
-welcome-dialog-layout-multiple-toolbar = Více panelů nástrojů
-welcome-dialog-layout-collapsed-toolbar = Sbalený panel nástrojů
-welcome-dialog-thanks-title-part-1 = Děkujeme Vám za
-welcome-dialog-thanks-title-part-2 = výběr prohlížeče { -brand-short-name }!
-welcome-dialog-back-action = Zpět
-welcome-dialog-next-action = Další
+zen-welcome-title-line1 = Welcome to
+zen-welcome-title-line2 = a calmer internet
+zen-welcome-import-title = A Fresh Start, Same Bookmarks
+zen-welcome-import-description-1 = Your bookmarks, history, and passwords are like a trail of breadcrumbs through the internet—don’t leave them behind!
+zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
+zen-welcome-import-button = Import now
+zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
+zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
+zen-welcome-initial-essentials-title = Your Key Tabs, Always Within Reach
+zen-welcome-initial-essentials-description-1 = Keep your most important tabs easily accessible and always at hand, no matter how many you open.
+zen-welcome-initial-essentials-description-2 = Essential tabs are always visible, no matter what workspace you are in.
+zen-welcome-workspace-colors-title = Your Workspaces, Your Colors
+zen-welcome-workspace-colors-description = Personalize your browser by giving each workspace its own unique color identity.
+zen-welcome-start-browsing-title =
+    All set?<br/>
+    Let’s get rolling!
+zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
+zen-welcome-start-browsing = Dive in!
+zen-welcome-skip-button = Skip
+zen-welcome-next-action = Next
