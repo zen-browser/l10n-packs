@@ -22,3 +22,4 @@ zen-welcome-start-browsing-description-1 = Du bist startklar! Klicke auf den But
 zen-welcome-start-browsing = Tauche ein!
 zen-welcome-skip-button = Überspringen
 zen-welcome-next-action = Weiter
+zen-welcome-finished = Zen wurde korrekt eingerichtet!
