@@ -5,21 +5,21 @@
 zen-welcome-title-line1 = להנות מ
 zen-welcome-title-line2 = אינטרנט רגוע יותר
 zen-welcome-import-title = התחלה חדשה, אותן סימניות
-zen-welcome-import-description-1 = Your bookmarks, history, and passwords are like a trail of breadcrumbs through the internet—don’t leave them behind!
-zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
-zen-welcome-import-button = Import now
-zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
-zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
-zen-welcome-initial-essentials-title = Your Key Tabs, Always Within Reach
-zen-welcome-initial-essentials-description-1 = Keep your most important tabs easily accessible and always at hand, no matter how many you open.
-zen-welcome-initial-essentials-description-2 = Essential tabs are always visible, no matter what workspace you are in.
-zen-welcome-workspace-colors-title = Your Workspaces, Your Colors
-zen-welcome-workspace-colors-description = Personalize your browser by giving each workspace its own unique color identity.
+zen-welcome-import-description-1 = הסימניות, ההיסטוריה, והסיסמאות שלך הן כמו שביל פירורי לחם דרך האינטרנט—לא להשאיר אותן מאחור!
+zen-welcome-import-description-2 = אפשר להחזיר אותן בקלות מדפדפן אחר ולהמשיך בדיוק מאיפה שהפסקת..
+zen-welcome-import-button = ייבא עכשיו
+zen-welcome-set-default-browser = הגדר { -brand-short-name } כדפדפן ברירת מחדל
+zen-welcome-dont-set-default-browser = אל תגדיר { -brand-short-name } כדפדפן ברירת מחדל
+zen-welcome-initial-essentials-title = הכרטיסיות החשובות ביותר, תמיד בקרבתך
+zen-welcome-initial-essentials-description-1 = הכרטיסיות הכי חשובות עליך תמיד זמינות בקלות, לא משנה כמה כרטיסיות פתוחות.
+zen-welcome-initial-essentials-description-2 = כרטיסיות נחוצות תמיד מוצגות, לא משנה באיזה סביבת עבודה.
+zen-welcome-workspace-colors-title = הסביבות עבודה שלך, הצבעים שלך
+zen-welcome-workspace-colors-description = ניתן להתאים אישית את הדפדפן שלך על ידי הגדרת צבע ייחודי לכל סביבת עבודה.
 zen-welcome-start-browsing-title =
-    All set?<br/>
-    Let’s get rolling!
-zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
-zen-welcome-start-browsing = Dive in!
-zen-welcome-skip-button = Skip
-zen-welcome-next-action = Next
-zen-welcome-finished = Your Zen has been set up correctly!
+    הכל מוכן?<br/>
+    הגיע הזמן להתחיל!
+zen-welcome-start-browsing-description-1 = הכל מוגדר מוכן להתחלה. לחיצה על הכפתור למטה כדי להתחיל לגלוש עם { -brand-short-name }.
+zen-welcome-start-browsing = יאללה בלאגן!
+zen-welcome-skip-button = דלג
+zen-welcome-next-action = הבא
+zen-welcome-finished = הZen שלך הוגדר בהצלחה!
