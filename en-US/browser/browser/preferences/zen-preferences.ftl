@@ -64,12 +64,6 @@ zen-look-and-feel-compact-view-top-toolbar =
 zen-look-and-feel-compact-toolbar-flash-popup =
     .label = Briefly make the toolbar popup when switching or opening new tabs in compact mode
 
-zen-look-and-feel-buttons-header = Button style
-zen-look-and-feel-buttons-description = Choose the style of buttons you want to see
-
-zen-look-and-feel-pilled-buttons =
-    .label = Pilled Buttons
-
 pane-zen-tabs-title = Tab Management
 category-zen-workspaces =
     .tooltiptext = { pane-zen-tabs-title }
