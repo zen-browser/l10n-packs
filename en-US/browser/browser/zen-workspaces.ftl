@@ -49,3 +49,14 @@ zen-workspaces-change-gradient =
 zen-bookmark-edit-panel-workspace-selector =
     .value = Workspaces
     .accesskey = W
+
+zen-panel-ui-gradient-generator-algo-complementary =
+    .label = Complementary
+zen-panel-ui-gradient-generator-algo-splitComplementary =
+    .label = Split
+zen-panel-ui-gradient-generator-algo-analogous = Analogous
+    .label = Analogous
+zen-panel-ui-gradient-generator-algo-triadic =
+    .label = Triadic
+zen-panel-ui-gradient-generator-algo-floating =
+    .label = Floating
