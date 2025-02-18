@@ -47,3 +47,4 @@ zen-panel-ui-gradient-generator-algo-triadic =
     .label = 삼색
 zen-panel-ui-gradient-generator-algo-floating = 
     .label = 플로팅
+zen-panel-ui-gradient-click-to-add = Click to add a color
