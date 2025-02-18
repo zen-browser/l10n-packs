@@ -4,14 +4,14 @@
 
 zen-welcome-title-line1 = Welcome to
 zen-welcome-title-line2 = a calmer internet
-zen-welcome-import-title = A Fresh Start, Same Bookmarks
-zen-welcome-import-description-1 = Your bookmarks, history, and passwords are like a trail of breadcrumbs through the internet—don’t leave them behind!
-zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
-zen-welcome-import-button = Import now
-zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
-zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
-zen-welcome-initial-essentials-title = Your Key Tabs, Always Within Reach
-zen-welcome-initial-essentials-description-1 = Keep your most important tabs easily accessible and always at hand, no matter how many you open.
+zen-welcome-import-title = Khởi đầu mới mẻ, với những dấu trang quen thuộc
+zen-welcome-import-description-1 = Dấu trang, lịch sử, mật khẩu là những dấu ấn của bạn trên internet - Đừng để chúng tại phía sau!
+zen-welcome-import-description-2 = Dễ dàng chuyển đổi từ trình duyệt, tiếp tục không ngắt quảng..
+zen-welcome-import-button = Chuyển đổi ngay
+zen-welcome-set-default-browser = Đặt { -brand-short-name } là trình duyệt mặc định của bạn
+zen-welcome-dont-set-default-browser = Không đặt { -brand-short-name } là trình duyệt mặc định của bạn
+zen-welcome-initial-essentials-title = Những thẻ quan trọng của bạn, luôn luôn trong tầm tay
+zen-welcome-initial-essentials-description-1 = Cho dù bạn có mở bao nhiêu, những thẻ quan trọng nhất của bạn luôn dễ dàng truy cập, luôn luôn trong tầm tay.
 zen-welcome-initial-essentials-description-2 = Essential tabs are always visible, no matter what workspace you are in.
 zen-welcome-workspace-colors-title = Your Workspaces, Your Colors
 zen-welcome-workspace-colors-description = Personalize your browser by giving each workspace its own unique color identity.
