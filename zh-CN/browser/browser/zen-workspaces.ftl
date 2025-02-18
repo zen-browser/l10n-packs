@@ -46,4 +46,4 @@ zen-panel-ui-gradient-generator-algo-analogous =
 zen-panel-ui-gradient-generator-algo-triadic = 
     .label = Triadic
 zen-panel-ui-gradient-generator-algo-floating = 
-    .label = Floating
+    .label = 浮动
