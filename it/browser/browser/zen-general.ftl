@@ -30,7 +30,6 @@ zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted
 zen-new-urlbar-notification = La nuova barra degli indirizzi è stata abilitata, eliminando la necessità della pagina di una nuova scheda.<br/><br/>Prova ad aprire una nuova scheda per vedere la nuova barra degli indirizzi in azione!
 zen-disable = Disabilita
 zen-panel-ui-gradient-generator-opacity-text = Contrasto
-zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Colore Personalizzato
 zen-panel-ui-gradient-generator-saved-message = Gradiente salvato con successo!
 zen-copy-current-url-confirmation = L'URL è stato copiato negli appunti.
