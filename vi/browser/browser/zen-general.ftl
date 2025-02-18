@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     Hãy thử tạo một thể để xem cái "mới" của thành đường dẫn! <br/>!!
 zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Contrast
-zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Custom Color
 zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
 zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
