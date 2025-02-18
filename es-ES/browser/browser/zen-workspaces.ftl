@@ -47,3 +47,4 @@ zen-panel-ui-gradient-generator-algo-triadic =
     .label = Triádico
 zen-panel-ui-gradient-generator-algo-floating = 
     .label = Variable
+zen-panel-ui-gradient-click-to-add = Haga clic para añadir un color
