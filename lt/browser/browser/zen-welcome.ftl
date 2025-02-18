@@ -6,20 +6,20 @@ zen-welcome-title-line1 = Sveiki atvykę į
 zen-welcome-title-line2 = ramesnį internetą
 zen-welcome-import-title = Nauja pradžia, tas pats adresynas
 zen-welcome-import-description-1 = Jūsų adresynas, istorija ir slaptažodžiai – tai tarsi duonos trupiniai per internetą. Nepalikite jų!
-zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
-zen-welcome-import-button = Import now
-zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
-zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
-zen-welcome-initial-essentials-title = Your Key Tabs, Always Within Reach
-zen-welcome-initial-essentials-description-1 = Keep your most important tabs easily accessible and always at hand, no matter how many you open.
-zen-welcome-initial-essentials-description-2 = Essential tabs are always visible, no matter what workspace you are in.
-zen-welcome-workspace-colors-title = Your Workspaces, Your Colors
-zen-welcome-workspace-colors-description = Personalize your browser by giving each workspace its own unique color identity.
+zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off.
+zen-welcome-import-button = Importuoti dabar
+zen-welcome-set-default-browser = Nustatyti „{ -brand-short-name }“ kaip numatytąją naršyklę
+zen-welcome-dont-set-default-browser = NENUSTATYTI „{ -brand-short-name }“ kaip numatytąją naršyklę
+zen-welcome-initial-essentials-title = Jūsų pagrindinės kortelės, visada pasiekiamos
+zen-welcome-initial-essentials-description-1 = Laikykite svarbiausias korteles lengvai pasiekiamas ir visada po ranka, kad ir kiek jų atvertumėte.
+zen-welcome-initial-essentials-description-2 = Būtiniausios kortelės visada matomos, nesvarbu, kokioje darbo srityje esate.
+zen-welcome-workspace-colors-title = Jūsų darbo sritys, jūsų spalvos
+zen-welcome-workspace-colors-description = Suasmeninkite savo naršyklę, suteikdami kiekvienai darbo sričiai unikalią spalvą.
 zen-welcome-start-browsing-title =
-    All set?<br/>
-    Let’s get rolling!
-zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
-zen-welcome-start-browsing = Dive in!
-zen-welcome-skip-button = Skip
-zen-welcome-next-action = Next
-zen-welcome-finished = Your Zen has been set up correctly!
+    Viskas parengta?<br/>
+    Pradėkime veikti!
+zen-welcome-start-browsing-description-1 = Viskas parengta ir gali veikti. Spustelėkite toliau esantį mygtuką, kad pradėtumėte naršyti su „{ -brand-short-name }“.
+zen-welcome-start-browsing = Pirmyn!
+zen-welcome-skip-button = Praleisti
+zen-welcome-next-action = Toliau
+zen-welcome-finished = Jūsų „Zen“ nustatytas teisingai!
