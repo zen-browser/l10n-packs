@@ -4,7 +4,7 @@ tab-context-zen-reset-pinned-tab =
     .label = Atkurti prisegtą kortelę
     .accesskey = R
 tab-context-zen-add-essential = 
-    .label = Pridėti prie būtiniausių
+    .label = Įtraukti į būtiniausius
     .accesskey = E
 tab-context-zen-remove-essential = 
     .label = Šalinti iš būtiniausių
@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     Pabandykite atverti naują kortelę, kad pamatytumėte naująją URL juostą!
 zen-disable = Išjungti
 zen-panel-ui-gradient-generator-opacity-text = Kontrastas
-zen-panel-ui-gradient-generator-texture-text = Tekstūra
 zen-panel-ui-gradient-generator-custom-color = Pasirinktinė spalva
 zen-panel-ui-gradient-generator-saved-message = Gradientas sėkmingai išsaugotas.
 zen-copy-current-url-confirmation = URL buvo nukopijuotas į iškarpinę.
