@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     Δοκιμάστε να ανοίξετε μια νέα καρτέλα για να δείτε τη νέα γραμμή URL εν δράσει!
 zen-disable = Απενεργοποίηση
 zen-panel-ui-gradient-generator-opacity-text = Αντίθεση
-zen-panel-ui-gradient-generator-texture-text = Υφή
 zen-panel-ui-gradient-generator-custom-color = Προσαρμοσμένο Χρώμα
 zen-panel-ui-gradient-generator-saved-message = Επιτυχής αποθήκευση της διαβάθμισης!
 zen-copy-current-url-confirmation = Το URL έχει αντιγραφεί στο πρόχειρο.
