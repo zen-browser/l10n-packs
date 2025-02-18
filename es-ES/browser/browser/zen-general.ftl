@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     ¡Pruebe a abrir una nueva pestaña para ver la nueva barra de direcciones en acción!
 zen-disable = Deshabilitar
 zen-panel-ui-gradient-generator-opacity-text = Contraste
-zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Color personalizado
 zen-panel-ui-gradient-generator-saved-message = ¡Gradiente guardado con éxito!
 zen-copy-current-url-confirmation = La URL se ha copiado al portapapeles.
