@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     Próbáljon ki egy új lapot nyitni, hogy láthassa az új URL-sávot működés közben!
 zen-disable = Kikapcsolás
 zen-panel-ui-gradient-generator-opacity-text = Kontraszt
-zen-panel-ui-gradient-generator-texture-text = Textúra
 zen-panel-ui-gradient-generator-custom-color = Egyedi szín
 zen-panel-ui-gradient-generator-saved-message = Színátmenet sikeresen mentve!
 zen-copy-current-url-confirmation = Az URL-cím a vágólapra lett másolva.
