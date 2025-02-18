@@ -37,7 +37,6 @@ zen-new-urlbar-notification = The new URL bar has been enabled, removing the nee
 zen-disable = Disable
 
 zen-panel-ui-gradient-generator-opacity-text = Contrast
-zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Custom Color
 zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
 
