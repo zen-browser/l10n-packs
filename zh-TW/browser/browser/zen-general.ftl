@@ -30,7 +30,6 @@ zen-shortcuts-corrupted = 你的 { -brand-short-name } 快捷文件已損壞。�
 zen-new-urlbar-notification = 新的 URL 欄已啟用，你不再需要新增新分頁。<br/><br/>馬上打開新分頁來看看新的 URL 欄！
 zen-disable = 禁用
 zen-panel-ui-gradient-generator-opacity-text = 對比度
-zen-panel-ui-gradient-generator-texture-text = 材質
 zen-panel-ui-gradient-generator-custom-color = 自訂顏色
 zen-panel-ui-gradient-generator-saved-message = 漸層儲存成功！
 zen-copy-current-url-confirmation = 網址已複製到剪貼簿。
