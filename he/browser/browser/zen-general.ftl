@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     נסה לפתוח כרטיסייה חדשה כדי לראות את סרגל הכתובת החדש בפעולה!
 zen-disable = כבה
 zen-panel-ui-gradient-generator-opacity-text = ניגודיות
-zen-panel-ui-gradient-generator-texture-text = מרקם
 zen-panel-ui-gradient-generator-custom-color = צבע מותאם אישית
 zen-panel-ui-gradient-generator-saved-message = מיזוג הצבעים נשמר בהצלחה!
 zen-copy-current-url-confirmation = הקישור הועתק ללוח.
