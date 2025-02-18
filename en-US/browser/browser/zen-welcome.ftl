@@ -7,7 +7,7 @@ zen-welcome-title-line2 = a calmer internet
 
 zen-welcome-import-title = A Fresh Start, Same Bookmarks
 zen-welcome-import-description-1 = Your bookmarks, history, and passwords are like a trail of breadcrumbs through the internet—don’t leave them behind!
-zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
+zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off.
 zen-welcome-import-button = Import now
 
 zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
