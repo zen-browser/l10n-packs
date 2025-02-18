@@ -47,3 +47,4 @@ zen-panel-ui-gradient-generator-algo-triadic =
     .label = Триада
 zen-panel-ui-gradient-generator-algo-floating = 
     .label = Плавающее
+zen-panel-ui-gradient-click-to-add = Click to add a color
