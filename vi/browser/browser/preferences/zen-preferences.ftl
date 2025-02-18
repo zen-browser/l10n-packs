@@ -15,8 +15,6 @@ zen-side-panels-close-on-blur =
     .label =
         Đóng bảng điều khiển khi mất tiêu điểm nếu
          không được ghim
-zen-vertical-tabs-show-bottom-border = 
-    .label = Đóng khung các thẻ ở dưới
 zen-vertical-tabs-layout-header = Giao diện trình duyệt
 zen-vertical-tabs-layout-description = Chọn giao diện phù hợp với bạn nhất
 zen-layout-single-toolbar = Thanh công cụ tích hợp
