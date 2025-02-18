@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     Probeer een nieuw tabblad te openen om de nieuwe URL-balk in actie te zien!
 zen-disable = Uitschakelen
 zen-panel-ui-gradient-generator-opacity-text = Contrast
-zen-panel-ui-gradient-generator-texture-text = Textuur
 zen-panel-ui-gradient-generator-custom-color = Aangepaste kleur
 zen-panel-ui-gradient-generator-saved-message = Gradient is succesvol opgeslagen!
 zen-copy-current-url-confirmation = De URL is gekopieerd naar het klembord.
