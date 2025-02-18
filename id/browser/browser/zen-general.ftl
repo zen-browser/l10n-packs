@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     Coba buka tab baru untuk melihat bilah URL baru beraksi!
 zen-disable = Nonaktifkan
 zen-panel-ui-gradient-generator-opacity-text = Kontras
-zen-panel-ui-gradient-generator-texture-text = Tekstur
 zen-panel-ui-gradient-generator-custom-color = Warna Kustom
 zen-panel-ui-gradient-generator-saved-message = Berhasil menyimpan gradien!
 zen-copy-current-url-confirmation = URL telah disalin ke clipboard.
