@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     Spróbuj otworzyć nową kartę i wypróbuj nowy pasek adresu w akcji!
 zen-disable = Deaktywuj
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
-zen-panel-ui-gradient-generator-texture-text = Tekstura
 zen-panel-ui-gradient-generator-custom-color = Niestandardowy kolor
 zen-panel-ui-gradient-generator-saved-message = Pomyślnie zapisano gradient!
 zen-copy-current-url-confirmation = Adres URL został skopiowany do schowka.
