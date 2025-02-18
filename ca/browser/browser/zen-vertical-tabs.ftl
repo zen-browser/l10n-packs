@@ -1,26 +1,26 @@
 zen-toolbar-context-tabs-right = 
-    .label = Tabs on the right
+    .label =  Finestres a la dreta
     .accesskey = R
 zen-toolbar-context-compact-mode = 
-    .label = Compact mode
+    .label = Mode Compacte
     .accesskey = C
 zen-toolbar-context-compact-mode-enable = 
-    .label = Enable compact mode
+    .label = Fer servir el mode compacte
     .accesskey = D
 zen-toolbar-context-compact-mode-just-tabs = 
-    .label = Hide sidebar
+    .label = Ocultar la barra lateral
 zen-toolbar-context-compact-mode-just-toolbar = 
-    .label = Hide toolbar
+    .label = Ocultar les eines
 zen-toolbar-context-compact-mode-hide-both = 
-    .label = Hide both
+    .label = Ocultar tot
     .accesskey = H
 sidebar-zen-sidepanel = 
-    .label = Side Panels
+    .label = Panells laterals
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Expandeix la barra lateral
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset tab to pinned URL
-           *[other] Reset { $tabCount } tabs to pinned URLs
+            [one] Retorna la pestanya com a URL fixada
+           *[other] Retorna { $tabCount } pestanyes com a URL fixada
         }
