@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     Prøv at åbne en ny fane for at se den i aktion!
 zen-disable = Deaktiver
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
-zen-panel-ui-gradient-generator-texture-text = Tekstur
 zen-panel-ui-gradient-generator-custom-color = Brugerdefineret Farve
 zen-panel-ui-gradient-generator-saved-message = Gradienten blev gemt!
 zen-copy-current-url-confirmation = URL'en blev kopieret til udklipsholderen.
