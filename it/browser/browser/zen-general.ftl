@@ -25,7 +25,7 @@ tab-zen-ignore-unload =
     .label = Consenti Scaricamento Scheda
     .accesskey = I
 zen-themes-corrupted = Il tuo file { -brand-short-name } mods è danneggiato. Sono stati reimpostati al tema predefinito.
-zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
+zen-shortcuts-corrupted = Il file delle scorciatoie per { -brand-short-name } è corrotto. Le scorciatoie sono state riportate alle impostazioni predefinite.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification = La nuova barra degli indirizzi è stata abilitata, eliminando la necessità della pagina di una nuova scheda.<br/><br/>Prova ad aprire una nuova scheda per vedere la nuova barra degli indirizzi in azione!
 zen-disable = Disabilita
@@ -51,11 +51,11 @@ zen-rice-share-include-mod-prefs =
 zen-rice-share-include-preferences = 
     .label = Includi le preferenze di layout
 zen-rice-share-include-workspace-themes = 
-    .label = Include workspace gradient themes
+    .label = Includi temi delle sfumature dello spazio di lavoro
 zen-rice-share-success = Rice creato con successo!
 zen-rice-share-success-link = Link di condivisione Rice
 zen-rice-share-accept = Accetto
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-notice = Prima di condividere, per favore comprendi cosa sia un Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Un Rice è una collezione di personalizzazioni che possono essere condivise con gli altri.<br/>
