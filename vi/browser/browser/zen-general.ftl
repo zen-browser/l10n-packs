@@ -25,11 +25,11 @@ tab-zen-ignore-unload =
     .label = Cho phép giải phóng Thẻ
     .accesskey = I
 zen-themes-corrupted = Thư mục chủ đề { -brand-short-name } của bạn đã bị hư, chúng đã được trả về thiết kế gốc.
-zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
+zen-shortcuts-corrupted = Tệp phím tắt { -brand-short-name } của bạn đã bị hư. Chúng đã được trẻ về phím tắt gốc.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    Thanh đường dẫn mới đã được kích hoạt, loại bỏ chức năng của trang "thẻ mới". </br>
-    Hãy thử tạo một thể để xem cái "mới" của thành đường dẫn! <br/>!!
+    Thanh đường dẫn mới đã được kích hoạt, loại bỏ chức năng của trang "thẻ mới". <br/><br/>
+    Hãy thử tạo một thể để xem cái "mới" của thành đường dẫn!
 zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-custom-color = Custom Color
