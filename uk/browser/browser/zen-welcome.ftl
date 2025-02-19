@@ -2,24 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-zen-welcome-title-line1 = Welcome to
-zen-welcome-title-line2 = a calmer internet
-zen-welcome-import-title = A Fresh Start, Same Bookmarks
-zen-welcome-import-description-1 = Your bookmarks, history, and passwords are like a trail of breadcrumbs through the internet—don’t leave them behind!
-zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off.
-zen-welcome-import-button = Import now
-zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
-zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
-zen-welcome-initial-essentials-title = Your Key Tabs, Always Within Reach
-zen-welcome-initial-essentials-description-1 = Keep your most important tabs easily accessible and always at hand, no matter how many you open.
-zen-welcome-initial-essentials-description-2 = Essential tabs are always visible, no matter what workspace you are in.
-zen-welcome-workspace-colors-title = Your Workspaces, Your Colors
-zen-welcome-workspace-colors-description = Personalize your browser by giving each workspace its own unique color identity.
+zen-welcome-title-line1 = Вітаємо в
+zen-welcome-title-line2 = спокійніший інтернет
+zen-welcome-import-title = Новий початок, ті ж закладки
+zen-welcome-import-description-1 = Ваші закладки, історія та паролі — це як слід від хлібних крихт в інтернеті, не залишайте їх!
+zen-welcome-import-description-2 = Легко переносьте їх з іншого браузера і продовжуйте з того місця, де ви зупинилися.
+zen-welcome-import-button = Імпортувати зараз
+zen-welcome-set-default-browser = Встановити { -brand-short-name } як типовий браузер
+zen-welcome-dont-set-default-browser = НЕ встановлювати { -brand-short-name } як типовий браузер
+zen-welcome-initial-essentials-title = Важливі вкладки завжди під рукою
+zen-welcome-initial-essentials-description-1 = Тримайте найважливіші вкладки легкодоступними та завжди під рукою, незалежно від того, скільки їх відкрито.
+zen-welcome-initial-essentials-description-2 = Важливі вкладки завжди видно, незалежно від того, в якій робочій області ви перебуваєте.
+zen-welcome-workspace-colors-title = Ваші робочі простори, ваші кольори
+zen-welcome-workspace-colors-description = Персоналізуйте свій браузер, надавши кожній робочій області власний унікальний колір.
 zen-welcome-start-browsing-title =
-    All set?<br/>
-    Let’s get rolling!
-zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
-zen-welcome-start-browsing = Dive in!
-zen-welcome-skip-button = Skip
-zen-welcome-next-action = Next
-zen-welcome-finished = Your Zen has been set up correctly!
+    Все налаштували?<br/>
+    Починаємо!
+zen-welcome-start-browsing-description-1 = Ви все налаштували та готові до роботи. Натисніть кнопку нижче, щоб почати перегляд з { -brand-short-name }.
+zen-welcome-start-browsing = Зануритися!
+zen-welcome-skip-button = Пропустити
+zen-welcome-next-action = Далі
+zen-welcome-finished = Zen налаштовано правильно!
