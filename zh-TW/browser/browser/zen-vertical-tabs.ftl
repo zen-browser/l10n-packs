@@ -21,6 +21,6 @@ sidebar-zen-expand =
 tabbrowser-reset-tabs-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset tab to pinned URL
-           *[other] Reset { $tabCount } tabs to pinned URLs
+            [one] 重置分頁為固定的 URL
+           *[other] 重置 { $tabCount } 個分頁為固定的 URLs
         }

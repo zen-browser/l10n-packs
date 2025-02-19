@@ -28,11 +28,10 @@ zen-themes-corrupted = Twój plik modów { -brand-short-name } jest uszkodzony. 
 zen-shortcuts-corrupted = Twój plik skrótów { -brand-short-name } jest popsuty. Skróty zostały zresetowane do domyślnych.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Nowy pasek adresu został aktywowany, a tym samym strona nowej karty nie jest już potrzebna.<br/><br/>
+    Spróbuj otworzyć nową kartę i wypróbuj nowy pasek adresu w akcji!
+zen-disable = Deaktywuj
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
-zen-panel-ui-gradient-generator-texture-text = Tekstura
 zen-panel-ui-gradient-generator-custom-color = Niestandardowy kolor
 zen-panel-ui-gradient-generator-saved-message = Pomyślnie zapisano gradient!
 zen-copy-current-url-confirmation = Adres URL został skopiowany do schowka.

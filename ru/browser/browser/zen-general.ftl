@@ -24,15 +24,14 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Разрешить выгрузку вкладок
     .accesskey = I
-zen-themes-corrupted = Файл модов { -brand-short-name } повреждён. Возвращена тема по умолчанию.
+zen-themes-corrupted = Файл дополнения { -brand-short-name } повреждён. Возвращена тема по умолчанию.
 zen-shortcuts-corrupted = Файл комбинаций клавиш { -brand-short-name } повреждён. Возвращены комбинации клавиш по умолчанию.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Новое поле адреса было включено, что убирает необходимость в страницах для новых вкладок.<br/><br/> 
+    Попробуйте открыть новую вкладку, чтобы увидеть новое поле адреса в действии!
+zen-disable = Отключить
 zen-panel-ui-gradient-generator-opacity-text = Контрастность
-zen-panel-ui-gradient-generator-texture-text = Текстура
 zen-panel-ui-gradient-generator-custom-color = Пользовательский цвет
 zen-panel-ui-gradient-generator-saved-message = Градиент успешно сохранён!
 zen-copy-current-url-confirmation = Ссылка скопирована в буфер обмена.
@@ -48,7 +47,7 @@ zen-rice-share-include-userchrome =
 zen-rice-share-include-usercontent = 
     .label = Включить стили сайтов (userContent.css)
 zen-rice-share-include-mods = 
-    .label = Включить активированные моды
+    .label = Включить активированные дополнения
 zen-rice-share-include-mod-prefs = 
     .label = Включить настройки модов
 zen-rice-share-include-preferences = 
@@ -61,9 +60,9 @@ zen-rice-share-accept = Принять
 zen-rice-share-notice = Перед тем, как поделиться, пожалуйста, убедитесь в том, что вы понимаете, что из себя представляет рис
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    Рис — это коллекция настроек персонализации, которыми можно поделиться с другими пользователями.<br/>
-    Это включает в себя ваши стили окон, стили сайтов, активированные моды, настройки модов, предпочтения в расположении элементов и градиентные темы рабочего пространства.<br/>
-    Делясь своим рисом, вы передаёте все эти настройки другим людям. Пожалуйста, внимательно относитесь к тому, что вы публикуете и с кем делитесь.
+    Rice — это коллекция настроек персонализации, которыми можно поделиться с другими пользователями.<br/>
+    Она включает в себя стили окон, стили сайтов, активированные дополнения, настройки дополнений, предпочтения в расположении элементов и градиентные темы пространства.<br/>
+    Делясь своим Rice, вы передаёте свои настройки другим людям. Пожалуйста, будьте внимательны к тому, чем вы делитесь.
 zen-learn-more-text = Узнать больше
 zen-rice-share-include = Настройки экспорта
 appmenu-zen-share-rice = 

@@ -28,11 +28,10 @@ zen-themes-corrupted = Ваш файл модифікацій { -brand-short-nam
 zen-shortcuts-corrupted = Ваш файл { -brand-short-name } комбінацій пошкоджено. Їх було скинуто до типових комбінацій.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Увімкнено новий рядок URL-адрес, що усуває потребу в нових сторінках вкладок.<br/><br/>
+    Спробуйте відкрити нову вкладку, щоб побачити новий рядок URL-адреси в дії!
+zen-disable = Вимкнути
 zen-panel-ui-gradient-generator-opacity-text = Контрастність
-zen-panel-ui-gradient-generator-texture-text = Текстура
 zen-panel-ui-gradient-generator-custom-color = Власний колір
 zen-panel-ui-gradient-generator-saved-message = Градієнт успішно збережено!
 zen-copy-current-url-confirmation = URL-адресу було скопійовано до буфера обміну.

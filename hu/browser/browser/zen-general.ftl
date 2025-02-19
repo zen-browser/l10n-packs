@@ -22,17 +22,16 @@ tab-zen-prevent-unload =
     .label = Lap ürítés megakadályozása
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Lap ürítésének engedélyezése
+    .label = Lap ürítés engedélyezése
     .accesskey = I
 zen-themes-corrupted = A te { -brand-short-name } mod fájljaid károsodtak. Vissza lettek állítva az eredeti témára.
 zen-shortcuts-corrupted = A te { -brand-short-name } parancsikonok fájlod károsodott. Vissza lettek állítva az eredeti parancsikonokra.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Az új URL sáv engedélyezve lett, így nincs szükség új lapokra.<br/><br/>
+    Próbáljon ki egy új lapot nyitni, hogy láthassa az új URL-sávot működés közben!
+zen-disable = Kikapcsolás
 zen-panel-ui-gradient-generator-opacity-text = Kontraszt
-zen-panel-ui-gradient-generator-texture-text = Textúra
 zen-panel-ui-gradient-generator-custom-color = Egyedi szín
 zen-panel-ui-gradient-generator-saved-message = Színátmenet sikeresen mentve!
 zen-copy-current-url-confirmation = Az URL-cím a vágólapra lett másolva.

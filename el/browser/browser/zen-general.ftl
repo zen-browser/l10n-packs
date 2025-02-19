@@ -28,11 +28,10 @@ zen-themes-corrupted = Το αρχείο { -brand-short-name } mods είναι �
 zen-shortcuts-corrupted = Το αρχείο συντομεύσεων σας { -brand-short-name } είναι κατεστραμμένο. Έχει γίνει επαναφορά στις προεπιλεγμένες συντομεύσεις.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Η νέα γραμμή URL έχει ενεργοποιηθεί, αφαιρώντας την ανάγκη για σελίδες νέας καρτέλας.<br/><br/>
+    Δοκιμάστε να ανοίξετε μια νέα καρτέλα για να δείτε τη νέα γραμμή URL εν δράσει!
+zen-disable = Απενεργοποίηση
 zen-panel-ui-gradient-generator-opacity-text = Αντίθεση
-zen-panel-ui-gradient-generator-texture-text = Υφή
 zen-panel-ui-gradient-generator-custom-color = Προσαρμοσμένο Χρώμα
 zen-panel-ui-gradient-generator-saved-message = Επιτυχής αποθήκευση της διαβάθμισης!
 zen-copy-current-url-confirmation = Το URL έχει αντιγραφεί στο πρόχειρο.

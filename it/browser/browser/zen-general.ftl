@@ -25,14 +25,11 @@ tab-zen-ignore-unload =
     .label = Consenti Scaricamento Scheda
     .accesskey = I
 zen-themes-corrupted = Il tuo file { -brand-short-name } mods è danneggiato. Sono stati reimpostati al tema predefinito.
-zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
+zen-shortcuts-corrupted = Il file delle scorciatoie per { -brand-short-name } è corrotto. Le scorciatoie sono state riportate alle impostazioni predefinite.
 # note: Do not translate the "<br/>" tags in the following string
-zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+zen-new-urlbar-notification = La nuova barra degli indirizzi è stata abilitata, eliminando la necessità della pagina di una nuova scheda.<br/><br/>Prova ad aprire una nuova scheda per vedere la nuova barra degli indirizzi in azione!
+zen-disable = Disabilita
 zen-panel-ui-gradient-generator-opacity-text = Contrasto
-zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Colore Personalizzato
 zen-panel-ui-gradient-generator-saved-message = Gradiente salvato con successo!
 zen-copy-current-url-confirmation = L'URL è stato copiato negli appunti.
@@ -54,11 +51,11 @@ zen-rice-share-include-mod-prefs =
 zen-rice-share-include-preferences = 
     .label = Includi le preferenze di layout
 zen-rice-share-include-workspace-themes = 
-    .label = Include workspace gradient themes
+    .label = Includi temi delle sfumature dello spazio di lavoro
 zen-rice-share-success = Rice creato con successo!
 zen-rice-share-success-link = Link di condivisione Rice
 zen-rice-share-accept = Accetto
-zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-rice-share-notice = Prima di condividere, per favore comprendi cosa sia un Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Un Rice è una collezione di personalizzazioni che possono essere condivise con gli altri.<br/>

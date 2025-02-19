@@ -2,24 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = Welcome to
-welcome-dialog-welcome-title-part-2 = the calmer Internet
-welcome-dialog-get-started = Per iniziare
-welcome-dialog-import = 😍 Porta i tuoi preferiti in { -brand-short-name }
-welcome-dialog-import-subtext = Riprendi da dov'eri rimasto sul tuo vecchio browser
-welcome-dialog-import-action = Importa i tuoi dati
-welcome-dialog-theme = Mettiti comodo
-welcome-dialog-theme-subtext = Personalizza la tua esperienza con il tuo look preferito!
-welcome-dialog-theme-header-1 = Scegli il tuo colore perfetto
-welcome-dialog-theme-header-2 = Scegli il tuo tema
-welcome-dialog-search = 🔍 Scegli un motore di ricerca
-welcome-dialog-search-subtext = Seleziona il tuo motore di ricerca preferito per personalizzare la tua esperienza di navigazione!
-welcome-dialog-layout = Scegli la tua disposizione
-welcome-dialog-layout-subtext = Scegli il layout che fa per te!
-welcome-dialog-layout-single-toolbar = Barra degli strumenti singola
-welcome-dialog-layout-multiple-toolbar = Barre degli strumenti multiple
-welcome-dialog-layout-collapsed-toolbar = Barra degli strumenti chiusa
-welcome-dialog-thanks-title-part-1 = Grazie per
-welcome-dialog-thanks-title-part-2 = choosing { -brand-short-name }!
-welcome-dialog-back-action = Indietro
-welcome-dialog-next-action = Successivo
+zen-welcome-title-line1 = Benvenuto a
+zen-welcome-title-line2 = un internet più calmo
+zen-welcome-import-title = Un nuovo Inizio, Stessi Segnalibri
+zen-welcome-import-description-1 = I tuoi segnalibri, la tua cronologia e le tue password sono come una scia di briciole attraverso internet—non lasciartele alle spalle!
+zen-welcome-import-description-2 = Portali facilmente da un altro browser e riprendi da dove hai lasciato.
+zen-welcome-import-button = Importa adesso
+zen-welcome-set-default-browser = Imposta { -brand-short-name } come browser predefinito
+zen-welcome-dont-set-default-browser = NON impostare { -brand-short-name } come browser predefinito
+zen-welcome-initial-essentials-title = Le Tue Schede Importanti, Sempre a Portata di Mano
+zen-welcome-initial-essentials-description-1 = Mantieni le schede più importanti facilmente accessibili e sempre a portata di mano, indipendentemente da quante ne apri.
+zen-welcome-initial-essentials-description-2 = Le schede essenziali sono sempre visibili, indipendentemente dallo spazio di lavoro in cui ti trovi.
+zen-welcome-workspace-colors-title = I tuoi Ambienti di lavoro, i Tuoi Colori
+zen-welcome-workspace-colors-description = Personalizza il tuo browser dando a ogni ambiente di lavoro la sua identità unica colorata.
+zen-welcome-start-browsing-title =
+    Tutto pronto?<br/>
+    Cominciamo!
+zen-welcome-start-browsing-description-1 = È tutto pronto per cominciare. Clicca il pulsante qui sotto per iniziare a navigare con { -brand-short-name }.
+zen-welcome-start-browsing = Andiamo!
+zen-welcome-skip-button = Salta
+zen-welcome-next-action = Prossimo
+zen-welcome-finished = Il tuo Zen è stato configurato correttamente!
