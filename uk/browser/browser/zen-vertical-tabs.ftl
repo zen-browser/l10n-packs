@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Бічні панелі
 sidebar-zen-expand = 
     .label = Expand Sidebar
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Скинути вкладку, щоб закріпити URL-адресу
-           *[other] Скинути { $tabCount } вкладок, щоб закріпити URL-адреси
+            [one] Unload and switch to tab
+           *[other] Unload { $tabCount } tabs and switch to the first
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset and pin tab
+           *[other] Reset and pin { $tabCount } tabs
+        }
+tab-reset-pin-label = Back to pinned url
