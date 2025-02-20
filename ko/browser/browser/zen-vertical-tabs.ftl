@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = 사이드 패널
 sidebar-zen-expand = 
     .label = 사이드바 확장
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] 고정된 URL로 되돌리기
-           *[other] { $tabCount }개의 탭을 고정된 URL로 되돌리기
+            [one] Unload and switch to tab
+           *[other] Unload { $tabCount } tabs and switch to the first
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset and pin tab
+           *[other] Reset and pin { $tabCount } tabs
+        }
+tab-reset-pin-label = Back to pinned url
