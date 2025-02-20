@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Bẳng điều khiển bên cạnh
 sidebar-zen-expand = 
     .label = Mở rộng thanh bên
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Đặt lại tab về URL đã ghim
-           *[other] Đặt lại { $tabCount } tab về các URL đã ghim
+            [one] Unload and switch to tab
+           *[other] Unload { $tabCount } tabs and switch to the first
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset and pin tab
+           *[other] Reset and pin { $tabCount } tabs
+        }
+tab-reset-pin-label = Back to pinned url
