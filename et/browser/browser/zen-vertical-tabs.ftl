@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Külgpaneelid
 sidebar-zen-expand = 
     .label = Laienda külgriba
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Lähtesta püsikaart algsele URL-ile
-           *[other] Lähtesta { $tabCount } püsikaarti algsele URL-ile
+            [one] Unload and switch to tab
+           *[other] Unload { $tabCount } tabs and switch to the first
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset and pin tab
+           *[other] Reset and pin { $tabCount } tabs
+        }
+tab-reset-pin-label = Back to pinned url
