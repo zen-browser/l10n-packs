@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Oldalsó panelek
 sidebar-zen-expand = 
     .label = Oldalsáv kibontása
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Lap visszaállítása a kitűzött URL-re
-           *[other] { $tabCount } lap visszaállítása a kitűzött URL-ekre
+            [one] Unload and switch to tab
+           *[other] Unload { $tabCount } tabs and switch to the first
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset and pin tab
+           *[other] Reset and pin { $tabCount } tabs
+        }
+tab-reset-pin-label = Back to pinned url
