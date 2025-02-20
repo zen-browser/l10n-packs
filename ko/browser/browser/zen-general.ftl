@@ -28,11 +28,10 @@ zen-themes-corrupted = { -brand-short-name } 모드 파일이 손상되었습니
 zen-shortcuts-corrupted = { -brand-short-name } 단축키 파일이 손상되었습니다. 기본 단축키 설정으로 재설정 되었습니다.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    새 탭 페이지가 필요 없는 새로운 URL 바가 활성화 되었습니다.<br/><br/>
+    새 탭을 열어서 새로운 URL 바를 만나보세요!
+zen-disable = 비활성화
 zen-panel-ui-gradient-generator-opacity-text = 대비
-zen-panel-ui-gradient-generator-texture-text = 질감
 zen-panel-ui-gradient-generator-custom-color = 커스텀 색상
 zen-panel-ui-gradient-generator-saved-message = 성공적으로 그라데이션을 저장했습니다!
 zen-copy-current-url-confirmation = URL이 복사되었습니다.

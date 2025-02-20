@@ -2,24 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = 환영합니다
-welcome-dialog-welcome-title-part-2 = 더 차분해진 인터넷
-welcome-dialog-get-started = 시작하기
-welcome-dialog-import = 😍 즐겨찾기를 { -brand-short-name }로 가져오세요
-welcome-dialog-import-subtext = 이전 브라우저에서 떠났던 부분부터 다시 시작하세요
-welcome-dialog-import-action = 데이터 불러오기
-welcome-dialog-theme = 내 집처럼 편안하게
-welcome-dialog-theme-subtext = 마음에 드는 모습으로 나만의 경험을 만들어보세요!
-welcome-dialog-theme-header-1 = 나만의 완벽한 색 선택
-welcome-dialog-theme-header-2 = 나만의 테마 선택
-welcome-dialog-search = 🔍 검색 엔진 선택
-welcome-dialog-search-subtext = 선호하는 검색 엔진을 선택하여 맞춤형 검색 환경을 만들어 보세요!
-welcome-dialog-layout = 당신의 레이아웃을 선택하세요
-welcome-dialog-layout-subtext = 가장 잘 맞는 레이아웃을 고르세요!
-welcome-dialog-layout-single-toolbar = 단일 툴바
-welcome-dialog-layout-multiple-toolbar = 다중 툴바
-welcome-dialog-layout-collapsed-toolbar = 축소된 툴바
-welcome-dialog-thanks-title-part-1 = 감사합니다
-welcome-dialog-thanks-title-part-2 = { -brand-short-name }을 선택해 주셔서요!
-welcome-dialog-back-action = 이전
-welcome-dialog-next-action = 다음
+zen-welcome-title-line1 = 환영합니다
+zen-welcome-title-line2 = 차분한 인터넷에 잘 오셨습니다
+zen-welcome-import-title = 새로운 시작, 여전한 북마크
+zen-welcome-import-description-1 = 당신의 북마크, 방문 기록, 비밀번호는 인터넷에 떨어진 빵 조각들의 길과 같습니다 - 뒤에 남겨두지 마세요!
+zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off.
+zen-welcome-import-button = 지금 불러오기
+zen-welcome-set-default-browser = { -brand-short-name }을 기본 브라우저로 설정하기
+zen-welcome-dont-set-default-browser = { -brand-short-name }을 기본 브라우저로 설정하지 않기
+zen-welcome-initial-essentials-title = 당신의 중요한 탭이 언제나 닿을 수 있도록
+zen-welcome-initial-essentials-description-1 = 당신의 중요한 탭들을 항상 쉽게 접근할 수 있도록 손 안에 두세요, 얼마나 많은지는 상관 없습니다.
+zen-welcome-initial-essentials-description-2 = 에센셜 탭은 워크스페이스에 관계없이 항상 볼 수 있습니다.
+zen-welcome-workspace-colors-title = 당신의 워크스페이스, 당신의 색깔
+zen-welcome-workspace-colors-description = 각 워크스페이스에 고유한 색깔을 입혀 당신의 브라우저를 꾸미세요.
+zen-welcome-start-browsing-title =
+    준비됐나요?<br/>
+    이제 시작합시다!
+zen-welcome-start-browsing-description-1 = 브라우저가 준비되었습니다. 아래 버튼을 눌러 { -brand-short-name }과 브라우징을 시작하세요.
+zen-welcome-start-browsing = 들어가기!
+zen-welcome-skip-button = 건너뛰기
+zen-welcome-next-action = 다음
+zen-welcome-finished = Zen이 정상적으로 설정되었습니다!

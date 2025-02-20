@@ -28,11 +28,10 @@ zen-themes-corrupted = O seu ficheiro de modificações do { -brand-short-name }
 zen-shortcuts-corrupted = O seu ficheiro de atalhos do { -brand-short-name } está corrompido. Eles foram redefinidos para os atalhos padrão.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    A nova barra de URL foi ativada, removendo a necessidade de páginas de novo separador.<br/><br/>
+    Experimente abrir um novo separador para ver a nova barra de URL em ação!
+zen-disable = Desativar
 zen-panel-ui-gradient-generator-opacity-text = Contraste
-zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Cor personalizada
 zen-panel-ui-gradient-generator-saved-message = Gradiente guardado com sucesso!
 zen-copy-current-url-confirmation = O URL foi copiado para a área de transferência.

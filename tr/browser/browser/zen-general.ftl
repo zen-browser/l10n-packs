@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     Try opening a new tab to see the new URL bar in action!
 zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
-zen-panel-ui-gradient-generator-texture-text = Doku
 zen-panel-ui-gradient-generator-custom-color = Özel Renk
 zen-panel-ui-gradient-generator-saved-message = Renkler başarıyla kaydedildi!
 zen-copy-current-url-confirmation = The URL has been copied to the clipboard.

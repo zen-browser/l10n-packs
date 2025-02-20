@@ -32,7 +32,6 @@ zen-new-urlbar-notification =
     Try opening a new tab to see the new URL bar in action!
 zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = コントラスト
-zen-panel-ui-gradient-generator-texture-text = テクスチャ
 zen-panel-ui-gradient-generator-custom-color = カスタムカラー
 zen-panel-ui-gradient-generator-saved-message = グラデーションを正常に保存しました！
 zen-copy-current-url-confirmation = URLをクリップボードにコピーしました

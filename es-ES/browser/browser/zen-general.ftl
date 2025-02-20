@@ -28,11 +28,10 @@ zen-themes-corrupted = Su archivo de mods de { -brand-short-name } está dañado
 zen-shortcuts-corrupted = Su archivo de atajos de { -brand-short-name } está dañado. Se han restablecido los atajos por defecto.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Se ha habilitado la nueva barra de direcciones, eliminando la necesidad de la página de nueva pestaña.<br/><br/>
+    ¡Pruebe a abrir una nueva pestaña para ver la nueva barra de direcciones en acción!
+zen-disable = Deshabilitar
 zen-panel-ui-gradient-generator-opacity-text = Contraste
-zen-panel-ui-gradient-generator-texture-text = Textura
 zen-panel-ui-gradient-generator-custom-color = Color personalizado
 zen-panel-ui-gradient-generator-saved-message = ¡Gradiente guardado con éxito!
 zen-copy-current-url-confirmation = La URL se ha copiado al portapapeles.
@@ -58,7 +57,7 @@ zen-rice-share-include-workspace-themes =
 zen-rice-share-success = ¡Rice creado con éxito!
 zen-rice-share-success-link = Enlace para compartir el Rice
 zen-rice-share-accept = Aceptar
-zen-rice-share-notice = Antes de compartirlo, entiende qué es un Rice
+zen-rice-share-notice = Antes de compartirlo, entienda qué es un Rice
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Un Rice es una colección de personalizaciones que se pueden compartir con otros.<br/>

@@ -28,11 +28,10 @@ zen-themes-corrupted = Tidak dapat memuat file mod { -brand-short-name } Anda ka
 zen-shortcuts-corrupted = File pintasan { -brand-short-name } Anda rusak. Mereka telah diatur ulang ke pintasan default.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Bilah URL baru telah diaktifkan, menghapus kebutuhan untuk halaman tab baru.<br/><br/>
+    Coba buka tab baru untuk melihat bilah URL baru beraksi!
+zen-disable = Nonaktifkan
 zen-panel-ui-gradient-generator-opacity-text = Kontras
-zen-panel-ui-gradient-generator-texture-text = Tekstur
 zen-panel-ui-gradient-generator-custom-color = Warna Kustom
 zen-panel-ui-gradient-generator-saved-message = Berhasil menyimpan gradien!
 zen-copy-current-url-confirmation = URL telah disalin ke clipboard.

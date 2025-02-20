@@ -1,7 +1,7 @@
 zen-panel-ui-current-profile-text = hồ sơ hiện tại
 unified-extensions-description = Các tiện ích mở rộng được sử dụng để mang thêm tính năng vào { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Đặt lại tab đã ghim
+    .label = Đặt lại thẻ đã ghim
     .accesskey = R
 tab-context-zen-add-essential = 
     .label = Add to Essentials
@@ -22,17 +22,16 @@ tab-zen-prevent-unload =
     .label = Tránh Tab bị giải phóng
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Cho phép giải phóng tab
+    .label = Cho phép giải phóng Thẻ
     .accesskey = I
-zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
-zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
+zen-themes-corrupted = Thư mục chủ đề { -brand-short-name } của bạn đã bị hư, chúng đã được trả về thiết kế gốc.
+zen-shortcuts-corrupted = Tệp phím tắt { -brand-short-name } của bạn đã bị hư. Chúng đã được trẻ về phím tắt gốc.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
+    Thanh đường dẫn mới đã được kích hoạt, loại bỏ chức năng của trang "thẻ mới". <br/><br/>
+    Hãy thử tạo một thể để xem cái "mới" của thành đường dẫn!
 zen-disable = Disable
 zen-panel-ui-gradient-generator-opacity-text = Contrast
-zen-panel-ui-gradient-generator-texture-text = Texture
 zen-panel-ui-gradient-generator-custom-color = Custom Color
 zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
 zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
@@ -52,11 +51,11 @@ zen-rice-share-include-mods =
 zen-rice-share-include-mod-prefs = 
     .label = Include mod preferences
 zen-rice-share-include-preferences = 
-    .label = Include layout preferences
+    .label = Bao gồm giao diện trình duyệt
 zen-rice-share-include-workspace-themes = 
     .label = Include workspace gradient themes
 zen-rice-share-success = Successfully created a Rice!
-zen-rice-share-success-link = Rice Share Link
+zen-rice-share-success-link = C
 zen-rice-share-accept = Đồng ý
 zen-rice-share-notice = Before sharing, please understand what a Rice is
 # note: Do not translate the "<br/>" tags in the following string
