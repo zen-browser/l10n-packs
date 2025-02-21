@@ -56,6 +56,8 @@ zen-rice-share-success = 成功創建 Rice！
 zen-rice-share-success-link = Rice 分享連結
 zen-rice-share-accept = 同意
 zen-rice-share-notice = 在分享之前，請先瞭解Rice是什麼
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
+zen-tabs-renamed = Tab has been successfully renamed!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description = Rice 是可分享給別人的自定義設定集合。<br/>其中包含您的視窗樣式、網站樣式、已啟用模組、模組設定、版面偏好和工作區主題顏色<br/>透過分享Rice，您可以把這些自定義設定分享給其他人。請留意您想分享的內容。
 zen-learn-more-text = 瞭解更多
