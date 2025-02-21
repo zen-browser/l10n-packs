@@ -27,7 +27,7 @@ tabbrowser-unload-tab-button =
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset and pin tab
-           *[other] Reset and pin { $tabCount } tabs
+            [one] Nulstil og fastgør fane
+           *[other] Nulstil og fastgør { $tabCount } faner
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = Tilbage til fastgjort URL
