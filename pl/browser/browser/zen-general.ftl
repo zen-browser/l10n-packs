@@ -58,6 +58,8 @@ zen-rice-share-success = Pomyślnie utworzono Rice!
 zen-rice-share-success-link = Link do udostępnienia Rice
 zen-rice-share-accept = Zaakceptuj
 zen-rice-share-notice = Zanim udostępnisz, zrozum proszę czym jest Rice
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
+zen-tabs-renamed = Tab has been successfully renamed!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Rice to kolekcja modyfikacji, którą można udostępnić innym.<br/>
