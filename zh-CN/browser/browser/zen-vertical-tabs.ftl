@@ -21,13 +21,13 @@ sidebar-zen-expand =
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Unload and switch to tab
-           *[other] Unload { $tabCount } tabs and switch to the first
+            [one] 卸载并切换到标签页
+           *[other] 卸载 { $tabCount } 个标签页并切换到首个
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset and pin tab
-           *[other] Reset and pin { $tabCount } tabs
+            [one] 重置并置顶标签页
+           *[other] 重置并置顶 { $tabCount } 个标签页
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = 返回置顶网址
