@@ -21,13 +21,13 @@ sidebar-zen-expand =
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-           [one] פנה ועבור לכרטיסייה
-          *[other] פנה { $tabCount } כרטיסיות ועבור לראשונה
+            [one] פנה ועבור לכרטיסייה
+           *[other] פנה { $tabCount } כרטיסיות ועבור לראשונה
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-           [one] אפס והצמד כרטיסייה
-          *[other] אפס והצמד { $tabCount } כרטיסיות
+            [one] אפס והצמד כרטיסייה
+           *[other] אפס והצמד { $tabCount } כרטיסיות
         }
 tab-reset-pin-label = חזור לקישור המוצמד
