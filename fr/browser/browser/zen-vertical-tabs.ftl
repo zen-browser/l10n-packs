@@ -22,7 +22,7 @@ tabbrowser-unload-tab-button =
     .tooltiptext =
         { $tabCount ->
             [one] Décharger et basculer sur l'onglet
-           *[other] Décharger les onglets { $tabCount } et basculer vers le premier
+           *[other] Décharger les { $tabCount } onglets et basculer vers le premier
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
@@ -30,4 +30,4 @@ tabbrowser-reset-pin-button =
             [one] Rétablir et épingler l'onglet
            *[other] Rétablir et épingler { $tabCount } onglets
         }
-tab-reset-pin-label = Retour à l'url épinglée
+tab-reset-pin-label = Retour à l'URL épinglée
