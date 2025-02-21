@@ -58,6 +58,8 @@ zen-rice-share-success = Mugandus on loodud!
 zen-rice-share-success-link = Jagamise link
 zen-rice-share-accept = Nõustu
 zen-rice-share-notice = Enne jagamist, palun mõistke mida mugandus tähendab
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
+zen-tabs-renamed = Tab has been successfully renamed!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Mugandus on kogum kohandusi, mida saab jagada teistega.<br/>
