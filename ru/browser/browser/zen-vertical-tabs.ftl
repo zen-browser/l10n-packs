@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Боковые панели
 sidebar-zen-expand = 
     .label = Развернуть боковую панель
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Сбросить вкладку к закреплённой ссылке
-           *[other] Сбросить { $tabCount } вкладки(-ок) к закреплённым ссылкам
+            [one] Выгрузить и переключиться на вкладку
+           *[other] Выгрузить { $tabCount } вкладки(-ок) и переключиться на первую
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Сбросить и закрепить вкладку
+           *[other] Сбросить и закрепить { $tabCount } вкладки(-ок)
+        }
+tab-reset-pin-label = Вернуться к закрепленной ссылке

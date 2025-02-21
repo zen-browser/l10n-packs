@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Sivupaneelit
 sidebar-zen-expand = 
     .label = Expand Sidebar
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Resetoi välilehti kiinnitettyyn URL osoitteeseen
-           *[other] Resetoi { $tabCount } välilehteä kiinnitettyyn URL osoitteeseen
+            [one] Unload and switch to tab
+           *[other] Unload { $tabCount } tabs and switch to the first
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset and pin tab
+           *[other] Reset and pin { $tabCount } tabs
+        }
+tab-reset-pin-label = Back to pinned url

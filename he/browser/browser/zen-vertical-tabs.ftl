@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = פאנלים בצד
 sidebar-zen-expand = 
     .label = הרחבת סרגל צדדי
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] אפס כרטיסייה לקישור המוצמד
-           *[other] אפס { $tabCount } כרטיסיות לקישורים המוצמדים 
+           [one] פנה ועבור לכרטיסייה
+          *[other] פנה { $tabCount } כרטיסיות ועבור לראשונה
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+           [one] אפס והצמד כרטיסייה
+          *[other] אפס והצמד { $tabCount } כרטיסיות
+        }
+tab-reset-pin-label = חזור לקישור המוצמד

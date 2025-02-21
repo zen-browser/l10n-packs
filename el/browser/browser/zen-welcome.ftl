@@ -2,24 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-zen-welcome-title-line1 = Welcome to
-zen-welcome-title-line2 = a calmer internet
-zen-welcome-import-title = A Fresh Start, Same Bookmarks
-zen-welcome-import-description-1 = Your bookmarks, history, and passwords are like a trail of breadcrumbs through the internet—don’t leave them behind!
-zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off.
-zen-welcome-import-button = Import now
-zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
-zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
-zen-welcome-initial-essentials-title = Your Key Tabs, Always Within Reach
-zen-welcome-initial-essentials-description-1 = Keep your most important tabs easily accessible and always at hand, no matter how many you open.
-zen-welcome-initial-essentials-description-2 = Essential tabs are always visible, no matter what workspace you are in.
-zen-welcome-workspace-colors-title = Your Workspaces, Your Colors
-zen-welcome-workspace-colors-description = Personalize your browser by giving each workspace its own unique color identity.
+zen-welcome-title-line1 = Καλωσορίσατε στην
+zen-welcome-title-line2 = ήρεμη πλευρά του Διαδικτύου
+zen-welcome-import-title = Μια Νέα Αρχή, Ίδιοι Σελιδοδείκτες
+zen-welcome-import-description-1 = Οι σελιδοδείκτες, το ιστορικό και οι κωδικοί σας είναι σαν ένα μονοπάτι από ψίχουλα στο διαδικτύο – μην τα αφήνετε πίσω!
+zen-welcome-import-description-2 = Φέρτε τα εύκολα από ένα άλλο πρόγραμμα περιήγησης και συνεχίστε από εκεί που σταματήσατε.
+zen-welcome-import-button = Εισαγωγή τώρα
+zen-welcome-set-default-browser = Ορίστε το { -brand-short-name } ως προεπιλεγμένο πρόγραμμα περιήγησης
+zen-welcome-dont-set-default-browser = Να ΜΗΝ οριστεί το { -brand-short-name } ως προεπιλεγμένο πρόγραμμα περιήγησης
+zen-welcome-initial-essentials-title = Οι Σημαντικές Καρτέλες σας, Ένα Κλικ Μακριά
+zen-welcome-initial-essentials-description-1 = Κρατήστε τις πιο σημαντικές σας καρτέλες εύκολα προσβάσιμες και πάντα εύκαιρες, ανεξάρτητα από το πόσες ανοίγετε.
+zen-welcome-initial-essentials-description-2 = Οι Απαραίτητες καρτέλες είναι πάντα ορατές, ανεξάρτητα από το χώρο εργασίας που βρίσκεστε.
+zen-welcome-workspace-colors-title = Οι Χώροι Εργασίας σας, τα Χρώματά σας
+zen-welcome-workspace-colors-description = Προσαρμόστε το πρόγραμμα περιήγησής σας δίνοντας σε κάθε χώρο εργασίας τη δική του μοναδική χρωματική ταυτότητα.
 zen-welcome-start-browsing-title =
-    All set?<br/>
-    Let’s get rolling!
-zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
-zen-welcome-start-browsing = Dive in!
-zen-welcome-skip-button = Skip
-zen-welcome-next-action = Next
-zen-welcome-finished = Your Zen has been set up correctly!
+    Όλα έτοιμα;<br/>
+    Φύγαμε!
+zen-welcome-start-browsing-description-1 = Είναι όλοι ρυθμισμένα και έτοιμα. Κάντε κλικ στο παρακάτω κουμπί για να ξεκινήσετε την περιήγηση με τον { -brand-short-name }.
+zen-welcome-start-browsing = Ξεκινάμε!
+zen-welcome-skip-button = Παράλειψη
+zen-welcome-next-action = Επόμενο
+zen-welcome-finished = Το Zen σας έχει ρυθμιστεί σωστά!

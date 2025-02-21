@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Boční panely
 sidebar-zen-expand = 
     .label = Zvětšit boční panel
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Resetovat kartu na připnutou URL adresu
-           *[other] Resetovat { $tabCount } karty na připnuté URL adresy
+            [one] Unload and switch to tab
+           *[other] Unload { $tabCount } tabs and switch to the first
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset and pin tab
+           *[other] Reset and pin { $tabCount } tabs
+        }
+tab-reset-pin-label = Back to pinned url

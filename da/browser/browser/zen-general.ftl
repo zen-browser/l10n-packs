@@ -58,6 +58,8 @@ zen-rice-share-success = En Rice blev oprettet!
 zen-rice-share-success-link = Delingslink til Rice
 zen-rice-share-accept = Accepter
 zen-rice-share-notice = Før du deler, skal du forstå, hvad en Rice er
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
+zen-tabs-renamed = Tab has been successfully renamed!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     En Rice er en samling af tilpasninger, der kan deles med andre.<br/>

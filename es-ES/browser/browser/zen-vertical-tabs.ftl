@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Paneles laterales
 sidebar-zen-expand = 
     .label = Expandir barra lateral
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
-        {$tabCount ->
-            [one] Restablecer pestaña a la URL fijada
-           *[other] Restablecer { $tabCount } pestañas a las URLs fijadas
+        { $tabCount ->
+            [one] Suspender y cambiar de pestaña
+           *[other] Suspender { $tabCount } pestañas y cambiar a la primera
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Restablecer y fijar pestaña
+           *[other] Restablecer y fijar { $tabCount } pestañas
+        }
+tab-reset-pin-label = Volver a la URL fijada

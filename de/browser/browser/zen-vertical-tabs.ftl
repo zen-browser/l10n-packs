@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Seitenanzeige
 sidebar-zen-expand = 
     .label = Expand Sidebar
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Setze Tab zur angepinnten URL zurück
-           *[other] Setze { $tabCount } Tabs zu den angepinnten URLs zurück
+            [one]  Entladen zum Tab wechseln
+           *[other] Entlade { $tabCount } Tabs und wechsle zum ersten
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one]  Zurücksetzen und Tab anpinnen
+           *[other] Setze  { $tabCount } Tabs zurück und pinne sie an
+        }
+tab-reset-pin-label = Zurück zu angepinnter URL

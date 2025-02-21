@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Sidepaneler
 sidebar-zen-expand = 
     .label = Udvid Sidepanel
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Nulstil fane til fastgjort URL
-           *[other] Nulstil { $tabCount } faner til fastgjorte URL'er
+            [one] Unload and switch to tab
+           *[other] Unload { $tabCount } tabs and switch to the first
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Nulstil og fastgør fane
+           *[other] Nulstil og fastgør { $tabCount } faner
+        }
+tab-reset-pin-label = Tilbage til fastgjort URL

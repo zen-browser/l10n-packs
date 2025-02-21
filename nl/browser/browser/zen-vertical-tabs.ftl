@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Zijpanelen
 sidebar-zen-expand = 
     .label = Zijbalk uitklappen
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Herstel tabblad naar vastgezette URL
-           *[another] Herstel { $tabCount } tabbladen naar vastgezette URL's
+            [one] Unload and switch to tab
+           *[other] Unload { $tabCount } tabs and switch to the first
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Reset and pin tab
+           *[other] Reset and pin { $tabCount } tabs
+        }
+tab-reset-pin-label = Back to pinned url

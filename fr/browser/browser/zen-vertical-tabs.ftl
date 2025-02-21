@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = Panneaux latéraux
 sidebar-zen-expand = 
     .label = Étendre la barre latérale
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Réinitialiser l'onglet vers l'URL épinglée
-           *[other] Réinitialiser { $tabCount } onglets vers les URLs épinglées
+            [one] Décharger et basculer sur l'onglet
+           *[other] Décharger les { $tabCount } onglets et basculer vers le premier
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Rétablir et épingler l'onglet
+           *[other] Rétablir et épingler { $tabCount } onglets
+        }
+tab-reset-pin-label = Retour à l'URL épinglée

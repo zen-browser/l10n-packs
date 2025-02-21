@@ -39,7 +39,7 @@ zen-rice-share-name =
     .placeholder = Hrísgrjónsnafn
 zen-rice-share-author = Af
 zen-rice-share-author-input = 
-    .placeholder = Nafnið Þitt
+    .placeholder = Þitt Nafn
 zen-rice-share-cancel = Hætta við
 zen-rice-share-save = Deila
 zen-rice-share-include-userchrome = 
@@ -58,6 +58,8 @@ zen-rice-share-success = Successfully created a Rice!
 zen-rice-share-success-link = Rice Share Link
 zen-rice-share-accept = Samþykkja
 zen-rice-share-notice = Before sharing, please understand what a Rice is
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
+zen-tabs-renamed = Tab has been successfully renamed!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Hrísgrjón er safn sérsniðna sem hægt er að deila með öðrum.<br/>

@@ -18,9 +18,16 @@ sidebar-zen-sidepanel =
     .label = 侧面板
 sidebar-zen-expand = 
     .label = 展开侧边栏
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] 重置标签页为固定的 URL
-           *[other] 重置 { $tabCount } 个标签页为固定的 URLs
+            [one] 卸载并切换到标签页
+           *[other] 卸载 { $tabCount } 个标签页并切换到首个
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] 重置并置顶标签页
+           *[other] 重置并置顶 { $tabCount } 个标签页
+        }
+tab-reset-pin-label = 返回置顶网址
