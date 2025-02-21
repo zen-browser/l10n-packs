@@ -58,6 +58,8 @@ zen-rice-share-success = Δημιουργήθηκε με επιτυχία ένα
 zen-rice-share-success-link = Σύνδεσμος Κοινοποίησης Rice
 zen-rice-share-accept = Αποδοχή
 zen-rice-share-notice = Πριν από την κοινή χρήση, παρακαλούμε να καταλάβετε τι είναι ένα Rice
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
+zen-tabs-renamed = Tab has been successfully renamed!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Ένα Rice είναι μια συλλογή από προσαρμογές που μπορούν να μοιραστούν με άλλους.<br/>
