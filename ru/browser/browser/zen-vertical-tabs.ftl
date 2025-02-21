@@ -21,13 +21,13 @@ sidebar-zen-expand =
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Unload and switch to tab
-           *[other] Unload { $tabCount } tabs and switch to the first
+            [one] Выгрузить и переключиться на вкладку
+           *[other] Выгрузить { $tabCount } вкладки(-ок) и переключиться на первую
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset and pin tab
-           *[other] Reset and pin { $tabCount } tabs
+            [one] Сбросить и закрепить вкладку
+           *[other] Сбросить и закрепить { $tabCount } вкладки(-ок)
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = Вернуться к закрепленной ссылке
