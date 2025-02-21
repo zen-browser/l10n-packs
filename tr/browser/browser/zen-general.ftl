@@ -58,6 +58,8 @@ zen-rice-share-success = Rice başarıyla oluşturuldu.
 zen-rice-share-success-link = Rice Paylaşma Linki
 zen-rice-share-accept = Kabul et
 zen-rice-share-notice = Paylaşmadan önce, lütfen bir Rice'ın ne olduğunu iyi anlayın
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
+zen-tabs-renamed = Tab has been successfully renamed!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Bir Rice, başkalarıyla paylaşılabilen bir özelleştirme koleksiyonudur.<br/>
