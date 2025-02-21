@@ -69,6 +69,9 @@ zen-rice-share-success-link = Rice Share Link
 zen-rice-share-accept = Accept
 zen-rice-share-notice = Before sharing, please understand what a Rice is
 
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
+zen-tabs-renamed = Tab has been successfully renamed!
+
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description = A Rice is a collection of customizations that can be shared with others.<br/>
     This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
