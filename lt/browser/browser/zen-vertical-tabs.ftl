@@ -30,4 +30,4 @@ tabbrowser-reset-pin-button =
             [one] Reset and pin tab
            *[other] Reset and pin { $tabCount } tabs
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = Atgal į prisegtą URL
