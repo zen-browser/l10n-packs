@@ -58,8 +58,8 @@ zen-rice-share-success = ערכת נושא נוצרה בהצלחה!
 zen-rice-share-success-link = קישור לשיתוף ערכת נושא
 zen-rice-share-accept = אישור
 zen-rice-share-notice = רגע לפני שמשתפים, חשוב להבין מה היא ערכת נושא
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
+zen-pinned-tab-replaced = קישור כרטיסייה מוצמדת הוחלפה עם הקישור הנוכחי.
+zen-tabs-renamed = שם הכרטיסייה שונתה בהצלחה!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     ערכת נושא היא חבילה של התאמות אישיות שניתנת לשיתוף על אחרים.<br/>
