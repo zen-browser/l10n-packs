@@ -56,8 +56,8 @@ zen-rice-share-success = 创建 Rice 成功
 zen-rice-share-success-link = Rice 分享链接
 zen-rice-share-accept = 接受
 zen-rice-share-notice = 在分享之前，请务必了解什么是 Rice
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
+zen-pinned-tab-replaced = 固定标签页的网址已更新为当前页面网址。
+zen-tabs-renamed = 标签页重命名成功！
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Rice 是一系列个性化设置的集合，可用于与他人分享。<br/>
