@@ -5,7 +5,7 @@ category-zen-looks =
 
 zen-warning-language = Changing the default language could make it easier for Websites to track you.
 
-zen-look-and-feel-colors-header = Pick a theme colour
+zen-look-and-feel-colors-header = Pick a theme color
 zen-look-and-feel-colors-description = Make { -brand-short-name } look and feel the way you like
 zen-look-and-feel-use-workspace-colors =
     .label = Use workspace colors as primary color
@@ -110,7 +110,7 @@ zen-settings-workspaces-enabled =
 zen-settings-workspaces-hide-default-container-indicator =
     .label = Hide the default container indicator in the tab bar
 zen-settings-workspaces-allow-pinned-tabs-for-different-workspaces =
-    .label = Allow workspaces have their own pinned tabs
+    .label = Allow workspaces to have their own pinned tabs
 
 zen-key-unsaved = Unsaved shortcut! Please save it by clicking the "Escape" key after retyping it.
 zen-key-conflict = Conflict with another shortcut
