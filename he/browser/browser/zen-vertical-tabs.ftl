@@ -1,5 +1,5 @@
 zen-toolbar-context-tabs-right = 
-    .label = כרטיסיות בצד ימין
+    .label = לשוניות בצד ימין
     .accesskey = ר
 zen-toolbar-context-compact-mode = 
     .label = מצב מכווץ
@@ -21,13 +21,13 @@ sidebar-zen-expand =
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] פנה ועבור לכרטיסייה
-           *[other] פנה { $tabCount } כרטיסיות ועבור לראשונה
+            [one] פנה ועבור ללשונית
+           *[other] פנה { $tabCount } לשוניות ועבור לראשונה
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] אפס והצמד כרטיסייה
-           *[other] אפס והצמד { $tabCount } כרטיסיות
+            [one] אפס והצמד לשונית
+           *[other] אפס והצמד { $tabCount } לשוניות
         }
 tab-reset-pin-label = חזור לקישור המוצמד
