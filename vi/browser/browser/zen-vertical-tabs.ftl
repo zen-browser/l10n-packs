@@ -1,5 +1,5 @@
 zen-toolbar-context-tabs-right = 
-    .label = Tab ở bên phải
+    .label = Thẻ ở bên phải
     .accesskey = R
 zen-toolbar-context-compact-mode = 
     .label = Chế độ thu gọn
@@ -15,7 +15,7 @@ zen-toolbar-context-compact-mode-hide-both =
     .label = Ẩn cả hai
     .accesskey = H
 sidebar-zen-sidepanel = 
-    .label = Bẳng điều khiển bên cạnh
+    .label = Thanh bên
 sidebar-zen-expand = 
     .label = Mở rộng thanh bên
 tabbrowser-unload-tab-button = 
