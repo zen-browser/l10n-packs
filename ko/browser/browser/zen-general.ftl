@@ -58,8 +58,8 @@ zen-rice-share-success = 라이스가 생성되었습니다!
 zen-rice-share-success-link = 라이스 공유 링크
 zen-rice-share-accept = 동의
 zen-rice-share-notice = 공유하기 전, 라이스가 무엇인지 이해하세요
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
+zen-pinned-tab-replaced = 탭의 고정된 URL이 현재 URL로 변경되었습니다.
+zen-tabs-renamed = 탭의 이름이 성공적으로 변경되었습니다!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     라이스는 다른 사람과 공유할 수 있는 개인 설정의 모음집입니다.<br/>

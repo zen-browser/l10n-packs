@@ -30,4 +30,4 @@ tabbrowser-reset-pin-button =
             [one] Сбросить и закрепить вкладку
            *[other] Сбросить и закрепить { $tabCount } вкладки(-ок)
         }
-tab-reset-pin-label = Вернуться к закрепленной ссылке
+tab-reset-pin-label = Вернуться к закрепленному адресу

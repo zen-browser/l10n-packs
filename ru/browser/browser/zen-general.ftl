@@ -10,7 +10,7 @@ tab-context-zen-remove-essential =
     .label = Удалить из важного
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Заменить закреплённую ссылку текущей
+    .label = Заменить закреплённый адрес на текущий
     .accesskey = C
 tab-zen-unload = 
     .label = Выгрузить вкладки
@@ -58,8 +58,8 @@ zen-rice-share-success = Рис успешно создан!
 zen-rice-share-success-link = Ссылка на рис
 zen-rice-share-accept = Принять
 zen-rice-share-notice = Перед тем, как поделиться, пожалуйста, убедитесь в том, что вы понимаете, что из себя представляет рис
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
+zen-pinned-tab-replaced = Закрепленный адрес вкладки заменен на текущий.
+zen-tabs-renamed = Вкладка успешно переименована!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Rice — это коллекция настроек персонализации, которыми можно поделиться с другими пользователями.<br/>

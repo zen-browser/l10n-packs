@@ -21,13 +21,13 @@ sidebar-zen-expand =
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Unload and switch to tab
-           *[other] Unload { $tabCount } tabs and switch to the first
+            [one] Dezaktywuj i przełącz na kartę
+           *[other] Dezaktywuj { $tabCount } kart(y) i przełącz na pierwszą
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset and pin tab
-           *[other] Reset and pin { $tabCount } tabs
+            [one] Zresetuj i przypnij kartę
+           *[other] Zresetuj i przypnij karty w liczbie: { $tabCount }
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = Wróć do przypiętego adresu

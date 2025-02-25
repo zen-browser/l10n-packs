@@ -58,8 +58,8 @@ zen-rice-share-success = Sikeresen létrehozott egy Rice-t!
 zen-rice-share-success-link = Rice megosztási link
 zen-rice-share-accept = Elfogadás
 zen-rice-share-notice = Mielőtt megosztanád, kérlek, értsd meg, mi a Rice
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
+zen-pinned-tab-replaced = A rögzített lap URL címe helyébe az aktuális URL cím lépett.
+zen-tabs-renamed = A lap sikeresen át lett nevezve!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     A Rice a testreszabások gyűjteménye, amelyet meg lehet osztani másokkal.<br/>

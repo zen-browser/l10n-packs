@@ -58,8 +58,8 @@ zen-rice-share-success = Sėkmingai sukurtas „Rice“.
 zen-rice-share-success-link = „Rice“ bendrinimo nuoroda
 zen-rice-share-accept = Sutikti
 zen-rice-share-notice = Prieš bendrindami supraskite, kas yra „Rice“.
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
+zen-pinned-tab-replaced = Prisegtos kortelės URL pakeistas dabartiniu URL.
+zen-tabs-renamed = Kortelė sėkmingai pervadinta!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     „Rice“ – tai tinkinimų kolekcija, kuria galima bendrinti su kitais.<br/>

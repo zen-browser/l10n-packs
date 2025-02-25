@@ -47,4 +47,4 @@ zen-panel-ui-gradient-generator-algo-triadic =
     .label = Triadinis
 zen-panel-ui-gradient-generator-algo-floating = 
     .label = Slankusis
-zen-panel-ui-gradient-click-to-add = Click to add a color
+zen-panel-ui-gradient-click-to-add = Spustelėkite, kad pridėtumėte spalvą
