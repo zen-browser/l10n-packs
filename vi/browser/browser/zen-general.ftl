@@ -4,22 +4,22 @@ tab-context-zen-reset-pinned-tab =
     .label = Đặt lại thẻ đã ghim
     .accesskey = R
 tab-context-zen-add-essential = 
-    .label = Add to Essentials
+    .label = Thêm vào thẻ thường trú
     .accesskey = E
 tab-context-zen-remove-essential = 
-    .label = Remove from Essentials
+    .label = Loại ra khỏi thẻ thường trú
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Replace Pinned URL with Current
+    .label = Thay thế đường dường dẫn đã gim với hiện tại
     .accesskey = C
 tab-zen-unload = 
     .label = Giải phóng Tab
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
-    .label = Các hành động giải phóng tab
+    .label = Các hành động giải phóng Thẻ
     .accesskey = T
 tab-zen-prevent-unload = 
-    .label = Tránh Tab bị giải phóng
+    .label = Tránh Thẻ bị giải phóng
     .accesskey = P
 tab-zen-ignore-unload = 
     .label = Cho phép giải phóng Thẻ
@@ -30,43 +30,43 @@ zen-shortcuts-corrupted = Tệp phím tắt { -brand-short-name } của bạn đ
 zen-new-urlbar-notification =
     Thanh đường dẫn mới đã được kích hoạt, loại bỏ chức năng của trang "thẻ mới". <br/><br/>
     Hãy thử tạo một thể để xem cái "mới" của thành đường dẫn!
-zen-disable = Disable
-zen-panel-ui-gradient-generator-opacity-text = Contrast
-zen-panel-ui-gradient-generator-custom-color = Custom Color
-zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
-zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
+zen-disable = Vô hiệu hóa
+zen-panel-ui-gradient-generator-opacity-text = Tương phản
+zen-panel-ui-gradient-generator-custom-color = Tùy chỉnh màu sắc
+zen-panel-ui-gradient-generator-saved-message = Lưu tùy chỉnh đổ màu thành công!
+zen-copy-current-url-confirmation = Đường dẫn đã được chép vào bộ nhớ.
 zen-rice-share-name = 
-    .placeholder = Rice Name
+    .placeholder = Tên của thiết kế
 zen-rice-share-author = Bởi
 zen-rice-share-author-input = 
     .placeholder = Tên của bạn
 zen-rice-share-cancel = Hủy
 zen-rice-share-save = Chia sẻ
 zen-rice-share-include-userchrome = 
-    .label = Include zen window styles (userChrome.css)
+    .label = Bao gồm thiết kế cửa sổ (userChrome.css)
 zen-rice-share-include-usercontent = 
-    .label = Include website styles (userContent.css)
+    .label = Bao gồm thiết kế trang (userContent.css)
 zen-rice-share-include-mods = 
-    .label = Include enabled mods
+    .label = Bao gồm chủ đề
 zen-rice-share-include-mod-prefs = 
-    .label = Include mod preferences
+    .label = Bao gồm thiết lập chủ đề
 zen-rice-share-include-preferences = 
     .label = Bao gồm giao diện trình duyệt
 zen-rice-share-include-workspace-themes = 
-    .label = Include workspace gradient themes
-zen-rice-share-success = Successfully created a Rice!
-zen-rice-share-success-link = C
+    .label = Bao gồm đổ màu
+zen-rice-share-success = Tạo bản thiết kế thành công!
+zen-rice-share-success-link = Đường dẫn đến bản thiết kế
 zen-rice-share-accept = Đồng ý
-zen-rice-share-notice = Before sharing, please understand what a Rice is
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
+zen-rice-share-notice = Trước khi chia sẻ, hãy chắc chắn bạn hiểu một bản thiết kế là gì
+zen-pinned-tab-replaced = Đường dẫn trên thẻ gim đã được thay thể bởi đường dẫn hiện tại.
+zen-tabs-renamed = Thẻ đã được đổi tên thành công!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
-    A Rice is a collection of customizations that can be shared with others.<br/>
-    This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
-    By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
-zen-rice-share-include = Export Options
+    Một bản thiết kế là tập hợp của tất cả các điều chỉnh mà bạn có thể chia sẻ với người khác. <br/>
+    Trong đó bao gồm thiết kế của sổ của bạn, thiết, các chủ đề được sử dụng, giao diện trình duyệt và đổ màu của Không gian làm việc. <br/>
+    Khi chia sẻ một bản thiết kết, bạn đồng ý chia sẻ tất cả những tùy chỉnh này với người khác. Hãy cẩn thận những gì bạn chia sẻ.
+zen-learn-more-text = Tìm hiểu thêm
+zen-rice-share-include = Trích xuất thiết lập
 appmenu-zen-share-rice = 
-    .label = Share Zen Rice
+    .label = Chia sẻ bản thiết kế
 zen-close-label = Đóng
