@@ -1,4 +1,4 @@
-zen-panel-ui-current-profile-text = current profile
+zen-panel-ui-current-profile-text = proffil gweithredol
 unified-extensions-description = Extensions are used to bring more extra functionality into { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
     .label = Reset Pinned Tab
