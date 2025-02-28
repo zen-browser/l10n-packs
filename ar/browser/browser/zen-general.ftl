@@ -13,7 +13,7 @@ tab-context-zen-replace-pinned-url-with-current =
     .label = استبدال الرابط المثبت بالرابط الحالي
     .accesskey = C
 tab-zen-unload = 
-    .label = Unload Tab
+    .label = إلغاء تحميل علامة التبويب
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
     .label = إجراءات إلغاء تحميل علامات التبويب
@@ -65,7 +65,7 @@ zen-rice-share-notice-description =
     A Rice is a collection of customizations that can be shared with others.<br/>
     This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
     By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
-zen-learn-more-text = Learn More
+zen-learn-more-text = إلى المزيد تعرف
 zen-rice-share-include = Export Options
 appmenu-zen-share-rice = 
     .label = Share Zen Rice
