@@ -20,7 +20,7 @@ sidebar-zen-expand =
     .label = Mở rộng thanh bên
 tabbrowser-unload-tab-button = 
     .tooltiptext =
-        {  $tabCount ->
+        { $tabCount ->
             [one] Tắt và chuyển sang thẻ
            *[other] Tắt { $tabCount } thẻ và chuyển về thẻ đầu tiên
         }
