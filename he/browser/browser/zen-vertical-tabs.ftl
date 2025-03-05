@@ -1,5 +1,5 @@
 zen-toolbar-context-tabs-right = 
-    .label = לשוניות בצד ימין
+    .label = כרטיסיות בצד ימין
     .accesskey = ר
 zen-toolbar-context-compact-mode = 
     .label = מצב מכווץ
