@@ -22,7 +22,7 @@ tabbrowser-unload-tab-button =
     .tooltiptext =
         { $tabCount ->
             [one] Вивантажити й перемкнутися на вкладку
-           [few] Вивантажити { $tabCount } вкладки й перемкнутися до першої
+            [few] Вивантажити { $tabCount } вкладки й перемкнутися до першої
            *[other] Вивантажити { $tabCount } вкладок й перемкнутися до першої
         }
 tabbrowser-reset-pin-button = 
