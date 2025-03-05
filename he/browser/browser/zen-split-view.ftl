@@ -1,12 +1,12 @@
 tab-zen-split-tabs = 
     .label =
         { $tabCount ->
-            [1] פיצול לשונית (נדרש מספר לשונית מסומנות)
-           *[other] פיצול { $tabCount } לשוניות
+            [1] פיצול כרטיסייה (נדרש מספר כרטיסיות מסומנות)
+           *[other] פיצול { $tabCount } כרטיסיות
         }
     .accesskey = ד
 zen-split-link = 
-    .label = פצל קישור ללשונית חדשה
+    .label = פצל קישור לכרטיסייה חדשה
     .accesskey = ד
 zen-split-view-modifier-header = תצוגה מפוצלת
 zen-split-view-modifier-activate-reallocation = 
