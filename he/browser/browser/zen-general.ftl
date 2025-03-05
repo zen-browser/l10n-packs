@@ -1,10 +1,10 @@
 zen-panel-ui-current-profile-text = פרופיל נוכחי
 unified-extensions-description = הרחבות מוסיפות פונקציונליות נוספת ל{ -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = אפס לשונית מוצמדת
+    .label = אפס כרטיסייה מוצמדת
     .accesskey = ר
 tab-context-zen-add-essential = 
-    .label = הוסף לנחוצים
+    .label = הוסיף לנחוצים
     .accesskey = ק
 tab-context-zen-remove-essential = 
     .label = הסר מנחוצים
@@ -13,23 +13,23 @@ tab-context-zen-replace-pinned-url-with-current =
     .label = החלף קישור מוצמד עם הנוכחי
     .accesskey = ב
 tab-zen-unload = 
-    .label = פנה לשונית
+    .label = פנה כרטיסייה
     .accesskey = ו
 zen-tabs-unloader-tab-actions = 
-    .label = פעולות פינוי לשוניות
+    .label = פעולות פינוי כרטיסיות
     .accesskey = א
 tab-zen-prevent-unload = 
-    .label = עצור פינוי הלשונית
+    .label = עצור פינוי כרטיסייה
     .accesskey = פ
 tab-zen-ignore-unload = 
-    .label = אפשר פינוי הלשונית
+    .label = אפשר פינוי כרטיסייה
     .accesskey = ן
 zen-themes-corrupted = קובץ המודים { -brand-short-name } שלך פגום. הם אופסו לנושא ברירת המחדל.
 zen-shortcuts-corrupted = קיצורי דרך { -brand-short-name } פגום. הם אופסו לקיצורי דרך ברירת מחדל.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    סרגל הכתובת החדש הופעל, ומסיר את הצורך בעמודי לשונית חדשה.<br/><br/>
-    נסה לפתוח לשונית חדשה כדי לראות את סרגל הכתובת החדש בפעולה!
+    סרגל הכתובת החדש הופעל, ומסיר את הצורך בעמודי כרטיסייה חדשה.<br/><br/>
+    נסה לפתוח כרטיסייה חדשה כדי לראות את סרגל הכתובת החדש בפעולה!
 zen-disable = כבה
 zen-panel-ui-gradient-generator-opacity-text = ניגודיות
 zen-panel-ui-gradient-generator-custom-color = צבע מותאם אישית
