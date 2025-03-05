@@ -21,13 +21,13 @@ sidebar-zen-expand =
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Unload and switch to tab
-           *[other] Unload { $tabCount } tabs and switch to the first
+            [one] 언로드 후 탭 변경
+           *[other] { $tabCount }개 탭 언로드 후 첫 번째 탭으로 변경
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset and pin tab
-           *[other] Reset and pin { $tabCount } tabs
+            [one] 탭 초기화 후 고정
+           *[other] { $tabCount }개 탭 초기화 후 고정
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = 고정된 URL로 되돌리기

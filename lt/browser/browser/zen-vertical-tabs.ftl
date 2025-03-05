@@ -21,13 +21,17 @@ sidebar-zen-expand =
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Unload and switch to tab
-           *[other] Unload { $tabCount } tabs and switch to the first
+            [one] Iškelti { $tabCount } kortelę ir perjungti į pirmąją
+            [few] Iškelti { $tabCount } korteles ir perjungti į pirmąją
+            [many] Iškelti { $tabCount } kortelės ir perjungti į pirmąją
+           *[other] Iškelti { $tabCount } kortelių ir perjungti į pirmąją
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset and pin tab
-           *[other] Reset and pin { $tabCount } tabs
+            [one] Atkurti ir prisegti { $tabCount } kortelę
+            [few] Atkurti ir prisegti { $tabCount } korteles
+            [many] Atkurti ir prisegti { $tabCount } kortelės
+           *[other] Atkurti ir prisegti { $tabCount } kortelių
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = Atgal į prisegtą URL

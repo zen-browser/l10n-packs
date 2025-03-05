@@ -58,8 +58,8 @@ zen-rice-share-success = Berhasil membuat Rice!
 zen-rice-share-success-link = Tautan berbagi Rice
 zen-rice-share-accept = Terima
 zen-rice-share-notice = Sebelum berbagi, harap pahami apa itu Rice
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
+zen-pinned-tab-replaced = URL tab yang disematkan telah diganti dengan URL saat ini.
+zen-tabs-renamed = Tab telah berhasil diubah namanya!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Rice adalah kumpulan kustomisasi yang dapat dibagikan dengan orang lain.<br/>
