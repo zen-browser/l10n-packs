@@ -30,7 +30,7 @@ zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted
 zen-new-urlbar-notification =
     The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
     Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+zen-disable = 無効
 zen-panel-ui-gradient-generator-opacity-text = コントラスト
 zen-panel-ui-gradient-generator-custom-color = カスタムカラー
 zen-panel-ui-gradient-generator-saved-message = グラデーションを正常に保存しました！
@@ -40,10 +40,10 @@ zen-rice-share-name =
 zen-rice-share-author = By
 zen-rice-share-author-input = 
     .placeholder = Your Name
-zen-rice-share-cancel = Cancel
+zen-rice-share-cancel = キャンセル
 zen-rice-share-save = 共有
 zen-rice-share-include-userchrome = 
-    .label = Include zen window styles (userChrome.css)
+    .label = Zen ウインドウスタイルを含める (userChrome.css)
 zen-rice-share-include-usercontent = 
     .label = Include website styles (userContent.css)
 zen-rice-share-include-mods = 
@@ -55,8 +55,8 @@ zen-rice-share-include-preferences =
 zen-rice-share-include-workspace-themes = 
     .label = Include workspace gradient themes
 zen-rice-share-success = Successfully created a Rice!
-zen-rice-share-success-link = Rice Share Link
-zen-rice-share-accept = Accept
+zen-rice-share-success-link = Rice 共有リンク
+zen-rice-share-accept = 同意
 zen-rice-share-notice = Before sharing, please understand what a Rice is
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
 zen-tabs-renamed = Tab has been successfully renamed!
@@ -66,7 +66,7 @@ zen-rice-share-notice-description =
     This includes your window styles, website styles, enabled mods, mod preferences, layout preferences, and workspace gradient themes.<br/>
     By sharing a Rice, you are sharing all of these customizations with others. Please be mindful of what you share.
 zen-learn-more-text = Learn More
-zen-rice-share-include = Export Options
+zen-rice-share-include = エクスポートオプション
 appmenu-zen-share-rice = 
-    .label = Share Zen Rice
-zen-close-label = Close
+    .label = Zen Rice を共有
+zen-close-label = 閉じる
