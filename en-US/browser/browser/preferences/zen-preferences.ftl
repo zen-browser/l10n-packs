@@ -198,6 +198,9 @@ zen-urlbar-behavior-floating-on-type =
 zen-urlbar-behavior-float =
     .label = Always floating
 
+zen-urlbar-show-sponsored = Show sponsored result
+zen-urlbar-show-pinned = Show pinned shortcuts
+
 pane-zen-CKS-title = Keyboard Shortcuts
 category-zen-CKS =
     .tooltiptext = { pane-zen-CKS-title }
