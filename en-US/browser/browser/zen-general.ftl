@@ -49,7 +49,7 @@ zen-rice-share-author = By
 zen-rice-share-author-input =
     .placeholder = Your Name
 
-zen-rice-share-cancel = Cancel
+zen-general-cancel = Cancel
 zen-rice-share-save = Share
 
 zen-rice-share-include-userchrome =
