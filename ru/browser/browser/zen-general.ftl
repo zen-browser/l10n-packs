@@ -28,7 +28,7 @@ zen-themes-corrupted = Файл дополнения { -brand-short-name } по�
 zen-shortcuts-corrupted = Файл комбинаций клавиш { -brand-short-name } повреждён. Возвращены комбинации клавиш по умолчанию.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    Новое поле адреса было включено, что убирает необходимость в страницах для новых вкладок.<br/><br/> 
+    Новое поле адреса было включено, что убирает необходимость в страницах для новых вкладок.<br/><br/>
     Попробуйте открыть новую вкладку, чтобы увидеть новое поле адреса в действии!
 zen-disable = Отключить
 zen-panel-ui-gradient-generator-opacity-text = Контрастность
@@ -40,7 +40,8 @@ zen-rice-share-name =
 zen-rice-share-author = Автор:
 zen-rice-share-author-input = 
     .placeholder = Ваше имя
-zen-rice-share-cancel = Отменить
+zen-general-cancel = Отменить
+zen-general-confrim = Confirm
 zen-rice-share-save = Поделиться
 zen-rice-share-include-userchrome = 
     .label = Включить стили окон Zen (userChrome.css)
