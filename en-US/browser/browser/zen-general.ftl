@@ -50,7 +50,7 @@ zen-rice-share-author-input =
     .placeholder = Your Name
 
 zen-general-cancel = Cancel
-zen-general-confrim =
+zen-general-confirm =
   .label = Confirm
 zen-rice-share-save = Share
 
