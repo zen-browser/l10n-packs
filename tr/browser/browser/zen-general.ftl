@@ -25,24 +25,24 @@ tab-zen-ignore-unload =
     .label = Sekmenin Uyku Moduna Geçmesine İzin Ver
     .accesskey = I
 zen-themes-corrupted = { -brand-short-name } adlı modun dosyaları hatalı. Varsayılan temaya sıfırlandılar.
-zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
+zen-shortcuts-corrupted = { -brand-short-name } kısayol dosyası bozuldu. Orijinal kısayollara sıfırlandı.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Yeni sekme sayfalarına ihtiyacı kaldıran yeni URL Bar aktifleşti.<br/><br/>
+    Yeni URL bar'ı görmek için yeni bir sekme açın!
+zen-disable = Devre dışı bırak
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Özel Renk
 zen-panel-ui-gradient-generator-saved-message = Renkler başarıyla kaydedildi!
-zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
+zen-copy-current-url-confirmation = URL panoya kopyalandı.
 zen-rice-share-name = 
     .placeholder = Rice Adı
-zen-rice-share-author = By
+zen-rice-share-author = tarafından
 zen-rice-share-author-input = 
     .placeholder = Adınız
 zen-general-cancel = İptal Et
 zen-general-confirm = 
-    .label = Confirm
+    .label = Onayla
 zen-rice-share-save = Paylaş
 zen-rice-share-include-userchrome = 
     .label = Zen pencere stillerini dahil et (userChrome.css)
@@ -60,8 +60,8 @@ zen-rice-share-success = Rice başarıyla oluşturuldu.
 zen-rice-share-success-link = Rice Paylaşma Linki
 zen-rice-share-accept = Kabul et
 zen-rice-share-notice = Paylaşmadan önce, lütfen bir Rice'ın ne olduğunu iyi anlayın
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
+zen-pinned-tab-replaced = Başa tutturulmuş sekme URL'si, şimdiki URL ile değiştirildi.
+zen-tabs-renamed = Sekme başarıyla yeniden adlandırıldı!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Bir Rice, başkalarıyla paylaşılabilen bir özelleştirme koleksiyonudur.<br/>
