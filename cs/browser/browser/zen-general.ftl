@@ -41,6 +41,8 @@ zen-rice-share-author = Od
 zen-rice-share-author-input =
     .placeholder = Vaše jméno
 zen-general-cancel = Zrušit
+zen-general-confirm = 
+    .label = Confirm
 zen-rice-share-save = Sdílet
 zen-rice-share-include-userchrome =
     .label = Zahrnout styl prohlížeče Zen (userChrome.css)
@@ -58,8 +60,8 @@ zen-rice-share-success = Rice byl úspěšně vytvořen!
 zen-rice-share-success-link = Odkaz na sdílení Rice
 zen-rice-share-accept = Přijmout
 zen-rice-share-notice = Před sdílením si prosím přečtěte co Rice znamená
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
+zen-pinned-tab-replaced = Připnutá URL adresa panelu byla nahrazena aktuální URL adresou.
+zen-tabs-renamed = Panel byl úspěšně přejmenován!
 # note: Do not translate the "<br/>" tags in the following string
 zen-rice-share-notice-description =
     Rice jsou sbírky úprav, které mohou být sdíleny s ostatními. <br/>
