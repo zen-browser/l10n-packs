@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     A nova barra de URL foi ativada, removendo a necessidade de novas páginas de abas.<br/><br/>
     Abra uma nova aba para ver a nova barra de URL em ação!
 zen-disable = Desativar
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-custom-color = Cor personalizada
 zen-panel-ui-gradient-generator-saved-message = Degradê salvo com sucesso!
