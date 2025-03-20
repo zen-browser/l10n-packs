@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Die neue URL-Leiste wurde aktiviert, sodass neue Tab-Seiten nicht mehr erforderlich sind.<br/><br/>
     Versuche, einen neuen Tab zu öffnen, um die neue URL-Leiste in Aktion zu sehen!
 zen-disable = Deaktivieren
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Benutzerdefinierte Farbe
 zen-panel-ui-gradient-generator-saved-message = Verlauf erfolgreich gespeichert!
