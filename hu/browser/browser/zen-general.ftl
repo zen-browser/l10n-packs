@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Az új URL sáv engedélyezve lett, így nincs szükség új lapokra.<br/><br/>
     Próbáljon ki egy új lapot nyitni, hogy láthassa az új URL-sávot működés közben!
 zen-disable = Kikapcsolás
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Kontraszt
 zen-panel-ui-gradient-generator-custom-color = Egyedi szín
 zen-panel-ui-gradient-generator-saved-message = Színátmenet sikeresen mentve!
