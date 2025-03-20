@@ -32,6 +32,9 @@ zen-new-urlbar-notification =
     Новое поле адреса было включено, что убирает необходимость в страницах для новых вкладок.<br/><br/>
     Попробуйте открыть новую вкладку, чтобы увидеть новое поле адреса в действии!
 zen-disable = Отключить
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Контрастность
 zen-panel-ui-gradient-generator-custom-color = Пользовательский цвет
 zen-panel-ui-gradient-generator-saved-message = Градиент успешно сохранён!
