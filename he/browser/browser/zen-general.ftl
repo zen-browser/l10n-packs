@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     סרגל הכתובת החדש הופעל, ומסיר את הצורך בעמודי כרטיסייה חדשה.<br/><br/>
     נסה לפתוח כרטיסייה חדשה כדי לראות את סרגל הכתובת החדש בפעולה!
 zen-disable = כבה
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = ניגודיות
 zen-panel-ui-gradient-generator-custom-color = צבע מותאם אישית
 zen-panel-ui-gradient-generator-saved-message = מיזוג הצבעים נשמר בהצלחה!
