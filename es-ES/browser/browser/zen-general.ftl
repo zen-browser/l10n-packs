@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Se ha habilitado la nueva barra de direcciones, eliminando la necesidad de la página de nueva pestaña.<br/><br/>
     ¡Pruebe a abrir una nueva pestaña para ver la nueva barra de direcciones en acción!
 zen-disable = Deshabilitar
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-custom-color = Color personalizado
 zen-panel-ui-gradient-generator-saved-message = ¡Gradiente guardado con éxito!
