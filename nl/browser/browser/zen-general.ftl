@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     De nieuwe URL-balk is ingeschakeld, waardoor nieuwe tabbladen niet meer nodig zijn.<br/><br/>
     Probeer een nieuw tabblad te openen om de nieuwe URL-balk in actie te zien!
 zen-disable = Uitschakelen
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-custom-color = Aangepaste kleur
 zen-panel-ui-gradient-generator-saved-message = Gradient is succesvol opgeslagen!
