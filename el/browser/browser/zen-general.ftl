@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Η νέα γραμμή URL έχει ενεργοποιηθεί, αφαιρώντας την ανάγκη για σελίδες νέας καρτέλας.<br/><br/>
     Δοκιμάστε να ανοίξετε μια νέα καρτέλα για να δείτε τη νέα γραμμή URL εν δράσει!
 zen-disable = Απενεργοποίηση
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Αντίθεση
 zen-panel-ui-gradient-generator-custom-color = Προσαρμοσμένο Χρώμα
 zen-panel-ui-gradient-generator-saved-message = Επιτυχής αποθήκευση της διαβάθμισης!

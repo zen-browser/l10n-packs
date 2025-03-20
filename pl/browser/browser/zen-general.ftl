@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Nowy pasek adresu został aktywowany, a tym samym strona nowej karty nie jest już potrzebna.<br/><br/>
     Spróbuj otworzyć nową kartę i wypróbuj nowy pasek adresu w akcji!
 zen-disable = Deaktywuj
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Niestandardowy kolor
 zen-panel-ui-gradient-generator-saved-message = Pomyślnie zapisano gradient!

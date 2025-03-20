@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Įjungta nauja URL juosta, todėl nebereikia naujų kortelių puslapių.<br/><br/>
     Pabandykite atverti naują kortelę, kad pamatytumėte naująją URL juostą!
 zen-disable = Išjungti
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Kontrastas
 zen-panel-ui-gradient-generator-custom-color = Pasirinktinė spalva
 zen-panel-ui-gradient-generator-saved-message = Gradientas sėkmingai išsaugotas.

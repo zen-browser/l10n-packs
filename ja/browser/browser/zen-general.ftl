@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
     Try opening a new tab to see the new URL bar in action!
 zen-disable = 無効
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = コントラスト
 zen-panel-ui-gradient-generator-custom-color = カスタムカラー
 zen-panel-ui-gradient-generator-saved-message = グラデーションを正常に保存しました！

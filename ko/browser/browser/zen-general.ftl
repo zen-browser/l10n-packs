@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     새 탭 페이지가 필요 없는 새로운 URL 바가 활성화 되었습니다.<br/><br/>
     새 탭을 열어서 새로운 URL 바를 만나보세요!
 zen-disable = 비활성화
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = 대비
 zen-panel-ui-gradient-generator-custom-color = 커스텀 색상
 zen-panel-ui-gradient-generator-saved-message = 성공적으로 그라데이션을 저장했습니다!
@@ -42,7 +45,7 @@ zen-rice-share-author-input =
     .placeholder = 제작자 이름
 zen-general-cancel = 취소
 zen-general-confirm = 
-    .label = Confirm
+    .label = 확인
 zen-rice-share-save = 공유
 zen-rice-share-include-userchrome = 
     .label = 창 스타일 포함하기 (userChrome.css)

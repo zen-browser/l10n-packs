@@ -31,13 +31,16 @@ zen-new-urlbar-notification =
     Yeni sekme sayfalarına ihtiyacı kaldıran yeni URL Bar aktifleşti.<br/><br/>
     Yeni URL bar'ı görmek için yeni bir sekme açın!
 zen-disable = Devre dışı bırak
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Özel Renk
 zen-panel-ui-gradient-generator-saved-message = Renkler başarıyla kaydedildi!
-zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
+zen-copy-current-url-confirmation = URL panoya kopyalandı.
 zen-rice-share-name = 
     .placeholder = Rice Adı
-zen-rice-share-author = By
+zen-rice-share-author = tarafından
 zen-rice-share-author-input = 
     .placeholder = Adınız
 zen-general-cancel = İptal Et

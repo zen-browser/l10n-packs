@@ -29,6 +29,9 @@ zen-shortcuts-corrupted = 您的 { -brand-short-name } 快捷键文件已损坏�
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification = 新的 URL 栏已启用，不再需要新标签页。<br/><br/>打开一个新标签页来试试看新 URL 栏！
 zen-disable = 禁用
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = 对比度
 zen-panel-ui-gradient-generator-custom-color = 自定义颜色
 zen-panel-ui-gradient-generator-saved-message = 渐变保存成功！

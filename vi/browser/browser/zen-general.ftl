@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Thanh đường dẫn mới đã được kích hoạt, loại bỏ chức năng của trang "thẻ mới". <br/><br/>
     Hãy thử tạo một thể để xem cái "mới" của thành đường dẫn!
 zen-disable = Vô hiệu hóa
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Tương phản
 zen-panel-ui-gradient-generator-custom-color = Tùy chỉnh màu sắc
 zen-panel-ui-gradient-generator-saved-message = Lưu tùy chỉnh đổ màu thành công!
