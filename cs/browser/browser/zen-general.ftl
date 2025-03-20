@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Nový adresní řádek je nyní zapnutý, takže už není potřeba otevírat nové karty.<br/><br/>
     Zkuste otevřít novou kartu a podívejte se, jak funguje!
 zen-disable = Zavřít
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Vlastní barva
 zen-panel-ui-gradient-generator-saved-message = Gradient byl úspěšně uložen!
