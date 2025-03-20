@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Den nye URL-linje er aktiveret og fjerner dermed behovet for nye fanesider.<br/><br/>
     Prøv at åbne en ny fane for at se den i aktion!
 zen-disable = Deaktiver
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Brugerdefineret Farve
 zen-panel-ui-gradient-generator-saved-message = Gradienten blev gemt!
