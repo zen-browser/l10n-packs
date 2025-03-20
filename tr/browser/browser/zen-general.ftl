@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Yeni sekme sayfalarına ihtiyacı kaldıran yeni URL Bar aktifleşti.<br/><br/>
     Yeni URL bar'ı görmek için yeni bir sekme açın!
 zen-disable = Devre dışı bırak
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Özel Renk
 zen-panel-ui-gradient-generator-saved-message = Renkler başarıyla kaydedildi!
