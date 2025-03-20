@@ -160,12 +160,8 @@ zen-theme-marketplace-input-default-placeholder =
     .placeholder = Type something...
 pane-zen-marketplace-title = Zen Mods
 
-zen-settings-workspaces-display-as-icon-strip =
-    .label = Display workspaces as an icon strip
 zen-settings-workspaces-force-container-tabs-to-workspace =
     .label = Switch to workspace where container is set as default when opening container tabs
-zen-settings-workspaces-hide-deactivated-workspaces =
-    .label = Hide deactivated workspaces
 
 zen-theme-marketplace-link = Visit Store
 

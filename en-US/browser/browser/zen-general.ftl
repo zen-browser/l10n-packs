@@ -36,6 +36,10 @@ zen-new-urlbar-notification = The new URL bar has been enabled, removing the nee
 
 zen-disable = Disable
 
+pictureinpicture-minimize-btn =
+  .aria-label = Minimize
+  .tooltip = Minimize
+
 zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-custom-color = Custom Color
 zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
@@ -50,7 +54,7 @@ zen-rice-share-author-input =
     .placeholder = Your Name
 
 zen-general-cancel = Cancel
-zen-general-confrim =
+zen-general-confirm =
   .label = Confirm
 zen-rice-share-save = Share
 

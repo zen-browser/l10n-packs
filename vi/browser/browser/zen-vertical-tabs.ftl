@@ -27,7 +27,7 @@ tabbrowser-unload-tab-button =
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset and pin tab
-           *[other] Reset and pin { $tabCount } tabs
+            [one] Tải lại và gim thẻ
+           *[other] Tải lại và gim { $tabCount } thẻ
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = Quay trở lại đường dẫn đã gim
