@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Mae'r bar URL newydd wedi'i alluogi, sydd yn dileu'r angen am dudalennau tab newydd.<br/><br/>
     Ceisiwch agor tab newydd i weld y bar URL newydd ar waith!
 zen-disable = Analluogi
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Cyferbyniad
 zen-panel-ui-gradient-generator-custom-color = Addasu Lliw
 zen-panel-ui-gradient-generator-saved-message = Llwyddiant arbedi'r graddiant!
