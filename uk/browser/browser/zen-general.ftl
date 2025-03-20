@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Увімкнено новий рядок URL-адрес, що усуває потребу в нових сторінках вкладок.<br/><br/>
     Спробуйте відкрити нову вкладку, щоб побачити новий рядок URL-адреси в дії!
 zen-disable = Вимкнути
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Контрастність
 zen-panel-ui-gradient-generator-custom-color = Власний колір
 zen-panel-ui-gradient-generator-saved-message = Градієнт успішно збережено!
