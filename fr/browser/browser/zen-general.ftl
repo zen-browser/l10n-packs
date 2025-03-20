@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     La nouvelle barre URL a été activée, supprimant la nécessité de nouvelles pages d'onglets.<br/><br/>
     Essayez d'ouvrir un nouvel onglet pour voir la nouvelle barre d'onglets en action !
 zen-disable = Désactiver
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-custom-color = Couleur personnalisée
 zen-panel-ui-gradient-generator-saved-message = Le dégradé a été enregistré avec succès !
