@@ -31,6 +31,9 @@ zen-new-urlbar-notification =
     Nýja vefslóðastikan hefur verið virkjuð og fjarlægir þörfina á nýjum flipasíðum.<br/><br/>
     Prófaðu að opna nýjan flipa til að sjá nýju vefslóðastikuna í notkun!
 zen-disable = Óvirkja
+pictureinpicture-minimize-btn = 
+    .aria-label = Minimize
+    .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Mótsetning
 zen-panel-ui-gradient-generator-custom-color = Sérsniðinn litur
 zen-panel-ui-gradient-generator-saved-message = Vistað hallann!
