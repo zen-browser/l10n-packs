@@ -126,6 +126,10 @@ zen-vertical-tabs-newtab-top-button-border =
     .label = Show separation border for when the new tab button is at the bottom
 zen-vertical-tabs-newtab-top-button-up =
     .label = Move the new tab button to the top
+zen-vertical-tabs-show-bottom-border =
+    .label = Show border for the bottom icons
+zen-vertical-tabs-newtab-dbl-click =
+    .label = Open new tab with double click
 
 zen-vertical-tabs-expand-tabs-by-default = Expand Tabs by Default
 zen-vertical-tabs-dont-expand-tabs-by-default = Don't Expand Tabs by Default
