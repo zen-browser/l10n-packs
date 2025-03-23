@@ -33,8 +33,8 @@ zen-new-urlbar-notification =
     Попробуйте открыть новую вкладку, чтобы увидеть новое поле адреса в действии!
 zen-disable = Отключить
 pictureinpicture-minimize-btn = 
-    .aria-label = Minimize
-    .tooltip = Minimize
+    .aria-label = Свернуть
+    .tooltip = Свернуть
 zen-panel-ui-gradient-generator-opacity-text = Контрастность
 zen-panel-ui-gradient-generator-custom-color = Пользовательский цвет
 zen-panel-ui-gradient-generator-saved-message = Градиент успешно сохранён!
