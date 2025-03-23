@@ -21,8 +21,8 @@ sidebar-zen-expand =
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Unload and switch to tab
-           *[other] Unload { $tabCount } tabs and switch to the first
+            [one] Stop indlæsning og skift til fane
+           *[other] Stop indlæsning af { $tabCount } faner og skift til den første
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
