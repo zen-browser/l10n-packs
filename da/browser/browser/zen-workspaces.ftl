@@ -46,5 +46,5 @@ zen-panel-ui-gradient-generator-algo-analogous =
 zen-panel-ui-gradient-generator-algo-triadic = 
     .label = Triadisk
 zen-panel-ui-gradient-generator-algo-floating = 
-    .label = Floating
+    .label = Flydende
 zen-panel-ui-gradient-click-to-add = Klik for at tilføje en farve
