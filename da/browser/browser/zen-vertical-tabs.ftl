@@ -17,7 +17,7 @@ zen-toolbar-context-compact-mode-hide-both =
 sidebar-zen-sidepanel = 
     .label = Sidepaneler
 sidebar-zen-expand = 
-    .label = Udvid Sidepanel
+    .label = Udvid sidepanel
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
