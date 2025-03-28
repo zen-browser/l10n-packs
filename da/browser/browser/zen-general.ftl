@@ -1,7 +1,7 @@
 zen-panel-ui-current-profile-text = nuværende profil
 unified-extensions-description = Udvidelser bruges til at bringe ekstra funktionalitet ind i { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Nulstil Fastgjort Fane
+    .label = Nulstil fastgjort fane
     .accesskey = R
 tab-context-zen-add-essential = 
     .label = Føj til Essentielle
@@ -24,7 +24,7 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Tillad fjernelse af fane
     .accesskey = I
-zen-themes-corrupted = Din { -brand-short-name } mods-fil er beskadiget. De er blevet nulstillet til standardtemaet.
+zen-themes-corrupted = Din { -brand-short-name }-mods-fil er beskadiget. De er blevet nulstillet til standardtemaet.
 zen-shortcuts-corrupted = Din { -brand-short-name }-genvejsfil er beskadiget. De er blevet nulstillet til standardgenvejene.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
