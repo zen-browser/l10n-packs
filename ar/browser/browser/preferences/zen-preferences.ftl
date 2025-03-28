@@ -142,11 +142,6 @@ zen-dark-theme-styles-description = تخصيص السمة المظلمة لإع�
 zen-dark-theme-styles-amoled = السمة الليلية
 zen-dark-theme-styles-default = سمة الظلام الافتراضية
 zen-dark-theme-styles-colorful = سمة مظلمة ملونة
-zen-split-view-title = تقسيم العرض
-zen-split-view-header = تقسيم عرض الوظيفة
-zen-split-view-description = تقسيم المتصفح الخاص بك إلى عروض متعددة، مما مكنك من تصفح مواقع متعددة في وقت واحد
-zen-split-view-change-on-hover = 
-    .label = تغيير علامات التبويب عند التنفيس
 zen-compact-mode-styles-left = إخفاء شريط التبويب
 zen-compact-mode-styles-top = إخفاء أعلى شريط
 zen-compact-mode-styles-both = إخفاء كليهما
