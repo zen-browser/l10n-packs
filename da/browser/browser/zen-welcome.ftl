@@ -4,7 +4,7 @@
 
 zen-welcome-title-line1 = Velkommen til
 zen-welcome-title-line2 = et roligere internet
-zen-welcome-import-title = En frisk start, samme bogmærker
+zen-welcome-import-title = En frisk start; samme bogmærker
 zen-welcome-import-description-1 = Dine bogmærker, din historik og dine adgangskoder er som et spor af brødkrummer på internettet—efterlad dem ikke!
 zen-welcome-import-description-2 = Bring dem nemt over fra en anden browser og fortsæt, hvor du slap.
 zen-welcome-import-button = Importér nu
