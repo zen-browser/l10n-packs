@@ -32,8 +32,8 @@ zen-new-urlbar-notification =
     Experimente abrir um novo separador para ver a nova barra de URL em ação!
 zen-disable = Desativar
 pictureinpicture-minimize-btn = 
-    .aria-label = Minimize
-    .tooltip = Minimize
+    .aria-label = Minimizar
+    .tooltip = Minimizar
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-custom-color = Cor personalizada
 zen-panel-ui-gradient-generator-saved-message = Gradiente guardado com sucesso!

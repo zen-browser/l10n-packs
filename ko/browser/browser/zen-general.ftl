@@ -32,8 +32,8 @@ zen-new-urlbar-notification =
     새 탭을 열어서 새로운 URL 바를 만나보세요!
 zen-disable = 비활성화
 pictureinpicture-minimize-btn = 
-    .aria-label = Minimize
-    .tooltip = Minimize
+    .aria-label = 최소화
+    .tooltip = 최소화
 zen-panel-ui-gradient-generator-opacity-text = 대비
 zen-panel-ui-gradient-generator-custom-color = 커스텀 색상
 zen-panel-ui-gradient-generator-saved-message = 성공적으로 그라데이션을 저장했습니다!

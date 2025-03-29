@@ -12,14 +12,14 @@ zen-welcome-set-default-browser = { -brand-short-name }'i varsayılan tarayıcı
 zen-welcome-dont-set-default-browser = { -brand-short-name }'i varsayılan tarayıcı olarak AYARLAMAYIN
 zen-welcome-initial-essentials-title = Her Zamanki Sekmeleriniz, Her Zaman Yanınızda
 zen-welcome-initial-essentials-description-1 = En önemli sekmelerinizi kolayca erişilebilir ve her zaman elinizin altında tutun, ne kadar açsanız bile.
-zen-welcome-initial-essentials-description-2 = Essential tabs are always visible, no matter what workspace you are in.
-zen-welcome-workspace-colors-title = Your Workspaces, Your Colors
-zen-welcome-workspace-colors-description = Personalize your browser by giving each workspace its own unique color identity.
+zen-welcome-initial-essentials-description-2 = Temel sekmeler her zaman görünür, hangi çalışma alanında olduğun fark etmez.
+zen-welcome-workspace-colors-title = Senin Çalışma Alanın, Senin Renklerin
+zen-welcome-workspace-colors-description = Her çalışma alanında ayrı renkler kullanarak tarayıcını kişiselleştir.
 zen-welcome-start-browsing-title =
-    All set?<br/>
-    Let’s get rolling!
-zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
-zen-welcome-start-browsing = Dive in!
-zen-welcome-skip-button = Skip
-zen-welcome-next-action = Next
-zen-welcome-finished = Your Zen has been set up correctly!
+    Her şey hazır mı?<br/>
+    Hadi başlayalım!
+zen-welcome-start-browsing-description-1 = Tamamen hazırsın. Aşağıdaki butona tıklayarak { -brand-short-name } ile aramaya başla.
+zen-welcome-start-browsing = İçeri dal!
+zen-welcome-skip-button = Geç
+zen-welcome-next-action = Sonraki
+zen-welcome-finished = Zen başarıyla kuruldu ve ayarlandı!
