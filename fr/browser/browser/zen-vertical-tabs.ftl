@@ -10,7 +10,7 @@ zen-toolbar-context-compact-mode-enable =
 zen-toolbar-context-compact-mode-just-tabs = 
     .label = Masquer la barre latérale
 zen-toolbar-context-compact-mode-just-toolbar = 
-    .label = Masquer la barre d'outils
+    .label = Masquer la barre d’outils
 zen-toolbar-context-compact-mode-hide-both = 
     .label = Masquer les deux
     .accesskey = H
@@ -21,8 +21,8 @@ sidebar-zen-expand =
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Décharger et basculer sur l'onglet
-           *[other] Décharger les { $tabCount } onglets et basculer vers le premier
+            [one] Décharger et passer à l’onglet
+           *[other] Décharger les { $tabCount } onglets et passer au premier
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
@@ -30,4 +30,4 @@ tabbrowser-reset-pin-button =
             [one] Rétablir et épingler l'onglet
            *[other] Rétablir et épingler { $tabCount } onglets
         }
-tab-reset-pin-label = Retour à l'URL épinglée
+tab-reset-pin-label = Retour à l’URL épinglée
