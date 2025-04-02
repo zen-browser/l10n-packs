@@ -11,7 +11,5 @@ files:
     translation: browser/browser/zen-welcome.ftl
   - source: en-US/browser/browser/zen-workspaces.ftl
     translation: browser/browser/zen-workspaces.ftl
-  - source: en-US/browser/browser/zenNewWebPanel.ftl
-    translation: browser/browser/zenNewWebPanel.ftl
   - source: en-US/browser/browser/preferences/zen-preferences.ftl
     translation: browser/browser/preferences/zen-preferences.ftl
