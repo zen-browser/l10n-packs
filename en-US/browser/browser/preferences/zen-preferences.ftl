@@ -10,15 +10,6 @@ zen-look-and-feel-colors-description = Make { -brand-short-name } look and feel 
 zen-look-and-feel-use-workspace-colors =
     .label = Use workspace colors as primary color
 
-pane-zen-side-panels-title = Side Web Panels
-zen-side-panels-header = General settings for web panels
-zen-side-panels-description = Increase productivity by having multiple views at once!
-zen-side-panels-enabled =
-    .label = Enable Web Side Panels
-
-zen-side-panels-close-on-blur =
-    .label = Close the panel when it loses focus if it's not pinned
-
 zen-vertical-tabs-layout-header = Browser Layout
 zen-vertical-tabs-layout-description = Choose the layout that suits you best
 
@@ -311,7 +302,6 @@ zen-workspace-shortcut-switch-9 = Switch to Workspace 9
 zen-workspace-shortcut-switch-10 = Switch to Workspace 10
 zen-workspace-shortcut-forward = Forward Workspace
 zen-workspace-shortcut-backward = Backward Workspace
-zen-web-panel-shortcut-toggle = Toggle Web Panel
 zen-sidebar-shortcut-toggle = Toggle Sidebar's Width
 zen-pinned-tab-shortcut-reset = Reset Pinned Tab to Pinned URL
 zen-split-view-shortcut-grid = Toggle Split View Grid
