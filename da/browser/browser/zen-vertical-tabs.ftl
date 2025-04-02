@@ -14,10 +14,8 @@ zen-toolbar-context-compact-mode-just-toolbar =
 zen-toolbar-context-compact-mode-hide-both = 
     .label = Skjul begge
     .accesskey = H
-sidebar-zen-sidepanel = 
-    .label = Sidepaneler
 sidebar-zen-expand = 
-    .label = Udvid sidepanel
+    .label = Udvid Sidepanel
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
