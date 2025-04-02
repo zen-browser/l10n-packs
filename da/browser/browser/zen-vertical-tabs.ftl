@@ -14,15 +14,13 @@ zen-toolbar-context-compact-mode-just-toolbar =
 zen-toolbar-context-compact-mode-hide-both = 
     .label = Skjul begge
     .accesskey = H
-sidebar-zen-sidepanel = 
-    .label = Sidepaneler
 sidebar-zen-expand = 
     .label = Udvid Sidepanel
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Unload and switch to tab
-           *[other] Unload { $tabCount } tabs and switch to the first
+            [one] Stop indlæsning og skift til fane
+           *[other] Stop indlæsning af { $tabCount } faner og skift til den første
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =

@@ -14,20 +14,18 @@ zen-toolbar-context-compact-mode-just-toolbar =
 zen-toolbar-context-compact-mode-hide-both = 
     .label = İkisini de Gizle
     .accesskey = H
-sidebar-zen-sidepanel = 
-    .label = Yan Panaller
 sidebar-zen-expand = 
     .label = Kenar Çubuğunu Genişlet
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Unload and switch to tab
-           *[other] Unload { $tabCount } tabs and switch to the first
+            [bir] Kapatın ve sekmeye geçin
+           *[other] { $tabCount } sekmelerini kaldırın ve ilkine geçin
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset and pin tab
-           *[other] Reset and pin { $tabCount } tabs
+            [bir] Sıfırlayın ve sabitleyin
+           *[other] { $tabCount } sekmelerini sıfırlayın ve sabitleyin
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = rlSabitlenen Url'ye dön

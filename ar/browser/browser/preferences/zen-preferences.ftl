@@ -6,13 +6,6 @@ zen-look-and-feel-colors-header = اختيار لون السمة
 zen-look-and-feel-colors-description = اجعل { -brand-short-name } تبدو و تشعر بالطريقة التي تحب بها
 zen-look-and-feel-use-workspace-colors = 
     .label = Use workspace colors as primary color
-pane-zen-side-panels-title = لوحات الويب الجانبية
-zen-side-panels-header = الإعدادات العامة لوحات الويب
-zen-side-panels-description = زيادة الإنتاجية من خلال تعدد وجهات النظر في وقت واحد!
-zen-side-panels-enabled = 
-    .label = تمكين اللوحات الجانبية
-zen-side-panels-close-on-blur = 
-    .label = إغلاق اللوحة عندما تفقد التركيز إذا لم يتم تثبيته
 zen-vertical-tabs-layout-header = Browser Layout
 zen-vertical-tabs-layout-description = Choose the layout that suits you best
 zen-layout-single-toolbar = Single toolbar
@@ -142,11 +135,6 @@ zen-dark-theme-styles-description = تخصيص السمة المظلمة لإع�
 zen-dark-theme-styles-amoled = السمة الليلية
 zen-dark-theme-styles-default = سمة الظلام الافتراضية
 zen-dark-theme-styles-colorful = سمة مظلمة ملونة
-zen-split-view-title = تقسيم العرض
-zen-split-view-header = تقسيم عرض الوظيفة
-zen-split-view-description = تقسيم المتصفح الخاص بك إلى عروض متعددة، مما مكنك من تصفح مواقع متعددة في وقت واحد
-zen-split-view-change-on-hover = 
-    .label = تغيير علامات التبويب عند التنفيس
 zen-compact-mode-styles-left = إخفاء شريط التبويب
 zen-compact-mode-styles-top = إخفاء أعلى شريط
 zen-compact-mode-styles-both = إخفاء كليهما
@@ -277,7 +265,6 @@ zen-workspace-shortcut-switch-9 = التبديل إلى مساحة العمل 9
 zen-workspace-shortcut-switch-10 = التبديل إلى مساحة العمل 10
 zen-workspace-shortcut-forward = إلى الأمام فضاء العمل
 zen-workspace-shortcut-backward = مساحة العمل الخلفية
-zen-web-panel-shortcut-toggle = تبديل لوحة الويب
 zen-sidebar-shortcut-toggle = تبديل عرض شريط العرض
 zen-pinned-tab-shortcut-reset = إعادة تعيين علامة التبويب المثبتة إلى عنوان URL المثبت
 zen-split-view-shortcut-grid = تبديل عرض تقسيم الشبكة
