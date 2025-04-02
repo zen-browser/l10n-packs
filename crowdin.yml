@@ -5,8 +5,6 @@ files:
     translation: browser/browser/zen-split-view.ftl
   - source: en-US/browser/browser/zen-vertical-tabs.ftl
     translation: browser/browser/zen-vertical-tabs.ftl
-  - source: en-US/browser/browser/zen-web-side-panels.ftl
-    translation: browser/browser/zen-web-side-panels.ftl
   - source: en-US/browser/browser/zen-welcome.ftl
     translation: browser/browser/zen-welcome.ftl
   - source: en-US/browser/browser/zen-workspaces.ftl
