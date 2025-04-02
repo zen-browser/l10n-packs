@@ -6,15 +6,6 @@ zen-look-and-feel-colors-header = Chọn màu chủ đề
 zen-look-and-feel-colors-description = Tùy chỉnh giao diện { -brand-short-name } theo cách của bạn
 zen-look-and-feel-use-workspace-colors = 
     .label = Dùng màu của khu vực làm việc như màu chính
-pane-zen-side-panels-title = Thanh bên của trang
-zen-side-panels-header = Cài đặt chung cho bảng điều khiển trang
-zen-side-panels-description = Tăng năng suất với nhiều chế độ xem cùng lúc!
-zen-side-panels-enabled = 
-    .label = Bật thanh bên của trang
-zen-side-panels-close-on-blur = 
-    .label =
-        Đóng bảng điều khiển khi mất tiêu điểm nếu
-         không được ghim
 zen-vertical-tabs-layout-header = Giao diện trình duyệt
 zen-vertical-tabs-layout-description = Chọn giao diện phù hợp với bạn nhất
 zen-layout-single-toolbar = Thanh công cụ tích hợp
@@ -274,7 +265,6 @@ zen-workspace-shortcut-switch-9 = Chuyển sang không gian làm việc 9
 zen-workspace-shortcut-switch-10 = Chuyển sang không gian làm việc 10
 zen-workspace-shortcut-forward = Không gian làm việc tiếp theo
 zen-workspace-shortcut-backward = Không gian làm việc trước
-zen-web-panel-shortcut-toggle = Bật trang bổ trợ
 zen-sidebar-shortcut-toggle = Điều chỉnh độ rộng thanh bên
 zen-pinned-tab-shortcut-reset = Reset Pinned Tab to Pinned URL
 zen-split-view-shortcut-grid = Bật viền chia trang
