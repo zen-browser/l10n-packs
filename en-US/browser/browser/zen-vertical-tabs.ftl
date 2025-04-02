@@ -18,8 +18,6 @@ zen-toolbar-context-compact-mode-hide-both =
     .label = Hide both
     .accesskey = H
 
-sidebar-zen-sidepanel =
-  .label = Side Panels
 sidebar-zen-expand =
   .label = Expand Sidebar
 
