@@ -1,8 +1,8 @@
 tab-zen-split-tabs = 
     .label =
         { $tabCount ->
-            [1] Onglet partagé (plusieurs onglets sélectionnés nécessaires)
-           *[other] Diviser { $tabCount } Onglets
+            [1] Fractionner (sélectionner plusieurs onglets)
+           *[other] Fractionner { $tabCount } onglets
         }
     .accesskey = S
 zen-split-link = 
