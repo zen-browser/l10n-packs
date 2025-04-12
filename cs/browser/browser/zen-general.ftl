@@ -32,15 +32,15 @@ zen-new-urlbar-notification =
     Zkuste otevřít novou kartu a podívejte se, jak funguje!
 zen-disable = Zavřít
 pictureinpicture-minimize-btn = 
-    .aria-label = Minimize
-    .tooltip = Minimize
+    .aria-label = Minimalizovat
+    .tooltip = Minimalizovat
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Vlastní barva
 zen-panel-ui-gradient-generator-saved-message = Gradient byl úspěšně uložen!
 zen-copy-current-url-confirmation = URL adresa byla zkopírována do schránky.
 zen-general-cancel = Zrušit
 zen-general-confirm = 
-    .label = Confirm
+    .label = Potvrdit
 zen-pinned-tab-replaced = Připnutá URL adresa panelu byla nahrazena aktuální URL adresou.
 zen-tabs-renamed = Panel byl úspěšně přejmenován!
 
