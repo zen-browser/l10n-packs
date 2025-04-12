@@ -38,40 +38,13 @@ zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Benutzerdefinierte Farbe
 zen-panel-ui-gradient-generator-saved-message = Verlauf erfolgreich gespeichert!
 zen-copy-current-url-confirmation = Die URL wurde in der Zwischenablage gespeichert.
-zen-rice-share-name = 
-    .placeholder = Rice Name
-zen-rice-share-author = Von
-zen-rice-share-author-input = 
-    .placeholder = Dein Name
 zen-general-cancel = Abbrechen
 zen-general-confirm = 
     .label = Bestätigen
-zen-rice-share-save = Teilen
-zen-rice-share-include-userchrome = 
-    .label = Nutze Zen Fensterstyle (userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = Nutze Webseitenstil (userContent.css)
-zen-rice-share-include-mods = 
-    .label = Nutze aktivierte Mods
-zen-rice-share-include-mod-prefs = 
-    .label = Nutze Mod-Einstellungen
-zen-rice-share-include-preferences = 
-    .label = Nutze Layouteinstellungen
-zen-rice-share-include-workspace-themes = 
-    .label = Arbeitsbereichs Farbverläufe einbinden
-zen-rice-share-success = Rice erfolgreich erstellt!
-zen-rice-share-success-link = Link zum Teilen von Rice
-zen-rice-share-accept = Akzeptieren
-zen-rice-share-notice = Bevor du teilst, bitte verstehe, was eine Rice ist
 zen-pinned-tab-replaced = Angepinnte Tab URL wurde mit aktueller URL ersetzt.
 zen-tabs-renamed = Tab wurde erfolgreich umbenannt!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    Eine Rice ist eine Sammlung von Anpassungen, die mit anderen geteilt werden kann.
-    Dazu gehören deine Fensterstile, Website-Stile, aktivierte Mods, Mod-Einstellungen, Layout-Präferenzen und Arbeitsbereichs-Verlaufsthemen.
-    Indem du eine Rice teilst, teilst du all diese Anpassungen mit anderen. Bitte sei achtsam, was du teilst.
+
 zen-learn-more-text = Mehr erfahren
-zen-rice-share-include = Exportoptionen
-appmenu-zen-share-rice = 
-    .label = Zen Rice Teilen
 zen-close-label = Schließen
