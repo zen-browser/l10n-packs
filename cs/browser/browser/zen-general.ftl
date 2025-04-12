@@ -38,40 +38,13 @@ zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Vlastní barva
 zen-panel-ui-gradient-generator-saved-message = Gradient byl úspěšně uložen!
 zen-copy-current-url-confirmation = URL adresa byla zkopírována do schránky.
-zen-rice-share-name = 
-    .placeholder = Název
-zen-rice-share-author = Od
-zen-rice-share-author-input = 
-    .placeholder = Vaše jméno
 zen-general-cancel = Zrušit
 zen-general-confirm = 
     .label = Confirm
-zen-rice-share-save = Sdílet
-zen-rice-share-include-userchrome = 
-    .label = Zahrnout styl prohlížeče Zen (userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = Zahrnout styly webových stránek (userContent.css)
-zen-rice-share-include-mods = 
-    .label = Zahrnout povolené módy
-zen-rice-share-include-mod-prefs = 
-    .label = Zahrnout rozložení
-zen-rice-share-include-preferences = 
-    .label = Zahrnout rozložení
-zen-rice-share-include-workspace-themes = 
-    .label = Zahrnout gradient pracovního prostoru
-zen-rice-share-success = Rice byl úspěšně vytvořen!
-zen-rice-share-success-link = Odkaz na sdílení Rice
-zen-rice-share-accept = Přijmout
-zen-rice-share-notice = Před sdílením si prosím přečtěte co Rice znamená
 zen-pinned-tab-replaced = Připnutá URL adresa panelu byla nahrazena aktuální URL adresou.
 zen-tabs-renamed = Panel byl úspěšně přejmenován!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    Rice jsou sbírky úprav, které mohou být sdíleny s ostatními. <br/>
-    Rice zahrnují styly Zenu, styly webových stránek, povolené módy, předvolby modů, předvolby rozvržení a vzhledy pracovišť. <br/>
-    Sdílením Rice sdílíte všechny tyto úpravy s ostatními. Mějte prosím na paměti, co sdílíte.
+
 zen-learn-more-text = Zjistit více
-zen-rice-share-include = Nastavení exportování
-appmenu-zen-share-rice = 
-    .label = Sdílet Zen Rice
 zen-close-label = Zavřít
