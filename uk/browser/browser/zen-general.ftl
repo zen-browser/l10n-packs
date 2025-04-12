@@ -38,40 +38,13 @@ zen-panel-ui-gradient-generator-opacity-text = Контрастність
 zen-panel-ui-gradient-generator-custom-color = Власний колір
 zen-panel-ui-gradient-generator-saved-message = Градієнт успішно збережено!
 zen-copy-current-url-confirmation = URL-адресу було скопійовано до буфера обміну.
-zen-rice-share-name = 
-    .placeholder = Назва
-zen-rice-share-author = від
-zen-rice-share-author-input = 
-    .placeholder = Ваше імя
 zen-general-cancel = Скасувати
 zen-general-confirm = 
     .label = Підтвердити
-zen-rice-share-save = Поділитися
-zen-rice-share-include-userchrome = 
-    .label = Включити стилі вікон Zen (userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = Включити стилі вебсайта (userContent.css)
-zen-rice-share-include-mods = 
-    .label = Включити ввімкнені моди
-zen-rice-share-include-mod-prefs = 
-    .label = Включити параметри модів
-zen-rice-share-include-preferences = 
-    .label = Включити налаштування макета
-zen-rice-share-include-workspace-themes = 
-    .label = Включити теми градієнта робочого простору
-zen-rice-share-success = Rice успішно створено!
-zen-rice-share-success-link = Поділитися посиланням Rice
-zen-rice-share-accept = Прийняти
-zen-rice-share-notice = Перш ніж ділитися, зрозумійте, що таке Rice
 zen-pinned-tab-replaced = URL-адресу закріпленої вкладки замінено на поточну URL-адресу.
 zen-tabs-renamed = Вкладку успішно перейменовано!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    Rice — це колекція налаштувань, якими можна ділитися з іншими.<br/>
-    Сюди входять стилі вікон, стилі вебсайтів, увімкнені модифікації, налаштування модифікацій, налаштування макетів і теми градієнта робочого простору.<br/>
-    Ділячись Rice, ви ділитеся всіма цими налаштуваннями з іншими користувачами. Пам'ятайте про те, чим ви ділитеся.
+
 zen-learn-more-text = Дізнатися більше
-zen-rice-share-include = Налаштування експорту
-appmenu-zen-share-rice = 
-    .label = Поділитися Zen Rice
 zen-close-label = Закрити
