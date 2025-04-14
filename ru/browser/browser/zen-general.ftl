@@ -1,5 +1,5 @@
 zen-panel-ui-current-profile-text = текущий профиль
-unified-extensions-description = Расширения добавляют дополнительный функционал в { -brand-short-name }.
+unified-extensions-description = Расширения дополняют функционал { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
     .label = Сбросить закреплённую вкладку
     .accesskey = R
