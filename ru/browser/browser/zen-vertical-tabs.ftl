@@ -16,7 +16,7 @@ zen-toolbar-context-compact-mode-hide-both =
     .accesskey = Н
 zen-toolbar-context-new-folder = 
     .label = Новая папка
-    .accesskey = Р
+    .accesskey = Т
 sidebar-zen-expand = 
     .label = Развернуть боковую панель
 tabbrowser-unload-tab-button = 
@@ -31,4 +31,4 @@ tabbrowser-reset-pin-button =
             [one] Сбросить и закрепить вкладку
            *[other] Сбросить и закрепить { $tabCount } вкладки(-ок)
         }
-tab-reset-pin-label = Вернуться к закрепленному адресу
+tab-reset-pin-label = Вернуться к закреплённому адресу
