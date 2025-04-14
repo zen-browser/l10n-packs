@@ -13,19 +13,19 @@ tab-context-zen-replace-pinned-url-with-current =
     .label = Angepinnte URL durch aktuelle ersetzen
     .accesskey = C
 tab-zen-unload = 
-    .label = Tab-Speicher freigeben
+    .label = Tab entladen
     .accesskey = H
 zen-tabs-unloader-tab-actions = 
     .label = Tabs Entlader Aktionen
     .accesskey = T
 tab-zen-prevent-unload = 
-    .label = Tab-Speicherfreigabe verhindern
+    .label = Entladen des Tabs verhindern
     .accesskey = P
 tab-zen-ignore-unload = 
-    .label = Tab-Speicherfreigabe erlauben
+    .label = Entladen des Tabs erlauben
     .accesskey = I
-zen-themes-corrupted = Ihre { -brand-short-name } Mods Datei ist beschädigt. Sie wurden auf das Standard-Template zurückgesetzt.
-zen-shortcuts-corrupted = Deine { -brand-short-name }-Verknüpfungsdatei ist beschädigt. Sie wurde auf die Standard-Verknüpfungen zurückgesetzt.
+zen-themes-corrupted = Deine { -brand-short-name } Mod Datei wurde beschädigt. Sie wurde auf das Standard-Design zurückgesetzt.
+zen-shortcuts-corrupted = Deine { -brand-short-name } Tastenkombinationsdatei ist beschädigt. Sie wurde auf die Standard-Tastenkombinationen zurückgesetzt.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
     Die neue URL-Leiste wurde aktiviert, sodass neue Tab-Seiten nicht mehr erforderlich sind.<br/><br/>
