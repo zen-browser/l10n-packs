@@ -24,7 +24,7 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Разрешить выгрузку вкладок
     .accesskey = I
-zen-themes-corrupted = Файл модов { -brand-short-name } повреждён. Возвращена тема по умолчанию.
+zen-themes-corrupted = Файл с дополнениями { -brand-short-name } повреждён. Возвращена тема по умолчанию.
 zen-shortcuts-corrupted = Файл комбинаций клавиш { -brand-short-name } повреждён. Возвращены комбинации клавиш по умолчанию.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
