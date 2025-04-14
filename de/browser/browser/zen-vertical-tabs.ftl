@@ -1,6 +1,6 @@
 zen-toolbar-context-tabs-right = 
-    .label = Tabs rechts
-    .accesskey = L
+    .label = Tabs auf der rechten Seite
+    .accesskey = R
 zen-toolbar-context-compact-mode = 
     .label = Kompaktmodus
     .accesskey = C
@@ -18,11 +18,11 @@ zen-toolbar-context-new-folder =
     .label = Neuer Ordner
     .accesskey = N
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Seitenleiste erweitern
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Entladen zum Tab wechseln
+            [one] Entladen und wechsle zum Tab
            *[other] Entlade { $tabCount } Tabs und wechsle zum ersten
         }
 tabbrowser-reset-pin-button = 
