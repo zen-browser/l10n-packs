@@ -1,34 +1,34 @@
 zen-toolbar-context-tabs-right = 
-    .label = Tabs on the right
+    .label = Pestanyes a la dreta
     .accesskey = R
 zen-toolbar-context-compact-mode = 
-    .label = Compact mode
+    .label = Mode compacte
     .accesskey = C
 zen-toolbar-context-compact-mode-enable = 
-    .label = Enable compact mode
+    .label = Habilita el mode compacte
     .accesskey = D
 zen-toolbar-context-compact-mode-just-tabs = 
-    .label = Hide sidebar
+    .label = Amaga la barra lateral
 zen-toolbar-context-compact-mode-just-toolbar = 
-    .label = Hide toolbar
+    .label = Amaga la barra d'eines
 zen-toolbar-context-compact-mode-hide-both = 
-    .label = Hide both
+    .label = Amaga les dues
     .accesskey = H
 zen-toolbar-context-new-folder = 
-    .label = New folder
+    .label = Carpeta nova
     .accesskey = N
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Expandeix la barra lateral
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Unload and switch to tab
-           *[other] Unload { $tabCount } tabs and switch to the first
+            [one] Hiberna i canvia la pestanya
+           *[other] Hiberna { $tabCount } pestanyes i canvia a la primera
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset and pin tab
-           *[other] Reset and pin { $tabCount } tabs
+            [one] Restableix i fixa la pestanya
+           *[other] Restableix i fixa les { $tabCount } pestanyes
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = Torna a l'URL fixat
