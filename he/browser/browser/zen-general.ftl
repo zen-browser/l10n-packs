@@ -38,40 +38,13 @@ zen-panel-ui-gradient-generator-opacity-text = ניגודיות
 zen-panel-ui-gradient-generator-custom-color = צבע מותאם אישית
 zen-panel-ui-gradient-generator-saved-message = מיזוג הצבעים נשמר בהצלחה!
 zen-copy-current-url-confirmation = הקישור הועתק ללוח.
-zen-rice-share-name = 
-    .placeholder = שם ערכת נושא
-zen-rice-share-author = על ידי
-zen-rice-share-author-input = 
-    .placeholder = השם שלך
 zen-general-cancel = ביטול
 zen-general-confirm = 
     .label = אישור
-zen-rice-share-save = שיתוף
-zen-rice-share-include-userchrome = 
-    .label = כלול סגנונות חלון Zen (קובץ userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = כלול סגנונות חלון (קובץ userChrome.css)
-zen-rice-share-include-mods = 
-    .label = כלול מודים דלוקים
-zen-rice-share-include-mod-prefs = 
-    .label = כלול הגדרות מודים
-zen-rice-share-include-preferences = 
-    .label = כלול העדפות סידור חלון
-zen-rice-share-include-workspace-themes = 
-    .label = כלול עיצובי מיזוג צבעים של סביבות העבודה
-zen-rice-share-success = ערכת נושא נוצרה בהצלחה!
-zen-rice-share-success-link = קישור לשיתוף ערכת נושא
-zen-rice-share-accept = אישור
-zen-rice-share-notice = רגע לפני שמשתפים, חשוב להבין מה היא ערכת נושא
 zen-pinned-tab-replaced = קישור כרטיסייה מוצמדת הוחלפה עם הקישור הנוכחי.
 zen-tabs-renamed = שם הכרטיסייה שונתה בהצלחה!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    ערכת נושא היא חבילה של התאמות אישיות שניתנת לשיתוף על אחרים.<br/>
-    היא כוללת עיצובי חלון, עיצובי אתר, מודים פעילים, הגדרות מודים, הגדרות סידור חלון, ועיצובי מיזוג צבעים של סביבות העבודה.<br/>
-    על ידי שיתוף ערכת נושא, מתבצע שיתוף של כל ההתאמות האישיות הללו. נא לשים לב למה שמשתפים.
+
 zen-learn-more-text = מידע נוסף
-zen-rice-share-include = אפשרויות ייצוא
-appmenu-zen-share-rice = 
-    .label = שיתוף ערכת נושא Zen
 zen-close-label = סגור

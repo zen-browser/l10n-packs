@@ -38,40 +38,13 @@ zen-panel-ui-gradient-generator-opacity-text = Kontraszt
 zen-panel-ui-gradient-generator-custom-color = Egyedi szín
 zen-panel-ui-gradient-generator-saved-message = Színátmenet sikeresen mentve!
 zen-copy-current-url-confirmation = Az URL-cím a vágólapra lett másolva.
-zen-rice-share-name = 
-    .placeholder = Rice név
-zen-rice-share-author = Szerző
-zen-rice-share-author-input = 
-    .placeholder = Neved
 zen-general-cancel = Mégsem
 zen-general-confirm = 
     .label = Megerősítés
-zen-rice-share-save = Megosztás
-zen-rice-share-include-userchrome = 
-    .label = Zen ablak stílusok belefoglalása (userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = Weboldal stílusainak belefoglalása (userContent.css)
-zen-rice-share-include-mods = 
-    .label = Engedélyezett modok belefoglalása
-zen-rice-share-include-mod-prefs = 
-    .label = Beleértve a mod beállításokat
-zen-rice-share-include-preferences = 
-    .label = Elrendezési beállítások belefoglalása
-zen-rice-share-include-workspace-themes = 
-    .label = Munkakörnyezet gradiens témák belefoglalása
-zen-rice-share-success = Sikeresen létrehozott egy Rice-t!
-zen-rice-share-success-link = Rice megosztási link
-zen-rice-share-accept = Elfogadás
-zen-rice-share-notice = Mielőtt megosztanád, kérlek, értsd meg, mi a Rice
 zen-pinned-tab-replaced = A rögzített lap URL címe helyébe az aktuális URL cím lépett.
 zen-tabs-renamed = A lap sikeresen át lett nevezve!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    A Rice a testreszabások gyűjteménye, amelyet meg lehet osztani másokkal.<br/>
-    Ide tartoznak az ablakstílusok, a weboldal stílusok, az engedélyezett modok, a modok beállításai, az elrendezési beállítások és a munkakörnyezet gradiens témái.<br/>
-    A Rice megosztásával mindezen testreszabásokat megosztja másokkal. Kérjük, legyen tekintettel arra, hogy mit oszt meg.
+
 zen-learn-more-text = Tudjon meg többet
-zen-rice-share-include = Exportálási beállítások
-appmenu-zen-share-rice = 
-    .label = Zen Rice megosztása
 zen-close-label = Bezárás

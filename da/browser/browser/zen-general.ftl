@@ -38,40 +38,13 @@ zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Brugerdefineret Farve
 zen-panel-ui-gradient-generator-saved-message = Gradienten blev gemt!
 zen-copy-current-url-confirmation = URL'en blev kopieret til udklipsholderen.
-zen-rice-share-name = 
-    .placeholder = Rice-navn
-zen-rice-share-author = Af
-zen-rice-share-author-input = 
-    .placeholder = Dit Navn
 zen-general-cancel = Annuller
 zen-general-confirm = 
     .label = Bekræft
-zen-rice-share-save = Del
-zen-rice-share-include-userchrome = 
-    .label = Inkluder Zen-vinduestile (userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = Inkluder hjemmesidestile (userContent.css)
-zen-rice-share-include-mods = 
-    .label = Inkluder aktiverede mods
-zen-rice-share-include-mod-prefs = 
-    .label = Inkluder mod-indstillinger
-zen-rice-share-include-preferences = 
-    .label = Inkluder layoutindstillinger
-zen-rice-share-include-workspace-themes = 
-    .label = Inkluder gradienttemaer for arbejdsområde
-zen-rice-share-success = En Rice blev oprettet!
-zen-rice-share-success-link = Delingslink til Rice
-zen-rice-share-accept = Accepter
-zen-rice-share-notice = Før du deler, skal du forstå, hvad en Rice er
 zen-pinned-tab-replaced = Den fastgjorte fane-URL blev erstattet med den aktuelle.
 zen-tabs-renamed = Fanen blev omdøbt!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    En Rice er en samling af tilpasninger, der kan deles med andre.<br/>
-    Dette omfatter dine vinduestile, hjemmesidestile, aktiverede mods, modindstillinger, layoutindstillinger og gradienttemaer for arbejdsområde.<br/>
-    Ved at dele en Rice deler du alle disse tilpasninger med andre. Vær derfor opmærksom på, hvad du deler.
+
 zen-learn-more-text = Lær mere
-zen-rice-share-include = Eksportindstillinger
-appmenu-zen-share-rice = 
-    .label = Del Zen-Rice
 zen-close-label = Luk

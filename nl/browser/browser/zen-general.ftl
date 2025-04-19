@@ -38,40 +38,13 @@ zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-custom-color = Aangepaste kleur
 zen-panel-ui-gradient-generator-saved-message = Gradient is succesvol opgeslagen!
 zen-copy-current-url-confirmation = De URL is gekopieerd naar het klembord.
-zen-rice-share-name = 
-    .placeholder = Rice naam
-zen-rice-share-author = Door
-zen-rice-share-author-input = 
-    .placeholder = Je naam
 zen-general-cancel = Annuleren
 zen-general-confirm = 
     .label = Bevestigen
-zen-rice-share-save = Delen
-zen-rice-share-include-userchrome = 
-    .label = Zen vensterstijlen opnemen (userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = Websitestijlen opnemen (userContent.css)
-zen-rice-share-include-mods = 
-    .label = Ingeschakelde mods opnemen
-zen-rice-share-include-mod-prefs = 
-    .label = Mod voorkeuren opnemen
-zen-rice-share-include-preferences = 
-    .label = Lay-out voorkeuren opnemen
-zen-rice-share-include-workspace-themes = 
-    .label = Werkruimte gradient-thema's opnemen
-zen-rice-share-success = Succesvol een Rice aangemaakt!
-zen-rice-share-success-link = Rice deellink
-zen-rice-share-accept = Accepteren
-zen-rice-share-notice = Voordat je dit deelt, moet je begrijpen wat een Rice is
 zen-pinned-tab-replaced = URL van vastgemaakte tabbladen is vervangen door de huidige URL.
 zen-tabs-renamed = Tabblad is succesvol hernoemd!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    Een Rice is een verzameling aanpassingen die je met anderen kunt delen.<br/>
-    Dit bevat je vensterstijlen, websitestijlen, ingeschakelde mods, mod voorkeuren, lay-out voorkeuren en werkruimte gradiënt-thema's.<br/>
-    Door een Rice te delen, deel je al deze aanpassingen met anderen. Wees je bewust van wat je deelt.
+
 zen-learn-more-text = Meer leren
-zen-rice-share-include = Opties exporteren
-appmenu-zen-share-rice = 
-    .label = Zen Rice delen
 zen-close-label = Sluiten

@@ -32,46 +32,19 @@ zen-new-urlbar-notification =
     Coba buka tab baru untuk melihat bilah URL baru beraksi!
 zen-disable = Nonaktifkan
 pictureinpicture-minimize-btn = 
-    .aria-label = Minimize
-    .tooltip = Minimize
+    .aria-label = Minimalkan
+    .tooltip = Minimalkan
 zen-panel-ui-gradient-generator-opacity-text = Kontras
 zen-panel-ui-gradient-generator-custom-color = Warna Kustom
 zen-panel-ui-gradient-generator-saved-message = Berhasil menyimpan gradien!
 zen-copy-current-url-confirmation = URL telah disalin ke clipboard.
-zen-rice-share-name = 
-    .placeholder = Nama Rice
-zen-rice-share-author = Oleh
-zen-rice-share-author-input = 
-    .placeholder = Nama Anda
 zen-general-cancel = Batal
 zen-general-confirm = 
-    .label = Confirm
-zen-rice-share-save = Bagikan
-zen-rice-share-include-userchrome = 
-    .label = Sertakan gaya jendela zen (userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = Sertakan gaya situs web (userContent.css)
-zen-rice-share-include-mods = 
-    .label = Sertakan mod yang diaktifkan
-zen-rice-share-include-mod-prefs = 
-    .label = Sertakan preferensi mod
-zen-rice-share-include-preferences = 
-    .label = Sertakan preferensi tata letak
-zen-rice-share-include-workspace-themes = 
-    .label = Sertakan tema gradasi ruang kerja
-zen-rice-share-success = Berhasil membuat Rice!
-zen-rice-share-success-link = Tautan berbagi Rice
-zen-rice-share-accept = Terima
-zen-rice-share-notice = Sebelum berbagi, harap pahami apa itu Rice
+    .label = Konfirmasi
 zen-pinned-tab-replaced = URL tab yang disematkan telah diganti dengan URL saat ini.
 zen-tabs-renamed = Tab telah berhasil diubah namanya!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    Rice adalah kumpulan kustomisasi yang dapat dibagikan dengan orang lain.<br/>
-    Ini mencakup gaya jendela Anda, gaya situs web, mod yang diaktifkan, preferensi mod, preferensi tata letak, dan tema gradasi ruang kerja.<br/>
-    Dengan membagikan sebuah Rice, Anda membagikan semua kustomisasi ini dengan orang lain. Harap berhati-hati dengan apa yang Anda bagikan. Selamat memasak!
+
 zen-learn-more-text = Pelajari Lebih Lanjut
-zen-rice-share-include = Opsi Ekspor
-appmenu-zen-share-rice = 
-    .label = Bagikan Zen Rice
 zen-close-label = Tutup
