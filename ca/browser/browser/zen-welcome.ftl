@@ -2,24 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-zen-welcome-title-line1 = Welcome to
-zen-welcome-title-line2 = a calmer internet
-zen-welcome-import-title = A Fresh Start, Same Bookmarks
-zen-welcome-import-description-1 = Your bookmarks, history, and passwords are like a trail of breadcrumbs through the internet—don’t leave them behind!
-zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
-zen-welcome-import-button = Import now
-zen-welcome-set-default-browser = Set { -brand-short-name } as your default browser
-zen-welcome-dont-set-default-browser = DON’T set { -brand-short-name } as your default browser
-zen-welcome-initial-essentials-title = Your Key Tabs, Always Within Reach
-zen-welcome-initial-essentials-description-1 = Keep your most important tabs easily accessible and always at hand, no matter how many you open.
-zen-welcome-initial-essentials-description-2 = Essential tabs are always visible, no matter what workspace you are in.
-zen-welcome-workspace-colors-title = Your Workspaces, Your Colors
-zen-welcome-workspace-colors-description = Personalize your browser by giving each workspace its own unique color identity.
+zen-welcome-title-line1 = Us donem la benvingut
+zen-welcome-title-line2 = a un internet més tranquil
+zen-welcome-import-title = Un nou començament, els mateixos marcadors
+zen-welcome-import-description-1 = Els vostres marcadors, historial i contrasenyes són com un rastre de molles de pa a través d'Internet: no les deixis enrere!
+zen-welcome-import-description-2 = Porteu-los fàcilment des d'un altre navegador i repreneu exactament on ho vau deixar.
+zen-welcome-import-button = Importa ara
+zen-welcome-set-default-browser = Estableix el { -brand-short-name } com a navegador per defecte
+zen-welcome-dont-set-default-browser = NO estableixis el { -brand-short-name } com a navegador per defecte
+zen-welcome-initial-essentials-title = Les vostres pestanyes essencials, sempre a mà
+zen-welcome-initial-essentials-description-1 = Manteniu les vostres pestanyes més importants fàcilment accessibles i sempre a mà, per molt que n'obris.
+zen-welcome-initial-essentials-description-2 = Les pestanyes essencials sempre són visibles, independentment de l'espai de treball on us trobeu.
+zen-welcome-workspace-colors-title = Els vostres espais de treball, els vostres colors
+zen-welcome-workspace-colors-description = Personalitzeu el vostre navegador donant a cada espai de treball la seva pròpia identitat de color única.
 zen-welcome-start-browsing-title =
-    All set?<br/>
-    Let’s get rolling!
-zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
-zen-welcome-start-browsing = Dive in!
-zen-welcome-skip-button = Skip
-zen-welcome-next-action = Next
-zen-welcome-finished = Your Zen has been set up correctly!
+    Tot a punt?<br/>
+    Som-hi!
+zen-welcome-start-browsing-description-1 = Ja esteu llestos i preparats per començar. Feu clic al botó següent per començar a navegar amb el { -brand-short-name }.
+zen-welcome-start-browsing = Som-hi!
+zen-welcome-skip-button = Omet
+zen-welcome-next-action = Següent
+zen-welcome-finished = El Zen s'ha configurat correctament!
