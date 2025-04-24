@@ -135,6 +135,7 @@ zen-theme-marketplace-remove-button =
     .label = Remove mod
 zen-theme-marketplace-remove-all-mods =
   .label = Remove all mods
+zen-theme-marketplace-remove-all-confirmation = Are you sure you want to remove all mods?
 zen-theme-marketplace-check-for-updates-button =
     .label = Check for Updates
 zen-theme-marketplace-updates-success = Mods updated successfully
