@@ -40,7 +40,7 @@ zen-panel-ui-gradient-generator-saved-message = Värviüleminek on edukalt salve
 zen-copy-current-url-confirmation = URL kopeeriti lõikelauale.
 zen-general-cancel = Tühista
 zen-general-confirm = 
-    .label = Confirm
+    .label = Kinnita
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
 zen-tabs-renamed = Tab has been successfully renamed!
 
