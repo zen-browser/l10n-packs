@@ -1,5 +1,5 @@
 zen-toolbar-context-tabs-right = 
-    .label = Guias à direita
+    .label = Abas à direita
     .accesskey = R
 zen-toolbar-context-compact-mode = 
     .label = Modo compacto
@@ -8,14 +8,17 @@ zen-toolbar-context-compact-mode-enable =
     .label = Ativar modo compacto
     .accesskey = D
 zen-toolbar-context-compact-mode-just-tabs = 
-    .label = Hide sidebar
+    .label = Ocultar barra lateral
 zen-toolbar-context-compact-mode-just-toolbar = 
     .label = Ocultar barra de ferramentas
 zen-toolbar-context-compact-mode-hide-both = 
     .label = Esconder os dois
     .accesskey = A
+zen-toolbar-context-new-folder = 
+    .label = Nova pasta
+    .accesskey = N
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Expandir barra lateral
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->

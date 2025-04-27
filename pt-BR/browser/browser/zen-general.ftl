@@ -38,40 +38,13 @@ zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-custom-color = Cor personalizada
 zen-panel-ui-gradient-generator-saved-message = Degradê salvo com sucesso!
 zen-copy-current-url-confirmation = A URL foi copiada para a área de transferência.
-zen-rice-share-name = 
-    .placeholder = Nome do Rice
-zen-rice-share-author = Por
-zen-rice-share-author-input = 
-    .placeholder = Seu Nome
 zen-general-cancel = Cancelar
 zen-general-confirm = 
     .label = Confirme
-zen-rice-share-save = Compartilhar
-zen-rice-share-include-userchrome = 
-    .label = Incluir os estilos de janela Zen (userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = Incluir estilos do site (userContent.css)
-zen-rice-share-include-mods = 
-    .label = Incluir mods habilitados
-zen-rice-share-include-mod-prefs = 
-    .label = Incluir preferências do mod
-zen-rice-share-include-preferences = 
-    .label = Incluir preferências de layout
-zen-rice-share-include-workspace-themes = 
-    .label = Incluir temas degradês no espaço de trabalho
-zen-rice-share-success = Rice criado com sucesso!
-zen-rice-share-success-link = Link de Compartilhamento do Rice
-zen-rice-share-accept = Aceitar
-zen-rice-share-notice = Antes de compartilhar, por favor entenda o que é um Rice
 zen-pinned-tab-replaced = A URL da guia fixada foi substituída pela URL atual.
 zen-tabs-renamed = Guia renomeada com sucesso!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    Um Rice é uma coleção de personalizações que podem ser compartilhadas com outras pessoas.<br/>
-    Isso inclui os estilos da sua janela, estilos de sites, mods habilitados, preferências de mods, preferências de layout e temas degradês do espaço de trabalho.<br/>
-    Ao compartilhar um Rice, você está compartilhando todas essas personalizações com outras pessoas. Por favor, tenha cuidado com o que você compartilha.
+
 zen-learn-more-text = Saiba Mais
-zen-rice-share-include = Opções de Exportação
-appmenu-zen-share-rice = 
-    .label = Compartilhar Zen Rice
 zen-close-label = Fechar

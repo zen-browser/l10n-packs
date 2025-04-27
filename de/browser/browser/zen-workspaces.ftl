@@ -1,4 +1,4 @@
-zen-panel-ui-workspaces-text = Andere Arbeitsbereiche
+zen-panel-ui-workspaces-text = Arbeitsbereiche
 zen-panel-ui-workspaces-create-text = Arbeitsbereich erstellen
 zen-panel-ui-workspaces-create-save = 
     .label = Arbeitsbereich erstellen
@@ -24,9 +24,9 @@ zen-workspaces-panel-context-set-default =
     .accesskey = S
 zen-workspaces-panel-context-edit = 
     .label = Arbeitsbereich bearbeiten
-    .accesskey = G
+    .accesskey = E
 context-zen-change-workspace-tab = 
-    .label = Tab(s) zu Arbeitsbereich ändern
+    .label = Tab(s) zu Arbeitsbereich verschieben
     .accesskey = C
 zen-workspaces-panel-context-open-in-container-tab = 
     .label = Standard-Container festlegen

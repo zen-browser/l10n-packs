@@ -19,7 +19,7 @@ zen-welcome-start-browsing-title =
     Всё настроили?<br/>
     Погружайтесь!
 zen-welcome-start-browsing-description-1 = Всё настроено и готово к работе. Нажмите кнопку ниже, чтобы начать искать с { -brand-short-name }.
-zen-welcome-start-browsing = Погрузиться
+zen-welcome-start-browsing = Погрузиться!
 zen-welcome-skip-button = Пропустить
 zen-welcome-next-action = Продолжить
 zen-welcome-finished = Zen настроен правильно!

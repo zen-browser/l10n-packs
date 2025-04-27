@@ -38,40 +38,13 @@ zen-panel-ui-gradient-generator-opacity-text = Mótsetning
 zen-panel-ui-gradient-generator-custom-color = Sérsniðinn litur
 zen-panel-ui-gradient-generator-saved-message = Vistað hallann!
 zen-copy-current-url-confirmation = Slóðin hefur verið afrituð á klippiborðið.
-zen-rice-share-name = 
-    .placeholder = Hrísgrjónsnafn
-zen-rice-share-author = Af
-zen-rice-share-author-input = 
-    .placeholder = Þitt Nafn
 zen-general-cancel = Hætta við
 zen-general-confirm = 
     .label = Confirm
-zen-rice-share-save = Deila
-zen-rice-share-include-userchrome = 
-    .label = Fela í sér Zen-gluggastíla (userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = Fela í sér vefsíðustíl (userContent.css)
-zen-rice-share-include-mods = 
-    .label = Fela í sér virkjaðar breytingar
-zen-rice-share-include-mod-prefs = 
-    .label = Fela í sér breyingarvöl
-zen-rice-share-include-preferences = 
-    .label = Include layout preferences
-zen-rice-share-include-workspace-themes = 
-    .label = Include workspace gradient themes
-zen-rice-share-success = Successfully created a Rice!
-zen-rice-share-success-link = Rice Share Link
-zen-rice-share-accept = Samþykkja
-zen-rice-share-notice = Before sharing, please understand what a Rice is
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
 zen-tabs-renamed = Tab has been successfully renamed!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    Hrísgrjón er safn sérsniðna sem hægt er að deila með öðrum.<br/>
-    Þetta felur í sér gluggastíla þína, vefsíðustíla, virkjaða stillingar, stillingarstillingar, útlitsvalkosti og vinnusvæðishallaþemu.<br/>
-    Með því að deila hrísgrjónum ertu að deila öllum þessum sérstillingum með öðrum. Vinsamlegast hafðu í huga hvað þú deilir.
+
 zen-learn-more-text = Læra Meira
-zen-rice-share-include = Fylgja út Valmöguleika
-appmenu-zen-share-rice = 
-    .label = Share Zen Rice
 zen-close-label = Loka

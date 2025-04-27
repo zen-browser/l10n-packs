@@ -38,40 +38,13 @@ zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Özel Renk
 zen-panel-ui-gradient-generator-saved-message = Renkler başarıyla kaydedildi!
 zen-copy-current-url-confirmation = URL panoya kopyalandı.
-zen-rice-share-name = 
-    .placeholder = Rice Adı
-zen-rice-share-author = tarafından
-zen-rice-share-author-input = 
-    .placeholder = Adınız
 zen-general-cancel = İptal Et
 zen-general-confirm = 
     .label = Onayla
-zen-rice-share-save = Paylaş
-zen-rice-share-include-userchrome = 
-    .label = Zen pencere stillerini dahil et (userChrome.css)
-zen-rice-share-include-usercontent = 
-    .label = Website stillerini dahil et (userContent.css)
-zen-rice-share-include-mods = 
-    .label = Aktif modları dahil et
-zen-rice-share-include-mod-prefs = 
-    .label = Mod ayarlarını dahil et
-zen-rice-share-include-preferences = 
-    .label = Düzen tercihlerini dahil et
-zen-rice-share-include-workspace-themes = 
-    .label = Çalışma alanı degrade temalarını dahil et
-zen-rice-share-success = Rice başarıyla oluşturuldu.
-zen-rice-share-success-link = Rice Paylaşma Linki
-zen-rice-share-accept = Kabul et
-zen-rice-share-notice = Paylaşmadan önce, lütfen bir Rice'ın ne olduğunu iyi anlayın
 zen-pinned-tab-replaced = Başa tutturulmuş sekme URL'si, şimdiki URL ile değiştirildi.
 zen-tabs-renamed = Sekme başarıyla yeniden adlandırıldı!
+
 # note: Do not translate the "<br/>" tags in the following string
-zen-rice-share-notice-description =
-    Bir Rice, başkalarıyla paylaşılabilen bir özelleştirme koleksiyonudur.<br/>
-    Buna pencere stilleriniz, web sitesi stilleriniz, etkin modlarınız, mod tercihlerinizi, düzen tercihlerinizi ve çalışma alanı gradyan temalarınız dahildir.<br/>
-    Bir Rice paylaştığınızda, tüm bu özelleştirmeleri başkalarıyla paylaşmış olursunuz. Lütfen ne paylaştığınıza dikkat edin.
+
 zen-learn-more-text = Daha Fazla Bilgi
-zen-rice-share-include = Dışa Aktarma Seçenekleri
-appmenu-zen-share-rice = 
-    .label = Zen Rice'ını Paylaş
 zen-close-label = Kapat
