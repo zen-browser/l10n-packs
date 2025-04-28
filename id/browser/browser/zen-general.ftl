@@ -24,7 +24,7 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Izinkan Pelepasan Tab
     .accesskey = I
-zen-themes-corrupted = Tidak dapat memuat file mod { -brand-short-name } Anda karena rusakan. File tersebut telah diatur ulang ke tema default.
+zen-themes-corrupted = Tidak dapat memuat file tema { -brand-short-name } Anda karena rusak. File tersebut telah diatur ulang ke tema default.
 zen-shortcuts-corrupted = File pintasan { -brand-short-name } Anda rusak. Mereka telah diatur ulang ke pintasan default.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
