@@ -20,6 +20,8 @@ zen-welcome-start-browsing-title =
     Vamos começar!
 zen-welcome-start-browsing-description-1 = Você está pronto para começar. Clique no botão abaixo para começar a navegar com { -brand-short-name }.
 zen-welcome-start-browsing = Vamos nessa!
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
 zen-welcome-skip-button = Vamos nessa!
 zen-welcome-next-action = Avançar
 zen-welcome-finished = Seu Zen foi configurado corretamente!
