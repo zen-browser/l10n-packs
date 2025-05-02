@@ -20,8 +20,8 @@ zen-welcome-start-browsing-title =
     이제 시작합시다!
 zen-welcome-start-browsing-description-1 = 브라우저가 준비되었습니다. 아래 버튼을 눌러 { -brand-short-name }과 브라우징을 시작하세요.
 zen-welcome-start-browsing = 들어가기!
-zen-welcome-default-search-title = Your Default Search Engine
-zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-default-search-title = 기본 검색 엔진
+zen-welcome-default-search-description = 기본 검색 엔진을 선택하세요. 나중에 언제든지 바꿀 수 있습니다!
 zen-welcome-skip-button = 건너뛰기
 zen-welcome-next-action = 다음
 zen-welcome-finished = Zen이 정상적으로 설정되었습니다!
