@@ -20,6 +20,8 @@ zen-welcome-start-browsing-title =
     Bắt đầu thôi nào!
 zen-welcome-start-browsing-description-1 = Mọi thứ đã sẵn sàng. Nhấn nút bên dưới để bắt đầu lướt web với { -brand-short-name }.
 zen-welcome-start-browsing = Bắt đầu nào!
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
 zen-welcome-skip-button = Bỏ qua
 zen-welcome-next-action = Tiếp theo
 zen-welcome-finished = Trình duyệt của bạn đã được thiết lập thành công!

@@ -20,6 +20,8 @@ zen-welcome-start-browsing-title =
     הגיע הזמן להתחיל!
 zen-welcome-start-browsing-description-1 = הכל מוגדר מוכן להתחלה. לחיצה על הכפתור למטה כדי להתחיל לגלוש עם { -brand-short-name }.
 zen-welcome-start-browsing = יאללה בלאגן!
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
 zen-welcome-skip-button = דלג
 zen-welcome-next-action = הבא
 zen-welcome-finished = הZen שלך הוגדר בהצלחה!

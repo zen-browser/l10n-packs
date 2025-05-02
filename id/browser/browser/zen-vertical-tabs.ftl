@@ -21,14 +21,14 @@ sidebar-zen-expand =
     .label = Perluas Bilah Sisi
 tabbrowser-unload-tab-button = 
     .tooltiptext =
-        {$tabCount ->
+        { $tabCount ->
             [one] muat ulang dan pindah ke tab
            *[other] Muat ulang  { $tabCount } tab dan pindah ke awal
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-             [one] Reset dan sematkan tab
+            [one] Reset dan sematkan tab
            *[other] Reset dan sematkan { $tabCount } tab
         }
 tab-reset-pin-label = Kembali ke url yang disematkan

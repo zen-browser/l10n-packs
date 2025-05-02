@@ -20,6 +20,8 @@ zen-welcome-start-browsing-title =
     Kezdjük!
 zen-welcome-start-browsing-description-1 = Minden előkészítve és készen áll az indulásra. Kattintson az alábbi gombra a böngészés megkezdéséhez a { -brand-short-name } használatával.
 zen-welcome-start-browsing = Merüljön el!
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
 zen-welcome-skip-button = Kihagyás
 zen-welcome-next-action = Következő
 zen-welcome-finished = A Zen helyesen lett beállítva!
