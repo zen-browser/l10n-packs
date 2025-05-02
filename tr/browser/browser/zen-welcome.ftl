@@ -20,6 +20,8 @@ zen-welcome-start-browsing-title =
     Hadi başlayalım!
 zen-welcome-start-browsing-description-1 = Tamamen hazırsın. Aşağıdaki butona tıklayarak { -brand-short-name } ile aramaya başla.
 zen-welcome-start-browsing = İçeri dal!
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
 zen-welcome-skip-button = Geç
 zen-welcome-next-action = Sonraki
 zen-welcome-finished = Zen başarıyla kuruldu ve ayarlandı!
