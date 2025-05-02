@@ -20,6 +20,8 @@ zen-welcome-start-browsing-title =
     开始冲浪吧！
 zen-welcome-start-browsing-description-1 = 一切准备妥当。点击下方按钮开始用 { -brand-short-name } 浏览互联网。
 zen-welcome-start-browsing = 立刻开始！
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
 zen-welcome-skip-button = 跳过
 zen-welcome-next-action = 下一步
 zen-welcome-finished = 您的 Zen 已正确设置！
