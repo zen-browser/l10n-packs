@@ -25,6 +25,9 @@ zen-welcome-start-browsing-title = All set?<br/>
 zen-welcome-start-browsing-description-1 = You’re all set up and ready to go. Click the button below to start browsing with { -brand-short-name }.
 zen-welcome-start-browsing = Dive in!
 
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+
 zen-welcome-skip-button = Skip
 zen-welcome-next-action = Next
 
