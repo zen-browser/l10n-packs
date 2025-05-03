@@ -20,8 +20,8 @@ zen-welcome-start-browsing-title =
     Погружайтесь!
 zen-welcome-start-browsing-description-1 = Всё настроено и готово к работе. Нажмите кнопку ниже, чтобы начать искать с { -brand-short-name }.
 zen-welcome-start-browsing = Погрузиться!
-zen-welcome-default-search-title = Your Default Search Engine
-zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-default-search-title = Ваша поисковая система по умолчанию
+zen-welcome-default-search-description = Выберите поисковую систему по умолчанию. Вы всегда можете изменить её позже!
 zen-welcome-skip-button = Пропустить
 zen-welcome-next-action = Продолжить
 zen-welcome-finished = Zen настроен правильно!
