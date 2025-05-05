@@ -1,4 +1,4 @@
-zen-panel-ui-current-profile-text = current profile
+zen-panel-ui-current-profile-text = Current profile
 unified-extensions-description = Extensions are used to bring more extra functionality into { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
     .label = Reset Pinned Tab
@@ -10,13 +10,13 @@ tab-context-zen-remove-essential =
     .label = Remove from Essentials
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Replace Pinned Url with Current
+    .label = Replace Pinned URL with Current
     .accesskey = C
 tab-zen-unload = 
     .label = Unload tab
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
-    .label = Tabs Unloader Actions
+    .label = Tabs Unload Actions
     .accesskey = T
 tab-zen-prevent-unload = 
     .label = Prevent Tab Unload
@@ -27,15 +27,13 @@ tab-zen-ignore-unload =
 zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
 zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 # note: Do not translate the "<br/>" tags in the following string
-zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
+zen-new-urlbar-notification = The new URL bar has been enabled, removing the need for new tab pages. Try opening a new tab to see the new URL bar in action!<br/><br/>
 zen-disable = Disable
 pictureinpicture-minimize-btn = 
     .aria-label = Minimize
     .tooltip = Minimize
 zen-panel-ui-gradient-generator-opacity-text = Contrast
-zen-panel-ui-gradient-generator-custom-color = Custom Color
+zen-panel-ui-gradient-generator-custom-color = Custom colour
 zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
 zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
 zen-general-cancel = Cancel
