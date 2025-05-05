@@ -6,7 +6,7 @@ tab-zen-split-tabs =
         }
     .accesskey = S
 zen-split-link = 
-    .label = Fractionner le lien vers un nouvel onglet
+    .label = Ouvrir le lien comme onglet en vue fractionnée
     .accesskey = S
 zen-split-view-modifier-header = Vue fractionnée
 zen-split-view-modifier-activate-reallocation = 
