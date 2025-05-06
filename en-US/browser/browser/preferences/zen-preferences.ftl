@@ -287,6 +287,10 @@ zen-key-stop = Stop Loading
 zen-full-zoom-reduce-shortcut = Zoom Out
 zen-full-zoom-enlarge-shortcut = Zoom In
 zen-full-zoom-reset-shortcut = Reset Zoom
+zen-full-zoom-reset-shortcut-alt = Reset Zoom (Alt)
+zen-full-zoom-enlarge-shortcut-alt = Zoom In (Alt)
+zen-full-zoom-enlarge-shortcut-alt2 = Zoom In (Alt 2)
+
 zen-bidi-switch-direction-shortcut = Switch Text Direction
 zen-private-browsing-shortcut = Private Browsing
 zen-screenshot-shortcut = Take Screenshot
