@@ -72,6 +72,9 @@ zen-look-and-feel-compact-toolbar-themed =
 zen-look-and-feel-compact-sidebar-themed =
     .label = Use themed background for compact sidebar
 
+zen-workspace-continue-where-left-off =
+    .label = Continue where you left off
+
 pane-zen-pinned-tab-manager-title = Pinned Tabs
 zen-pinned-tab-manager-header = General settings for pinned tabs
 zen-pinned-tab-manager-description = Manage additional behavior of pinned tabs
