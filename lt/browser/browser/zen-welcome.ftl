@@ -20,8 +20,8 @@ zen-welcome-start-browsing-title =
     Pradėkime veikti!
 zen-welcome-start-browsing-description-1 = Viskas parengta ir gali veikti. Spustelėkite toliau esantį mygtuką, kad pradėtumėte naršyti su „{ -brand-short-name }“.
 zen-welcome-start-browsing = Pirmyn!
-zen-welcome-default-search-title = Your Default Search Engine
-zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-default-search-title = Jūsų numatytasis paieškos variklis
+zen-welcome-default-search-description = Pasirinkite numatytąjį paieškos variklį. Vėliau visada galite ją pakeisti!
 zen-welcome-skip-button = Praleisti
 zen-welcome-next-action = Toliau
 zen-welcome-finished = Jūsų „Zen“ nustatytas teisingai!
