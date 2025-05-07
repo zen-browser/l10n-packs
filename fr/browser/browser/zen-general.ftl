@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Confirmer
 zen-pinned-tab-replaced = L’adresse de l'onglet épinglé a été remplacée par l’adresse actuelle.
 zen-tabs-renamed = L’onglet a été renommé avec succès !
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Nouvel onglet ouvert en arrière-plan !
 
 # note: Do not translate the "<br/>" tags in the following string
 
