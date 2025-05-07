@@ -43,6 +43,7 @@ zen-general-confirm =
     .label = Confirmar
 zen-pinned-tab-replaced = O URL do separador fixado foi substituído pelo URL atual.
 zen-tabs-renamed = Nome do separador alterado com sucesso!
+zen-background-tab-opened-toast = New background tab opened!
 
 # note: Do not translate the "<br/>" tags in the following string
 

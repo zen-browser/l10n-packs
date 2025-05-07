@@ -43,6 +43,7 @@ zen-general-confirm =
     .label = Подтвердить
 zen-pinned-tab-replaced = Адрес закреплённой вкладки заменён на текущий адрес.
 zen-tabs-renamed = Вкладка успешно переименована!
+zen-background-tab-opened-toast = New background tab opened!
 
 # note: Do not translate the "<br/>" tags in the following string
 
