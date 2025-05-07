@@ -43,6 +43,7 @@ zen-general-confirm =
     .label = 확인
 zen-pinned-tab-replaced = 탭의 고정된 URL이 현재 URL로 변경되었습니다.
 zen-tabs-renamed = 탭의 이름이 성공적으로 변경되었습니다!
+zen-background-tab-opened-toast = New background tab opened!
 
 # note: Do not translate the "<br/>" tags in the following string
 
