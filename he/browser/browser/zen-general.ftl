@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = אישור
 zen-pinned-tab-replaced = קישור כרטיסייה מוצמדת הוחלפה עם הקישור הנוכחי.
 zen-tabs-renamed = שם הכרטיסייה שונתה בהצלחה!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = לשונית נפתחה ברקע!
 
 # note: Do not translate the "<br/>" tags in the following string
 
