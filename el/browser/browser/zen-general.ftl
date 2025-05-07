@@ -43,6 +43,7 @@ zen-general-confirm =
     .label = Επιβεβαίωση
 zen-pinned-tab-replaced = Το URL της καρφιτσωμένης καρτέλας έχει αντικατασταθεί από το τρέχον URL.
 zen-tabs-renamed = Η καρτέλα μετονομάστηκε επιτυχώς!
+zen-background-tab-opened-toast = New background tab opened!
 
 # note: Do not translate the "<br/>" tags in the following string
 
