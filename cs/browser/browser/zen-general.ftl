@@ -43,6 +43,7 @@ zen-general-confirm =
     .label = Potvrdit
 zen-pinned-tab-replaced = Připnutá URL adresa panelu byla nahrazena aktuální URL adresou.
 zen-tabs-renamed = Panel byl úspěšně přejmenován!
+zen-background-tab-opened-toast = New background tab opened!
 
 # note: Do not translate the "<br/>" tags in the following string
 
