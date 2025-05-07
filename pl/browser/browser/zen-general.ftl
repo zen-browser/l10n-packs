@@ -43,6 +43,7 @@ zen-general-confirm =
     .label = Confirm
 zen-pinned-tab-replaced = URL przypiętej karty został zastąpiony bieżącym adresem.
 zen-tabs-renamed = Nazwa karty została z powodzeniem zmieniona!
+zen-background-tab-opened-toast = New background tab opened!
 
 # note: Do not translate the "<br/>" tags in the following string
 
