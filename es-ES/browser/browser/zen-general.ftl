@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Confirmar
 zen-pinned-tab-replaced = La URL de la pestaña fijada se ha reemplazado por la URL actual.
 zen-tabs-renamed = ¡La pestaña se ha renombrado con éxito!
-zen-background-tab-opened-toast = ¡Se abrió una nueva pestaña en segundo plano!
+zen-background-tab-opened-toast = ¡Nueva pestaña abierta en segundo plano!
 
 # note: Do not translate the "<br/>" tags in the following string
 
