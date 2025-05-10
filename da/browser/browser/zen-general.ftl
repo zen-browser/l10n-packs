@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Bekræft
 zen-pinned-tab-replaced = Den fastgjorte fane-URL blev erstattet med den aktuelle.
 zen-tabs-renamed = Fanen blev omdøbt!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Ny baggrundsfane åbnet!
 
 # note: Do not translate the "<br/>" tags in the following string
 
