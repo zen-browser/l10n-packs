@@ -32,18 +32,18 @@ zen-new-urlbar-notification =
     Hãy thử tạo một thể để xem cái "mới" của thành đường dẫn!
 zen-disable = Vô hiệu hóa
 pictureinpicture-minimize-btn = 
-    .aria-label = Minimize
-    .tooltip = Minimize
+    .aria-label = Thu nhỏ
+    .tooltip = Thu nhỏ
 zen-panel-ui-gradient-generator-opacity-text = Tương phản
 zen-panel-ui-gradient-generator-custom-color = Tùy chỉnh màu sắc
 zen-panel-ui-gradient-generator-saved-message = Lưu tùy chỉnh đổ màu thành công!
 zen-copy-current-url-confirmation = Đường dẫn đã được chép vào bộ nhớ.
 zen-general-cancel = Hủy
 zen-general-confirm = 
-    .label = Confirm
+    .label = Xác nhận
 zen-pinned-tab-replaced = Đường dẫn trên thẻ gim đã được thay thể bởi đường dẫn hiện tại.
 zen-tabs-renamed = Thẻ đã được đổi tên thành công!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Một thẻ mới đã được mở dưới nền!
 
 # note: Do not translate the "<br/>" tags in the following string
 
