@@ -49,3 +49,6 @@ zen-background-tab-opened-toast = New background tab opened!
 
 zen-learn-more-text = إلى المزيد تعرف
 zen-close-label = Close
+
+zen-download-complete = اكتمل التنزيل
+zen-download-complete-body = اكتمل تنزيل الملف "{ $filename }".

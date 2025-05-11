@@ -49,3 +49,6 @@ zen-background-tab-opened-toast = New background tab opened!
 
 zen-learn-more-text = Learn More
 zen-close-label = Close
+
+zen-download-complete = دانلود تکمیل شد
+zen-download-complete-body = فایل "{ $filename }" با موفقیت دانلود شد.
