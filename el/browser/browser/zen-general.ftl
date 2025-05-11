@@ -49,3 +49,6 @@ zen-background-tab-opened-toast = New background tab opened!
 
 zen-learn-more-text = Μάθετε Περισσότερα
 zen-close-label = Κλείσιμο
+
+zen-download-complete = Η λήψη ολοκληρώθηκε
+zen-download-complete-body = Το αρχείο "{ $filename }" έχει ολοκληρωθεί η λήψη του.

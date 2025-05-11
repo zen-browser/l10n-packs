@@ -49,3 +49,6 @@ zen-background-tab-opened-toast = New background tab opened!
 
 zen-learn-more-text = Zjistit více
 zen-close-label = Zavřít
+
+zen-download-complete = Stažení dokončeno
+zen-download-complete-body = Soubor "{ $filename }" byl stažen.

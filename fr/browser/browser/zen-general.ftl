@@ -1,7 +1,7 @@
 zen-panel-ui-current-profile-text = profil actuel
 unified-extensions-description = Les extensions sont utilisées pour ajouter plus de fonctionnalités à { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Réinitialiser l’onglet épinglé
+    .label = Réinitialiser l'onglet épinglé
     .accesskey = R
 tab-context-zen-add-essential = 
     .label = Ajouter aux Essentiels
@@ -10,10 +10,10 @@ tab-context-zen-remove-essential =
     .label = Retirer des Essentiels
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Remplacer l’URL épinglée par l’actuelle
+    .label = Remplacer l'URL épinglée par l'actuelle
     .accesskey = C
 tab-zen-unload = 
-    .label = Décharger l’onglet
+    .label = Décharger l'onglet
     .accesskey = U
 zen-tabs-unloader-tab-actions = 
     .label = Actions de déchargement des onglets
@@ -28,8 +28,8 @@ zen-themes-corrupted = Votre fichier de thèmes { -brand-short-name } est corrom
 zen-shortcuts-corrupted = Votre fichier de raccourcis { -brand-short-name } est corrompu. Ils ont été réinitialisés aux raccourcis par défaut.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    La nouvelle barre d’adresse a été activée, supprimant la nécessité de nouvelles pages d’onglets.<br/><br/>
-    Essayez d’ouvrir un nouvel onglet pour voir la nouvelle barre d’adresse en action !
+    La nouvelle barre d'adresse a été activée, supprimant la nécessité de nouvelles pages d'onglets.<br/><br/>
+    Essayez d'ouvrir un nouvel onglet pour voir la nouvelle barre d'adresse en action !
 zen-disable = Désactiver
 pictureinpicture-minimize-btn = 
     .aria-label = Minimiser
@@ -37,15 +37,24 @@ pictureinpicture-minimize-btn =
 zen-panel-ui-gradient-generator-opacity-text = Contraste
 zen-panel-ui-gradient-generator-custom-color = Couleur personnalisée
 zen-panel-ui-gradient-generator-saved-message = Le dégradé a été enregistré avec succès !
-zen-copy-current-url-confirmation = L’adresse a été copiée dans le presse-papier.
+zen-copy-current-url-confirmation = L'adresse a été copiée dans le presse-papier.
 zen-general-cancel = Annuler
 zen-general-confirm = 
     .label = Confirmer
-zen-pinned-tab-replaced = L’adresse de l'onglet épinglé a été remplacée par l’adresse actuelle.
-zen-tabs-renamed = L’onglet a été renommé avec succès !
+zen-pinned-tab-replaced = L'adresse de l'onglet épinglé a été remplacée par l'adresse actuelle.
+zen-tabs-renamed = L'onglet a été renommé avec succès !
 zen-background-tab-opened-toast = New background tab opened!
 
 # note: Do not translate the "<br/>" tags in the following string
 
 zen-learn-more-text = En savoir plus
 zen-close-label = Fermer
+
+zen-download-complete = Téléchargement terminé
+zen-download-complete-body = Le fichier "{ $filename }" a été téléchargé.
+
+zen-download-canceled = Téléchargement annulé
+zen-download-canceled-body = Le téléchargement du fichier "{ $filename }" a été annulé.
+
+zen-download-failed = Échec du téléchargement
+zen-download-failed-body = Impossible de télécharger le fichier "{ $filename }".
