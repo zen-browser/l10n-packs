@@ -28,7 +28,7 @@ zen-themes-corrupted = { -brand-short-name } 모드 파일이 손상되었습니
 zen-shortcuts-corrupted = { -brand-short-name } 단축키 파일이 손상되었습니다. 기본 단축키 설정으로 재설정 되었습니다.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    새 탭 페이지가 필요 없는 새로운 URL 바가 활성화 되었습니다.<br/><br/>
+    새 탭 페이지가 필요 없는 새로운 주소 표시줄이 활성화 되었습니다.<br/><br/>
     새 탭을 열어서 새로운 URL 바를 만나보세요!
 zen-disable = 비활성화
 pictureinpicture-minimize-btn = 
@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = 확인
 zen-pinned-tab-replaced = 탭의 고정된 URL이 현재 URL로 변경되었습니다.
 zen-tabs-renamed = 탭의 이름이 성공적으로 변경되었습니다!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = 새 백그라운드 탭이 열렸습니다!
 
 # note: Do not translate the "<br/>" tags in the following string
 
