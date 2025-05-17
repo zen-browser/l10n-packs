@@ -24,7 +24,7 @@ tab-zen-prevent-unload =
 tab-zen-ignore-unload = 
     .label = Permitir suspensão de abas
     .accesskey = I
-zen-themes-corrupted = Seu arquivo de modificações { -brand-short-name } está corrompido. Eles foram redefinidos para o tem padrão.
+zen-themes-corrupted = Seu arquivo de modificações { -brand-short-name } está corrompido. Eles foram redefinidos para o tema padrão.
 zen-shortcuts-corrupted = Seu arquivo de atalhos { -brand-short-name } está corrompido. Eles foram redefinidos para os atalhos padrão.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Confirme
 zen-pinned-tab-replaced = A URL da guia fixada foi substituída pela URL atual.
 zen-tabs-renamed = Guia renomeada com sucesso!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Nova aba em segundo plano aberta!
 
 # note: Do not translate the "<br/>" tags in the following string
 
