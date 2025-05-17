@@ -13,15 +13,15 @@ zen-welcome-dont-set-default-browser = Não definir { -brand-short-name } como s
 zen-welcome-initial-essentials-title = Suas Abas Essenciais, sempre ao seu alcance
 zen-welcome-initial-essentials-description-1 = Mantenha suas abas mais importantes facilmente acessíveis e sempre em mão, não importa quantas você abrir.
 zen-welcome-initial-essentials-description-2 = As abas essenciais são sempre visíveis, não importa em que espaço de trabalho você está.
-zen-welcome-workspace-colors-title = Seus Workspaces e Suas Cores
+zen-welcome-workspace-colors-title = Seus Espaços de Trabalho, Suas Cores
 zen-welcome-workspace-colors-description = Personalize seu navegador dando a cada área de trabalho sua própria cor.
 zen-welcome-start-browsing-title =
     Tudo pronto?<br/>
     Vamos começar!
 zen-welcome-start-browsing-description-1 = Você está pronto para começar. Clique no botão abaixo para começar a navegar com { -brand-short-name }.
 zen-welcome-start-browsing = Vamos nessa!
-zen-welcome-default-search-title = Your Default Search Engine
-zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-default-search-title = Seu Mecanismo de Busca Padrão
+zen-welcome-default-search-description = Escolha seu mecanismo de busca padrão. Você sempre poderá alterá-lo depois!
 zen-welcome-skip-button = Vamos nessa!
 zen-welcome-next-action = Avançar
 zen-welcome-finished = Seu Zen foi configurado corretamente!
