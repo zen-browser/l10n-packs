@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Confirme
 zen-pinned-tab-replaced = A URL da guia fixada foi substituída pela URL atual.
 zen-tabs-renamed = Guia renomeada com sucesso!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Nova aba de plano de fundo aberta!
 
 # note: Do not translate the "<br/>" tags in the following string
 
