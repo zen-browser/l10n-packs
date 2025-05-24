@@ -49,3 +49,6 @@ zen-background-tab-opened-toast = New background tab opened!
 
 zen-learn-more-text = Rohkem teavet
 zen-close-label = Sulge
+
+zen-download-complete = Allalaadimine lõpetatud
+zen-download-complete-body = Fail "{ $filename }" on allalaaditud.

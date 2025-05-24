@@ -49,3 +49,6 @@ zen-background-tab-opened-toast = New background tab opened!
 
 zen-learn-more-text = Més informació
 zen-close-label = Tanca
+
+zen-download-complete = Baixada completada
+zen-download-complete-body = S'ha completat la baixada del fitxer "{ $filename }".

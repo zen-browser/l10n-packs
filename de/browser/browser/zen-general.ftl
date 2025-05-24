@@ -49,3 +49,12 @@ zen-background-tab-opened-toast = New background tab opened!
 
 zen-learn-more-text = Mehr erfahren
 zen-close-label = Schließen
+
+zen-download-complete = Download abgeschlossen
+zen-download-complete-body = Die Datei "{ $filename }" wurde heruntergeladen.
+
+zen-download-canceled = Download abgebrochen
+zen-download-canceled-body = Der Download der Datei "{ $filename }" wurde abgebrochen.
+
+zen-download-failed = Download fehlgeschlagen
+zen-download-failed-body = Die Datei "{ $filename }" konnte nicht heruntergeladen werden.
