@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Confirm
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
 zen-tabs-renamed = Tab has been successfully renamed!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = เปิดแท็บพื้นหลังใหม่แล้ว!
 
 # note: Do not translate the "<br/>" tags in the following string
 

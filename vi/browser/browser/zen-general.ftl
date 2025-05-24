@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Confirm
 zen-pinned-tab-replaced = Đường dẫn trên thẻ gim đã được thay thể bởi đường dẫn hiện tại.
 zen-tabs-renamed = Thẻ đã được đổi tên thành công!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Đã mở tab nền mới!
 
 # note: Do not translate the "<br/>" tags in the following string
 

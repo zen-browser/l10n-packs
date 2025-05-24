@@ -41,7 +41,7 @@ zen-general-confirm =
     .label = 确认
 zen-pinned-tab-replaced = 固定标签页的网址已更新为当前页面网址。
 zen-tabs-renamed = 标签页重命名成功！
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = 新的后台标签页已打开！
 
 # note: Do not translate the "<br/>" tags in the following string
 

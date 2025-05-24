@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Megerősítés
 zen-pinned-tab-replaced = A rögzített lap URL címe helyébe az aktuális URL cím lépett.
 zen-tabs-renamed = A lap sikeresen át lett nevezve!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Új háttér lap megnyitva!
 
 # note: Do not translate the "<br/>" tags in the following string
 
