@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Ganti URL yang Disematkan dengan yang Saat Ini
     .accesskey = C
-tab-zen-unload = 
-    .label = Lepaskan Tab
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Tindakan Pelepasan Tab
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Cegah Pelepasan Tab
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Izinkan Pelepasan Tab
-    .accesskey = I
 zen-themes-corrupted = Tidak dapat memuat file tema { -brand-short-name } Anda karena rusak. File tersebut telah diatur ulang ke tema default.
 zen-shortcuts-corrupted = File pintasan { -brand-short-name } Anda rusak. Mereka telah diatur ulang ke pintasan default.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,7 @@ zen-general-confirm =
     .label = Konfirmasi
 zen-pinned-tab-replaced = URL tab yang disematkan telah diganti dengan URL saat ini.
 zen-tabs-renamed = Tab telah berhasil diubah namanya!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Tab baru telah terbuka di belakang layar!
 
 # note: Do not translate the "<br/>" tags in the following string
 
