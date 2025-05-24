@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Bevestigen
 zen-pinned-tab-replaced = URL van vastgemaakte tabbladen is vervangen door de huidige URL.
 zen-tabs-renamed = Tabblad is succesvol hernoemd!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Nieuw achtergrondtabblad geopend!
 
 # note: Do not translate the "<br/>" tags in the following string
 

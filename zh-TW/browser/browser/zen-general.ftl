@@ -41,7 +41,7 @@ zen-general-confirm =
     .label = Confirm
 zen-pinned-tab-replaced = 釘選分頁網址已替換為當前當前網址。
 zen-tabs-renamed = 分頁重新命名成功！
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = 新的背景分頁已開啟！
 
 # note: Do not translate the "<br/>" tags in the following string
 

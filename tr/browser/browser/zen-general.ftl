@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Onayla
 zen-pinned-tab-replaced = Başa tutturulmuş sekme URL'si, şimdiki URL ile değiştirildi.
 zen-tabs-renamed = Sekme başarıyla yeniden adlandırıldı!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Yeni arka plan sekmesi açıldı!
 
 # note: Do not translate the "<br/>" tags in the following string
 

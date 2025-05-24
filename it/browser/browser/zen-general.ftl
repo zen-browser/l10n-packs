@@ -41,7 +41,7 @@ zen-general-confirm =
     .label = Conferma
 zen-pinned-tab-replaced = L'URL della scheda bloccata è stato sostituito con l'URL attuale.
 zen-tabs-renamed = La scheda è stata rinominata con successo!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Nuova scheda in background aperta!
 
 # note: Do not translate the "<br/>" tags in the following string
 

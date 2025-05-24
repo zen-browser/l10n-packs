@@ -43,7 +43,7 @@ zen-general-confirm =
     .label = Patvirtinti
 zen-pinned-tab-replaced = Prisegtos kortelės URL pakeistas dabartiniu URL.
 zen-tabs-renamed = Kortelė sėkmingai pervadinta.
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Atidaryta nauja fono kortelė!
 
 # note: Do not translate the "<br/>" tags in the following string
 
