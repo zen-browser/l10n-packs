@@ -63,9 +63,6 @@ zen-tabs-unloader-description = Automatically unload unused tabs to save memory
 
 zen-tabs-unloader-enabled =
     .label = Enable Tab Unloader
-zen-tabs-unloader-unload-delay =
-    .label = Unload tabs after
-zen-tabs-unloader-unload-delay-description = The time in minutes after which tabs will be unloaded
 
 zen-look-and-feel-compact-toolbar-themed =
     .label = Use themed background for compact toolbar
