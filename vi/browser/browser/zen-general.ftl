@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = Đường dẫn đã được chép vào b�
 zen-general-cancel = Hủy
 zen-general-confirm = 
     .label = Xác nhận
-zen-pinned-tab-replaced = Đường dẫn trên thẻ gim đã được thay thể bởi đường dẫn hiện tại.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = Thẻ đã được đổi tên thành công!
 zen-background-tab-opened-toast = Một thẻ mới đã được mở dưới nền!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
