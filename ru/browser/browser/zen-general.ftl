@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = Ссылка скопирована в бу�
 zen-general-cancel = Отменить
 zen-general-confirm = 
     .label = Подтвердить
-zen-pinned-tab-replaced = Адрес закреплённой вкладки заменён на текущий адрес.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = Вкладка успешно переименована!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
