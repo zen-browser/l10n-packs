@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = URL kopeeriti lõikelauale.
 zen-general-cancel = Tühista
 zen-general-confirm = 
     .label = Kinnita
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = Tab has been successfully renamed!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
