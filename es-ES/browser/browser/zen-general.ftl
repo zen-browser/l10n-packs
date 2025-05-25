@@ -29,12 +29,12 @@ zen-copy-current-url-confirmation = La URL se ha copiado al portapapeles.
 zen-general-cancel = Cancelar
 zen-general-confirm = 
     .label = Confirmar
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
+zen-pinned-tab-replaced = ¡La URL de la pestaña fijada ha sido reemplazada con la URL actual!
 zen-tabs-renamed = ¡La pestaña se ha renombrado con éxito!
 zen-background-tab-opened-toast = ¡Nueva pestaña abierta en segundo plano!
-zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-workspace-renamed-toast = ¡El espacio de trabajo ha sido renombrado con éxito!
 zen-library-sidebar-workspaces = 
-    .label = Spaces
+    .label = Espacios
 zen-library-sidebar-mods = 
     .label = Mods
 
