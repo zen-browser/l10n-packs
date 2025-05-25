@@ -14,6 +14,6 @@ zen-split-link =
 zen-split-view-modifier-header = Rozdělený režim
 zen-split-view-modifier-activate-reallocation = 
     .label = Aktivovat uspořádání
-zen-split-view-modifier-enabled-toast = Úprava rozděleného režimu je ZAPNUTÁ.
+zen-split-view-modifier-enabled-toast = Uspořádání rozděleného režimu je ZAPNUTÉ.
 zen-split-view-modifier-enabled-toast-description = Přetáhněte zobrazení pro změnu uspořádání. Stisknutím Esc ukončíte.
 zen-split-view-modifier-disabled-toast = Úprava rozděleného režimu je zapnuta VYPNUTÁ.
