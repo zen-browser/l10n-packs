@@ -29,14 +29,14 @@ zen-copy-current-url-confirmation = L'URL s'ha copiat al porta-retalls.
 zen-general-cancel = Cancel·la
 zen-general-confirm = 
     .label = Confirma
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
+zen-pinned-tab-replaced = L'URL de la pestanya fixada s'ha substituït per l'URL actual!
 zen-tabs-renamed = S'ha canviat el nom de la pestanya correctament!
 zen-background-tab-opened-toast = S'ha obert una nova pestanya de fons!
-zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-workspace-renamed-toast = S'ha canviat el nom de l'espai de treball correctament!
 zen-library-sidebar-workspaces = 
-    .label = Spaces
+    .label = Espais
 zen-library-sidebar-mods = 
-    .label = Mods
+    .label = Modificacions
 
 # note: Do not translate the "<br/>" tags in the following string
 
