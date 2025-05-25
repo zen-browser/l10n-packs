@@ -27,9 +27,14 @@ zen-copy-current-url-confirmation = L'URL è stato copiato negli appunti.
 zen-general-cancel = Cancella
 zen-general-confirm = 
     .label = Conferma
-zen-pinned-tab-replaced = L'URL della scheda bloccata è stato sostituito con l'URL attuale.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = La scheda è stata rinominata con successo!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
