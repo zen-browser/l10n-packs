@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = URL'en blev kopieret til udklipsholderen.
 zen-general-cancel = Annuller
 zen-general-confirm = 
     .label = Bekræft
-zen-pinned-tab-replaced = Den fastgjorte fane-URL blev erstattet med den aktuelle.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = Fanen blev omdøbt!
 zen-background-tab-opened-toast = Ny baggrundsfane åbnet!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
