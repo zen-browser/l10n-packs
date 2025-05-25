@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = URL이 복사되었습니다.
 zen-general-cancel = 취소
 zen-general-confirm = 
     .label = 확인
-zen-pinned-tab-replaced = 탭의 고정된 URL이 현재 URL로 변경되었습니다.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = 탭의 이름이 성공적으로 변경되었습니다!
 zen-background-tab-opened-toast = 새 백그라운드 탭이 열렸습니다!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
