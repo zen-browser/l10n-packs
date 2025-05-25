@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = הקישור הועתק ללוח.
 zen-general-cancel = ביטול
 zen-general-confirm = 
     .label = אישור
-zen-pinned-tab-replaced = קישור כרטיסייה מוצמדת הוחלפה עם הקישור הנוכחי.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = שם הכרטיסייה שונתה בהצלחה!
 zen-background-tab-opened-toast = לשונית נפתחה ברקע!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
