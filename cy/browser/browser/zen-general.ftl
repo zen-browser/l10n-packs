@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = Mae'r URL wedi'i gopïo i'r clipfwrdd.
 zen-general-cancel = Canslo
 zen-general-confirm = 
     .label = Confirm
-zen-pinned-tab-replaced = Mae URL y tab wedi'i binio wedi'i newid i'r URL gyfredol.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = Llwyddiant ailenwi'r tab!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
