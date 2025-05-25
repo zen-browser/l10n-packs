@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = De URL is gekopieerd naar het klembord.
 zen-general-cancel = Annuleren
 zen-general-confirm = 
     .label = Bevestigen
-zen-pinned-tab-replaced = URL van vastgemaakte tabbladen is vervangen door de huidige URL.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = Tabblad is succesvol hernoemd!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
