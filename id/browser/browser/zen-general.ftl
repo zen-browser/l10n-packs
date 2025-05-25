@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = URL telah disalin ke clipboard.
 zen-general-cancel = Batal
 zen-general-confirm = 
     .label = Konfirmasi
-zen-pinned-tab-replaced = URL tab yang disematkan telah diganti dengan URL saat ini.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = Tab telah berhasil diubah namanya!
 zen-background-tab-opened-toast = Tab baru telah terbuka di belakang layar!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
