@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = Az URL-cím a vágólapra lett másolva.
 zen-general-cancel = Mégsem
 zen-general-confirm = 
     .label = Megerősítés
-zen-pinned-tab-replaced = A rögzített lap URL címe helyébe az aktuális URL cím lépett.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = A lap sikeresen át lett nevezve!
 zen-background-tab-opened-toast = Új lap megnyitva!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
