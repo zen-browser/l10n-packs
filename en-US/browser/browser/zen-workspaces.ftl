@@ -22,21 +22,8 @@ zen-workspaces-panel-context-delete =
     .label = Delete Workspace
     .accesskey = D
 
-zen-workspaces-panel-context-open =
-    .label = Open Workspace
-    .accesskey = O
-
-zen-workspaces-panel-context-set-default =
-    .label = Set As Default Workspace
-    .accesskey = S
-
-zen-workspaces-panel-context-edit =
-    .label = Edit Workspace
-    .accesskey = E
-
-context-zen-change-workspace-tab =
-    .label = Change Tab(s) To Workspace
-    .accesskey = C
+zen-workspaces-panel-change-name =
+    .label = Change Name
 
 zen-workspaces-panel-context-open-in-container-tab =
     .label = Set Default Container
