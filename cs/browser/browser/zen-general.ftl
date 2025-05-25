@@ -29,14 +29,14 @@ zen-copy-current-url-confirmation = URL adresa byla zkopírována do schránky.
 zen-general-cancel = Zrušit
 zen-general-confirm = 
     .label = Potvrdit
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
+zen-pinned-tab-replaced = URL adresa připnutého panelu byla nahrazena aktuální URL adresou!
 zen-tabs-renamed = Panel byl úspěšně přejmenován!
-zen-background-tab-opened-toast = New background tab opened!
-zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-background-tab-opened-toast = Nová karta na pozadí byla otevřena!
+zen-workspace-renamed-toast = Pracovní prostor byl úspěšně přejmenován!
 zen-library-sidebar-workspaces = 
-    .label = Spaces
+    .label = Pracovní prostory
 zen-library-sidebar-mods = 
-    .label = Mods
+    .label = Módy
 
 # note: Do not translate the "<br/>" tags in the following string
 
