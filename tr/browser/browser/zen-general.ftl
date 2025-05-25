@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = URL panoya kopyalandı.
 zen-general-cancel = İptal Et
 zen-general-confirm = 
     .label = Onayla
-zen-pinned-tab-replaced = Başa tutturulmuş sekme URL'si, şimdiki URL ile değiştirildi.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = Sekme başarıyla yeniden adlandırıldı!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
