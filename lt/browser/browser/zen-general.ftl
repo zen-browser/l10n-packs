@@ -29,9 +29,14 @@ zen-copy-current-url-confirmation = URL buvo nukopijuotas į iškarpinę.
 zen-general-cancel = Atšaukti
 zen-general-confirm = 
     .label = Patvirtinti
-zen-pinned-tab-replaced = Prisegtos kortelės URL pakeistas dabartiniu URL.
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = Kortelė sėkmingai pervadinta.
 zen-background-tab-opened-toast = Nauja fonos kortelė atverta!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
