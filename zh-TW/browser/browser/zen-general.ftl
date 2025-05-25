@@ -27,9 +27,14 @@ zen-copy-current-url-confirmation = 網址已複製到剪貼簿。
 zen-general-cancel = 取消
 zen-general-confirm = 
     .label = Confirm
-zen-pinned-tab-replaced = 釘選分頁網址已替換為當前當前網址。
+zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = 分頁重新命名成功！
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
