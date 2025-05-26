@@ -29,14 +29,14 @@ zen-copy-current-url-confirmation = O URL foi copiado para a área de transferê
 zen-general-cancel = Cancelar
 zen-general-confirm = 
     .label = Confirmar
-zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
+zen-pinned-tab-replaced = O URL do separador fixado foi substituído pelo URL atual!
 zen-tabs-renamed = Nome do separador alterado com sucesso!
 zen-background-tab-opened-toast = Novo separador aberto em segundo plano!
-zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-workspace-renamed-toast = Nome do espaço de trabalho alterado com sucesso!
 zen-library-sidebar-workspaces = 
-    .label = Spaces
+    .label = Espaços
 zen-library-sidebar-mods = 
-    .label = Mods
+    .label = Modificações
 
 # note: Do not translate the "<br/>" tags in the following string
 
