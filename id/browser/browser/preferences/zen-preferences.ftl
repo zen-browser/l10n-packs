@@ -134,6 +134,7 @@ zen-theme-marketplace-dropdown-default-label =
 zen-theme-marketplace-input-default-placeholder = 
     .placeholder = Ketik sesuatu...
 pane-zen-marketplace-title = Zen Mods
+zen-themes-auto-update = Auto update Mods on startup
 zen-settings-workspaces-force-container-tabs-to-workspace = 
     .label = Saat membuka tab kontainer, otomatis pindahkan ke ruang kerja default kontainer tab itu
 zen-theme-marketplace-link = Kunjungi Toko
