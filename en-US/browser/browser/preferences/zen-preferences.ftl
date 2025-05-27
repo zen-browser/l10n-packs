@@ -57,10 +57,6 @@ category-zen-workspaces =
     .tooltiptext = { pane-zen-tabs-title }
 pane-settings-workspaces-title = Workspaces
 
-pane-zen-tabs-unloader-title = Tab Unloader
-zen-tabs-unloader-header = General settings for tab unloader
-zen-tabs-unloader-description = Automatically unload unused tabs to save memory
-
 zen-tabs-unloader-enabled =
     .label = Enable Tab Unloader
 
