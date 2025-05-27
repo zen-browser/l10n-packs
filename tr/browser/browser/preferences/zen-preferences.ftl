@@ -134,6 +134,7 @@ zen-theme-marketplace-dropdown-default-label =
 zen-theme-marketplace-input-default-placeholder = 
     .placeholder = Bir şey yazın...
 pane-zen-marketplace-title = Zen Modları
+zen-themes-auto-update = Auto update Mods on startup
 zen-settings-workspaces-force-container-tabs-to-workspace = 
     .label = Konteyner sekmelerini açarken konteynerin varsayılan olarak ayarlandığı çalışma alanına geç
 zen-theme-marketplace-link = Mağazayı Ziyaret Et
