@@ -134,6 +134,7 @@ zen-theme-marketplace-dropdown-default-label =
 zen-theme-marketplace-input-default-placeholder = 
     .placeholder = اكتب شيئاً...
 pane-zen-marketplace-title = Zen Mods
+zen-themes-auto-update = Auto update Mods on startup
 zen-settings-workspaces-force-container-tabs-to-workspace = 
     .label = التبديل إلى فضاء العمل حيث يتم تعيين الحاوية بشكل افتراضي عند فتح علامات التبويب الحاوية
 zen-theme-marketplace-link = زيارة المتجر
