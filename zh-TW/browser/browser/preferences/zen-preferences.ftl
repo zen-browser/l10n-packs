@@ -134,6 +134,7 @@ zen-theme-marketplace-dropdown-default-label =
 zen-theme-marketplace-input-default-placeholder = 
     .placeholder = 請輸入
 pane-zen-marketplace-title = Zen 模式
+zen-themes-auto-update = Auto update Mods on startup
 zen-settings-workspaces-force-container-tabs-to-workspace = 
     .label = 開啟容器分頁時，切換到容器設定為預設值的工作區
 zen-theme-marketplace-link = 造訪商店
