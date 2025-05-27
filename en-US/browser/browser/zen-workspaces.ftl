@@ -33,6 +33,22 @@ zen-workspaces-change-gradient =
     .label = Change Theme Colors
     .accesskey = C
 
+zen-workspaces-panel-context-open =
+    .label = Open Workspace
+    .accesskey = O
+
+zen-workspaces-panel-context-set-default =
+    .label = Set As Default Workspace
+    .accesskey = S
+
+zen-workspaces-panel-context-edit =
+    .label = Edit Workspace
+    .accesskey = E
+
+context-zen-change-workspace-tab =
+    .label = Change Tab(s) To Workspace
+    .accesskey = C
+
 zen-bookmark-edit-panel-workspace-selector =
     .value = Workspaces
     .accesskey = W
