@@ -134,6 +134,7 @@ zen-theme-marketplace-dropdown-default-label =
 zen-theme-marketplace-input-default-placeholder = 
     .placeholder = Введіть щось...
 pane-zen-marketplace-title = Zen Mods
+zen-themes-auto-update = Auto update Mods on startup
 zen-settings-workspaces-force-container-tabs-to-workspace = 
     .label = Переключитися на робочу область, де контейнер встановлено як типове значення для відкриття вкладок контейнерів
 zen-theme-marketplace-link = Відвідати магазин
