@@ -20,8 +20,8 @@ zen-welcome-start-browsing-title =
     Tak pojďme na to!
 zen-welcome-start-browsing-description-1 = Všechno máte nastaveno a jste připraveni vyrazit. Klikněte na tlačítko níže a začněte prohlížet s prohlížečem { -brand-short-name }.
 zen-welcome-start-browsing = Pustit se do toho!
-zen-welcome-default-search-title = Your Default Search Engine
-zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-default-search-title = Váš výchozí vyhledávač
+zen-welcome-default-search-description = Vyberte si svůj výchozí vyhledávač. Později jej můžete změnit!
 zen-welcome-skip-button = Přeskočit
 zen-welcome-next-action = Další
 zen-welcome-finished = Váš Zen byl úspěšně nastaven!
