@@ -134,6 +134,7 @@ zen-theme-marketplace-dropdown-default-label =
 zen-theme-marketplace-input-default-placeholder = 
     .placeholder = 입력...
 pane-zen-marketplace-title = Zen 모드
+zen-themes-auto-update = Auto update Mods on startup
 zen-settings-workspaces-force-container-tabs-to-workspace = 
     .label = 컨테이너 탭을 열 때 해당 컨테이너가 기본값으로 설정된 워크스페이스로 전환하기
 zen-theme-marketplace-link = 스토어 방문
