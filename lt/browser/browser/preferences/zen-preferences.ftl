@@ -134,6 +134,7 @@ zen-theme-marketplace-dropdown-default-label =
 zen-theme-marketplace-input-default-placeholder = 
     .placeholder = Įrašykite kažką...
 pane-zen-marketplace-title = „Zen“ modifikacijos
+zen-themes-auto-update = Auto update Mods on startup
 zen-settings-workspaces-force-container-tabs-to-workspace = 
     .label = Perjungti į darbo sritį, kurioje konteineris nustatytas kaip numatytasis, atidarant konteinerio korteles
 zen-theme-marketplace-link = Aplankyti parduotuvę
