@@ -134,6 +134,7 @@ zen-theme-marketplace-dropdown-default-label =
 zen-theme-marketplace-input-default-placeholder = 
     .placeholder = מקלידים פה...
 pane-zen-marketplace-title = מודים ל-Zen
+zen-themes-auto-update = Auto update Mods on startup
 zen-settings-workspaces-force-container-tabs-to-workspace = 
     .label = העברה לסביבת עבודה שבה המכל מוגדר כברירת מחדל שפותחים כרטיסייה במכל
 zen-theme-marketplace-link = כניסה לחנות
