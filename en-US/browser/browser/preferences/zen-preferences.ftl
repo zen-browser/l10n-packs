@@ -1,4 +1,3 @@
-
 pane-zen-looks-title = Look and Feel
 category-zen-looks =
     .tooltiptext = { pane-zen-looks-title }
@@ -120,6 +119,24 @@ zen-vertical-tabs-expand-tabs-on-hover = Expand Tabs on Hover (Won't work on com
 
 zen-vertical-tabs-expand-tabs-header = How to expand tabs
 zen-vertical-tabs-expand-tabs-description = Choose how to expand tabs in the sidebar
+
+zen-essentials-header = Essentials Layout
+zen-essentials-description = Configure how essential tabs are arranged
+zen-essentials-per-row-label = Essential tabs per row
+zen-essentials-per-row-auto =
+    .label = Auto (responsive)
+zen-essentials-per-row-1 =
+    .label = 1 tab per row
+zen-essentials-per-row-2 =
+    .label = 2 tabs per row
+zen-essentials-per-row-3 =
+    .label = 3 tabs per row
+zen-essentials-per-row-4 =
+    .label = 4 tabs per row
+zen-essentials-per-row-5 =
+    .label = 5 tabs per row
+zen-essentials-per-row-6 =
+    .label = 6 tabs per row
 
 zen-theme-marketplace-header = Zen Mods
 zen-theme-disable-all-enabled =
