@@ -1,34 +1,34 @@
 zen-toolbar-context-tabs-right = 
-    .label = Tabs on the right
+    .label = Cluaisíní ar an dheis
     .accesskey = R
 zen-toolbar-context-compact-mode = 
-    .label = Compact mode
+    .label = Mód dlúth
     .accesskey = D’Athraigh Chluaisíní(s) go Spás Oibre
 zen-toolbar-context-compact-mode-enable = 
-    .label = Enable compact mode
+    .label = Cumasaigh mód dlúth
     .accesskey = D
 zen-toolbar-context-compact-mode-just-tabs = 
-    .label = Hide sidebar
+    .label = Folaigh an barra taoibh
 zen-toolbar-context-compact-mode-just-toolbar = 
-    .label = Hide toolbar
+    .label = Folaigh an barra uirlisí
 zen-toolbar-context-compact-mode-hide-both = 
-    .label = Hide both
+    .label = Folaigh an dá cheann
     .accesskey = H
 zen-toolbar-context-new-folder = 
-    .label = New folder
+    .label = Fillteán nua
     .accesskey = N
 sidebar-zen-expand = 
-    .label = Expand Sidebar
+    .label = Barra Taoibh a Leathnú
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Unload and switch to tab
-           *[other] Unload { $tabCount } tabs and switch to the first
+        [one] Díluchtaigh agus aistrigh go cluaisín
+        *[other] Díluchtaigh { $tabCount } cluaisín agus aistrigh go dtí an chéad cheann
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Reset and pin tab
-           *[other] Reset and pin { $tabCount } tabs
+        [one] Athshocraigh agus priontáil an cluaisín
+        *[other] Athshocraigh agus priontáil an cluaisín { $tabCount }
         }
-tab-reset-pin-label = Back to pinned url
+tab-reset-pin-label = Ar ais chuig an url bioráilte
