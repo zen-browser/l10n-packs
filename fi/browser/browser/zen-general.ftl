@@ -49,3 +49,6 @@ zen-background-tab-opened-toast = New background tab opened!
 
 zen-learn-more-text = Learn More
 zen-close-label = Close
+
+zen-download-complete = Lataus valmis
+zen-download-complete-body = Tiedoston "{ $filename }" lataus on valmis.

@@ -1,4 +1,3 @@
-
 zen-panel-ui-current-profile-text = current profile
 
 unified-extensions-description = Extensions are used to bring more extra functionality into { -brand-short-name }.
@@ -54,3 +53,12 @@ zen-library-sidebar-mods =
 zen-learn-more-text = Learn More
 
 zen-close-label = Close
+
+zen-download-complete = Download Complete
+zen-download-complete-body = File "{ $filename }" has finished downloading.
+
+zen-download-canceled = Download Canceled
+zen-download-canceled-body = File "{ $filename }" download was canceled.
+
+zen-download-failed = Download Failed
+zen-download-failed-body = Failed to download file "{ $filename }". 
