@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Замінити закріплений URL на поточний
     .accesskey = C
-tab-zen-unload = 
-    .label = Вивантажити вкладку
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Дії вивантажувача вкладок
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Заборонити вивантаження вкладок
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Дозволити вивантаження вкладок
-    .accesskey = I
 zen-themes-corrupted = Ваш файл модифікацій { -brand-short-name } пошкоджено. Вони були скинуті до типової теми.
 zen-shortcuts-corrupted = Ваш файл { -brand-short-name } комбінацій пошкоджено. Їх було скинуто до типових комбінацій.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = Підтвердити
 zen-pinned-tab-replaced = URL-адресу закріпленої вкладки замінено на поточну URL-адресу.
 zen-tabs-renamed = Вкладку успішно перейменовано!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Відкрито нову фонову вкладку!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

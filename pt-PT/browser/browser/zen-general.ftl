@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Substituir o URL Fixado pelo URL Atual
     .accesskey = C
-tab-zen-unload = 
-    .label = Hibernar Separador
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Ações de Hibernação de Separadores
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Impedir a Hibernação do Separador
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Permitir a Hibernação do Separador
-    .accesskey = I
 zen-themes-corrupted = O seu ficheiro de modificações do { -brand-short-name } está corrompido. Elas foram redefinidas como iguais às do tema padrão.
 zen-shortcuts-corrupted = O seu ficheiro de atalhos do { -brand-short-name } está corrompido. Eles foram redefinidos para os atalhos padrão.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = Confirmar
 zen-pinned-tab-replaced = O URL do separador fixado foi substituído pelo URL atual.
 zen-tabs-renamed = Nome do separador alterado com sucesso!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Novo separador aberto em segundo plano!
+zen-workspace-renamed-toast = Nome do espaço de trabalho alterado com sucesso!
+zen-library-sidebar-workspaces = 
+    .label = Espaços
+zen-library-sidebar-mods = 
+    .label = Modificações
 
 # note: Do not translate the "<br/>" tags in the following string
 

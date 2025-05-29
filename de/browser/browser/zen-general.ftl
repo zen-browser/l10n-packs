@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Angepinnte URL durch aktuelle ersetzen
     .accesskey = C
-tab-zen-unload = 
-    .label = Tab entladen
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Tabs Entlader Aktionen
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Entladen des Tabs verhindern
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Entladen des Tabs erlauben
-    .accesskey = I
 zen-themes-corrupted = Deine { -brand-short-name } Mod Datei wurde beschädigt. Sie wurde auf das Standard-Design zurückgesetzt.
 zen-shortcuts-corrupted = Deine { -brand-short-name } Tastenkombinationsdatei ist beschädigt. Sie wurde auf die Standard-Tastenkombinationen zurückgesetzt.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = Bestätigen
 zen-pinned-tab-replaced = Angepinnte Tab URL wurde mit aktueller URL ersetzt.
 zen-tabs-renamed = Tab wurde erfolgreich umbenannt!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Neuer Hintergrund-Tab geöffnet!
+zen-workspace-renamed-toast = Arbeitsbereich wurde erfolgreich umbenannt!
+zen-library-sidebar-workspaces = 
+    .label = Bereiche
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

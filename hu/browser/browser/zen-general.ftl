@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Kitűzött lap cseréje a jelenlegi URL-el
     .accesskey = C
-tab-zen-unload = 
-    .label = Lap ürítése
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Lap ürítő opciók
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Lap ürítés megakadályozása
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Lap ürítés engedélyezése
-    .accesskey = I
 zen-themes-corrupted = A te { -brand-short-name } mod fájljaid károsodtak. Vissza lettek állítva az eredeti témára.
 zen-shortcuts-corrupted = A te { -brand-short-name } parancsikonok fájlod károsodott. Vissza lettek állítva az eredeti parancsikonokra.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = Megerősítés
 zen-pinned-tab-replaced = A rögzített lap URL címe helyébe az aktuális URL cím lépett.
 zen-tabs-renamed = A lap sikeresen át lett nevezve!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Új lap megnyitva!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

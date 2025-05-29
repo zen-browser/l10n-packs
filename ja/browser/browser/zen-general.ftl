@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = ピン留めされた URL を現在のものに置き換え
     .accesskey = C
-tab-zen-unload = 
-    .label = タブをアンロード
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = タブアンローダーアクション
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = タブのアンロードを防ぐ
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = タブのアンロードを許可
-    .accesskey = I
 zen-themes-corrupted = { -brand-short-name } Modファイルが破損しています。既定のテーマにリセットされました。
 zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
 zen-tabs-renamed = Tab has been successfully renamed!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Zastąp przypięty adres URL aktualnym
     .accesskey = C
-tab-zen-unload = 
-    .label = Uśpij kartę
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Akcje usypiania kart
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Zapobiegaj uśpieniu karty
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Zezwalaj na usypianie kart
-    .accesskey = I
 zen-themes-corrupted = Twój plik modów { -brand-short-name } jest uszkodzony. Zostały one zresetowane do domyślnego stanu.
 zen-shortcuts-corrupted = Twój plik skrótów { -brand-short-name } jest popsuty. Skróty zostały zresetowane do domyślnych.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = URL przypiętej karty został zastąpiony bieżącym adresem.
 zen-tabs-renamed = Nazwa karty została z powodzeniem zmieniona!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

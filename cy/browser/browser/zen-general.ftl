@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Ailosod URL wedi'i Binio gyda'r Gyfredol
     .accesskey = C
-tab-zen-unload = 
-    .label = Dadlwytho'r Tab
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Gweithredoedd Dadlwytho Tabiau
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Atal Dadlwytho Tab
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Caniatáu Dadlwytho Tab
-    .accesskey = I
 zen-themes-corrupted = Mae eich ffeil am y mod { -brand-short-name } wedi'i llygru. Maent wedi cael eu hailosod i'r thema rhagosodedig.
 zen-shortcuts-corrupted = Mae eich ffeil llwybr-byr { -brand-short-name } wedi'i llygru. Maent wedi cael eu hailosod i'r llwybr-byr rhagosodedig.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = Mae URL y tab wedi'i binio wedi'i newid i'r URL gyfredol.
 zen-tabs-renamed = Llwyddiant ailenwi'r tab!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

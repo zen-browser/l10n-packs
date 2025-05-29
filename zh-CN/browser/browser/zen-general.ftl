@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = 将固定标签页的 URL 替换为当前页面 URL
     .accesskey = C
-tab-zen-unload = 
-    .label = 卸载标签页
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = 标签页卸载行为
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = 防止标签页卸载
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = 允许标签页卸载
-    .accesskey = I
 zen-themes-corrupted = 您的 { -brand-short-name } 模组文件已损坏。它们已重置为默认主题。
 zen-shortcuts-corrupted = 您的 { -brand-short-name } 快捷键文件已损坏。它们已重置为默认快捷键。
 # note: Do not translate the "<br/>" tags in the following string
@@ -42,6 +30,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = 固定标签页的网址已更新为当前页面网址。
 zen-tabs-renamed = 标签页重命名成功！
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

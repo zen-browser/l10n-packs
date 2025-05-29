@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = החלף קישור מוצמד עם הנוכחי
     .accesskey = ב
-tab-zen-unload = 
-    .label = פנה כרטיסייה
-    .accesskey = ו
-zen-tabs-unloader-tab-actions = 
-    .label = פעולות פינוי כרטיסיות
-    .accesskey = א
-tab-zen-prevent-unload = 
-    .label = עצור פינוי כרטיסייה
-    .accesskey = פ
-tab-zen-ignore-unload = 
-    .label = אפשר פינוי כרטיסייה
-    .accesskey = ן
 zen-themes-corrupted = קובץ המודים { -brand-short-name } שלך פגום. הם אופסו לנושא ברירת המחדל.
 zen-shortcuts-corrupted = קיצורי דרך { -brand-short-name } פגום. הם אופסו לקיצורי דרך ברירת מחדל.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = אישור
 zen-pinned-tab-replaced = קישור כרטיסייה מוצמדת הוחלפה עם הקישור הנוכחי.
 zen-tabs-renamed = שם הכרטיסייה שונתה בהצלחה!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = לשונית נפתחה ברקע!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

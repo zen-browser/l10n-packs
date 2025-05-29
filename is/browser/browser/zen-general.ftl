@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Setja aftur Fest-URL með Núverandi
     .accesskey = C
-tab-zen-unload = 
-    .label = Óhlaða Flipa
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Flipir Óhlaðari Framkvæmdir
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Aftra Flipa Óhlaðing
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Leyfa Flipa Óhlaðun
-    .accesskey = I
 zen-themes-corrupted = { -brand-short-name } mods skráin þín er skemmd. Þeir hafa verið endurstilltir á sjálfgefið þema.
 zen-shortcuts-corrupted = { -brand-short-name } flýtivísaskráin þín er skemmd. Þeir hafa verið endurstilltir á sjálfgefna flýtileiðir.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
 zen-tabs-renamed = Tab has been successfully renamed!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

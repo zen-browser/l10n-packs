@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Αντικατάσταση καρφιτσωμένου URL με το τρέχον
     .accesskey = C
-tab-zen-unload = 
-    .label = Εκφόρτωση Καρτέλας
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Ενέργειες Εκφορτωτή Καρτελών
-    .accesskey = Τ
-tab-zen-prevent-unload = 
-    .label = Αποτροπή Εκφόρτωσης Καρτέλας
-    .accesskey = Ρ
-tab-zen-ignore-unload = 
-    .label = Επιτρέψτε την Εκφόρτωση Καρτέλας
-    .accesskey = I
 zen-themes-corrupted = Το αρχείο { -brand-short-name } mods είναι κατεστραμμένο. Έχει γίνει επαναφορά στο προεπιλεγμένο θέμα.
 zen-shortcuts-corrupted = Το αρχείο συντομεύσεων σας { -brand-short-name } είναι κατεστραμμένο. Έχει γίνει επαναφορά στις προεπιλεγμένες συντομεύσεις.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = Το URL της καρφιτσωμένης καρτέλας έχει αντικατασταθεί από το τρέχον URL.
 zen-tabs-renamed = Η καρτέλα μετονομάστηκε επιτυχώς!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

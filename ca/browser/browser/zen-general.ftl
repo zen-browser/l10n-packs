@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Substitueix l'URL fixat per l'actual
     .accesskey = C
-tab-zen-unload = 
-    .label = Hiberna la pestanya
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Accions d'hibernació de pestanyes
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Allow Tab Unload
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Permet la hibernació de pestanyes
-    .accesskey = I
 zen-themes-corrupted = El vostre fitxer de modificacions { -brand-short-name } està malmès. S'ha restablert al tema per defecte.
 zen-shortcuts-corrupted = El vostre fitxer de dreceres { -brand-short-name } està malmès. S'ha restablert a les dreceres per defecte.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = Confirma
 zen-pinned-tab-replaced = L'URL de la pestanya fixada s'ha substituït per l'URL actual.
 zen-tabs-renamed = S'ha canviat el nom de la pestanya correctament!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = S'ha obert una nova pestanya de fons!
+zen-workspace-renamed-toast = S'ha canviat el nom de l'espai de treball correctament!
+zen-library-sidebar-workspaces = 
+    .label = Espais
+zen-library-sidebar-mods = 
+    .label = Modificacions
 
 # note: Do not translate the "<br/>" tags in the following string
 

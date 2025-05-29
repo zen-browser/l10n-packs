@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Asenda püsikaardi URL praegusega
     .accesskey = C
-tab-zen-unload = 
-    .label = Eemalda kaart mälust
-    .accesskey = m
-zen-tabs-unloader-tab-actions = 
-    .label = Kaartide mälust eemaldamise tegevused
-    .accesskey = K
-tab-zen-prevent-unload = 
-    .label = Tõkesta kaardi mälust eemaldamine
-    .accesskey = T
-tab-zen-ignore-unload = 
-    .label = Luba kaardi mälust eemaldamine
-    .accesskey = L
 zen-themes-corrupted = Sinu { -brand-short-name } muudatuste fail on vigane. See on nüüd lähtestatud vaikimisi teemaks.
 zen-shortcuts-corrupted = Sinu { -brand-short-name } otseteede fail on vigane. See on nüüd lähtestatud vaikimisi otseteedeks.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
 zen-tabs-renamed = Tab has been successfully renamed!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

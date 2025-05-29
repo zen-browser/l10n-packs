@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Remplacer l’URL épinglée par l’actuelle
     .accesskey = C
-tab-zen-unload = 
-    .label = Décharger l’onglet
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Actions de déchargement des onglets
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Empêcher le déchargement de l'onglet
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Permettre le déchargement de l'onglet
-    .accesskey = I
 zen-themes-corrupted = Votre fichier de thèmes { -brand-short-name } est corrompu. Il a été réinitialisé au thème par défaut.
 zen-shortcuts-corrupted = Votre fichier de raccourcis { -brand-short-name } est corrompu. Ils ont été réinitialisés aux raccourcis par défaut.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = Confirmer
 zen-pinned-tab-replaced = L’adresse de l'onglet épinglé a été remplacée par l’adresse actuelle.
 zen-tabs-renamed = L’onglet a été renommé avec succès !
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Nouvel onglet ouvert en arrière-plan !
+zen-workspace-renamed-toast = L'espace de travail a été renommé avec succès !
+zen-library-sidebar-workspaces = 
+    .label = Espaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

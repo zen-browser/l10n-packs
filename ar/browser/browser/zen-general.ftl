@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = استبدال الرابط المثبت بالرابط الحالي
     .accesskey = C
-tab-zen-unload = 
-    .label = إلغاء تحميل علامة التبويب
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = إجراءات إلغاء تحميل علامات التبويب
-    .accesskey = ت
-tab-zen-prevent-unload = 
-    .label = Allow Tab Unload
-    .accesskey = ب
-tab-zen-ignore-unload = 
-    .label = السماح بإلغاء تحميل علامة التبويب
-    .accesskey = I
 zen-themes-corrupted = ملف التعديل { -brand-short-name } الخاص بك تالف. تم إعادة تعيينه إلى السمة الافتراضية.
 zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
 zen-tabs-renamed = Tab has been successfully renamed!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
