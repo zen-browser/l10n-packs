@@ -32,9 +32,9 @@ zen-general-confirm =
 zen-pinned-tab-replaced = Den fastgjorte fane-URL blev erstattet med den aktuelle.
 zen-tabs-renamed = Fanen blev omdøbt!
 zen-background-tab-opened-toast = Ny baggrundsfane åbnet!
-zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-workspace-renamed-toast = Arbejdsområde blev omdøbt!
 zen-library-sidebar-workspaces = 
-    .label = Spaces
+    .label = Rum
 zen-library-sidebar-mods = 
     .label = Mods
 
