@@ -32,9 +32,9 @@ zen-general-confirm =
 zen-pinned-tab-replaced = URL-адресу закріпленої вкладки замінено на поточну URL-адресу.
 zen-tabs-renamed = Вкладку успішно перейменовано!
 zen-background-tab-opened-toast = Відкрито нову фонову вкладку!
-zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-workspace-renamed-toast = Робочий простір успішно перейменовано!
 zen-library-sidebar-workspaces = 
-    .label = Spaces
+    .label = Простори
 zen-library-sidebar-mods = 
     .label = Mods
 
