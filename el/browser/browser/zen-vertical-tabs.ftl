@@ -14,13 +14,21 @@ zen-toolbar-context-compact-mode-just-toolbar =
 zen-toolbar-context-compact-mode-hide-both = 
     .label = Απόκρυψη όλων
     .accesskey = H
-sidebar-zen-sidepanel = 
-    .label = Πλαϊνοί Πίνακες
+zen-toolbar-context-new-folder = 
+    .label = Νέος φάκελος
+    .accesskey = N
 sidebar-zen-expand = 
     .label = Επέκταση Πλαϊνής στήλης
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Επαναφορά καρτέλας σε καρφιτσωμένο URL
-           *[other] Επαναφορά { $tabCount } καρτελών σε καρφιτσωμένα URLs
+            [one] Εκφόρτωση και μετάβαση στη καρτέλα
+           *[other] Εκφόρτωση { $tabCount } καρτελών και μετάβαση στη πρώτη
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Επαναφορά και καρφίτσωμα καρτέλας
+           *[other] Επαναφορά και καρφίτσωμα { $tabCount } καρτελών
+        }
+tab-reset-pin-label = Πίσω στο καρφιτσωμένο url

@@ -12,15 +12,27 @@ zen-toolbar-context-compact-mode-just-tabs =
 zen-toolbar-context-compact-mode-just-toolbar = 
     .label = Slėpti įrankių juostą
 zen-toolbar-context-compact-mode-hide-both = 
-    .label = Slėpti abiejus
+    .label = Slėpti abi
     .accesskey = H
-sidebar-zen-sidepanel = 
-    .label = Šoniniai skydeliai
+zen-toolbar-context-new-folder = 
+    .label = Naujas aplankas
+    .accesskey = N
 sidebar-zen-expand = 
     .label = Išskleisti šoninę juostą
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Atkurti kortelę į prisegtą URL adresą
-           *[other] Atkurti { $tabCount } kortelių prisegtus URL adresus
+            [one] Iškelti { $tabCount } kortelę ir perjungti į pirmąją
+            [few] Iškelti { $tabCount } korteles ir perjungti į pirmąją
+            [many] Iškelti { $tabCount } kortelės ir perjungti į pirmąją
+           *[other] Iškelti { $tabCount } kortelių ir perjungti į pirmąją
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Atkurti ir prisegti { $tabCount } kortelę
+            [few] Atkurti ir prisegti { $tabCount } korteles
+            [many] Atkurti ir prisegti { $tabCount } kortelės
+           *[other] Atkurti ir prisegti { $tabCount } kortelių
+        }
+tab-reset-pin-label = Atgal į prisegtą URL

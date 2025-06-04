@@ -2,24 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = Daha sakin bir internete
-welcome-dialog-welcome-title-part-2 = hoş geldiniz
-welcome-dialog-get-started = Başlayalım
-welcome-dialog-import = 😍 { -brand-short-name } favorilerini ekle
-welcome-dialog-import-subtext = Son tarayıcında kaldığın yerden devam et
-welcome-dialog-import-action = Verilerini içeri aktar
-welcome-dialog-theme = Kendini evinde hisset
-welcome-dialog-theme-subtext = En sevdiğin görünümle deneyimini kişiselleştir!
-welcome-dialog-theme-header-1 = Rengini seç
-welcome-dialog-theme-header-2 = Temanı seç
-welcome-dialog-search = 🔍 Bir arama motoru seç
-welcome-dialog-search-subtext = Tarayıcı deneyimini kişiselleştirmek için tercih ettiğin arama motorunu seç!
-welcome-dialog-layout = Düzeninizi seçin
-welcome-dialog-layout-subtext = Size en iyi uyan düzeni seçin!
-welcome-dialog-layout-single-toolbar = Tek araç çubuğu
-welcome-dialog-layout-multiple-toolbar = Birden fazla araç çubuğu
-welcome-dialog-layout-collapsed-toolbar = Daraltılmış araç çubuğu
-welcome-dialog-thanks-title-part-1 = Teşekkür ederiz
-welcome-dialog-thanks-title-part-2 = { -brand-short-name }'i seçtiğiniz için!
-welcome-dialog-back-action = Geri Dön
-welcome-dialog-next-action = İleri
+zen-welcome-title-line1 = Daha sakin bir internete
+zen-welcome-title-line2 = hoş geldiniz
+zen-welcome-import-title = Yeni Bir Başlangıç, Aynı Yer İmleri
+zen-welcome-import-description-1 = Yer imleriniz, geçmişiniz ve parolalarınız internetteki ekmek kırıntıları gibidir; onları geride bırakmayın!
+zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
+zen-welcome-import-button = Şimdi içe aktar
+zen-welcome-set-default-browser = { -brand-short-name }'i varsayılan tarayıcı olarak ayarlayın
+zen-welcome-dont-set-default-browser = { -brand-short-name }'i varsayılan tarayıcı olarak AYARLAMAYIN
+zen-welcome-initial-essentials-title = Her Zamanki Sekmeleriniz, Her Zaman Yanınızda
+zen-welcome-initial-essentials-description-1 = En önemli sekmelerinizi kolayca erişilebilir ve her zaman elinizin altında tutun, ne kadar açsanız bile.
+zen-welcome-initial-essentials-description-2 = Temel sekmeler her zaman görünür, hangi çalışma alanında olduğun fark etmez.
+zen-welcome-workspace-colors-title = Senin Çalışma Alanın, Senin Renklerin
+zen-welcome-workspace-colors-description = Her çalışma alanında ayrı renkler kullanarak tarayıcını kişiselleştir.
+zen-welcome-start-browsing-title =
+    Her şey hazır mı?<br/>
+    Hadi başlayalım!
+zen-welcome-start-browsing-description-1 = Tamamen hazırsın. Aşağıdaki butona tıklayarak { -brand-short-name } ile aramaya başla.
+zen-welcome-start-browsing = İçeri dal!
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-skip-button = Geç
+zen-welcome-next-action = Sonraki
+zen-welcome-finished = Zen başarıyla kuruldu ve ayarlandı!

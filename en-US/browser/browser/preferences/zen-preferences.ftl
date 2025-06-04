@@ -10,18 +10,6 @@ zen-look-and-feel-colors-description = Make { -brand-short-name } look and feel 
 zen-look-and-feel-use-workspace-colors =
     .label = Use workspace colors as primary color
 
-pane-zen-side-panels-title = Side Web Panels
-zen-side-panels-header = General settings for web panels
-zen-side-panels-description = Increase productivity by having multiple views at once!
-zen-side-panels-enabled =
-    .label = Enable Web Side Panels
-
-zen-side-panels-close-on-blur =
-    .label = Close the panel when it loses focus if it's not pinned
-
-zen-vertical-tabs-show-bottom-border =
-    .label = Show border for the bottom icons
-
 zen-vertical-tabs-layout-header = Browser Layout
 zen-vertical-tabs-layout-description = Choose the layout that suits you best
 
@@ -64,31 +52,21 @@ zen-look-and-feel-compact-view-top-toolbar =
 zen-look-and-feel-compact-toolbar-flash-popup =
     .label = Briefly make the toolbar popup when switching or opening new tabs in compact mode
 
-zen-look-and-feel-buttons-header = Button style
-zen-look-and-feel-buttons-description = Choose the style of buttons you want to see
-
-zen-look-and-feel-pilled-buttons =
-    .label = Pilled Buttons
-
 pane-zen-tabs-title = Tab Management
 category-zen-workspaces =
     .tooltiptext = { pane-zen-tabs-title }
 pane-settings-workspaces-title = Workspaces
 
-pane-zen-tabs-unloader-title = Tab Unloader
-zen-tabs-unloader-header = General settings for tab unloader
-zen-tabs-unloader-description = Automatically unload unused tabs to save memory
-
 zen-tabs-unloader-enabled =
     .label = Enable Tab Unloader
-zen-tabs-unloader-unload-delay =
-    .label = Unload tabs after
-zen-tabs-unloader-unload-delay-description = The time in minutes after which tabs will be unloaded
 
 zen-look-and-feel-compact-toolbar-themed =
     .label = Use themed background for compact toolbar
 zen-look-and-feel-compact-sidebar-themed =
     .label = Use themed background for compact sidebar
+
+zen-workspace-continue-where-left-off =
+    .label = Continue where you left off
 
 pane-zen-pinned-tab-manager-title = Pinned Tabs
 zen-pinned-tab-manager-header = General settings for pinned tabs
@@ -118,8 +96,6 @@ zen-settings-workspaces-enabled =
     .label = Enable Workspaces
 zen-settings-workspaces-hide-default-container-indicator =
     .label = Hide the default container indicator in the tab bar
-zen-settings-workspaces-allow-pinned-tabs-for-different-workspaces =
-    .label = Allow workspaces have their own pinned tabs
 
 zen-key-unsaved = Unsaved shortcut! Please save it by clicking the "Escape" key after retyping it.
 zen-key-conflict = Conflict with another shortcut
@@ -155,8 +131,16 @@ zen-theme-marketplace-remove-button =
     .label = Remove mod
 zen-theme-marketplace-check-for-updates-button =
     .label = Check for Updates
+zen-theme-marketplace-import-button=
+    .label = Import mods
+zen-theme-marketplace-export-button =
+    .label = Export Mods
+zen-theme-marketplace-import-success = Mods imported successfully
+zen-theme-marketplace-import-failure = There was an error importing the mods
+zen-theme-marketplace-export-success = Mods exported successfully
+zen-theme-marketplace-export-failure = There was an error exporting the mods
 zen-theme-marketplace-updates-success = Mods updated successfully
-zen-theme-marketplace-updates-fail = Couldn't find any updates!
+zen-theme-marketplace-updates-failure = Couldn't find any updates!
 zen-theme-marketplace-toggle-enabled-button =
     .title = Disable mod
 zen-theme-marketplace-toggle-disabled-button =
@@ -170,13 +154,11 @@ zen-theme-marketplace-dropdown-default-label =
 zen-theme-marketplace-input-default-placeholder =
     .placeholder = Type something...
 pane-zen-marketplace-title = Zen Mods
+zen-themes-auto-update =
+   .label = Automatically update installed mods on startup 
 
-zen-settings-workspaces-display-as-icon-strip =
-    .label = Display workspaces as an icon strip
 zen-settings-workspaces-force-container-tabs-to-workspace =
     .label = Switch to workspace where container is set as default when opening container tabs
-zen-settings-workspaces-hide-deactivated-workspaces =
-    .label = Hide deactivated workspaces
 
 zen-theme-marketplace-link = Visit Store
 
@@ -186,12 +168,6 @@ zen-dark-theme-styles-description = Customize the dark theme to your liking
 zen-dark-theme-styles-amoled = Night Theme
 zen-dark-theme-styles-default = Default Dark Theme
 zen-dark-theme-styles-colorful = Colorful Dark Theme
-
-zen-split-view-title = Split View
-zen-split-view-header = Split View Functionality
-zen-split-view-description = Split your browser into multiple views, enabling you to browse multiple websites at once
-zen-split-view-change-on-hover =
-    .label = Change tabs on hover
 
 zen-compact-mode-styles-left = Hide Tab bar
 zen-compact-mode-styles-top = Hide Top bar
@@ -306,6 +282,10 @@ zen-key-stop = Stop Loading
 zen-full-zoom-reduce-shortcut = Zoom Out
 zen-full-zoom-enlarge-shortcut = Zoom In
 zen-full-zoom-reset-shortcut = Reset Zoom
+zen-full-zoom-reset-shortcut-alt = Reset Zoom (Alt)
+zen-full-zoom-enlarge-shortcut-alt = Zoom In (Alt)
+zen-full-zoom-enlarge-shortcut-alt2 = Zoom In (Alt 2)
+
 zen-bidi-switch-direction-shortcut = Switch Text Direction
 zen-private-browsing-shortcut = Private Browsing
 zen-screenshot-shortcut = Take Screenshot
@@ -332,7 +312,6 @@ zen-workspace-shortcut-switch-9 = Switch to Workspace 9
 zen-workspace-shortcut-switch-10 = Switch to Workspace 10
 zen-workspace-shortcut-forward = Forward Workspace
 zen-workspace-shortcut-backward = Backward Workspace
-zen-web-panel-shortcut-toggle = Toggle Web Panel
 zen-sidebar-shortcut-toggle = Toggle Sidebar's Width
 zen-pinned-tab-shortcut-reset = Reset Pinned Tab to Pinned URL
 zen-split-view-shortcut-grid = Toggle Split View Grid

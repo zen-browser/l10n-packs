@@ -2,24 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = Добро пожаловать в
-welcome-dialog-welcome-title-part-2 = более спокойный интернет
-welcome-dialog-get-started = Начнём
-welcome-dialog-import = Перенесите свои избранные в { -brand-short-name }
-welcome-dialog-import-subtext = Продолжайте с того места, где вы остановились в прошлом браузере
-welcome-dialog-import-action = Импортировать данные
-welcome-dialog-theme = Чувствуйте себя как дома
-welcome-dialog-theme-subtext = Настройте интерфейс так, как вам нравится!
-welcome-dialog-theme-header-1 = Выберите цвет по вкусу
-welcome-dialog-theme-header-2 = Выберите тему оформления
-welcome-dialog-search = Выберите поисковую систему
-welcome-dialog-search-subtext = Подберите поисковик под свои потребности для комфортного сёрфинга!
-welcome-dialog-layout = Выберите макет
-welcome-dialog-layout-subtext = Выберите макет, который нравится вам больше всего!
-welcome-dialog-layout-single-toolbar = Всё в одной панели
-welcome-dialog-layout-multiple-toolbar = Несколько панелей
-welcome-dialog-layout-collapsed-toolbar = Компактная панель
-welcome-dialog-thanks-title-part-1 = Спасибо за
-welcome-dialog-thanks-title-part-2 = выбор { -brand-short-name }!
-welcome-dialog-back-action = Назад
-welcome-dialog-next-action = Далее
+zen-welcome-title-line1 = Добро пожаловать
+zen-welcome-title-line2 = в спокойный интернет
+zen-welcome-import-title = Новое начало, прежние закладки
+zen-welcome-import-description-1 = Ваши закладки, история и пароли — как след из хлебных крошек в интернете, не оставляйте их!
+zen-welcome-import-description-2 = Легко импортируйте их из другого браузера и продолжите работу там, где остановились.
+zen-welcome-import-button = Импортировать
+zen-welcome-set-default-browser = Установить { -brand-short-name }, как браузер по умолчанию
+zen-welcome-dont-set-default-browser = Не устанавливать { -brand-short-name }, как браузер по умолчанию
+zen-welcome-initial-essentials-title = Важные вкладки всегда рядом
+zen-welcome-initial-essentials-description-1 = Держите самые важные вкладки всегда под рукой, сколько бы их ни было открыто.
+zen-welcome-initial-essentials-description-2 = Важные вкладки всегда видны, независимо от того, в каком рабочем пространстве вы находитесь.
+zen-welcome-workspace-colors-title = Ваши пространства, ваши цвета
+zen-welcome-workspace-colors-description = Персонализируйте браузер, придав каждому рабочему пространству свой собственный уникальный цвет.
+zen-welcome-start-browsing-title =
+    Всё настроили?<br/>
+    Погружайтесь!
+zen-welcome-start-browsing-description-1 = Всё настроено и готово к работе. Нажмите кнопку ниже, чтобы начать искать с { -brand-short-name }.
+zen-welcome-start-browsing = Погрузиться!
+zen-welcome-default-search-title = Ваша поисковая система по умолчанию
+zen-welcome-default-search-description = Выберите вашу поисковую систему по умолчанию. Вы всегда можете изменить ее позже!
+zen-welcome-skip-button = Пропустить
+zen-welcome-next-action = Продолжить
+zen-welcome-finished = Zen настроен правильно!

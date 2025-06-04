@@ -2,24 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = 欢迎来到
-welcome-dialog-welcome-title-part-2 = 沉浸式的互联网
-welcome-dialog-get-started = 开始使用
-welcome-dialog-import = 😍 将您的喜好带到 { -brand-short-name }
-welcome-dialog-import-subtext = 继续上次浏览器会话
-welcome-dialog-import-action = 导入您的数据
-welcome-dialog-theme = 让您感到宾至如归
-welcome-dialog-theme-subtext = 挑选您最喜欢的外观，个性化您的使用体验！
-welcome-dialog-theme-header-1 = 选择最适合您的颜色
-welcome-dialog-theme-header-2 = 选择您的主题
-welcome-dialog-search = :magnifying_glass_tilted_left：选择一个搜索引擎
-welcome-dialog-search-subtext = 选择心仪的搜索引擎，享受个性化浏览体验！
-welcome-dialog-layout = 选择您的布局
-welcome-dialog-layout-subtext = 选择最适合您的布局！
-welcome-dialog-layout-single-toolbar = 单工具栏
-welcome-dialog-layout-multiple-toolbar = 多工具栏
-welcome-dialog-layout-collapsed-toolbar = 折叠工具栏
-welcome-dialog-thanks-title-part-1 = 感谢
-welcome-dialog-thanks-title-part-2 = 选择 { -brand-short-name }！
-welcome-dialog-back-action = 返回
-welcome-dialog-next-action = 下一个
+zen-welcome-title-line1 = 欢迎来到
+zen-welcome-title-line2 = 沉浸式的互联网
+zen-welcome-import-title = 重新出发，收藏未改
+zen-welcome-import-description-1 = 收藏足迹贴心伴，迁移升级别落下！
+zen-welcome-import-description-2 = 一键迁移数据，无缝续览网络。
+zen-welcome-import-button = 立即导入
+zen-welcome-set-default-browser = 将 { -brand-short-name } 设为默认浏览器
+zen-welcome-dont-set-default-browser = 不要将 { -brand-short-name } 设为默认浏览器
+zen-welcome-initial-essentials-title = 关键页面，一触即达
+zen-welcome-initial-essentials-description-1 = 无论开启多少标签页，常驻页面始终置顶。
+zen-welcome-initial-essentials-description-2 = 无论身处哪个工作区，常驻页面始终可见。
+zen-welcome-workspace-colors-title = 空间由你，色彩随心
+zen-welcome-workspace-colors-description = 您可以给每个工作区定制化颜色。
+zen-welcome-start-browsing-title =
+    都准备好了吗？<br/>
+    开始冲浪吧！
+zen-welcome-start-browsing-description-1 = 一切准备妥当。点击下方按钮开始用 { -brand-short-name } 浏览互联网。
+zen-welcome-start-browsing = 立刻开始！
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-skip-button = 跳过
+zen-welcome-next-action = 下一步
+zen-welcome-finished = 您的 Zen 已正确设置！

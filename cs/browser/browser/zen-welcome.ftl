@@ -2,24 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = Přivítejte
-welcome-dialog-welcome-title-part-2 = klidnější internet
-welcome-dialog-get-started = Začít
-welcome-dialog-import = 😍 Přeneste své oblíbené záložky do prohlížeče { -brand-short-name }
-welcome-dialog-import-subtext = Začněte tam, kde jste skončili v minulém prohlížeči
-welcome-dialog-import-action = Importovat vaše data
-welcome-dialog-theme = Udělejte si pohodlí
-welcome-dialog-theme-subtext = Přizpůsobte si zážitek podle svého oblíbeného vzhledu!
-welcome-dialog-theme-header-1 = Vyberte si dokonalou barvu
-welcome-dialog-theme-header-2 = Vyberte si motiv
-welcome-dialog-search = 🔍 Zvolte vyhledávač
-welcome-dialog-search-subtext = Vyberte si vyhledávač a přizpůsobte si prohlížení na míru!
-welcome-dialog-layout = Vyberte si rozložení
-welcome-dialog-layout-subtext = Vyberte si rozložení, které vám vyhovuje nejlépe!
-welcome-dialog-layout-single-toolbar = Jeden panel nástrojů
-welcome-dialog-layout-multiple-toolbar = Více panelů nástrojů
-welcome-dialog-layout-collapsed-toolbar = Sbalený panel nástrojů
-welcome-dialog-thanks-title-part-1 = Děkujeme Vám za
-welcome-dialog-thanks-title-part-2 = výběr prohlížeče { -brand-short-name }!
-welcome-dialog-back-action = Zpět
-welcome-dialog-next-action = Další
+zen-welcome-title-line1 = Přivítejte
+zen-welcome-title-line2 = klidnější internet
+zen-welcome-import-title = Nový začátek, stejné záložky
+zen-welcome-import-description-1 = Vaše záložky, historie a hesla jsou jako stopa drobků po internetu—nenechávejte je za sebou!
+zen-welcome-import-description-2 = Snadno je přeneste z jiného prohlížeče a pokračujte přesně tam, kde jste skončili..
+zen-welcome-import-button = Importovat nyní
+zen-welcome-set-default-browser = Nastavit { -brand-short-name } jako výchozí prohlížeč
+zen-welcome-dont-set-default-browser = NENASTAVOVAT { -brand-short-name } jako výchozí prohlížeč
+zen-welcome-initial-essentials-title = Vaše klíčové karty vždy na dosah
+zen-welcome-initial-essentials-description-1 = Mějte své nejdůležitější karty snadno dostupné a vždy po ruce, bez ohledu na to, kolik jich otevřete.
+zen-welcome-initial-essentials-description-2 = Essential karty jsou vždy viditelné, bez ohledu na to, ve kterém pracovním prostoru se nacházíte.
+zen-welcome-workspace-colors-title = Vaše pracovní prostory, vaše barvy
+zen-welcome-workspace-colors-description = Přizpůsobte si prohlížeč a dejte každému pracovnímu prostoru jeho vlastní barvu.
+zen-welcome-start-browsing-title =
+    Všechno připraveno?<br/> 
+    Tak pojďme na to!
+zen-welcome-start-browsing-description-1 = Všechno máte nastaveno a jste připraveni vyrazit. Klikněte na tlačítko níže a začněte prohlížet s prohlížečem { -brand-short-name }.
+zen-welcome-start-browsing = Pustit se do toho!
+zen-welcome-default-search-title = Váš výchozí vyhledávač
+zen-welcome-default-search-description = Vyberte si svůj výchozí vyhledávač. Později jej můžete změnit!
+zen-welcome-skip-button = Přeskočit
+zen-welcome-next-action = Další
+zen-welcome-finished = Váš Zen byl úspěšně nastaven!

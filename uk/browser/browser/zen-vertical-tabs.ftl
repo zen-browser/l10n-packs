@@ -14,13 +14,23 @@ zen-toolbar-context-compact-mode-just-toolbar =
 zen-toolbar-context-compact-mode-hide-both = 
     .label = Приховувати обидві
     .accesskey = Н
-sidebar-zen-sidepanel = 
-    .label = Бічні панелі
+zen-toolbar-context-new-folder = 
+    .label = Нова тека
+    .accesskey = N
 sidebar-zen-expand = 
     .label = Expand Sidebar
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Скинути вкладку, щоб закріпити URL-адресу
-           *[other] Скинути { $tabCount } вкладок, щоб закріпити URL-адреси
+            [one] Вивантажити й перемкнутися на вкладку
+            [few] Вивантажити { $tabCount } вкладки й перемкнутися до першої
+           *[other] Вивантажити { $tabCount } вкладок й перемкнутися до першої
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Скинути та закріпити вкладку
+            [few] Скинути та закріпити { $tabCount } вкладки
+           *[other] Скинути та закріпити { $tabCount } вкладок
+        }
+tab-reset-pin-label = Повернутися до закріпленої адреси

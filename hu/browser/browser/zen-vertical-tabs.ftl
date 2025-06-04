@@ -14,13 +14,21 @@ zen-toolbar-context-compact-mode-just-toolbar =
 zen-toolbar-context-compact-mode-hide-both = 
     .label = Mindkettő elrejtése
     .accesskey = H
-sidebar-zen-sidepanel = 
-    .label = Oldalsó panelek
+zen-toolbar-context-new-folder = 
+    .label = Új mappa
+    .accesskey = N
 sidebar-zen-expand = 
     .label = Oldalsáv kibontása
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Lap visszaállítása a kitűzött URL-re
-           *[other] { $tabCount } lap visszaállítása a kitűzött URL-ekre
+            [one] Ürítés és lap váltás
+           *[other] { $tabCount } lap ürítése és első lapra váltás
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Lap visszaállítása és rögzítése
+           *[other] { $tabCount } lap visszaállítása és rögzítése
+        }
+tab-reset-pin-label = Vissza a rögzített url címre

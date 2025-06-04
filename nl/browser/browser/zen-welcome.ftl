@@ -2,24 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = Welkom op
-welcome-dialog-welcome-title-part-2 = het kalmere internet
-welcome-dialog-get-started = Aan de slag
-welcome-dialog-import = :smiling_face_with_hartstochten: Breng jouw favorieten naar { -brand-short-name }
-welcome-dialog-import-subtext = Ga verder waar je bent gebleven in je vorige browser
-welcome-dialog-import-action = Uw gegevens importeren
-welcome-dialog-theme = Doe alsof je thuis bent
-welcome-dialog-theme-subtext = Personaliseer je ervaring met je favoriete look!
-welcome-dialog-theme-header-1 = Kies je perfecte kleur
-welcome-dialog-theme-header-2 = Kies uw thema
-welcome-dialog-search = 🔍 Kies een zoekmachine
-welcome-dialog-search-subtext = Selecteer uw gewenste zoekmachine om uw browserervaring aan te passen!
-welcome-dialog-layout = Selecteer je indeling
-welcome-dialog-layout-subtext = Kies een indeling die het beste bij jou past!
-welcome-dialog-layout-single-toolbar = Enkele werkbalk
-welcome-dialog-layout-multiple-toolbar = Meerdere werkbalken
-welcome-dialog-layout-collapsed-toolbar = Ingevouwen werkbalk
-welcome-dialog-thanks-title-part-1 = Bedankt om te
-welcome-dialog-thanks-title-part-2 = Kiezen voor { -brand-short-name }!
-welcome-dialog-back-action = Terug
-welcome-dialog-next-action = Volgende
+zen-welcome-title-line1 = Welkom bij
+zen-welcome-title-line2 = een rustiger internet
+zen-welcome-import-title = Een frisse start, dezelfde bladwijzers
+zen-welcome-import-description-1 = Je bladwijzers, geschiedenis en wachtwoorden zijn als een spoor van broodkruimels door het internet - laat ze niet achter!
+zen-welcome-import-description-2 = Easily bring them over from another browser and pick up right where you left off..
+zen-welcome-import-button = Nu importeren
+zen-welcome-set-default-browser = { -brand-short-name } instellen als standaardbrowser
+zen-welcome-dont-set-default-browser = { -brand-short-name } NIET instellen als standaardbrowser
+zen-welcome-initial-essentials-title = Je belangrijkste tabbladen, altijd binnen handbereik
+zen-welcome-initial-essentials-description-1 = Houd je belangrijkste tabbladen gemakkelijk toegankelijk en altijd bij de hand, hoeveel je er ook opent.
+zen-welcome-initial-essentials-description-2 = Essential tabbladen zijn altijd zichtbaar, ongeacht de werkruimte waarin je je bevindt.
+zen-welcome-workspace-colors-title = Jouw werkruimtes, jouw kleuren
+zen-welcome-workspace-colors-description = Personaliseer je browser door elke werkruimte zijn eigen unieke kleuridentiteit te geven.
+zen-welcome-start-browsing-title =
+    Klaar?<br/>
+    Laten we beginnen!
+zen-welcome-start-browsing-description-1 = Je bent er helemaal klaar voor. Klik op de knop hieronder om te beginnen met browsen met { -brand-short-name }.
+zen-welcome-start-browsing = Duik erin!
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-skip-button = Overslaan
+zen-welcome-next-action = Volgende
+zen-welcome-finished = Je Zen is correct ingesteld!

@@ -2,24 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = Üdvözöljük a
-welcome-dialog-welcome-title-part-2 = a nyugodtabb internet
-welcome-dialog-get-started = Indulás
-welcome-dialog-import = 😍 Hozd át a kedvenceidet a { -brand-short-name }-be
-welcome-dialog-import-subtext = Folytasd ahol abbahagytad az előző böngésződben
-welcome-dialog-import-action = Adataid importálása
-welcome-dialog-theme = Érezd otthon magad
-welcome-dialog-theme-subtext = Személyre szabhatja élményét kedvenc megjelenésével!
-welcome-dialog-theme-header-1 = Válaszd ki a legtökéletesebb színt
-welcome-dialog-theme-header-2 = Válassz egy témát
-welcome-dialog-search = 🔍 Válassz egy keresőmotort
-welcome-dialog-search-subtext = Válassz egy keresőmotort, hogy a legjobb legyen a böngészési élményed!
-welcome-dialog-layout = Válassza ki az elrendezést
-welcome-dialog-layout-subtext = Válassza ki az önnek legmegfelelőbb elrendezést!
-welcome-dialog-layout-single-toolbar = Egyetlen eszköztár
-welcome-dialog-layout-multiple-toolbar = Több eszköztár
-welcome-dialog-layout-collapsed-toolbar = Összecsukott eszköztár
-welcome-dialog-thanks-title-part-1 = Köszönet nekik
-welcome-dialog-thanks-title-part-2 = { -brand-short-name } választása!
-welcome-dialog-back-action = Vissza
-welcome-dialog-next-action = Következő
+zen-welcome-title-line1 = Üdvözöljük
+zen-welcome-title-line2 = egy nyugodtabb interneten
+zen-welcome-import-title = Egy új kezdet, ugyanazok a könyvjelzők
+zen-welcome-import-description-1 = A könyvjelzői, előzményei és jelszavai olyanok, mint a kenyérmorzsák az interneten - ne hagyja hátra őket!
+zen-welcome-import-description-2 = Könnyedén áthozhatja őket egy másik böngészőből, és ott folytathatja, ahol abbahagyta..
+zen-welcome-import-button = Importálás most
+zen-welcome-set-default-browser = { -brand-short-name } beállítása alapértelmezett böngészőnek
+zen-welcome-dont-set-default-browser = NE állítsa be a { -brand-short-name } böngészőt alapértelmezett böngészőként
+zen-welcome-initial-essentials-title = A legfontosabb lapok, mindig kéznél
+zen-welcome-initial-essentials-description-1 = A legfontosabb lapokat könnyen elérhetővé és mindig kéznél tarthatja, függetlenül attól, hogy hányat nyit meg.
+zen-welcome-initial-essentials-description-2 = Az alapvető lapok mindig láthatóak, függetlenül attól, hogy milyen munkaterületen van.
+zen-welcome-workspace-colors-title = Az Ön munkakörnyezetei, az Ön színei
+zen-welcome-workspace-colors-description = Személyre szabhatja böngészőjét azáltal, hogy minden munkaterületnek saját, egyedi színt ad.
+zen-welcome-start-browsing-title =
+    Minden kész?<br/>
+    Kezdjük!
+zen-welcome-start-browsing-description-1 = Minden előkészítve és készen áll az indulásra. Kattintson az alábbi gombra a böngészés megkezdéséhez a { -brand-short-name } használatával.
+zen-welcome-start-browsing = Merüljön el!
+zen-welcome-default-search-title = Az Ön alapértelmezett keresőmotorja
+zen-welcome-default-search-description = Válassza ki az alapértelmezett keresőmotort. Később bármikor megváltoztathatja!
+zen-welcome-skip-button = Kihagyás
+zen-welcome-next-action = Következő
+zen-welcome-finished = A Zen helyesen lett beállítva!

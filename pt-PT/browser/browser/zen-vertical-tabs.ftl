@@ -14,13 +14,21 @@ zen-toolbar-context-compact-mode-just-toolbar =
 zen-toolbar-context-compact-mode-hide-both = 
     .label = Ocultar ambas
     .accesskey = H
-sidebar-zen-sidepanel = 
-    .label = Painéis Laterais
+zen-toolbar-context-new-folder = 
+    .label = Nova pasta
+    .accesskey = N
 sidebar-zen-expand = 
     .label = Expandir Barra Lateral
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Repor separador para a URL fixada
-           *[other] Repor { $tabCount } separadores para as URL fixadas
+            [one] Hibernar e mudar para o separador
+           *[other] Hibernar { $tabCount } separadores mudar para o primeiro
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] Restaurar e fixar separador
+           *[other] Restaurar e fixar { $tabCount } separadores
+        }
+tab-reset-pin-label = Voltar ao URL fixado

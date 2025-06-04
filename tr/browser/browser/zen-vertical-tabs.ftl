@@ -14,13 +14,21 @@ zen-toolbar-context-compact-mode-just-toolbar =
 zen-toolbar-context-compact-mode-hide-both = 
     .label = İkisini de Gizle
     .accesskey = H
-sidebar-zen-sidepanel = 
-    .label = Yan Panaller
+zen-toolbar-context-new-folder = 
+    .label = Yeni klasör
+    .accesskey = N
 sidebar-zen-expand = 
     .label = Kenar Çubuğunu Genişlet
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] Sekmeyi sabitlenen URL'ye sıfırla
-           *[other] { $tabCount } sekmeyi sabitlenen URL'ye sıfırla
+            [bir] Kapatın ve sekmeye geçin
+           *[other] { $tabCount } sekmelerini kaldırın ve ilkine geçin
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [bir] Sıfırlayın ve sabitleyin
+           *[other] { $tabCount } sekmelerini sıfırlayın ve sabitleyin
+        }
+tab-reset-pin-label = rlSabitlenen Url'ye dön

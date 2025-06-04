@@ -2,24 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-welcome-dialog-welcome-title-part-1 = Welcome to
-welcome-dialog-welcome-title-part-2 = the calmer Internet
-welcome-dialog-get-started = Mulai sekarang
-welcome-dialog-import = 😍 Bawa favoritmu ke { -brand-short-name }
-welcome-dialog-import-subtext = Lanjutkan pencarian terakhirmu
-welcome-dialog-import-action = Impor datamu
-welcome-dialog-theme = Buatlah dirimu nyaman di sini
-welcome-dialog-theme-subtext = Personalisasi pengalamanmu dengan tampilan favoritmu!
-welcome-dialog-theme-header-1 = Pilih warna yang sempurna untukmu
-welcome-dialog-theme-header-2 = Pilih tema kamu
-welcome-dialog-search = 🔍 Pilih mesin pencarian
-welcome-dialog-search-subtext = Pilih mesin pencarian yang kamu inginkan untuk meningkatkan pengalaman pencarianmu!
-welcome-dialog-layout = Pilih tata letakmu
-welcome-dialog-layout-subtext = Pilih tata letak yang paling cocok untukmu!
-welcome-dialog-layout-single-toolbar = Toolbar Tunggal
-welcome-dialog-layout-multiple-toolbar = Toolbar Terpisah
-welcome-dialog-layout-collapsed-toolbar = Toolbar yang Diciutkan
-welcome-dialog-thanks-title-part-1 = Thanks for
-welcome-dialog-thanks-title-part-2 = choosing { -brand-short-name }!
-welcome-dialog-back-action = Kembali
-welcome-dialog-next-action = Lanjut
+zen-welcome-title-line1 = Selamat datang di
+zen-welcome-title-line2 = internet yang tenang
+zen-welcome-import-title = Permulaan baru, Bookmark tetap sama
+zen-welcome-import-description-1 = Bookmark, histori dan password anda adalah Jejak remah roti yang anda tinggalkan di internet--jangan tinggalkan begitu saja!
+zen-welcome-import-description-2 = Semudah mengambil dari peramban lain dan melanjutkan dari yang anda tinggalkan.
+zen-welcome-import-button = Impor sekarang
+zen-welcome-set-default-browser = Atur { -brand-short-name } sebagai peramban bawaan
+zen-welcome-dont-set-default-browser = Jangan membuat { -brand-short-name } sebagai peramban bawaan
+zen-welcome-initial-essentials-title = Tab penting anda, akan selalu dalam genggaman
+zen-welcome-initial-essentials-description-1 = Simpan tab penting anda mudah diakses dan berada dalam jangkauan anda, seberapapun anda membukanya.
+zen-welcome-initial-essentials-description-2 = Tab penting selalu terlihat, dimanapun tempat kerja anda.
+zen-welcome-workspace-colors-title = Ruang Kerja anda, Warna anda
+zen-welcome-workspace-colors-description = Atur peramban anda dengan memberikan warna tersendiri tiap ruang kerja.
+zen-welcome-start-browsing-title =
+    Semua Pengaturan selesai?<br/>
+    Mari mulai menjelajah!
+zen-welcome-start-browsing-description-1 = Anda selesai melakukan pengaturan dan siap untuk mulai. Klik tombol di bawah ini untuk mulai menjelajah dengan { -brand-short-name }.
+zen-welcome-start-browsing = Penyelaman dimulai!
+zen-welcome-default-search-title = Your Default Search Engine
+zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-skip-button = Lewati
+zen-welcome-next-action = Lanjut
+zen-welcome-finished = Anda berhasil mengatur Zen milik anda!

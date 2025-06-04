@@ -1,12 +1,12 @@
 tab-zen-split-tabs = 
     .label =
         { $tabCount ->
-            [1] Separar pestañas (se necesitan múltiples pestañas seleccionadas)
-           *[other] Separar { $tabCount } pestañas
+            [1] Vista dividida (se necesitan varias pestañas seleccionadas)
+           *[other] Añadir { $tabCount } pestañas a vista dividida
         }
     .accesskey = S
 zen-split-link = 
-    .label = Separar enlace a una nueva pestaña
+    .label = Añadir enlace a vista dividida
     .accesskey = S
 zen-split-view-modifier-header = Vista dividida
 zen-split-view-modifier-activate-reallocation = 

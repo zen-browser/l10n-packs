@@ -14,13 +14,21 @@ zen-toolbar-context-compact-mode-just-toolbar =
 zen-toolbar-context-compact-mode-hide-both = 
     .label = 둘 다 숨기기
     .accesskey = H
-sidebar-zen-sidepanel = 
-    .label = 사이드 패널
+zen-toolbar-context-new-folder = 
+    .label = 새 폴더
+    .accesskey = N
 sidebar-zen-expand = 
     .label = 사이드바 확장
-tabbrowser-reset-tabs-button = 
+tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-            [one] 고정된 URL로 되돌리기
-           *[other] { $tabCount }개의 탭을 고정된 URL로 되돌리기
+            [one] 언로드 후 탭 변경
+           *[other] { $tabCount }개 탭 언로드 후 첫 번째 탭으로 변경
         }
+tabbrowser-reset-pin-button = 
+    .tooltiptext =
+        { $tabCount ->
+            [one] 탭 초기화 후 고정
+           *[other] { $tabCount }개 탭 초기화 후 고정
+        }
+tab-reset-pin-label = 고정된 URL로 되돌리기
