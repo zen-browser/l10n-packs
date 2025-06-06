@@ -12,23 +12,11 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = 고정된 URL을 현재 URL로 변경
     .accesskey = C
-tab-zen-unload = 
-    .label = 탭 언로드
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = 탭 언로더 액션
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = 탭 언로드 방지
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = 탭 언로드 허용
-    .accesskey = I
 zen-themes-corrupted = { -brand-short-name } 모드 파일이 손상되었습니다. 기본 테마로 재설정되었습니다.
 zen-shortcuts-corrupted = { -brand-short-name } 단축키 파일이 손상되었습니다. 기본 단축키 설정으로 재설정 되었습니다.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    새 탭 페이지가 필요 없는 새로운 URL 바가 활성화 되었습니다.<br/><br/>
+    새 탭 페이지가 필요 없는 새로운 주소 표시줄이 활성화 되었습니다.<br/><br/>
     새 탭을 열어서 새로운 URL 바를 만나보세요!
 zen-disable = 비활성화
 pictureinpicture-minimize-btn = 
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = 확인
 zen-pinned-tab-replaced = 탭의 고정된 URL이 현재 URL로 변경되었습니다.
 zen-tabs-renamed = 탭의 이름이 성공적으로 변경되었습니다!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = 새 백그라운드 탭이 열렸습니다!
+zen-workspace-renamed-toast = 워크스페이스 이름이 변경되었습니다!
+zen-library-sidebar-workspaces = 
+    .label = 스페이스
+zen-library-sidebar-mods = 
+    .label = 모드
 
 # note: Do not translate the "<br/>" tags in the following string
 

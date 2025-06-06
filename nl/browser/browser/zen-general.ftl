@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Vastgezette URL vervangen met huidige
     .accesskey = C
-tab-zen-unload = 
-    .label = Tabblad ontladen
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Tabblad ontlader acties
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Tabblad ontladen voorkomen
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Tabblad ontladen toestaan
-    .accesskey = I
 zen-themes-corrupted = Je { -brand-short-name } mods bestand is beschadigd. Ze zijn gereset naar het standaard thema.
 zen-shortcuts-corrupted = Je { -brand-short-name } snelkoppelingsbestand is beschadigd. Ze zijn gereset naar de standaard snelkoppelingen.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = URL van vastgemaakte tabbladen is vervangen door de huidige URL.
 zen-tabs-renamed = Tabblad is succesvol hernoemd!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

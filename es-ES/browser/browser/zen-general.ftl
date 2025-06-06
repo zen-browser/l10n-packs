@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Reemplazar la URL fijada con la actual
     .accesskey = C
-tab-zen-unload = 
-    .label = Suspender pestaña
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Acciones de la suspensión de pestañas
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Prevenir que la pestaña se suspenda
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Permitir que la pestaña se suspenda
-    .accesskey = I
 zen-themes-corrupted = Su archivo de mods de { -brand-short-name } está dañado. Se ha restablecido el tema por defecto.
 zen-shortcuts-corrupted = Su archivo de atajos de { -brand-short-name } está dañado. Se han restablecido los atajos por defecto.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = Confirmar
 zen-pinned-tab-replaced = La URL de la pestaña fijada se ha reemplazado por la URL actual.
 zen-tabs-renamed = ¡La pestaña se ha renombrado con éxito!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = ¡Nueva pestaña abierta en segundo plano!
+zen-workspace-renamed-toast = ¡El espacio de trabajo ha sido renombrado con éxito!
+zen-library-sidebar-workspaces = 
+    .label = Espacios
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

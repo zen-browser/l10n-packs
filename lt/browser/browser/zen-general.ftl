@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Pakeisti prisegtą URL adresą dabartiniu
     .accesskey = C
-tab-zen-unload = 
-    .label = Iškelti kortelę
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Kortelių iškėlyklės veiksmai
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Neleisti kortelės iškėlimo
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Leisti kortelės iškėlimą
-    .accesskey = I
 zen-themes-corrupted = Jūsų „{ -brand-short-name }“ modifikacijos failas sugadintas. Jie buvo atkurti į numatytąją temą.
 zen-shortcuts-corrupted = Jūsų „{ -brand-short-name }“ sparčiųjų klavišų failas sugadintas. Jie buvo atkurti į numatytuosius sparčiuosius klavišus.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = Patvirtinti
 zen-pinned-tab-replaced = Prisegtos kortelės URL pakeistas dabartiniu URL.
 zen-tabs-renamed = Kortelė sėkmingai pervadinta.
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Nauja fonos kortelė atverta.
+zen-workspace-renamed-toast = Darbo sritis sėkmingai pervadintas.
+zen-library-sidebar-workspaces = 
+    .label = Erdvės
+zen-library-sidebar-mods = 
+    .label = Modifikacijos
 
 # note: Do not translate the "<br/>" tags in the following string
 

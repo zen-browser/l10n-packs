@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Sostituisci URL fissato con quello corrente
     .accesskey = C
-tab-zen-unload = 
-    .label = Scarica scheda
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Azioni Scaricatore Schede
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Permetti di scaricare le schede
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Consenti Scaricamento Scheda
-    .accesskey = I
 zen-themes-corrupted = Il tuo file { -brand-short-name } mods è danneggiato. Sono stati reimpostati al tema predefinito.
 zen-shortcuts-corrupted = Il file delle scorciatoie per { -brand-short-name } è corrotto. Le scorciatoie sono state riportate alle impostazioni predefinite.
 # note: Do not translate the "<br/>" tags in the following string
@@ -42,6 +30,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = L'URL della scheda bloccata è stato sostituito con l'URL attuale.
 zen-tabs-renamed = La scheda è stata rinominata con successo!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

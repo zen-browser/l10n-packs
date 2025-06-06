@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Substituir URL fixado com atual
     .accesskey = C
-tab-zen-unload = 
-    .label = Descarregar aba
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Ações de descarregador de abas
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Prevenir abas de descarregar
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Permitir suspensão de abas
-    .accesskey = I
 zen-themes-corrupted = Seu arquivo de modificações { -brand-short-name } está corrompido. Eles foram redefinidos para o tem padrão.
 zen-shortcuts-corrupted = Seu arquivo de atalhos { -brand-short-name } está corrompido. Eles foram redefinidos para os atalhos padrão.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = A URL da guia fixada foi substituída pela URL atual.
 zen-tabs-renamed = Guia renomeada com sucesso!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

@@ -1,51 +1,44 @@
 zen-panel-ui-current-profile-text = ppróifíl reatha
-unified-extensions-description = Extensions are used to bring more extra functionality into { -brand-short-name }.
+unified-extensions-description = Úsáidtear síntí chun níos mó feidhmiúlachta breise a thabhairt isteach i { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
-    .label = Reset Pinned Tab
+    .label = Athshocraigh an Cluaisín Prionáilte
     .accesskey = R
 tab-context-zen-add-essential = 
-    .label = Add to Essentials
+    .label = Cuir leis na Bunriachtanais
     .accesskey = E
 tab-context-zen-remove-essential = 
-    .label = Remove from Essentials
+    .label = Bain de na Bunriachtanais
     .accesskey = R
 tab-context-zen-replace-pinned-url-with-current = 
-    .label = Replace Pinned URL with Current
+    .label = Cuir URL Prionáilte in ionad an URL Reatha
     .accesskey = D’Athraigh Chluaisíní(s) go Spás Oibre
-tab-zen-unload = 
-    .label = Díluchtaigh Cluaisín
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Gníomhartha Díluchtaithe Cluaisíní
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Cosc a chur ar dhíluchtú cluaisíní
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Allow Tab Unload
-    .accesskey = I
-zen-themes-corrupted = Your { -brand-short-name } mods file is corrupted. They have been reset to the default theme.
-zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
+zen-themes-corrupted = Tá do chomhad mods { -brand-short-name } truaillithe. Tá siad athshocraithe chuig an téama réamhshocraithe.
+zen-shortcuts-corrupted = Tá do chomhad aicearraí { -brand-short-name } truaillithe. Tá siad athshocraithe chuig na haicearraí réamhshocraithe.
 # note: Do not translate the "<br/>" tags in the following string
 zen-new-urlbar-notification =
-    The new URL bar has been enabled, removing the need for new tab pages.<br/><br/>
-    Try opening a new tab to see the new URL bar in action!
-zen-disable = Disable
+    Tá an barra URL nua cumasaithe, rud a fhágann nach bhfuil gá le leathanaigh cluaisín nua.<br/><br/>
+    Bain triail as cluaisín nua a oscailt chun an barra URL nua i mbun oibre a fheiceáil!
+zen-disable = Díchumasaigh
 pictureinpicture-minimize-btn = 
-    .aria-label = Minimize
-    .tooltip = Minimize
-zen-panel-ui-gradient-generator-opacity-text = Contrast
-zen-panel-ui-gradient-generator-custom-color = Custom Color
-zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
-zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
-zen-general-cancel = Cancel
+    .aria-label = Íoslaghdaigh
+    .tooltip = Íoslaghdaigh
+zen-panel-ui-gradient-generator-opacity-text = Codarsnacht
+zen-panel-ui-gradient-generator-custom-color = Dath Saincheaptha
+zen-panel-ui-gradient-generator-saved-message = Sábháladh an grádán go rathúil!
+zen-copy-current-url-confirmation = Tá an URL cóipeáilte chuig an ghearrthaisce.
+zen-general-cancel = Cealaigh
 zen-general-confirm = 
-    .label = Confirm
+    .label = Deimhnigh
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
-zen-tabs-renamed = Tab has been successfully renamed!
-zen-background-tab-opened-toast = New background tab opened!
+zen-tabs-renamed = Athainmníodh an cluaisín go rathúil!
+zen-background-tab-opened-toast = Tá cluaisín cúlra nua oscailte!
+zen-workspace-renamed-toast = Athainmníodh an spás oibre go rathúil!
+zen-library-sidebar-workspaces = 
+    .label = Spásanna
+zen-library-sidebar-mods = 
+    .label = Modanna
 
 # note: Do not translate the "<br/>" tags in the following string
 
-zen-learn-more-text = Learn More
-zen-close-label = Close
+zen-learn-more-text = Foghlaim Tuilleadh
+zen-close-label = Dún

@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Korvaa kiinnitetty URL-osoite nykyisellä
     .accesskey = C
-tab-zen-unload = 
-    .label = Unload Tab
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Välilehtien Kuormanpoistotoiminnot
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Estä Välilehtien Purku
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Salli Välilehtien Purku
-    .accesskey = I
 zen-themes-corrupted = { -brand-short-name } modejasi tiedosto on vioittunut. Ne on palautettu oletusteemaan.
 zen-shortcuts-corrupted = Your { -brand-short-name } shortcuts file is corrupted. They have been reset to the default shortcuts.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL.
 zen-tabs-renamed = Tab has been successfully renamed!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

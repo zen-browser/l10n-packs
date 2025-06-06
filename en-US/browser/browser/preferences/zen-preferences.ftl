@@ -57,10 +57,6 @@ category-zen-workspaces =
     .tooltiptext = { pane-zen-tabs-title }
 pane-settings-workspaces-title = Workspaces
 
-pane-zen-tabs-unloader-title = Tab Unloader
-zen-tabs-unloader-header = General settings for tab unloader
-zen-tabs-unloader-description = Automatically unload unused tabs to save memory
-
 zen-tabs-unloader-enabled =
     .label = Enable Tab Unloader
 
@@ -158,6 +154,8 @@ zen-theme-marketplace-dropdown-default-label =
 zen-theme-marketplace-input-default-placeholder =
     .placeholder = Type something...
 pane-zen-marketplace-title = Zen Mods
+zen-themes-auto-update =
+   .label = Automatically update installed mods on startup 
 
 zen-settings-workspaces-force-container-tabs-to-workspace =
     .label = Switch to workspace where container is set as default when opening container tabs

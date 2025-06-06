@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Sabitlenen URL'yi Mevcut ile Değiştir
     .accesskey = C
-tab-zen-unload = 
-    .label = Sekmeyi Uyku Moduna Al
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Uyku Modu Eylemleri
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Sekmenin Uyku Moduna Alınmasını Engelle
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Sekmenin Uyku Moduna Geçmesine İzin Ver
-    .accesskey = I
 zen-themes-corrupted = { -brand-short-name } adlı modun dosyaları hatalı. Varsayılan temaya sıfırlandılar.
 zen-shortcuts-corrupted = { -brand-short-name } kısayol dosyası bozuldu. Orijinal kısayollara sıfırlandı.
 # note: Do not translate the "<br/>" tags in the following string
@@ -44,6 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = Başa tutturulmuş sekme URL'si, şimdiki URL ile değiştirildi.
 zen-tabs-renamed = Sekme başarıyla yeniden adlandırıldı!
 zen-background-tab-opened-toast = New background tab opened!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 

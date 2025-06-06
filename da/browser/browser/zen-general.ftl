@@ -12,18 +12,6 @@ tab-context-zen-remove-essential =
 tab-context-zen-replace-pinned-url-with-current = 
     .label = Erstat fastgjort URL med nuværende
     .accesskey = C
-tab-zen-unload = 
-    .label = Fjern fane
-    .accesskey = U
-zen-tabs-unloader-tab-actions = 
-    .label = Handlinger for fjernelse af faner
-    .accesskey = T
-tab-zen-prevent-unload = 
-    .label = Forhindr fjernelse af fane
-    .accesskey = P
-tab-zen-ignore-unload = 
-    .label = Tillad fjernelse af fane
-    .accesskey = I
 zen-themes-corrupted = Din { -brand-short-name } mods-fil er beskadiget. De er blevet nulstillet til standardtemaet.
 zen-shortcuts-corrupted = Din { -brand-short-name }-genvejsfil er beskadiget. De er blevet nulstillet til standardgenvejene.
 # note: Do not translate the "<br/>" tags in the following string
@@ -43,7 +31,12 @@ zen-general-confirm =
     .label = Bekræft
 zen-pinned-tab-replaced = Den fastgjorte fane-URL blev erstattet med den aktuelle.
 zen-tabs-renamed = Fanen blev omdøbt!
-zen-background-tab-opened-toast = New background tab opened!
+zen-background-tab-opened-toast = Ny baggrundsfane åbnet!
+zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-library-sidebar-workspaces = 
+    .label = Spaces
+zen-library-sidebar-mods = 
+    .label = Mods
 
 # note: Do not translate the "<br/>" tags in the following string
 
