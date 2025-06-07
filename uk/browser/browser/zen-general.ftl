@@ -4,7 +4,7 @@ tab-context-zen-reset-pinned-tab =
     .label = Скинути прикріплену вкладку
     .accesskey = Р
 tab-context-zen-add-essential = 
-    .label = Додати до основних елементів
+    .label = Додати до Основного ({ $num } / 12 комірок заповнено)
     .accesskey = E
 tab-context-zen-remove-essential = 
     .label = Вилучити з основних елементів
@@ -32,11 +32,11 @@ zen-general-confirm =
 zen-pinned-tab-replaced = URL-адресу закріпленої вкладки замінено на поточну URL-адресу.
 zen-tabs-renamed = Вкладку успішно перейменовано!
 zen-background-tab-opened-toast = Відкрито нову фонову вкладку!
-zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-workspace-renamed-toast = Робочий простір успішно перейменовано!
 zen-library-sidebar-workspaces = 
-    .label = Spaces
+    .label = Простори
 zen-library-sidebar-mods = 
-    .label = Mods
+    .label = Модифікації
 
 # note: Do not translate the "<br/>" tags in the following string
 
