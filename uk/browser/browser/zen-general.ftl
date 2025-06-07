@@ -4,7 +4,7 @@ tab-context-zen-reset-pinned-tab =
     .label = Скинути прикріплену вкладку
     .accesskey = Р
 tab-context-zen-add-essential = 
-    .label = Add to Essentials ({ $num } / 12 slots filled)
+    .label = Додати до Основного ({ $num } / 12 комірок заповнено)
     .accesskey = E
 tab-context-zen-remove-essential = 
     .label = Вилучити з основних елементів
@@ -36,7 +36,7 @@ zen-workspace-renamed-toast = Робочий простір успішно пе�
 zen-library-sidebar-workspaces = 
     .label = Простори
 zen-library-sidebar-mods = 
-    .label = Mods
+    .label = Модифікації
 
 # note: Do not translate the "<br/>" tags in the following string
 
