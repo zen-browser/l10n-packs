@@ -4,7 +4,7 @@ tab-context-zen-reset-pinned-tab =
     .label = Сбросить закреплённую вкладку
     .accesskey = R
 tab-context-zen-add-essential = 
-    .label = Add to Essentials ({ $num } / 12 slots filled)
+    .label = Добавить в важное ({$num} / 12 слотов заполнено)
     .accesskey = E
 tab-context-zen-remove-essential = 
     .label = Удалить из важного
@@ -31,12 +31,12 @@ zen-general-confirm =
     .label = Подтвердить
 zen-pinned-tab-replaced = Адрес закреплённой вкладки заменён на текущий адрес.
 zen-tabs-renamed = Вкладка успешно переименована!
-zen-background-tab-opened-toast = New background tab opened!
-zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-background-tab-opened-toast = Открыта новая фоновая вкладка!
+zen-workspace-renamed-toast = Пространство успешно переименовано!
 zen-library-sidebar-workspaces = 
-    .label = Spaces
+    .label = Пространства
 zen-library-sidebar-mods = 
-    .label = Mods
+    .label = Дополнения
 
 # note: Do not translate the "<br/>" tags in the following string
 
