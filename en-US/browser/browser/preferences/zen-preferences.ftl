@@ -5,11 +5,6 @@ category-zen-looks =
 
 zen-warning-language = Changing the default language could make it easier for Websites to track you.
 
-zen-look-and-feel-colors-header = Pick a theme colour
-zen-look-and-feel-colors-description = Make { -brand-short-name } look and feel the way you like
-zen-look-and-feel-use-workspace-colors =
-    .label = Use workspace colors as primary color
-
 zen-vertical-tabs-layout-header = Browser Layout
 zen-vertical-tabs-layout-description = Choose the layout that suits you best
 
