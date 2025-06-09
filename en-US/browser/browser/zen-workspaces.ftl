@@ -25,6 +25,13 @@ zen-workspaces-panel-context-delete =
 zen-workspaces-panel-change-name =
     .label = Change Name
 
+zen-workspaces-panel-change-icon =
+    .label = Change Icon
+
+zen-workspaces-panel-context-manage =
+    .label = Manage Workspaces
+    .accesskey = M
+
 zen-workspaces-panel-context-open-in-container-tab =
     .label = Set Default Container
     .accesskey = O
