@@ -300,6 +300,6 @@ zen-devtools-toggle-js-debugger-shortcut = Bật Debugger JavaScript
 zen-devtools-toggle-net-monitor-shortcut = Bật theo dõi mạng
 zen-devtools-toggle-style-editor-shortcut = Bật tùy chỉnh nâng cao
 zen-devtools-toggle-performance-shortcut = Bật tối ưu Hiệu năng
-zen-devtools-toggle-storage-shortcut = Bật lưu trữu
+zen-devtools-toggle-storage-shortcut = Bật lưu trữ
 zen-devtools-toggle-dom-shortcut = Bật DOM
 zen-devtools-toggle-accessibility-shortcut = Bật trợ năng
