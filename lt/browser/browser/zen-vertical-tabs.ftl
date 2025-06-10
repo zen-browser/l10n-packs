@@ -19,6 +19,8 @@ zen-toolbar-context-new-folder =
     .accesskey = N
 sidebar-zen-expand = 
     .label = Išskleisti šoninę juostą
+sidebar-zen-create-new = 
+    .label = Kurti naują...
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->

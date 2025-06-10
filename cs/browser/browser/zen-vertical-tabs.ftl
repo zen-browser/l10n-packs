@@ -19,6 +19,8 @@ zen-toolbar-context-new-folder =
     .accesskey = N
 sidebar-zen-expand = 
     .label = Zvětšit boční panel
+sidebar-zen-create-new = 
+    .label = Create New...
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
@@ -31,4 +33,4 @@ tabbrowser-reset-pin-button =
             [one] Reset and pin tab
            *[other] Reset and pin { $tabCount } tabs
         }
-tab-reset-pin-label = Zpět na připnutou Url adresu
+tab-reset-pin-label = Zpět na původní adresu

@@ -4,7 +4,7 @@ tab-context-zen-reset-pinned-tab =
     .label = Resetuj przypiętą kartę
     .accesskey = R
 tab-context-zen-add-essential = 
-    .label = Dodaj do Niezbędnych
+    .label = Add to Essentials ({ $num } / 12 slots filled)
     .accesskey = E
 tab-context-zen-remove-essential = 
     .label = Usuń z Niezbędnych
@@ -20,23 +20,24 @@ zen-new-urlbar-notification =
     Spróbuj otworzyć nową kartę i wypróbuj nowy pasek adresu w akcji!
 zen-disable = Deaktywuj
 pictureinpicture-minimize-btn = 
-    .aria-label = Minimize
-    .tooltip = Minimize
+    .aria-label = Zminimalizuj
+    .tooltip = Zminimalizuj
 zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Niestandardowy kolor
 zen-panel-ui-gradient-generator-saved-message = Pomyślnie zapisano gradient!
 zen-copy-current-url-confirmation = Adres URL został skopiowany do schowka.
-zen-general-cancel = Anuluj
+zen-general-cancel-label = 
+    .label = Cancel
 zen-general-confirm = 
-    .label = Confirm
+    .label = Potwierdź
 zen-pinned-tab-replaced = URL przypiętej karty został zastąpiony bieżącym adresem.
 zen-tabs-renamed = Nazwa karty została z powodzeniem zmieniona!
-zen-background-tab-opened-toast = New background tab opened!
-zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-background-tab-opened-toast = Nowa karta została otworzona w tle!
+zen-workspace-renamed-toast = Zmieniono nazwę Przestrzeni roboczej!
 zen-library-sidebar-workspaces = 
-    .label = Spaces
+    .label = Przestrzenie
 zen-library-sidebar-mods = 
-    .label = Mods
+    .label = Modyfikacje
 
 # note: Do not translate the "<br/>" tags in the following string
 

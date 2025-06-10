@@ -19,6 +19,8 @@ zen-toolbar-context-new-folder =
     .accesskey = N
 sidebar-zen-expand = 
     .label = Seitenleiste erweitern
+sidebar-zen-create-new = 
+    .label = Neu erstellen...
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
