@@ -20,7 +20,7 @@ zen-toolbar-context-new-folder =
 sidebar-zen-expand = 
     .label = Barra Taoibh a Leathnú
 sidebar-zen-create-new = 
-    .label = Create New...
+    .label = Cruthaigh Nua...
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
