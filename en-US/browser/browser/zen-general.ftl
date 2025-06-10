@@ -34,9 +34,10 @@ zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
 
 zen-copy-current-url-confirmation = The URL has been copied to the clipboard.
 
-zen-general-cancel = Cancel
+zen-general-cancel-label =
+    .label = Cancel
 zen-general-confirm =
-  .label = Confirm
+    .label = Confirm
 
 zen-pinned-tab-replaced = Pinned tab URL has been replaced with the current URL!
 zen-tabs-renamed = Tab has been successfully renamed!
