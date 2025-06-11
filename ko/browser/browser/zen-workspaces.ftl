@@ -56,5 +56,5 @@ zen-workspaces-panel-context-reorder =
     .label = Reorder Workspaces
 zen-workspace-creation-profile = 프로필
     .tooltiptext = 프로필은 스페이스 간의 쿠키와 사이트 데이터를 분리하기 위해 사용됩니다.
-zen-workspace-creation-title = 새 스페이스 만들기
+zen-workspace-creation-header = Create a Space
 zen-workspace-creation-label = 스페이스는 탭과 세션을 정리하기 위해 사용됩니다.
