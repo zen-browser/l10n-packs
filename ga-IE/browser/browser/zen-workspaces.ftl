@@ -56,5 +56,5 @@ zen-workspaces-panel-context-reorder =
     .label = Reorder Workspaces
 zen-workspace-creation-profile = Próifíl
     .tooltiptext = Úsáidtear próifílí chun fianáin agus sonraí suímh a dheighilt idir spásanna.
-zen-workspace-creation-title = Cruthaigh Spás nua
+zen-workspace-creation-header = Create a Space
 zen-workspace-creation-label = Úsáidtear spásanna chun do chluaisíní agus do sheisiúin a eagrú.
