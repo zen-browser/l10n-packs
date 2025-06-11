@@ -24,13 +24,13 @@ sidebar-zen-create-new =
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
-        [one] Díluchtaigh agus aistrigh go cluaisín
-        *[other] Díluchtaigh { $tabCount } cluaisín agus aistrigh go dtí an chéad cheann
+            [one] Díluchtaigh agus aistrigh go cluaisín
+           *[other] Díluchtaigh { $tabCount } cluaisín agus aistrigh go dtí an chéad cheann
         }
 tabbrowser-reset-pin-button = 
     .tooltiptext =
         { $tabCount ->
-        [one] Athshocraigh agus priontáil an cluaisín
-        *[other] Athshocraigh agus priontáil an cluaisín { $tabCount }
+            [one] Athshocraigh agus priontáil an cluaisín
+           *[other] Athshocraigh agus priontáil an cluaisín { $tabCount }
         }
 tab-reset-pin-label = Ar ais chuig an url bioráilte
