@@ -56,5 +56,5 @@ zen-workspaces-panel-context-reorder =
     .label = Reorder Workspaces
 zen-workspace-creation-profile = Profilis
     .tooltiptext = Profiliai naudojami atskirti slapukus ir svetainės duomenis tarp erdvių.
-zen-workspace-creation-title = Kurti naują erdvę
+zen-workspace-creation-header = Create a Space
 zen-workspace-creation-label = Erdvės naudojamos tvarkyti jūsų korteles ir seansus.
