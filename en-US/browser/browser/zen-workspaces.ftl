@@ -30,6 +30,8 @@ zen-workspaces-panel-context-open-in-container-tab =
     .label = Set Default Container
     .accesskey = O
 
+zen-workspaces-how-to-reorder = To reorder spaces, drag and drop them from the space icons at the bottom of the sidebar.
+
 zen-workspaces-change-theme =
     .label = Edit Theme
 
@@ -67,6 +69,9 @@ zen-panel-ui-gradient-click-to-add = Click to add a color
 
 zen-workspace-creation-name =
     .placeholder = Space Name
+
+zen-workspaces-panel-context-reorder =
+    .label = Reorder Workspaces
 
 zen-workspace-creation-profile = Profile
     .tooltiptext = Profiles are used to separate cookies and site data between spaces.
