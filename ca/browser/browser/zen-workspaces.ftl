@@ -56,5 +56,5 @@ zen-workspaces-panel-context-reorder =
     .label = Reordena els espais de treball
 zen-workspace-creation-profile = Perfil
     .tooltiptext = Els perfils s'utilitzen per separar les galetes i les dades del lloc entre espais.
-zen-workspace-creation-title = Crea un espai nou
+zen-workspace-creation-header = Create a Space
 zen-workspace-creation-label = Els espais s'utilitzen per organitzar les pestanyes i les sessions.
