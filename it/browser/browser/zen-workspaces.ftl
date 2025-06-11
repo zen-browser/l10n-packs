@@ -56,5 +56,5 @@ zen-workspaces-panel-context-reorder =
     .label = Riordina i Workspace
 zen-workspace-creation-profile = Profilo
     .tooltiptext = I profili vengono usati per separare i cookie e i dati dei siti tra gli spazi.
-zen-workspace-creation-title = Crea un nuovo Spazio
+zen-workspace-creation-header = Create a Space
 zen-workspace-creation-label = Gli Spazi sono usati per organizzare le tue schede e sessioni.
