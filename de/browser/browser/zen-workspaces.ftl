@@ -56,5 +56,5 @@ zen-workspaces-panel-context-reorder =
     .label = Arbeitsbereiche neu ordnen
 zen-workspace-creation-profile = Profil
     .tooltiptext = Profil werden genutzt um Cookies und Seitendaten zwischen Bereichen zu trennen.
-zen-workspace-creation-title = Neuen Bereich erstellen
+zen-workspace-creation-header = Create a Space
 zen-workspace-creation-label = Bereiche werden genutzt, um deine Tabs uns Sitzungen zu organisieren.
