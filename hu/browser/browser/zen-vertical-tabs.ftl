@@ -20,7 +20,7 @@ zen-toolbar-context-new-folder =
 sidebar-zen-expand = 
     .label = Oldalsáv kibontása
 sidebar-zen-create-new = 
-    .label = Create New...
+    .label = Új létrehozása...
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
