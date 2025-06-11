@@ -56,5 +56,5 @@ zen-workspaces-panel-context-reorder =
     .label = Omarranger arbejdsområder
 zen-workspace-creation-profile = Profil
     .tooltiptext = Profiler bruges til at adskille cookies og webstedsdata mellem forskellige rum.
-zen-workspace-creation-title = Opret et nyt rum
+zen-workspace-creation-header = Create a Space
 zen-workspace-creation-label = Rum bruges til at organisere dine faner og sessioner.
