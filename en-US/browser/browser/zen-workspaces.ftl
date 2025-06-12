@@ -59,7 +59,7 @@ zen-workspace-creation-name =
     .placeholder = Space Name
 
 zen-workspaces-panel-context-reorder =
-    .label = Reorder Workspaces
+    .label = Reorder Spaces
 
 zen-workspace-creation-profile = Profile
     .tooltiptext = Profiles are used to separate cookies and site data between spaces.
