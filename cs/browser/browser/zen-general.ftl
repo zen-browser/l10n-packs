@@ -27,7 +27,7 @@ zen-panel-ui-gradient-generator-custom-color = Vlastní barva
 zen-panel-ui-gradient-generator-saved-message = Gradient byl úspěšně uložen!
 zen-copy-current-url-confirmation = URL adresa byla zkopírována do schránky.
 zen-general-cancel-label = 
-    .label = Cancel
+    .label = Zrušit
 zen-general-confirm = 
     .label = Potvrdit
 zen-pinned-tab-replaced = Připnutá URL adresa panelu byla nahrazena aktuální URL adresou.
@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = Zjistit více
 zen-close-label = Zavřít
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...
