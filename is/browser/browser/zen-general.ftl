@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = Læra Meira
 zen-close-label = Loka
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...
