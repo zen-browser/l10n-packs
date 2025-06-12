@@ -4,6 +4,14 @@ zen-panel-ui-workspaces-text = Workspaces
 zen-panel-ui-workspaces-create =
     .label = Create Space
 
+zen-panel-ui-workspaces-edit-text = Edit Workspace
+zen-panel-ui-workspaces-edit-save =
+  .label = Save Changes
+  .accesskey = S
+zen-panel-ui-workspaces-edit-cancel =
+  .label = Cancel
+  .accesskey = C
+
 zen-workspaces-panel-context-delete =
     .label = Delete Workspace
     .accesskey = D
@@ -14,11 +22,15 @@ zen-workspaces-panel-change-name =
 zen-workspaces-panel-change-icon =
     .label = Change Icon
 
-zen-workspaces-panel-context-default-profile =
-    .label = Set Profile
+zen-workspaces-panel-context-manage =
+    .label = Manage Workspaces
+    .accesskey = M
 
-zen-workspaces-how-to-reorder-title = How to reorder spaces
-zen-workspaces-how-to-reorder-desc = Drag the space icons at the bottom of the sidebar to reorder them
+zen-workspaces-panel-context-open-in-container-tab =
+    .label = Set Default Container
+    .accesskey = O
+
+zen-workspaces-how-to-reorder = To reorder spaces, drag and drop them from the space icons at the bottom of the sidebar.
 
 zen-workspaces-change-theme =
     .label = Edit Theme
