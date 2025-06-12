@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = מידע נוסף
 zen-close-label = סגור
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...

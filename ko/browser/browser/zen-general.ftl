@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = 더 알아보기
 zen-close-label = 닫기
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...

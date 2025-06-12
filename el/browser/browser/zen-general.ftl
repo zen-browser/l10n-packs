@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = Μάθετε Περισσότερα
 zen-close-label = Κλείσιμο
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...

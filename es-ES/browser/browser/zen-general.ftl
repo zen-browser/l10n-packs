@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = Más información
 zen-close-label = Cerrar
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...

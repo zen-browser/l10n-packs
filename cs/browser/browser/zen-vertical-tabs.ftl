@@ -20,7 +20,7 @@ zen-toolbar-context-new-folder =
 sidebar-zen-expand = 
     .label = Zvětšit boční panel
 sidebar-zen-create-new = 
-    .label = Create New...
+    .label = Vytvořit nový...
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->

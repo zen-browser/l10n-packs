@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = Tìm hiểu thêm
 zen-close-label = Đóng
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...

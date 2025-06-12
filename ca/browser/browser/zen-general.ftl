@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = Més informació
 zen-close-label = Tanca
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...

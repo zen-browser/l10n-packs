@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = Tudjon meg többet
 zen-close-label = Bezárás
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...

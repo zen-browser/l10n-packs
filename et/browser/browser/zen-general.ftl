@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = Rohkem teavet
 zen-close-label = Sulge
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...

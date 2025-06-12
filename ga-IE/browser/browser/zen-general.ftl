@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = Foghlaim Tuilleadh
 zen-close-label = Dún
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...

@@ -43,3 +43,5 @@ zen-library-sidebar-mods =
 
 zen-learn-more-text = Lær mere
 zen-close-label = Luk
+zen-singletoolbar-urlbar-placeholder-with-name = 
+    .placeholder = Search...
