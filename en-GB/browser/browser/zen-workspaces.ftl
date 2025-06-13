@@ -28,7 +28,6 @@ context-zen-change-workspace-tab =
     .accesskey = C
 zen-bookmark-edit-panel-workspace-selector = 
     .value = Other Workspace
-    .accesskey = WWWWWorkspace
 zen-panel-ui-gradient-generator-algo-complementary = 
     .label = Complementary
 zen-panel-ui-gradient-generator-algo-splitComplementary = 
