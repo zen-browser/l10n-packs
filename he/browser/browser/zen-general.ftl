@@ -4,7 +4,7 @@ tab-context-zen-reset-pinned-tab =
     .label = אפס כרטיסייה מוצמדת
     .accesskey = ר
 tab-context-zen-add-essential = 
-    .label = Add to Essentials ({ $num } / 12 slots filled)
+    .label = הוסף לנחוצים ({ $num } / 12 מקומות מלאים)
     .accesskey = ק
 tab-context-zen-remove-essential = 
     .label = הסר מנחוצים
@@ -27,21 +27,21 @@ zen-panel-ui-gradient-generator-custom-color = צבע מותאם אישית
 zen-panel-ui-gradient-generator-saved-message = מיזוג הצבעים נשמר בהצלחה!
 zen-copy-current-url-confirmation = הקישור הועתק ללוח.
 zen-general-cancel-label = 
-    .label = Cancel
+    .label = ביטול
 zen-general-confirm = 
     .label = אישור
 zen-pinned-tab-replaced = קישור כרטיסייה מוצמדת הוחלפה עם הקישור הנוכחי.
 zen-tabs-renamed = שם הכרטיסייה שונתה בהצלחה!
 zen-background-tab-opened-toast = לשונית נפתחה ברקע!
-zen-workspace-renamed-toast = Workspace has been successfully renamed!
+zen-workspace-renamed-toast = שם הסביבת עבודה שונתה בהצלחה!
 zen-library-sidebar-workspaces = 
-    .label = Spaces
+    .label = סביבות
 zen-library-sidebar-mods = 
-    .label = Mods
+    .label = מודים
 
 # note: Do not translate the "<br/>" tags in the following string
 
 zen-learn-more-text = מידע נוסף
 zen-close-label = סגור
 zen-singletoolbar-urlbar-placeholder-with-name = 
-    .placeholder = Search...
+    .placeholder = חיפוש...
