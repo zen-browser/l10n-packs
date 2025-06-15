@@ -1,11 +1,11 @@
 
-zen-panel-ui-workspaces-text = Workspaces
+zen-panel-ui-workspaces-text = Spaces
 
 zen-panel-ui-workspaces-create =
     .label = Create Space
 
 zen-workspaces-panel-context-delete =
-    .label = Delete Workspace
+    .label = Delete Space
     .accesskey = D
 
 zen-workspaces-panel-change-name =
@@ -27,12 +27,8 @@ zen-workspaces-panel-context-open =
     .label = Open Workspace
     .accesskey = O
 
-zen-workspaces-panel-context-set-default =
-    .label = Set As Default Workspace
-    .accesskey = S
-
 zen-workspaces-panel-context-edit =
-    .label = Edit Workspace
+    .label = Edit Space
     .accesskey = E
 
 context-zen-change-workspace-tab =
