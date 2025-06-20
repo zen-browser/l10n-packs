@@ -1,16 +1,23 @@
-tab-zen-split-tabs = 
+tab-zen-split-tabs =
     .label =
         { $tabCount ->
-            [1] تبويب تقسيم (عدة علامات تبويب محددة مطلوبة)
-           *[other] تقسيم { $tabCount } علامات التبويب
+            [1] لا يمكن التقسيم (يجب تحديد عدة تبويبات)
+           *[other] تقسيم { $tabCount } تبويبات
         }
     .accesskey = س
-zen-split-link = 
-    .label = تقسيم الرابط إلى علامة تبويب جديدة
+
+zen-split-link =
+    .label = فتح الرابط في تبويب مقسَّم
     .accesskey = س
-zen-split-view-modifier-header = تقسيم العرض
-zen-split-view-modifier-activate-reallocation = 
-    .label = تنشيط إعادة التخصيص
-zen-split-view-modifier-enabled-toast = إعادة ترتيب عرض التقسيم مشغل.
-zen-split-view-modifier-enabled-toast-description = قم بسحب وإسقاط العرض لإعادة الترتيب. اضغط Esc للخروج.
-zen-split-view-modifier-disabled-toast = إعادة ترتيب عرض التقسيم متوقف.
+
+zen-split-view-modifier-header = العرض المقسَّم
+
+zen-split-view-modifier-activate-reallocation =
+    .label = تفعيل إعادة التخصيص
+
+zen-split-view-modifier-enabled-toast = تم تفعيل إعادة ترتيب العرض المقسَّم.
+
+zen-split-view-modifier-enabled-toast-description = اسحب وأسقط لعرض الترتيب الجديد. اضغط على Esc للخروج.
+
+zen-split-view-modifier-disabled-toast = تم إيقاف إعادة ترتيب العرض المقسَّم.
+
