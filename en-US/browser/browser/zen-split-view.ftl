@@ -17,3 +17,5 @@ zen-split-view-modifier-activate-reallocation =
 zen-split-view-modifier-enabled-toast = Split view rearrange is ON.
 zen-split-view-modifier-enabled-toast-description = Drag and drop the view to rearrange. Press Esc to exit.
 zen-split-view-modifier-disabled-toast = Split view rearrange is OFF.
+
+zen-drop-link-zone-label = Drop link to split
