@@ -22,7 +22,6 @@ zen-disable = Óvirkja
 pictureinpicture-minimize-btn = 
     .aria-label = Minimize
     .tooltip = Minimize
-zen-panel-ui-gradient-generator-opacity-text = Mótsetning
 zen-panel-ui-gradient-generator-custom-color = Sérsniðinn litur
 zen-panel-ui-gradient-generator-saved-message = Vistað hallann!
 zen-copy-current-url-confirmation = Slóðin hefur verið afrituð á klippiborðið.
