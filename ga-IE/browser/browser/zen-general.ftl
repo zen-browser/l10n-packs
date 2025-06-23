@@ -22,7 +22,6 @@ zen-disable = Díchumasaigh
 pictureinpicture-minimize-btn = 
     .aria-label = Íoslaghdaigh
     .tooltip = Íoslaghdaigh
-zen-panel-ui-gradient-generator-opacity-text = Codarsnacht
 zen-panel-ui-gradient-generator-custom-color = Dath Saincheaptha
 zen-panel-ui-gradient-generator-saved-message = Sábháladh an grádán go rathúil!
 zen-copy-current-url-confirmation = Tá an URL cóipeáilte chuig an ghearrthaisce.
