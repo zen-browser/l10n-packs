@@ -22,7 +22,6 @@ zen-disable = Vô hiệu hóa
 pictureinpicture-minimize-btn = 
     .aria-label = Thu nhỏ
     .tooltip = Thu nhỏ
-zen-panel-ui-gradient-generator-opacity-text = Tương phản
 zen-panel-ui-gradient-generator-custom-color = Tùy chỉnh màu sắc
 zen-panel-ui-gradient-generator-saved-message = Lưu tùy chỉnh đổ màu thành công!
 zen-copy-current-url-confirmation = Đường dẫn đã được chép vào bộ nhớ.
