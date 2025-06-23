@@ -22,7 +22,6 @@ zen-disable = Disable
 pictureinpicture-minimize-btn = 
     .aria-label = Minimize
     .tooltip = Minimize
-zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Kohandatud värv
 zen-panel-ui-gradient-generator-saved-message = Värviüleminek on edukalt salvestatud!
 zen-copy-current-url-confirmation = URL kopeeriti lõikelauale.
