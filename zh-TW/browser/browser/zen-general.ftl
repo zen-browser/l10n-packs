@@ -20,7 +20,6 @@ zen-disable = 禁用
 pictureinpicture-minimize-btn = 
     .aria-label = Minimize
     .tooltip = Minimize
-zen-panel-ui-gradient-generator-opacity-text = 對比度
 zen-panel-ui-gradient-generator-custom-color = 自訂顏色
 zen-panel-ui-gradient-generator-saved-message = 漸層儲存成功！
 zen-copy-current-url-confirmation = 網址已複製到剪貼簿。
