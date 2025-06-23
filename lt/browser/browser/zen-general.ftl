@@ -22,7 +22,6 @@ zen-disable = Išjungti
 pictureinpicture-minimize-btn = 
     .aria-label = Sumažinti
     .tooltip = Sumažinti
-zen-panel-ui-gradient-generator-opacity-text = Kontrastas
 zen-panel-ui-gradient-generator-custom-color = Pasirinktinė spalva
 zen-panel-ui-gradient-generator-saved-message = Gradientas sėkmingai įrašytas.
 zen-copy-current-url-confirmation = URL buvo nukopijuotas į iškarpinę.
