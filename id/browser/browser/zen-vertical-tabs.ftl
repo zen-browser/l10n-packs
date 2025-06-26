@@ -33,4 +33,4 @@ tabbrowser-reset-pin-button =
             [one] Reset dan sematkan tab
            *[other] Reset dan sematkan { $tabCount } tab
         }
-tab-reset-pin-label = Kembali ke URL awal
+tab-reset-pin-label = Kembali ke url awal
