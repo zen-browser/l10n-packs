@@ -28,7 +28,6 @@ pictureinpicture-minimize-btn =
   .aria-label = Minimize
   .tooltip = Minimize
 
-zen-panel-ui-gradient-generator-opacity-text = Contrast
 zen-panel-ui-gradient-generator-custom-color = Custom Color
 zen-panel-ui-gradient-generator-saved-message = Successfully saved the gradient!
 
