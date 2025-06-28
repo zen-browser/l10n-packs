@@ -15,9 +15,7 @@ tab-context-zen-replace-pinned-url-with-current =
 zen-themes-corrupted = Seu arquivo de modificações { -brand-short-name } está corrompido. Eles foram redefinidos para o tem padrão.
 zen-shortcuts-corrupted = Seu arquivo de atalhos { -brand-short-name } está corrompido. Eles foram redefinidos para os atalhos padrão.
 # note: Do not translate the "<br/>" tags in the following string
-zen-new-urlbar-notification =
-    A nova barra de URL foi ativada, removendo a necessidade de novas páginas de abas.<br/><br/>
-    Abra uma nova aba para ver a nova barra de URL em ação!
+zen-new-urlbar-notification = A nova barra de URL foi ativada, removendo a necessidade de novas páginas de guia.<br/><br/>Tente abrir uma nova guia para ver a nova barra de URL em ação!
 zen-disable = Desativar
 pictureinpicture-minimize-btn = 
     .aria-label = Minimizar
