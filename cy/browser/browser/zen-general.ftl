@@ -22,7 +22,6 @@ zen-disable = Analluogi
 pictureinpicture-minimize-btn = 
     .aria-label = Minimize
     .tooltip = Minimize
-zen-panel-ui-gradient-generator-opacity-text = Cyferbyniad
 zen-panel-ui-gradient-generator-custom-color = Addasu Lliw
 zen-panel-ui-gradient-generator-saved-message = Llwyddiant arbedi'r graddiant!
 zen-copy-current-url-confirmation = Mae'r URL wedi'i gopïo i'r clipfwrdd.
