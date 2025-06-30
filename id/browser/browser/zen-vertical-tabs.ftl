@@ -1,5 +1,5 @@
 zen-toolbar-context-tabs-right = 
-    .label = Tab di sebelah kanan
+    .label = Tab Di Sisi Kanan
     .accesskey = R
 zen-toolbar-context-compact-mode = 
     .label = Mode Ringkas
