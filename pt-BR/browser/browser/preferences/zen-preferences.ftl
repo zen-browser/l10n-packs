@@ -1,4 +1,4 @@
-pane-zen-looks-title = Aparência
+pane-zen-looks-title = Aparência e Comportamento
 category-zen-looks = 
     .tooltiptext = { pane-zen-looks-title }
 zen-warning-language = Alterar o idioma padrão pode facilitar o rastreamento por sites.
