@@ -1,4 +1,4 @@
-zen-panel-ui-current-profile-text = ppróifíl reatha
+zen-panel-ui-current-profile-text = próifíl reatha
 unified-extensions-description = Úsáidtear síntí chun níos mó feidhmiúlachta breise a thabhairt isteach i { -brand-short-name }.
 tab-context-zen-reset-pinned-tab = 
     .label = Athshocraigh an Cluaisín Prionáilte
