@@ -20,8 +20,8 @@ zen-welcome-start-browsing-title =
     Laten we beginnen!
 zen-welcome-start-browsing-description-1 = Je bent er helemaal klaar voor. Klik op de knop hieronder om te beginnen met browsen met { -brand-short-name }.
 zen-welcome-start-browsing = Duik erin!
-zen-welcome-default-search-title = Your Default Search Engine
-zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-default-search-title = Je standaard zoekmachine
+zen-welcome-default-search-description = Kies je standaard zoekmachine. Je kunt het altijd later wijzigen!
 zen-welcome-skip-button = Overslaan
 zen-welcome-next-action = Volgende
 zen-welcome-finished = Je Zen is correct ingesteld!
