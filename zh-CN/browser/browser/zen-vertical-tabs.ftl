@@ -20,7 +20,7 @@ zen-toolbar-context-new-folder =
 sidebar-zen-expand = 
     .label = 展开侧边栏
 sidebar-zen-create-new = 
-    .label = Create New...
+    .label = 新建……
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->

@@ -22,7 +22,6 @@ zen-disable = Kikapcsolás
 pictureinpicture-minimize-btn = 
     .aria-label = Minimalizálás
     .tooltip = Minimalizálás
-zen-panel-ui-gradient-generator-opacity-text = Kontraszt
 zen-panel-ui-gradient-generator-custom-color = Egyedi szín
 zen-panel-ui-gradient-generator-saved-message = Színátmenet sikeresen mentve!
 zen-copy-current-url-confirmation = Az URL-cím a vágólapra lett másolva.

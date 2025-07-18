@@ -22,7 +22,6 @@ zen-disable = Вимкнути
 pictureinpicture-minimize-btn = 
     .aria-label = Згорнути
     .tooltip = Згорнути
-zen-panel-ui-gradient-generator-opacity-text = Контрастність
 zen-panel-ui-gradient-generator-custom-color = Власний колір
 zen-panel-ui-gradient-generator-saved-message = Градієнт успішно збережено!
 zen-copy-current-url-confirmation = URL-адресу було скопійовано до буфера обміну.

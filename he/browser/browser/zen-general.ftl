@@ -22,7 +22,6 @@ zen-disable = כבה
 pictureinpicture-minimize-btn = 
     .aria-label = מזער
     .tooltip = מזער
-zen-panel-ui-gradient-generator-opacity-text = ניגודיות
 zen-panel-ui-gradient-generator-custom-color = צבע מותאם אישית
 zen-panel-ui-gradient-generator-saved-message = מיזוג הצבעים נשמר בהצלחה!
 zen-copy-current-url-confirmation = הקישור הועתק ללוח.
