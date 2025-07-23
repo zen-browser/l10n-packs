@@ -63,6 +63,12 @@ zen-look-and-feel-compact-sidebar-themed =
 zen-workspace-continue-where-left-off =
     .label = Continue where you left off
 
+pane-zen-tab-navigation-title = Tab Navigation
+zen-tabs-unloaded-navigation-mode-label = General settings for tab navigations
+zen-tabs-unloaded-navigation-mode-description = Choose how Zen should cycle through tabs (you can also bind a shortcut to swap between these)
+zen-tabs-unloaded-navigation-mode-always = Always cycle through unloaded tabs
+zen-tabs-unloaded-navigation-mode-never = Never cycle through unloaded tabs
+
 pane-zen-pinned-tab-manager-title = Pinned Tabs
 zen-pinned-tab-manager-header = General settings for pinned tabs
 zen-pinned-tab-manager-description = Manage additional behavior of pinned tabs
@@ -311,6 +317,9 @@ zen-split-view-shortcut-grid = Toggle Split View Grid
 zen-split-view-shortcut-vertical = Toggle Split View Vertical
 zen-split-view-shortcut-horizontal = Toggle Split View Horizontal
 zen-split-view-shortcut-unsplit = Close Split View
+zen-tab-next-shortcut = Go to next tab
+zen-tab-prev-shortcut = Go to tab behind
+zen-toggle-unloaded-cycling-shortcut = Toggle cycling through unloaded tabs
 zen-key-select-tab-1 = Select tab #1
 zen-key-select-tab-2 = Select tab #2
 zen-key-select-tab-3 = Select tab #3
