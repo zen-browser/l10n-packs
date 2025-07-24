@@ -20,8 +20,8 @@ zen-welcome-start-browsing-title =
     Mari mulai menjelajah!
 zen-welcome-start-browsing-description-1 = Anda selesai melakukan pengaturan dan siap untuk mulai. Klik tombol di bawah ini untuk mulai menjelajah dengan { -brand-short-name }.
 zen-welcome-start-browsing = Penyelaman dimulai!
-zen-welcome-default-search-title = Your Default Search Engine
-zen-welcome-default-search-description = Choose your default search engine. You can always change it later!
+zen-welcome-default-search-title = Mesin Pencari Default Anda
+zen-welcome-default-search-description = Pilih mesin pencari default Anda. Anda selalu dapat mengubahnya nanti!
 zen-welcome-skip-button = Lewati
 zen-welcome-next-action = Lanjut
 zen-welcome-finished = Anda berhasil mengatur Zen milik anda!

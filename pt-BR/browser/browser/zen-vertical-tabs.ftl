@@ -20,7 +20,7 @@ zen-toolbar-context-new-folder =
 sidebar-zen-expand = 
     .label = Expandir barra lateral
 sidebar-zen-create-new = 
-    .label = Create New...
+    .label = Criar Novo...
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
@@ -33,4 +33,4 @@ tabbrowser-reset-pin-button =
             [one] Redefinir e fixar aba
            *[other] Redefinir e fixar { $tabCount } abas
         }
-tab-reset-pin-label = Voltar à URL fixada
+tab-reset-pin-label = Voltar para a Url fixada
