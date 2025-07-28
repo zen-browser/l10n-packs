@@ -22,7 +22,6 @@ zen-disable = Απενεργοποίηση
 pictureinpicture-minimize-btn = 
     .aria-label = Ελαχιστοποίηση
     .tooltip = Ελαχιστοποίηση
-zen-panel-ui-gradient-generator-opacity-text = Αντίθεση
 zen-panel-ui-gradient-generator-custom-color = Προσαρμοσμένο Χρώμα
 zen-panel-ui-gradient-generator-saved-message = Επιτυχής αποθήκευση της διαβάθμισης!
 zen-copy-current-url-confirmation = Το URL έχει αντιγραφεί στο πρόχειρο.

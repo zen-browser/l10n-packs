@@ -22,7 +22,6 @@ zen-disable = Deaktywuj
 pictureinpicture-minimize-btn = 
     .aria-label = Zminimalizuj
     .tooltip = Zminimalizuj
-zen-panel-ui-gradient-generator-opacity-text = Kontrast
 zen-panel-ui-gradient-generator-custom-color = Niestandardowy kolor
 zen-panel-ui-gradient-generator-saved-message = Pomyślnie zapisano gradient!
 zen-copy-current-url-confirmation = Adres URL został skopiowany do schowka.

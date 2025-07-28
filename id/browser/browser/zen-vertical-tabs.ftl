@@ -1,11 +1,11 @@
 zen-toolbar-context-tabs-right = 
-    .label = Tab di sebelah kanan
+    .label = Tab Di Sisi Kanan
     .accesskey = R
 zen-toolbar-context-compact-mode = 
     .label = Mode Ringkas
     .accesskey = C
 zen-toolbar-context-compact-mode-enable = 
-    .label = Hidupkan mode ringkas
+    .label = Aktifkan Mode Ringkas
     .accesskey = D
 zen-toolbar-context-compact-mode-just-tabs = 
     .label = Sembunyikan bilah sisi
@@ -20,7 +20,7 @@ zen-toolbar-context-new-folder =
 sidebar-zen-expand = 
     .label = Perluas Bilah Sisi
 sidebar-zen-create-new = 
-    .label = Create New...
+    .label = Buat Baru...
 tabbrowser-unload-tab-button = 
     .tooltiptext =
         { $tabCount ->
